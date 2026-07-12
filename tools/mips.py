@@ -106,3 +106,14 @@ def MOVE(rd, rs):          return ADDU(rd, rs, "zero")
 
 def SLTU(rd, rs, rt):      return _r(0, rs, rt, rd, 0, 0x2B)
 def SLTIU(rt, rs, imm):    return _i(0x0B, rs, rt, imm)
+
+
+def hi16(addr):
+    """LUI 용 상위 16비트. 하위16비트가 음수로 해석되면 +1 보정.
+    ★ lw/lhu/lbu/sw/sh/sb 의 offset 은 부호있는 16비트이므로 필수."""
+    return ((addr >> 16) + (1 if (addr & 0x8000) else 0)) & 0xFFFF
+
+
+def lo16(addr):
+    """LW/LHU 등의 offset (부호있는 16비트로 해석됨)"""
+    return addr & 0xFFFF
