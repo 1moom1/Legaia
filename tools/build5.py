@@ -30,6 +30,7 @@ sys.path.insert(0, "/home/claude/legaia/tools")
 from mips import *
 from legaia import prot_files, pack_parse, script_parse, read_u24
 import hook5
+from protected import assert_protected
 
 PROT_US = "/home/claude/legaia/cn/PROT_US.DAT"
 EXE_US = "/home/claude/legaia/cn/SCUS_US.exe"
@@ -55,7 +56,8 @@ MAP_FILE, SCRIPT_ID, SCRIPT_IDX = 6, 3, 47
 #    V0~79 = 개발 메모, V80~143 = 빈 영역 (여기만 사용)
 PAGES = {
     1: ("ascii", 144, 9),    # ASCII 폰트 TIM (896,0)  tpage 0x000E
-    2: ("num",    80, 5),    # 숫자폰트 TIM (960,256)  tpage 0x001F, 빈 영역만
+    2: ("num",    80, 5),    # 숫자폰트 TIM (960,256)  tpage 0x001F, 빈 영역
+    3: ("num",     0, 6),    # 숫자폰트 TIM (960,256)  tpage 0x001F, 개발메모 영역
 }
 COLS = 16
 
@@ -127,12 +129,25 @@ def main():
     cap = {p: COLS * PAGES[p][2] for p in PAGES}
     print(f"    용량: {cap} = 총 {sum(cap.values())}")
     mapping = {}   # ch -> (page, idx)
-    half = len(syls) // 2
-    for i, ch in enumerate(syls):
-        if i < half:
-            mapping[ch] = (1, i)              # 페이지1 (tpage 0x000E)
-        else:
-            mapping[ch] = (2, i - half)       # 페이지2 (tpage 0x001F — 전환!)
+    # ★ 페이지 전환 코드(0xCF <p>, 2바이트)가 붙으므로 전환을 최소화해야 한다.
+    #   빈도 높은 음절부터 페이지1을 채우고, 넘치면 2 -> 3 순서로.
+    #   (실전에서는 음절 빈도순으로 정렬해 배치)
+    order = [1, 2, 3]
+    mapping = {}
+    pi = 0
+    used = {1: 0, 2: 0, 3: 0}
+    # ★ 검증 모드: 페이지1/2 를 일부러 작게 잡아 페이지3(개발메모 영역)까지 쓰게 한다
+    import os as _os
+    if _os.environ.get("KR_TEST_PAGES"):
+        cap = {1: 4, 2: 4, 3: 96}
+        print(f"    [검증모드] cap={cap} -> 페이지3 강제 사용")
+    for ch in syls:
+        while pi < len(order) and used[order[pi]] >= cap[order[pi]]:
+            pi += 1
+        assert pi < len(order), "음절 용량 초과!"
+        p = order[pi]
+        mapping[ch] = (p, used[p])
+        used[p] += 1
     for ch, (p, i) in mapping.items():
         n = HANGUL_MIN + i
         U = (i & 0x0F) * 16
@@ -143,11 +158,14 @@ def main():
     ascii_px = unpack_px(bytes(prot), ASCII_PIX)
     num_px = unpack_px(bytes(prot), DBG_PIX)     # ★ 기존 내용 보존 (숫자 폰트!)
     before = int((num_px[144:] != 0).sum())
+    # 페이지3 영역(V0~79, 개발 메모)을 먼저 클리어 — 안 지우면 한글과 겹친다
+    if any(p == 3 for p, _ in mapping.values()):
+        num_px[0:80] = 0
     for ch, (p, i) in mapping.items():
         buf, vbase, _ = PAGES[p]
         U = (i & 0x0F) * 16
         V = vbase + (i >> 4) * GH
-        assert V + GH <= (144 if buf == "num" else 256), f"영역 초과 {buf} V={V}"
+        assert V + GH <= (144 if buf == "num" else 256), f"영역 초과 {buf} V={V}"  # 숫자(V144+) 침범 금지
         g = glyph12(ch)
         tgt = ascii_px if buf == "ascii" else num_px
         tgt[V:V + GH, U:U + GW] = g
@@ -174,10 +192,10 @@ def main():
     #       한글이 영어 대사에 나타날 수 없다.
     def rgb15(r, g, b):
         return ((b // 8) << 10) | ((g // 8) << 5) | (r // 8)
-    for row in (7, 8):
+    for row in (7, 8, 9):
         base = CLUT_OFF + row * 32
         struct.pack_into("<H", prot, base + INK * 2, rgb15(248, 248, 248))
-    print(f"[4] 팔레트: row7,8 의 값{INK} = 흰색 (그 외 전부 원본 보존)")
+    print(f"[4] 팔레트: row7,8,9 의 값{INK} = 흰색 (그 외 전부 원본 보존)")
 
     # 6) 훅 심기 + 폭 테이블
     idx_bytes = sorted({HANGUL_MIN + i for _, i in mapping.values()})
@@ -239,6 +257,11 @@ def main():
     assert len(newpack) <= slot, f"PACK 초과 {len(newpack)}>{slot}"
     prot[ms:me] = newpack + b"\x00" * (slot - len(newpack))
     print(f"[7] PACK {slot} -> {len(newpack)}")
+
+    # 🔴 보호 구역 검증 (숫자 폰트 / TIM 좌표 / 팔레트)
+    orig_prot = open(PROT_US, "rb").read()
+    assert_protected(orig_prot, bytes(prot))
+    print("[8] 🔴 보호구역 검증 통과 (숫자폰트/TIM좌표/팔레트)")
 
     open(OUT_PROT, "wb").write(bytes(prot))
     open(OUT_EXE, "wb").write(exe2)

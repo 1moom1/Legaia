@@ -46,9 +46,10 @@ WIDTH_TBL = 0x6471C
 #  p2: TIM 0x11218  (960,256) tpage 0x001F, V80~143 (5행)
 #      ⚠️ 이 TIM 의 V144~255 는 '숫자 폰트' — 절대 건드리지 말 것!
 #         V0~79 은 개발 메모. 쓸 수 있는 건 V80~143 뿐.
-VBASE = {1: 144, 2: 80}
+#  p3: 숫자 TIM (960,256) tpage 0x001F, V0~79 (개발 메모 영역, 6행)
+VBASE = {1: 144, 2: 80, 3: 0}
 COLS = 16
-ROWS = {1: 9, 2: 5}
+ROWS = {1: 9, 2: 5, 3: 6}
 
 cs = Cs(CS_ARCH_MIPS, CS_MODE_MIPS32 | CS_MODE_LITTLE_ENDIAN)
 
@@ -58,7 +59,7 @@ def r2f(r):
 
 
 def capacity():
-    return {p: COLS * ROWS[p] for p in (1, 2)}
+    return {p: COLS * ROWS[p] for p in (1, 2, 3)}
 
 
 def slot_uv(page, idx):
@@ -107,7 +108,10 @@ def build():
     a.ins(ADDU("t4", "t4", "t6"))             # t4 = t3*12
     # 페이지별 V base
     a.ins(ADDIU("t0", "zero", 2))
-    a.beq("t5", "t0", "L_p1")                 # page==2 -> tpage 전환
+    a.beq("t5", "t0", "L_p2")                 # page==2 -> V80, tpage 전환
+    a.ins(NOP())
+    a.ins(ADDIU("t0", "zero", 3))
+    a.beq("t5", "t0", "L_p3")                 # page==3 -> V0,  tpage 전환
     a.ins(NOP())
     # page==1 (기본): V base 144, tpage 전환 없음
     a.ins(ADDIU("t4", "t4", 144))
@@ -117,10 +121,19 @@ def build():
     a.j(REG_PATH)                             # 원본 등록/전진 재활용
     a.ins(NOP())
 
+    # --- 페이지3: V base 0 (개발메모 영역), tpage 0x001F ---
+    a.label("L_p3")
+    a.ins(SB("t4", 0x0D, "s0"))               # V = t4 + 0
+    a.j("L_tpage")
+    a.ins(NOP())
+
     # --- 페이지2: V base 80, tpage 0x001F ---
-    a.label("L_p1")
+    a.label("L_p2")
     a.ins(ADDIU("t4", "t4", 80))
     a.ins(SB("t4", 0x0D, "s0"))
+
+    # --- tpage 전환 경로 (페이지2/3 공통) ---
+    a.label("L_tpage")
     # OT 엔트리
     a.ins(LUI("a0", 0x1F80))
     a.ins(LW("a0", 0x03F4, "a0"))
