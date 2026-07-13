@@ -44,7 +44,11 @@ FIXED_U16 = [
 
 # 팔레트: 잉크값만 수정 허용
 CLUT_OFF = 0x01122C
-CLUT_INK = 3                            # 이 칸만 바꿔도 됨
+# 한글 팔레트에서 수정을 허용하는 칸:
+#   3     = 한글 잉크
+#   14,15 = ASCII 글리프(기호 ?!., 등)의 잉크
+#           -> 흰색으로 바꿔야 기호가 한글과 같은 색으로 나온다
+CLUT_WRITABLE = {3, 14, 15}
 
 
 def v_to_offset(v):
@@ -80,12 +84,13 @@ def assert_protected(orig: bytes, new: bytes):
     for row in range(16):
         for i in range(16):
             o = CLUT_OFF + row * 32 + i * 2
-            if orig[o:o + 2] != new[o:o + 2] and i != CLUT_INK:
+            if orig[o:o + 2] != new[o:o + 2] and i not in CLUT_WRITABLE:
                 changed.append((row, i))
     if changed:
         raise AssertionError(
-            f"🔴 팔레트에서 잉크값({CLUT_INK}) 이외가 변경됨: {changed}\n"
-            f"   게임 UI 가 그 색들을 쓴다. 잉크값 한 칸만 수정할 것"
+            f"🔴 팔레트에서 허용 외 칸이 변경됨: {changed}\n"
+            f"   허용: {sorted(CLUT_WRITABLE)} (3=한글잉크, 14/15=기호잉크)\n"
+            f"   게임 UI 가 나머지 색을 쓴다"
         )
     return True
 

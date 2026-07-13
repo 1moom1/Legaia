@@ -23,7 +23,11 @@ sys.path.insert(0, "/home/claude/legaia/tools")
 from mips import *
 from mips import hi16, lo16
 from asm import Assembler
-from capstone import Cs, CS_ARCH_MIPS, CS_MODE_MIPS32, CS_MODE_LITTLE_ENDIAN
+try:
+    from capstone import Cs, CS_ARCH_MIPS, CS_MODE_MIPS32, CS_MODE_LITTLE_ENDIAN
+    _CAP = True
+except ImportError:      # 디스어셈블 검증용일 뿐, 빌드에는 없어도 된다
+    _CAP = False
 
 LOAD, HDR = 0x80010000, 0x800
 HOOK_ADDR = 0x8007AC00
@@ -36,7 +40,10 @@ REGFUNC = 0x8003D2C4
 LOOP = 0x80036908
 PAL_VAR = 0x8007B454
 
-HANGUL_MIN = 0x90
+# ★ 0xCE <n> 의 n 은 1바이트. n = HANGUL_MIN + idx 이므로
+#    페이지당 최대 칸수 = 256 - HANGUL_MIN.
+#    원래 0xCE 인자는 {02,03,0B,0E,21,80} 뿐이라 0x81 이상은 안전.
+HANGUL_MIN = 0x81         # -> 페이지당 최대 127칸
 GW = GH = 12
 WIDTH = 11
 INK = 3
@@ -45,11 +52,17 @@ TPAGE_NUM = 0x001F        # 숫자 TIM (960,256)
 WIDTH_TBL = 0x6471C
 
 # ★ 일본판 방식: 20열
+#   인덱스 바이트 제약(127칸/페이지) 때문에 ASCII TIM 을 두 페이지로 쪼갠다.
+#   p1/p4 는 같은 tpage(0x000E), 팔레트 row 만 다르다.
 COLS = 20
-VBASE = {1: 144, 2: 80, 3: 0}
-ROWS = {1: 9, 2: 5, 3: 6}
+#   p1 을 크게(120칸) 잡아 빈도 상위 음절을 최대한 담는다 → 페이지 전환 감소
+VBASE = {1: 144, 2: 80, 3: 0, 4: 216}
+ROWS  = {1: 6,   2: 5,  3: 6, 4: 3}
+BUF   = {1: "ascii", 2: "num", 3: "num", 4: "ascii"}
+# tpage 전환이 필요한 페이지 (숫자 TIM 쪽)
+NEEDS_TPAGE = {2, 3}
 
-cs = Cs(CS_ARCH_MIPS, CS_MODE_MIPS32 | CS_MODE_LITTLE_ENDIAN)
+cs = Cs(CS_ARCH_MIPS, CS_MODE_MIPS32 | CS_MODE_LITTLE_ENDIAN) if _CAP else None
 
 
 def r2f(r):
@@ -57,7 +70,7 @@ def r2f(r):
 
 
 def capacity():
-    return {p: COLS * ROWS[p] for p in (1, 2, 3)}
+    return {p: COLS * ROWS[p] for p in (1, 2, 3, 4)}
 
 
 def uv(idx, page):
@@ -153,13 +166,23 @@ def build():
     a.ins(ADDIU("t0", "zero", 3))
     a.beq("t5", "t0", "L_p3")
     a.ins(NOP())
+    a.ins(ADDIU("t0", "zero", 4))
+    a.beq("t5", "t0", "L_p4")
+    a.ins(NOP())
 
     # 페이지1: V = 144 + off, tpage 전환 없음 → 원본 등록 경로 재활용
     a.ins(ADDIU("t4", "t4", VBASE[1]))
+    a.label("L_noswitch")
     a.ins(SB("t4", 0x0D, "s0"))
     a.ins(MOVE("a1", "s0"))
     a.ins(ADDIU("s3", "s3", 1))               # 원본이 +1 더 함
     a.j(REG_PATH)
+    a.ins(NOP())
+
+    # 페이지4: V = 204 + off, 같은 tpage(0x000E) → 전환 없음
+    a.label("L_p4")
+    a.ins(ADDIU("t4", "t4", VBASE[4]))
+    a.j("L_noswitch")
     a.ins(NOP())
 
     # 페이지3: V = 0 + off
@@ -217,6 +240,11 @@ def patch_exe(exe_bytes, index_bytes):
         for v in viol:
             print("로드지연 위반:", v)
         raise RuntimeError("로드 지연 위반")
+    # 훅 코드는 고정이므로 바이트 수로 무결성을 확인한다
+    _EXPECT = 416
+    code_chk = a.assemble()
+    if len(code_chk) != _EXPECT:
+        print(f"⚠ 훅 크기가 예상과 다름: {len(code_chk)}B (기대 {_EXPECT}B)")
     code = a.assemble()
     if len(code) > HOOK_LIMIT:
         raise RuntimeError(f"훅 초과: {len(code)} > {HOOK_LIMIT}")
@@ -245,9 +273,12 @@ if __name__ == "__main__":
         ok = "OK" if U + GW <= 256 and V + GH <= 256 else "★초과"
         print(f"  idx {i:3d}: U={U:3d} V={V:3d}  {ok}")
     print()
-    for p in (1, 2, 3):
+    LIMS = {1: 216, 2: 144, 3: 80, 4: 256}
+    for p in (1, 2, 3, 4):
         last = cap[p] - 1
         U, V = uv(last, p)
-        lim = 256 if p == 1 else (144 if p == 2 else 80)
-        ok = "OK" if V + GH <= lim else f"★초과 (한계 {lim})"
-        print(f"  페이지{p} 마지막 idx {last:3d}: U={U:3d} V={V:3d}  {ok}")
+        n = HANGUL_MIN + last
+        okv = V + GH <= LIMS[p]
+        okn = n <= 0xFF
+        print(f"  페이지{p} ({BUF[p]:5s}) 마지막 idx {last:3d}: U={U:3d} V={V:3d} "
+              f"코드=0xCE {n:02X}  {'OK' if okv and okn else '★문제'}")

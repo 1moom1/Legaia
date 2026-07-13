@@ -45,7 +45,10 @@ def decode_run(run):
         elif b == 0xCE and i + 1 < len(run):
             out.append(f"{{CE:{run[i+1]}}}"); i += 2
         elif b in MACRO:
-            out.append(MACRO[b]); i += 1
+            # 매크로는 2바이트 (뒤 1바이트가 파라미터)
+            prm = run[i + 1] if i + 1 < len(run) else 0
+            out.append(MACRO[b] if prm == 0 else f"{MACRO[b][:-1]}:{prm:02X}}}")
+            i += 2
         elif 0x20 <= b < 0x7F:
             out.append(chr(b)); i += 1
         else:
@@ -93,8 +96,19 @@ def main():
                 if sc[i] != 0x1F:
                     i += 1
                     continue
-                j = sc.find(b"\x00", i + 1)
-                if j < 0:
+                # ★ 런 끝 찾기: 매크로(0xC0~0xCF)는 2바이트다.
+                #   그 파라미터가 0x00 일 수 있으므로 (예: "Look, " C1 00 ". That is" 00)
+                #   단순히 0x00 을 찾으면 런이 중간에 잘린다. (실제로 겪은 버그)
+                j = i + 1
+                while j < len(sc):
+                    b = sc[j]
+                    if b == 0x00:
+                        break
+                    if 0xC0 <= b <= 0xCF:
+                        j += 2          # 매크로 + 파라미터
+                    else:
+                        j += 1
+                if j >= len(sc):
                     break
                 run = sc[i + 1:j]
                 if is_dialogue(run):

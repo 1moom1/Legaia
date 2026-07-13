@@ -83,24 +83,32 @@ def lzss_compress(data: bytes) -> bytes:
 
         best_len = 2
         best_pos = 0
-        if sa + 2 < len(data):
-            for idx in range(0x1000):
-                if dic[idx] != data[sa]:
-                    continue
-                cmp_dic = bytearray(dic)
-                cmp_addr = da
+        n = len(data)
+        if sa + 2 < n:
+            c0 = data[sa]
+            limit = min(18, n - sa)
+            # ★ 4096칸을 파이썬 루프로 훑지 않는다.
+            #   첫 바이트가 일치하는 위치만 bytearray.find (C 속도) 로 찾아
+            #   낮은 idx 부터 순서대로 검사한다. (원본과 동일한 탐색 순서)
+            idx = dic.find(c0)
+            while idx >= 0:
+                # ★ 원본은 매 후보마다 dic(4096B)을 통째로 복사했다 —— 그게 병목.
+                #   매칭 도중 링버퍼(da..)에 써 넣는 바이트는 data[sa..] 그 자체이므로,
+                #   복사 대신 '이미 쓴 구간이면 data 에서 읽는다'로 대체한다. (출력 동일)
                 mlen = 0
-                for j in range(18):
-                    if sa + j >= len(data):
-                        break
-                    if cmp_dic[(idx + j) & 0xFFF] != data[sa + j]:
+                for j in range(limit):
+                    pos = (idx + j) & 0xFFF
+                    off = (pos - da) & 0xFFF
+                    c = data[sa + off] if off < j else dic[pos]
+                    if c != data[sa + j]:
                         break
                     mlen += 1
-                    cmp_dic[cmp_addr] = data[sa + j]
-                    cmp_addr = (cmp_addr + 1) & 0xFFF
                 if mlen > best_len:
                     best_len = mlen
                     best_pos = idx
+                    if mlen >= limit:      # 더 길어질 수 없다
+                        break
+                idx = dic.find(c0, idx + 1)
 
         if best_len > 2:
             out.append(best_pos & 0xFF)

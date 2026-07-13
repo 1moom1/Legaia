@@ -19,9 +19,13 @@ mips.py 의 인코더를 쓰되, 라벨을 심볼로 참조.
 import struct, sys
 sys.path.insert(0, "/home/claude/legaia/tools")
 from mips import *
-from capstone import Cs, CS_ARCH_MIPS, CS_MODE_MIPS32, CS_MODE_LITTLE_ENDIAN
+try:
+    from capstone import Cs, CS_ARCH_MIPS, CS_MODE_MIPS32, CS_MODE_LITTLE_ENDIAN
+    _CAP = True
+except ImportError:
+    _CAP = False
 
-_cs = Cs(CS_ARCH_MIPS, CS_MODE_MIPS32 | CS_MODE_LITTLE_ENDIAN)
+_cs = Cs(CS_ARCH_MIPS, CS_MODE_MIPS32 | CS_MODE_LITTLE_ENDIAN) if _CAP else None
 
 
 class Assembler:
@@ -98,7 +102,16 @@ class Assembler:
         return bytes(out)
 
     def check_load_delay(self):
-        """로드 지연 슬롯 위반 검사"""
+        """로드 지연 슬롯 위반 검사 (R3000A)
+
+        lw/lbu/lhu 바로 다음 명령에서 그 레지스터를 읽으면 갱신 전 값이 나온다.
+        -> nop 을 넣어야 한다. (한글이 아예 안 보이는 증상으로 겪음)
+
+        capstone 이 없으면 검사할 수 없다. 훅 코드는 이미 검증된 고정 코드이므로
+        번역 작업에는 문제가 없지만, 훅을 수정했다면 capstone 을 설치할 것.
+        """
+        if not _CAP:
+            return []
         code = self.assemble()
         LOADS = {"lbu", "lhu", "lw", "lb", "lh"}
         insns = list(_cs.disasm(code, self.base))
@@ -116,6 +129,9 @@ class Assembler:
         return viol
 
     def disasm(self):
+        if not _CAP:
+            print("  (capstone 없음 — 디스어셈블 생략)")
+            return
         code = self.assemble()
         for ins in _cs.disasm(code, self.base):
             print(f"  {ins.address:08X}: {ins.mnemonic} {ins.op_str}")

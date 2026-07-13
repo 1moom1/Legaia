@@ -45,7 +45,7 @@ DBG_IX = 0x11430          # 디버그 TIM IMG ix
 DBG_IY = 0x11432          # 디버그 TIM IMG iy
 CLUT_OFF = 0x1122C        # 대사 CLUT (건드리지 말 것)
 
-HANGUL_MIN = 0x90
+HANGUL_MIN = hook7.HANGUL_MIN
 GW = GH = 12
 INK = 3          # 한글 잉크 니블값 (ASCII 폰트가 안 쓰는 값: 3~13)
 MAP_FILE, SCRIPT_ID, SCRIPT_IDX = 6, 3, 47
@@ -54,8 +54,8 @@ MAP_FILE, SCRIPT_ID, SCRIPT_IDX = 6, 3, 47
 # ⚠️ TIM 0x11218 은 '숫자 폰트'다! (V144~255)
 #    옮기거나 지우면 메뉴의 HP/MP 숫자가 사라진다.
 #    V0~79 = 개발 메모, V80~143 = 빈 영역 (여기만 사용)
-# ★ 일본판 방식 20열 배치 (hook7.uv() 와 반드시 일치해야 함)
-BUF = {1: "ascii", 2: "num", 3: "num"}
+# ★ 배치는 hook7 이 정의 (BUF/VBASE/ROWS/COLS)
+BUF = hook7.BUF
 COLS = hook7.COLS
 
 JOBS = [
@@ -129,14 +129,14 @@ def main():
     # ★ 페이지 전환 코드(0xCF <p>, 2바이트)가 붙으므로 전환을 최소화해야 한다.
     #   빈도 높은 음절부터 페이지1을 채우고, 넘치면 2 -> 3 순서로.
     #   (실전에서는 음절 빈도순으로 정렬해 배치)
-    order = [1, 2, 3]
+    order = [1, 2, 3, 4]
     mapping = {}
     pi = 0
-    used = {1: 0, 2: 0, 3: 0}
+    used = {p: 0 for p in order}
     # ★ 검증 모드: 페이지1/2 를 일부러 작게 잡아 페이지3(개발메모 영역)까지 쓰게 한다
     import os as _os
     if _os.environ.get("KR_TEST_PAGES"):
-        cap = {1: 4, 2: 4, 3: 96}
+        cap = {1: 3, 2: 3, 3: 3, 4: 80}
         print(f"    [검증모드] cap={cap} -> 페이지3 강제 사용")
     for ch in syls:
         while pi < len(order) and used[order[pi]] >= cap[order[pi]]:
@@ -188,10 +188,10 @@ def main():
     #       한글이 영어 대사에 나타날 수 없다.
     def rgb15(r, g, b):
         return ((b // 8) << 10) | ((g // 8) << 5) | (r // 8)
-    for row in (7, 8, 9):
+    for row in (7, 8, 9, 10):
         base = CLUT_OFF + row * 32
         struct.pack_into("<H", prot, base + INK * 2, rgb15(248, 248, 248))
-    print(f"[4] 팔레트: row7,8,9 의 값{INK} = 흰색 (그 외 전부 원본 보존)")
+    print(f"[4] 팔레트: row7,8,9,10 의 값{INK} = 흰색 (그 외 전부 원본 보존)")
 
     # 6) 훅 심기 + 폭 테이블
     idx_bytes = sorted({HANGUL_MIN + i for _, i in mapping.values()})
