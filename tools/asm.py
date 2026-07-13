@@ -151,3 +151,31 @@ if __name__ == "__main__":
     viol = a.check_load_delay()
     print("로드지연 위반:", viol if viol else "없음")
     a.disasm()
+
+
+def check_hook_site(exe, r2f, target, hook_addr, handled_insns):
+    """🔴 함수 진입점을 `j 훅` 으로 덮을 때의 딜레이 슬롯 검사.
+
+    MIPS 는 분기/점프 **다음 명령(딜레이 슬롯)을 반드시 실행한다**.
+    그래서 함수 첫 명령을 `j 훅` 으로 덮으면, **두 번째 명령이 그대로 실행된다**.
+
+        원본:  addiu sp, sp, -0x50     <- 이걸 j 로 덮음
+               sw    s1, 0x34(sp)      <- 딜레이 슬롯! sp 조정 전에 실행됨
+
+    -> 호출자의 스택 프레임이 오염된다. (전투 모델이 깨지는 증상으로 겪음)
+
+    올바른 처리:
+        1. 진입점 두 번째 명령을 nop 으로 덮고
+        2. 훅이 원본 1·2번째 명령을 모두 수행한 뒤 세 번째로 복귀
+
+    이 함수는 (1)이 되어 있는지 검사한다.
+    handled_insns = 훅이 대신 수행하는 원본 명령 수 (보통 2)
+    """
+    import struct
+    slot = struct.unpack("<I", exe[r2f(target) + 4:r2f(target) + 8])[0]
+    if slot != 0:
+        raise RuntimeError(
+            f"🔴 딜레이 슬롯 미처리: 0x{target+4:08X} 가 nop 이 아님 (0x{slot:08X}).\n"
+            f"   `j 훅` 의 딜레이 슬롯은 반드시 실행된다. nop 으로 덮고,\n"
+            f"   훅이 원본 명령을 대신 수행한 뒤 0x{target+4*handled_insns:08X} 로 복귀할 것.")
+    return True
