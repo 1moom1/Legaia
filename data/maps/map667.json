@@ -1,0 +1,245 @@
+[
+ {
+  "map": 667,
+  "script": 19,
+  "run": 0,
+  "off": 66,
+  "len": 4,
+  "text": "!!&<03>",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 22,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:EF}",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 22,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 22,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 22,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:EF}!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 22,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:38}",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 23,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 23,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:38}!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 23,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 24,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:3E}",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 24,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 24,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 24,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:3E}!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 24,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 25,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:42}",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 25,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 25,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 25,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:42}!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 25,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 32,
+  "run": 0,
+  "off": 11,
+  "len": 28,
+  "text": "Do you wish to dive into the",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 32,
+  "run": 1,
+  "off": 41,
+  "len": 18,
+  "text": "rapids before you?",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 33,
+  "run": 0,
+  "off": 11,
+  "len": 28,
+  "text": "Do you wish to dive into the",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 33,
+  "run": 1,
+  "off": 41,
+  "len": 18,
+  "text": "rapids before you?",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 34,
+  "run": 0,
+  "off": 11,
+  "len": 28,
+  "text": "Do you wish to dive into the",
+  "ko": ""
+ },
+ {
+  "map": 667,
+  "script": 34,
+  "run": 1,
+  "off": 41,
+  "len": 18,
+  "text": "rapids before you?",
+  "ko": ""
+ }
+]

@@ -1,0 +1,794 @@
+[
+ {
+  "map": 699,
+  "script": 9,
+  "run": 0,
+  "off": 63,
+  "len": 20,
+  "text": "e'e(e)e*e+e,e-e.!!&<03>",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 38,
+  "run": 0,
+  "off": 21,
+  "len": 25,
+  "text": "It's strange green water!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 38,
+  "run": 1,
+  "off": 48,
+  "len": 24,
+  "text": "Do you want to drink it?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 38,
+  "run": 2,
+  "off": 251,
+  "len": 22,
+  "text": "What an amazing taste!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 38,
+  "run": 3,
+  "off": 275,
+  "len": 34,
+  "text": "HP and MP are completely restored!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 38,
+  "run": 4,
+  "off": 314,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 38,
+  "run": 5,
+  "off": 326,
+  "len": 16,
+  "text": "drink the water.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 39,
+  "run": 0,
+  "off": 21,
+  "len": 24,
+  "text": "It's strange blue water!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 39,
+  "run": 1,
+  "off": 47,
+  "len": 24,
+  "text": "Do you want to drink it?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 39,
+  "run": 2,
+  "off": 250,
+  "len": 22,
+  "text": "What an amazing taste!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 39,
+  "run": 3,
+  "off": 274,
+  "len": 34,
+  "text": "HP and MP are completely restored!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 39,
+  "run": 4,
+  "off": 313,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 39,
+  "run": 5,
+  "off": 325,
+  "len": 16,
+  "text": "drink the water.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 40,
+  "run": 0,
+  "off": 41,
+  "len": 5,
+  "text": "Grrr!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 41,
+  "run": 0,
+  "off": 41,
+  "len": 11,
+  "text": "Growowow...",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 42,
+  "run": 0,
+  "off": 41,
+  "len": 13,
+  "text": "Geerroowwl...",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 43,
+  "run": 0,
+  "off": 41,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 47,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C3}",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 47,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 47,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 47,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:C3}!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 47,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 48,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 48,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 48,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 48,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 48,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 49,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:D5}",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 49,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 49,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 49,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:D5}!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 49,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 50,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:81}",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 50,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 50,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 50,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 50,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 0,
+  "off": 396,
+  "len": 29,
+  "text": "{NAME:01}: Terra, is this the place?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 1,
+  "off": 427,
+  "len": 18,
+  "text": "Is the Rogue here?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 2,
+  "off": 566,
+  "len": 21,
+  "text": "{NAME:01}: Oh, I understand.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 3,
+  "off": 589,
+  "len": 19,
+  "text": "You can't talk now.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 4,
+  "off": 632,
+  "len": 20,
+  "text": "{NAME:02}: Where could that",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 5,
+  "off": 654,
+  "len": 14,
+  "text": "head Rogue be?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 6,
+  "off": 805,
+  "len": 24,
+  "text": "{NAME:02}: I sense the presence",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 7,
+  "off": 831,
+  "len": 25,
+  "text": "of evil, but the Rogue is",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 8,
+  "off": 858,
+  "len": 19,
+  "text": "nowhere to be seen!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 9,
+  "off": 1750,
+  "len": 11,
+  "text": "{NAME:01}: Aaaahh!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 10,
+  "off": 2077,
+  "len": 21,
+  "text": "{NAME:02}: I-It's the Rogue!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 11,
+  "off": 2514,
+  "len": 27,
+  "text": "{NAME:02}: This is the head Rogue,",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 12,
+  "off": 2543,
+  "len": 28,
+  "text": "the one sealed in the Tower!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 13,
+  "off": 2574,
+  "len": 26,
+  "text": "{NAME:02}: If we defeat this one,",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 14,
+  "off": 2602,
+  "len": 19,
+  "text": "the Mist in Conkram",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 15,
+  "off": 2623,
+  "len": 15,
+  "text": "will disappear.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 16,
+  "off": 2773,
+  "len": 18,
+  "text": "{NAME:01}: Let's get him!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 89,
+  "run": 17,
+  "off": 2793,
+  "len": 32,
+  "text": "Let's teach this Rogue a lesson!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 0,
+  "off": 195,
+  "len": 14,
+  "text": "{NAME:01}: We did it!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 1,
+  "off": 211,
+  "len": 22,
+  "text": "We defeated the Rogue!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 2,
+  "off": 546,
+  "len": 22,
+  "text": "{NAME:02}: Now we can destroy",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 3,
+  "off": 570,
+  "len": 14,
+  "text": "Rogue's Tower!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 4,
+  "off": 692,
+  "len": 10,
+  "text": "L<D2> L<D2>!L<D2>\"6",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 5,
+  "off": 1166,
+  "len": 18,
+  "text": "{NAME:01}: Oh, wow! Look!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 6,
+  "off": 1186,
+  "len": 32,
+  "text": "Rogue's Tower is breaking apart!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 7,
+  "off": 1370,
+  "len": 21,
+  "text": "{NAME:01}: {NAME:02}, can I ask you",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 8,
+  "off": 1393,
+  "len": 10,
+  "text": "something?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 9,
+  "off": 1450,
+  "len": 15,
+  "text": "{NAME:02}: What is it,",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 10,
+  "off": 1659,
+  "len": 26,
+  "text": "{NAME:01}: Now how do we get back",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 11,
+  "off": 1687,
+  "len": 21,
+  "text": "to Conkram from here?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 12,
+  "off": 1843,
+  "len": 15,
+  "text": "{NAME:02}: The exit...",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 13,
+  "off": 1987,
+  "len": 24,
+  "text": "{NAME:01}: Are we going to die?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 14,
+  "off": 2013,
+  "len": 24,
+  "text": "Are we going to die when",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 15,
+  "off": 2039,
+  "len": 24,
+  "text": "Rogue's Tower collapses?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 16,
+  "off": 2276,
+  "len": 24,
+  "text": "{NAME:02}: I'm not going to die",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 17,
+  "off": 2302,
+  "len": 21,
+  "text": "in a place like this!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 18,
+  "off": 2325,
+  "len": 22,
+  "text": "Ozma! Can you hear me?",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 19,
+  "off": 2466,
+  "len": 24,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Of course I can,",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 20,
+  "off": 2640,
+  "len": 11,
+  "text": "{NAME:02}: Ozma...",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 21,
+  "off": 2748,
+  "len": 26,
+  "text": "{PAL:5}{M7:02}{PAL:7}: I've been watching",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 22,
+  "off": 2776,
+  "len": 19,
+  "text": "you the whole time!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 23,
+  "off": 2797,
+  "len": 14,
+  "text": "Well done, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 24,
+  "off": 3016,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now that the Rogue",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 25,
+  "off": 3044,
+  "len": 30,
+  "text": "is dead, the Mist must be gone",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 26,
+  "off": 3076,
+  "len": 20,
+  "text": "from Conkram by now.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 27,
+  "off": 3239,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 28,
+  "off": 3414,
+  "len": 26,
+  "text": "{PAL:9}{M7}{PAL:7}: Come, it's time to",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 29,
+  "off": 3442,
+  "len": 26,
+  "text": "return to the human world.",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 30,
+  "off": 3545,
+  "len": 34,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Gather together, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 31,
+  "off": 3581,
+  "len": 25,
+  "text": "We're almost out of time!",
+  "ko": ""
+ },
+ {
+  "map": 699,
+  "script": 90,
+  "run": 32,
+  "off": 3678,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: OK, here we go!",
+  "ko": ""
+ }
+]

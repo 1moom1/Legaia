@@ -1,0 +1,506 @@
+[
+ {
+  "map": 520,
+  "script": 0,
+  "run": 0,
+  "off": 9,
+  "len": 10,
+  "text": "L5!,<07>,<01>+<03>1",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 6,
+  "run": 0,
+  "off": 40,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.t<03><05>",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 0,
+  "off": 23,
+  "len": 21,
+  "text": "Genesis Tree Monument",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 1,
+  "off": 47,
+  "len": 32,
+  "text": "The construction of Sol began in",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 2,
+  "off": 81,
+  "len": 32,
+  "text": "the age of the legendary Emperor",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 3,
+  "off": 115,
+  "len": 8,
+  "text": "Etora I.",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 4,
+  "off": 126,
+  "len": 34,
+  "text": "It is said that Etora I chose this",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 5,
+  "off": 162,
+  "len": 33,
+  "text": "site because of the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 6,
+  "off": 198,
+  "len": 33,
+  "text": "Since mythical times, the Genesis",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 7,
+  "off": 233,
+  "len": 28,
+  "text": "Tree has been considered the",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 8,
+  "off": 263,
+  "len": 21,
+  "text": "guardian tree of Sol.",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 9,
+  "off": 287,
+  "len": 28,
+  "text": "For some unknown reason, the",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 10,
+  "off": 317,
+  "len": 32,
+  "text": "Genesis Tree withered in the age",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 11,
+  "off": 351,
+  "len": 29,
+  "text": "of the Holy Emperor Etora IV.",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 12,
+  "off": 383,
+  "len": 34,
+  "text": "Etora IV moved the Genesis Tree to",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 13,
+  "off": 419,
+  "len": 32,
+  "text": "Biron Temple in keeping with the",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 14,
+  "off": 453,
+  "len": 17,
+  "text": "prophecy of Hari.",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 15,
+  "off": 473,
+  "len": 29,
+  "text": "This monument is dedicated to",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 8,
+  "run": 16,
+  "off": 504,
+  "len": 31,
+  "text": "the memory of the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 0,
+  "off": 35,
+  "len": 28,
+  "text": "On the bookshelf are all ten",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 1,
+  "off": 65,
+  "len": 35,
+  "text": "volumes of Keem's \"History of Sol.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 2,
+  "off": 107,
+  "len": 28,
+  "text": "On the bookshelf are all ten",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 3,
+  "off": 137,
+  "len": 35,
+  "text": "volumes of Keem's \"History of Sol.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 4,
+  "off": 175,
+  "len": 31,
+  "text": "Amid the \"History of Sol\" books",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 5,
+  "off": 208,
+  "len": 29,
+  "text": "is a vulgar, garishly covered",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 6,
+  "off": 239,
+  "len": 5,
+  "text": "book!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 9,
+  "run": 7,
+  "off": 259,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 10,
+  "run": 0,
+  "off": 25,
+  "len": 34,
+  "text": "On the bookshelf are three volumes",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 10,
+  "run": 1,
+  "off": 61,
+  "len": 31,
+  "text": "of Kooch's \"Topography of Sol.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 11,
+  "run": 0,
+  "off": 25,
+  "len": 26,
+  "text": "On the bookshelf are eight",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 11,
+  "run": 1,
+  "off": 53,
+  "len": 34,
+  "text": "volumes of Iny's \"Legends of Sol.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 12,
+  "run": 0,
+  "off": 25,
+  "len": 32,
+  "text": "On the bookshelf are two volumes",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 12,
+  "run": 1,
+  "off": 59,
+  "len": 26,
+  "text": "of Kuda's \"Sol Mythology.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 13,
+  "run": 0,
+  "off": 25,
+  "len": 33,
+  "text": "On the bookshelf are five volumes",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 13,
+  "run": 1,
+  "off": 60,
+  "len": 26,
+  "text": "of Naba's \"Theory of War.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 14,
+  "run": 0,
+  "off": 25,
+  "len": 35,
+  "text": "On the bookshelf are all 25 volumes",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 14,
+  "run": 1,
+  "off": 62,
+  "len": 24,
+  "text": "of Nayko's \"The Prince.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 15,
+  "run": 0,
+  "off": 25,
+  "len": 32,
+  "text": "On the bookshelf are two volumes",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 15,
+  "run": 1,
+  "off": 59,
+  "len": 26,
+  "text": "of Zono's \"City Planning.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 16,
+  "run": 0,
+  "off": 25,
+  "len": 34,
+  "text": "On the bookshelf are three volumes",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 16,
+  "run": 1,
+  "off": 61,
+  "len": 31,
+  "text": "Tornay's \"Legaian Animal Life.\"",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 18,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8D}",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 18,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 18,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 18,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8D}!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 18,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 19,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:DC}",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 19,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 19,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 19,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:DC}!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 19,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 20,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:F0}",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 20,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 20,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 20,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:F0}!",
+  "ko": ""
+ },
+ {
+  "map": 520,
+  "script": 20,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ }
+]

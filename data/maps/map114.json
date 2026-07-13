@@ -1,0 +1,1649 @@
+[
+ {
+  "map": 114,
+  "script": 14,
+  "run": 0,
+  "off": 26,
+  "len": 18,
+  "text": "Start flag setting",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 1,
+  "off": 47,
+  "len": 20,
+  "text": "<A wolf's intuition>",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 2,
+  "off": 69,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 3,
+  "off": 106,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 4,
+  "off": 114,
+  "len": 23,
+  "text": "<A wolf's intuition> ON",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 5,
+  "off": 139,
+  "len": 24,
+  "text": "<A wolf's intuition> OFF",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 6,
+  "off": 165,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 7,
+  "off": 184,
+  "len": 34,
+  "text": "<Mt. Rikuroa Genesis Tree Revival>",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 8,
+  "off": 220,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 9,
+  "off": 257,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 10,
+  "off": 265,
+  "len": 37,
+  "text": "<Mt. Rikuroa Genesis Tree Revival> ON",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 11,
+  "off": 304,
+  "len": 43,
+  "text": "<Mt. Rikuroa Genesis Tree Resurrection> OFF",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 12,
+  "off": 349,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 13,
+  "off": 368,
+  "len": 14,
+  "text": "The thick Mist",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 14,
+  "off": 384,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 15,
+  "off": 421,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 16,
+  "off": 429,
+  "len": 17,
+  "text": "The thick Mist ON",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 17,
+  "off": 448,
+  "len": 18,
+  "text": "The thick Mist OFF",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 18,
+  "off": 468,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 14,
+  "run": 19,
+  "off": 487,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 18,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:28}",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 18,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 18,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 18,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:28}!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 18,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 19,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 19,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 19,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 19,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 19,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 20,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:82}",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 20,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 20,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 20,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:82}!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 20,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 21,
+  "run": 0,
+  "off": 50,
+  "len": 14,
+  "text": "There is an {ITEM:EE}",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 21,
+  "run": 1,
+  "off": 66,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 21,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 21,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:EE}!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 21,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 0,
+  "off": 247,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Look carefully, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 1,
+  "off": 348,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Beyond that valley is",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 2,
+  "off": 379,
+  "len": 28,
+  "text": "where the Mist is born. From",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 3,
+  "off": 409,
+  "len": 35,
+  "text": "there it flows out into this world.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 4,
+  "off": 536,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Though the Mist is too",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 5,
+  "off": 568,
+  "len": 32,
+  "text": "thick to see clearly, there is a",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 6,
+  "off": 602,
+  "len": 33,
+  "text": "Mist Generator beyond the valley.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 7,
+  "off": 909,
+  "len": 29,
+  "text": "Suddenly I feel a little ill.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 8,
+  "off": 980,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Mist is too thick.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 9,
+  "off": 1012,
+  "len": 28,
+  "text": "I'm sorry, but I don't think",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 10,
+  "off": 1042,
+  "len": 21,
+  "text": "I can go any further.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 11,
+  "off": 1190,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Let's not go there now.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 12,
+  "off": 1223,
+  "len": 35,
+  "text": "Instead, let's head for the Genesis",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 13,
+  "off": 1260,
+  "len": 20,
+  "text": "Tree of Mt. Rikuroa!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 14,
+  "off": 1287,
+  "len": 23,
+  "text": "Terra, are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 15,
+  "off": 1312,
+  "len": 33,
+  "text": "Let's destroy the Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 16,
+  "off": 1433,
+  "len": 26,
+  "text": "you are such a good child.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 17,
+  "off": 1588,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Don't worry about me.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 18,
+  "off": 1619,
+  "len": 32,
+  "text": "I'll feel better once I get away",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 19,
+  "off": 1653,
+  "len": 16,
+  "text": "from this place.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 20,
+  "off": 1694,
+  "len": 18,
+  "text": "On to Mt. Rikuroa!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 21,
+  "off": 1714,
+  "len": 24,
+  "text": "The Genesis Tree awaits!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 22,
+  "off": 2022,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Yes, you might be right.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 23,
+  "off": 2056,
+  "len": 33,
+  "text": "If we destroy the Mist Generator,",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 24,
+  "off": 2091,
+  "len": 29,
+  "text": "the Mist here will disappear.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 25,
+  "off": 2168,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But I just can't go on.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 26,
+  "off": 2201,
+  "len": 10,
+  "text": "I'm sorry.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 27,
+  "off": 2277,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: In this Mist, I'm so weak",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 28,
+  "off": 2312,
+  "len": 33,
+  "text": "that I could never make it to the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 29,
+  "off": 2347,
+  "len": 15,
+  "text": "Mist Generator.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 30,
+  "off": 2401,
+  "len": 23,
+  "text": "let's go to Mt. Rikuroa",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 31,
+  "off": 2426,
+  "len": 8,
+  "text": "instead.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 32,
+  "off": 2579,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We can destroy the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 33,
+  "off": 2607,
+  "len": 14,
+  "text": "Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 26,
+  "run": 34,
+  "off": 2623,
+  "len": 12,
+  "text": "another day.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 0,
+  "off": 270,
+  "len": 22,
+  "text": "The Mist! Come see it!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 1,
+  "off": 482,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: Just beyond this valley is",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 2,
+  "off": 518,
+  "len": 19,
+  "text": "the Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 3,
+  "off": 721,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Mist produced by the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 4,
+  "off": 755,
+  "len": 31,
+  "text": "Mist Generator spreads out into",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 5,
+  "off": 788,
+  "len": 28,
+  "text": "the areas beyond the valley.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 6,
+  "off": 1071,
+  "len": 25,
+  "text": "{NAME:01}: I want to destroy the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 7,
+  "off": 1098,
+  "len": 31,
+  "text": "Mist Generator! I wanna get rid",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 8,
+  "off": 1131,
+  "len": 12,
+  "text": "of the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 9,
+  "off": 1281,
+  "len": 20,
+  "text": "we should slow down!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 10,
+  "off": 1506,
+  "len": 24,
+  "text": "{PAL:9}{M7}{PAL:7}: The Mist here is",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 11,
+  "off": 1532,
+  "len": 10,
+  "text": "too thick!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 12,
+  "off": 1545,
+  "len": 35,
+  "text": "{PAL:9}{M7}{PAL:7}: My power is almost too weak",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 13,
+  "off": 1582,
+  "len": 29,
+  "text": "to keep us from succumbing to",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 14,
+  "off": 1613,
+  "len": 9,
+  "text": "the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 15,
+  "off": 1845,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: If we only had a little",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 16,
+  "off": 1878,
+  "len": 24,
+  "text": "more Genesis Tree power!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 17,
+  "off": 1904,
+  "len": 19,
+  "text": "Just a little more!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 18,
+  "off": 2053,
+  "len": 18,
+  "text": "{NAME:01}: {NAME}, let's find",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 19,
+  "off": 2073,
+  "len": 21,
+  "text": "another Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 20,
+  "off": 2096,
+  "len": 16,
+  "text": "If we find it...",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 21,
+  "off": 2115,
+  "len": 22,
+  "text": "{NAME:01}: Then we could pass",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 22,
+  "off": 2139,
+  "len": 28,
+  "text": "through here and destroy the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 27,
+  "run": 23,
+  "off": 2169,
+  "len": 15,
+  "text": "Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 0,
+  "off": 349,
+  "len": 22,
+  "text": "{NAME:02}: This is the place!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 1,
+  "off": 482,
+  "len": 25,
+  "text": "{NAME:02}: The Mist is so thick!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 2,
+  "off": 509,
+  "len": 33,
+  "text": "It's full of a warped madness and",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 3,
+  "off": 544,
+  "len": 21,
+  "text": "the presence of evil!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 4,
+  "off": 646,
+  "len": 23,
+  "text": "{NAME:02}: The Mist is flowing",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 5,
+  "off": 671,
+  "len": 28,
+  "text": "from a strange castle beyond",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 6,
+  "off": 701,
+  "len": 12,
+  "text": "this valley!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 7,
+  "off": 903,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: This valley is the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 8,
+  "off": 931,
+  "len": 31,
+  "text": "passageway for the Mist created",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 9,
+  "off": 964,
+  "len": 22,
+  "text": "by the Mist Generator.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 10,
+  "off": 1109,
+  "len": 25,
+  "text": "{NAME:01}: Terra, can't we go on",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 11,
+  "off": 1136,
+  "len": 6,
+  "text": "ahead?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 12,
+  "off": 1202,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I'm sorry, {NAME:01}. I know",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 13,
+  "off": 1233,
+  "len": 31,
+  "text": "I'm a Ra-Seru, but I don't have",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 14,
+  "off": 1266,
+  "len": 19,
+  "text": "the strength now...",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 15,
+  "off": 1526,
+  "len": 11,
+  "text": "{NAME:01}: I know!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 16,
+  "off": 1539,
+  "len": 26,
+  "text": "I'll find the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 17,
+  "off": 1567,
+  "len": 22,
+  "text": "and make you stronger!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 18,
+  "off": 1687,
+  "len": 22,
+  "text": "{NAME:01}: Then you could get",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 19,
+  "off": 1711,
+  "len": 29,
+  "text": "through here with no problem!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 20,
+  "off": 1968,
+  "len": 10,
+  "text": "{NAME:02}: Who...",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 21,
+  "off": 1980,
+  "len": 25,
+  "text": "W-Who are you talking to?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 22,
+  "off": 2114,
+  "len": 13,
+  "text": "{NAME:01}: To Terra!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 23,
+  "off": 2216,
+  "len": 11,
+  "text": "{NAME:02}: A Seru?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 24,
+  "off": 2229,
+  "len": 21,
+  "text": "You can talk to Seru?",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 25,
+  "off": 2320,
+  "len": 11,
+  "text": "{NAME:01}: Uh-huh!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 26,
+  "off": 2333,
+  "len": 13,
+  "text": "Terra's nice!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 27,
+  "off": 2348,
+  "len": 18,
+  "text": "She's a good Seru!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 28,
+  "off": 2436,
+  "len": 22,
+  "text": "{NAME:02}: You're so strange.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 29,
+  "off": 2460,
+  "len": 25,
+  "text": "You give me the creeps --",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 30,
+  "off": 2487,
+  "len": 12,
+  "text": "both of you!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 31,
+  "off": 2530,
+  "len": 18,
+  "text": "{NAME:02}: But no matter!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 32,
+  "off": 2550,
+  "len": 27,
+  "text": "Now, on to West Voz Forest,",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 33,
+  "off": 2579,
+  "len": 22,
+  "text": "as Zopu instructed us!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 34,
+  "off": 2787,
+  "len": 7,
+  "text": "{NAME:01}: OK!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 28,
+  "run": 35,
+  "off": 2796,
+  "len": 16,
+  "text": "I'll do my best!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 0,
+  "off": 92,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, I know the Mist",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 1,
+  "off": 121,
+  "len": 34,
+  "text": "Generator lies ahead, but our goal",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 2,
+  "off": 157,
+  "len": 29,
+  "text": "now is to get to Mt. Rikuroa.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 3,
+  "off": 226,
+  "len": 22,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Let's go back.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 4,
+  "off": 397,
+  "len": 25,
+  "text": "badly you want to destroy",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 5,
+  "off": 424,
+  "len": 26,
+  "text": "the Mist Generator, but...",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 6,
+  "off": 489,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I'm too weak to go",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 7,
+  "off": 517,
+  "len": 12,
+  "text": "any further.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 8,
+  "off": 583,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: So please, don't force",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 9,
+  "off": 615,
+  "len": 22,
+  "text": "me to do what I can't.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 10,
+  "off": 1295,
+  "len": 20,
+  "text": "you must be patient!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 11,
+  "off": 1318,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: I know the Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 12,
+  "off": 1353,
+  "len": 31,
+  "text": "lies ahead, but I'm too weak to",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 13,
+  "off": 1386,
+  "len": 15,
+  "text": "go any further.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 14,
+  "off": 1404,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: Let's find another Genesis",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 15,
+  "off": 1440,
+  "len": 35,
+  "text": "Tree. Reviving that will weaken the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 16,
+  "off": 1477,
+  "len": 34,
+  "text": "Mist enough so we can get through.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 17,
+  "off": 1674,
+  "len": 28,
+  "text": "is too thick for us Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 18,
+  "off": 1705,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: {NAME}, let's turn back",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 19,
+  "off": 1734,
+  "len": 34,
+  "text": "and look for another Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 20,
+  "off": 1929,
+  "len": 25,
+  "text": "badly you want to destroy",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 21,
+  "off": 1956,
+  "len": 26,
+  "text": "the Mist Generator, but...",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 22,
+  "off": 1985,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: Let's focus our efforts",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 29,
+  "run": 23,
+  "off": 2018,
+  "len": 33,
+  "text": "on reviving another Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 0,
+  "off": 272,
+  "len": 22,
+  "text": "The Mist! Come see it!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 1,
+  "off": 490,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: Just beyond this valley",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 2,
+  "off": 523,
+  "len": 22,
+  "text": "is the Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 3,
+  "off": 729,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Mist produced by the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 4,
+  "off": 763,
+  "len": 31,
+  "text": "Mist Generator spreads out into",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 5,
+  "off": 796,
+  "len": 28,
+  "text": "the areas beyond the valley.",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 6,
+  "off": 1108,
+  "len": 25,
+  "text": "{NAME:01}: I want to destroy the",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 7,
+  "off": 1135,
+  "len": 31,
+  "text": "Mist Generator! I wanna get rid",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 8,
+  "off": 1168,
+  "len": 12,
+  "text": "of the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 9,
+  "off": 1318,
+  "len": 20,
+  "text": "we should slow down!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 10,
+  "off": 1543,
+  "len": 24,
+  "text": "{PAL:9}{M7}{PAL:7}: The Mist here is",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 11,
+  "off": 1569,
+  "len": 10,
+  "text": "too thick!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 12,
+  "off": 1582,
+  "len": 35,
+  "text": "{PAL:9}{M7}{PAL:7}: My power is almost too weak",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 13,
+  "off": 1619,
+  "len": 29,
+  "text": "to keep us from succumbing to",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 14,
+  "off": 1650,
+  "len": 9,
+  "text": "the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 15,
+  "off": 1882,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: If we only had a little",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 16,
+  "off": 1915,
+  "len": 24,
+  "text": "more Genesis Tree power!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 17,
+  "off": 1941,
+  "len": 19,
+  "text": "Just a little more!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 18,
+  "off": 2087,
+  "len": 18,
+  "text": "{NAME:01}: {NAME}, let's find",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 19,
+  "off": 2107,
+  "len": 21,
+  "text": "another Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 20,
+  "off": 2130,
+  "len": 16,
+  "text": "If we find it...",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 21,
+  "off": 2177,
+  "len": 29,
+  "text": "{NAME:01}: Then we could get through",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 22,
+  "off": 2208,
+  "len": 16,
+  "text": "here and destroy",
+  "ko": ""
+ },
+ {
+  "map": 114,
+  "script": 30,
+  "run": 23,
+  "off": 2226,
+  "len": 19,
+  "text": "the Mist Generator!",
+  "ko": ""
+ }
+]

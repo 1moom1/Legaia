@@ -1,0 +1,5519 @@
+[
+ {
+  "map": 626,
+  "script": 19,
+  "run": 0,
+  "off": 32,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 19,
+  "run": 1,
+  "off": 54,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 20,
+  "run": 0,
+  "off": 24,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 20,
+  "run": 1,
+  "off": 46,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 21,
+  "run": 0,
+  "off": 47,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 21,
+  "run": 1,
+  "off": 62,
+  "len": 15,
+  "text": "in the dresser!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 21,
+  "run": 2,
+  "off": 80,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 21,
+  "run": 3,
+  "off": 92,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 21,
+  "run": 4,
+  "off": 105,
+  "len": 21,
+  "text": "The dresser is empty!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 22,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 22,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 24,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 24,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 25,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 25,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 26,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 26,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 27,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 27,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 40,
+  "run": 0,
+  "off": 287,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.6<02><80>",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 41,
+  "run": 0,
+  "off": 48,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 44,
+  "run": 0,
+  "off": 43,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 45,
+  "run": 0,
+  "off": 43,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 46,
+  "run": 0,
+  "off": 35,
+  "len": 25,
+  "text": "Yes, these stairs lead to",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 46,
+  "run": 1,
+  "off": 62,
+  "len": 27,
+  "text": "the underground laboratory!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 46,
+  "run": 2,
+  "off": 92,
+  "len": 34,
+  "text": "If you want to see the new weapon,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 46,
+  "run": 3,
+  "off": 128,
+  "len": 29,
+  "text": "you'll have to wait until the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 46,
+  "run": 4,
+  "off": 159,
+  "len": 23,
+  "text": "demonstration tomorrow!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 46,
+  "run": 5,
+  "off": 187,
+  "len": 13,
+  "text": "You may pass.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 0,
+  "off": 39,
+  "len": 35,
+  "text": "Hmmf! The whole town is celebrating",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 1,
+  "off": 76,
+  "len": 34,
+  "text": "the new weapon. I wish I could get",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 2,
+  "off": 112,
+  "len": 22,
+  "text": "in on the celebration!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 3,
+  "off": 139,
+  "len": 18,
+  "text": "Hey, look at this!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 4,
+  "off": 160,
+  "len": 25,
+  "text": "It's a Seru that appeared",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 5,
+  "off": 187,
+  "len": 27,
+  "text": "after the Mist disappeared.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 6,
+  "off": 217,
+  "len": 33,
+  "text": "But it doesn't look wearable, and",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 7,
+  "off": 252,
+  "len": 35,
+  "text": "I can't tell if it's dead or alive.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 8,
+  "off": 293,
+  "len": 14,
+  "text": "Where on earth",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 47,
+  "run": 9,
+  "off": 309,
+  "len": 24,
+  "text": "did this Seru come from?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 0,
+  "off": 35,
+  "len": 23,
+  "text": "Prince Cort is amazing!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 1,
+  "off": 60,
+  "len": 27,
+  "text": "First, he created different",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 2,
+  "off": 89,
+  "len": 28,
+  "text": "Seru in the underground lab.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 3,
+  "off": 120,
+  "len": 31,
+  "text": "Now he's developed a new weapon",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 4,
+  "off": 153,
+  "len": 25,
+  "text": "that'll make all the Seru",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 5,
+  "off": 180,
+  "len": 14,
+  "text": "more powerful.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 6,
+  "off": 199,
+  "len": 19,
+  "text": "It's not our fault.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 7,
+  "off": 220,
+  "len": 23,
+  "text": "It's the Mist. It's all",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 48,
+  "run": 8,
+  "off": 245,
+  "len": 17,
+  "text": "the Mist's fault!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 49,
+  "run": 0,
+  "off": 35,
+  "len": 32,
+  "text": "Don't tell anyone, but sometimes",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 49,
+  "run": 1,
+  "off": 69,
+  "len": 26,
+  "text": "I see Prince Cort scowling",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 49,
+  "run": 2,
+  "off": 97,
+  "len": 26,
+  "text": "with a bone-chilling look.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 49,
+  "run": 3,
+  "off": 128,
+  "len": 28,
+  "text": "Some day I might turn into a",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 49,
+  "run": 4,
+  "off": 158,
+  "len": 21,
+  "text": "Seru monster and harm",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 49,
+  "run": 5,
+  "off": 181,
+  "len": 10,
+  "text": "someone...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 50,
+  "run": 0,
+  "off": 35,
+  "len": 26,
+  "text": "Prince Cort discovered the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 50,
+  "run": 1,
+  "off": 63,
+  "len": 30,
+  "text": "ancient secret of the Seru and",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 50,
+  "run": 2,
+  "off": 95,
+  "len": 32,
+  "text": "used it to make that new weapon.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 50,
+  "run": 3,
+  "off": 132,
+  "len": 20,
+  "text": "Prince Cort has done",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 50,
+  "run": 4,
+  "off": 154,
+  "len": 17,
+  "text": "a terrible thing!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 51,
+  "run": 0,
+  "off": 31,
+  "len": 28,
+  "text": "The plan announced calls for",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 51,
+  "run": 1,
+  "off": 61,
+  "len": 29,
+  "text": "Jette to build a new fortress",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 51,
+  "run": 2,
+  "off": 92,
+  "len": 26,
+  "text": "in the northern mountains.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 51,
+  "run": 3,
+  "off": 121,
+  "len": 24,
+  "text": "I think they call it the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 51,
+  "run": 4,
+  "off": 147,
+  "len": 18,
+  "text": "Absolute Fortress.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 51,
+  "run": 5,
+  "off": 167,
+  "len": 21,
+  "text": "That's some name, eh?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 52,
+  "run": 0,
+  "off": 23,
+  "len": 32,
+  "text": "Everyone's getting ready for the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 52,
+  "run": 1,
+  "off": 57,
+  "len": 35,
+  "text": "big party we're going to have after",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 52,
+  "run": 2,
+  "off": 94,
+  "len": 31,
+  "text": "the new weapon's demonstration.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 52,
+  "run": 3,
+  "off": 130,
+  "len": 30,
+  "text": "Prince Cort is still locked up",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 52,
+  "run": 4,
+  "off": 162,
+  "len": 18,
+  "text": "in the laboratory.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 53,
+  "run": 0,
+  "off": 23,
+  "len": 28,
+  "text": "The King and Queen are about",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 53,
+  "run": 1,
+  "off": 53,
+  "len": 15,
+  "text": "to have a baby.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 53,
+  "run": 2,
+  "off": 73,
+  "len": 30,
+  "text": "I'm so glad the Queen is safe.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 53,
+  "run": 3,
+  "off": 105,
+  "len": 25,
+  "text": "She's pregnant, and I was",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 53,
+  "run": 4,
+  "off": 132,
+  "len": 21,
+  "text": "so worried about her.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 54,
+  "run": 0,
+  "off": 23,
+  "len": 31,
+  "text": "I'm so busy! I wish Prince Cort",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 54,
+  "run": 1,
+  "off": 56,
+  "len": 28,
+  "text": "would make a Seru that could",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 54,
+  "run": 2,
+  "off": 86,
+  "len": 25,
+  "text": "help me with the cooking!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 54,
+  "run": 3,
+  "off": 116,
+  "len": 33,
+  "text": "You said it. It's because of this",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 54,
+  "run": 4,
+  "off": 151,
+  "len": 35,
+  "text": "long war that they make new weapons",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 54,
+  "run": 5,
+  "off": 188,
+  "len": 14,
+  "text": "like the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 55,
+  "run": 0,
+  "off": 21,
+  "len": 31,
+  "text": "They say the Sol warrior, Gaza,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 55,
+  "run": 1,
+  "off": 54,
+  "len": 34,
+  "text": "is incredibly strong. If he comes,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 55,
+  "run": 2,
+  "off": 90,
+  "len": 33,
+  "text": "the only thing to do is run away!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 55,
+  "run": 3,
+  "off": 128,
+  "len": 34,
+  "text": "The Absolute Fortress has a mighty",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 55,
+  "run": 4,
+  "off": 164,
+  "len": 30,
+  "text": "gate full of Seru energy. It's",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 55,
+  "run": 5,
+  "off": 196,
+  "len": 26,
+  "text": "called the \"Gate of Hell\"!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 56,
+  "run": 0,
+  "off": 21,
+  "len": 27,
+  "text": "The war with Sol has lasted",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 56,
+  "run": 1,
+  "off": 50,
+  "len": 32,
+  "text": "more than ten years. To tell the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 56,
+  "run": 2,
+  "off": 84,
+  "len": 23,
+  "text": "truth, I'm weary of it.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 56,
+  "run": 3,
+  "off": 112,
+  "len": 28,
+  "text": "Construction of the Absolute",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 56,
+  "run": 4,
+  "off": 142,
+  "len": 30,
+  "text": "Fortress is finally under way.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 56,
+  "run": 5,
+  "off": 174,
+  "len": 26,
+  "text": "I hear Jette is in charge.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 57,
+  "run": 0,
+  "off": 27,
+  "len": 15,
+  "text": "The new weapon!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 57,
+  "run": 1,
+  "off": 44,
+  "len": 28,
+  "text": "We should use the new weapon",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 57,
+  "run": 2,
+  "off": 74,
+  "len": 15,
+  "text": "to end the war!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 0,
+  "off": 32,
+  "len": 4,
+  "text": "!s<E1>P",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 1,
+  "off": 38,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 2,
+  "off": 50,
+  "len": 12,
+  "text": "Prince Cort!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 3,
+  "off": 64,
+  "len": 23,
+  "text": "I wish to volunteer for",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 4,
+  "off": 89,
+  "len": 22,
+  "text": "this glorious mission!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 5,
+  "off": 116,
+  "len": 13,
+  "text": "F-Forgive me!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 6,
+  "off": 132,
+  "len": 27,
+  "text": "I didn't know I had to kill",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 58,
+  "run": 7,
+  "off": 161,
+  "len": 24,
+  "text": "people. I can't do that!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 0,
+  "off": 44,
+  "len": 4,
+  "text": "!s<E1>{BR}",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 1,
+  "off": 50,
+  "len": 29,
+  "text": "That fellow sleeping there is",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 2,
+  "off": 81,
+  "len": 24,
+  "text": "volunteering for the new",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 3,
+  "off": 107,
+  "len": 32,
+  "text": "weapon's demonstration tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 4,
+  "off": 142,
+  "len": 25,
+  "text": "So let him sleep soundly!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 5,
+  "off": 172,
+  "len": 30,
+  "text": "The Mist turned him right into",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 6,
+  "off": 204,
+  "len": 33,
+  "text": "a monster. He killed many people.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 7,
+  "off": 240,
+  "len": 30,
+  "text": "When the Mist goes away and he",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 8,
+  "off": 272,
+  "len": 20,
+  "text": "hears what he did...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 60,
+  "run": 9,
+  "off": 295,
+  "len": 15,
+  "text": "Ah, poor devil.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 62,
+  "run": 0,
+  "off": 47,
+  "len": 18,
+  "text": "(Sleeping soundly)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 64,
+  "run": 0,
+  "off": 47,
+  "len": 20,
+  "text": "Stop all that noise!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 64,
+  "run": 1,
+  "off": 69,
+  "len": 17,
+  "text": "Please, be quiet!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 0,
+  "off": 66,
+  "len": 26,
+  "text": "Cort: You stopped the Mist",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 1,
+  "off": 94,
+  "len": 7,
+  "text": "for us.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 2,
+  "off": 104,
+  "len": 28,
+  "text": "Cort: For that, I thank you.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 3,
+  "off": 135,
+  "len": 22,
+  "text": "Cort: But your Seru...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 4,
+  "off": 170,
+  "len": 22,
+  "text": "Cort: Get out of here!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 5,
+  "off": 194,
+  "len": 30,
+  "text": "You're disturbing my research.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 6,
+  "off": 226,
+  "len": 17,
+  "text": "And those Seru...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 7,
+  "off": 246,
+  "len": 26,
+  "text": "Cort: Get those disgusting",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 8,
+  "off": 274,
+  "len": 29,
+  "text": "Seru out of my sight at once!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 9,
+  "off": 308,
+  "len": 22,
+  "text": "Cort: That's an order!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 10,
+  "off": 343,
+  "len": 29,
+  "text": "Cort: I ordered you to leave.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 66,
+  "run": 11,
+  "off": 374,
+  "len": 23,
+  "text": "So get out of here now.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 67,
+  "run": 0,
+  "off": 27,
+  "len": 22,
+  "text": "Jette: What a nuisance",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 67,
+  "run": 1,
+  "off": 51,
+  "len": 12,
+  "text": "you all are.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 67,
+  "run": 2,
+  "off": 66,
+  "len": 32,
+  "text": "Jette: You destroyed the Rogue's",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 67,
+  "run": 3,
+  "off": 100,
+  "len": 30,
+  "text": "Tower. Now all my efforts have",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 67,
+  "run": 4,
+  "off": 132,
+  "len": 21,
+  "text": "come down to nothing.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 68,
+  "run": 0,
+  "off": 45,
+  "len": 19,
+  "text": "King Nebular: {NAME:01}...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 68,
+  "run": 1,
+  "off": 66,
+  "len": 23,
+  "text": "You there. Your name is",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 68,
+  "run": 2,
+  "off": 91,
+  "len": 25,
+  "text": "{NAME:01}, right? A nice name...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 69,
+  "run": 0,
+  "off": 36,
+  "len": 13,
+  "text": "Long live {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 69,
+  "run": 1,
+  "off": 51,
+  "len": 13,
+  "text": "Long live {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 69,
+  "run": 2,
+  "off": 66,
+  "len": 13,
+  "text": "Long live {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 70,
+  "run": 0,
+  "off": 43,
+  "len": 26,
+  "text": "This is the palace of King",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 70,
+  "run": 1,
+  "off": 71,
+  "len": 33,
+  "text": "Nebular. Stop loitering about and",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 70,
+  "run": 2,
+  "off": 106,
+  "len": 16,
+  "text": "go back to town!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 70,
+  "run": 3,
+  "off": 127,
+  "len": 22,
+  "text": "Prince Cort must be so",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 70,
+  "run": 4,
+  "off": 151,
+  "len": 10,
+  "text": "depressed.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 71,
+  "run": 0,
+  "off": 52,
+  "len": 31,
+  "text": "The King and Queen have retired",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 71,
+  "run": 1,
+  "off": 85,
+  "len": 33,
+  "text": "for the night. If you wish to see",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 71,
+  "run": 2,
+  "off": 120,
+  "len": 33,
+  "text": "them, you must wait till morning.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 71,
+  "run": 3,
+  "off": 158,
+  "len": 31,
+  "text": "The Queen is beyond this point.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 71,
+  "run": 4,
+  "off": 191,
+  "len": 13,
+  "text": "You may pass.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 0,
+  "off": 43,
+  "len": 25,
+  "text": "You are wearing very nice",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 1,
+  "off": 70,
+  "len": 5,
+  "text": "Seru.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 2,
+  "off": 78,
+  "len": 30,
+  "text": "With a Seru like that, I could",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 3,
+  "off": 110,
+  "len": 33,
+  "text": "make a name for myself in the war",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 4,
+  "off": 145,
+  "len": 9,
+  "text": "with Sol.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 5,
+  "off": 159,
+  "len": 21,
+  "text": "Prince Cort is in the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 72,
+  "run": 6,
+  "off": 182,
+  "len": 23,
+  "text": "underground laboratory.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 0,
+  "off": 43,
+  "len": 29,
+  "text": "Finally! The demonstration of",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 1,
+  "off": 74,
+  "len": 27,
+  "text": "the new weapon is tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 2,
+  "off": 104,
+  "len": 30,
+  "text": "I hear it's powerful enough to",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 3,
+  "off": 136,
+  "len": 29,
+  "text": "annihilate everyone in Sol in",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 4,
+  "off": 167,
+  "len": 23,
+  "text": "one shot. I can't wait!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 5,
+  "off": 195,
+  "len": 30,
+  "text": "After the Mist, a strange type",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 6,
+  "off": 227,
+  "len": 26,
+  "text": "of Seru was invented below",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 73,
+  "run": 7,
+  "off": 255,
+  "len": 15,
+  "text": "here, they say.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 0,
+  "off": 49,
+  "len": 30,
+  "text": "The Queen is expecting and the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 1,
+  "off": 81,
+  "len": 33,
+  "text": "baby is due any day now. We can't",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 2,
+  "off": 116,
+  "len": 24,
+  "text": "have any commotion here!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 3,
+  "off": 145,
+  "len": 28,
+  "text": "Did you meet with the Queen?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 4,
+  "off": 298,
+  "len": 20,
+  "text": "She is so wonderful.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 5,
+  "off": 323,
+  "len": 31,
+  "text": "She should be in the back room.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 74,
+  "run": 6,
+  "off": 356,
+  "len": 25,
+  "text": "Why don't you go see her?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 0,
+  "off": 53,
+  "len": 30,
+  "text": "Zeto: The new weapon is indeed",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 1,
+  "off": 85,
+  "len": 27,
+  "text": "good news. It's a blessing!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 2,
+  "off": 115,
+  "len": 30,
+  "text": "Zeto: With this new weapon, we",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 3,
+  "off": 147,
+  "len": 28,
+  "text": "can magnify the power of our",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 4,
+  "off": 177,
+  "len": 21,
+  "text": "Seru and destroy Sol.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 5,
+  "off": 201,
+  "len": 22,
+  "text": "Zeto: But King Nebular",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 6,
+  "off": 225,
+  "len": 16,
+  "text": "is too cautious.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 7,
+  "off": 244,
+  "len": 29,
+  "text": "Zeto: He says he won't permit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 8,
+  "off": 275,
+  "len": 32,
+  "text": "its use unless the demonstration",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 9,
+  "off": 309,
+  "len": 22,
+  "text": "tomorrow is a success.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 10,
+  "off": 334,
+  "len": 29,
+  "text": "Zeto: This foot-dragging will",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 11,
+  "off": 365,
+  "len": 29,
+  "text": "only make things worse for us",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 12,
+  "off": 396,
+  "len": 11,
+  "text": "in the war.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 13,
+  "off": 450,
+  "len": 30,
+  "text": "Zeto: How can he stop research",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 14,
+  "off": 482,
+  "len": 24,
+  "text": "on the Mist so suddenly?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 15,
+  "off": 509,
+  "len": 31,
+  "text": "Zeto: The King is too stubborn.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 16,
+  "off": 542,
+  "len": 31,
+  "text": "Many must sacrifice their lives",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 75,
+  "run": 17,
+  "off": 575,
+  "len": 19,
+  "text": "for victory in war.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 0,
+  "off": 53,
+  "len": 14,
+  "text": "Dohati: Mmm...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 1,
+  "off": 69,
+  "len": 23,
+  "text": "You are strangers here.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 2,
+  "off": 94,
+  "len": 22,
+  "text": "You must be travelers.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 3,
+  "off": 119,
+  "len": 29,
+  "text": "Dohati: If you are travelers,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 4,
+  "off": 150,
+  "len": 26,
+  "text": "then you must know Ratayu,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 5,
+  "off": 178,
+  "len": 8,
+  "text": "correct?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 6,
+  "off": 311,
+  "len": 22,
+  "text": "Dohati: You don't, eh?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 7,
+  "off": 335,
+  "len": 29,
+  "text": "Then you are of no use to me.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 8,
+  "off": 366,
+  "len": 19,
+  "text": "Leave here at once!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 9,
+  "off": 398,
+  "len": 24,
+  "text": "Dohati: Ratayu possesses",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 10,
+  "off": 424,
+  "len": 23,
+  "text": "the technology to raise",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 11,
+  "off": 449,
+  "len": 14,
+  "text": "gigantic Seru.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 12,
+  "off": 466,
+  "len": 30,
+  "text": "Dohati: I want that technology",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 13,
+  "off": 498,
+  "len": 12,
+  "text": "for Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 14,
+  "off": 523,
+  "len": 30,
+  "text": "Dohati: If only the King would",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 76,
+  "run": 15,
+  "off": 555,
+  "len": 14,
+  "text": "retire soon...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 77,
+  "run": 0,
+  "off": 33,
+  "len": 34,
+  "text": "This is the office of Secretary of",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 77,
+  "run": 1,
+  "off": 69,
+  "len": 31,
+  "text": "State Zeto and Secretary of the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 77,
+  "run": 2,
+  "off": 102,
+  "len": 16,
+  "text": "Interior Dohati.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 78,
+  "run": 0,
+  "off": 35,
+  "len": 27,
+  "text": "Prince Cort is very capable",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 78,
+  "run": 1,
+  "off": 64,
+  "len": 24,
+  "text": "for such a young prince!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 78,
+  "run": 2,
+  "off": 91,
+  "len": 31,
+  "text": "Dohati and Zeto seem to worship",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 78,
+  "run": 3,
+  "off": 124,
+  "len": 11,
+  "text": "his genius.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 0,
+  "off": 55,
+  "len": 11,
+  "text": "Zora: Hmmf.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 1,
+  "off": 68,
+  "len": 16,
+  "text": "The Nemesis Gem?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 2,
+  "off": 86,
+  "len": 33,
+  "text": "That substance is a state secret!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 3,
+  "off": 122,
+  "len": 31,
+  "text": "Zora: When refining the ancient",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 4,
+  "off": 155,
+  "len": 29,
+  "text": "materials needed to build the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 5,
+  "off": 186,
+  "len": 25,
+  "text": "fortress' Gate of Hell...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 6,
+  "off": 214,
+  "len": 27,
+  "text": "Zora: The Nemesis Gems were",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 7,
+  "off": 243,
+  "len": 30,
+  "text": "generated as a byproduct. With",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 8,
+  "off": 275,
+  "len": 30,
+  "text": "them, the Gate of Hell will...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 9,
+  "off": 311,
+  "len": 17,
+  "text": "Zora: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 10,
+  "off": 330,
+  "len": 25,
+  "text": "I have told you too much!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 11,
+  "off": 357,
+  "len": 22,
+  "text": "Now go home, children!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 12,
+  "off": 392,
+  "len": 28,
+  "text": "Zora: Ah-ha, so you pilfered",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 13,
+  "off": 422,
+  "len": 30,
+  "text": "the Nemesis Gem from the King,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 14,
+  "off": 454,
+  "len": 8,
+  "text": "did you?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 15,
+  "off": 465,
+  "len": 19,
+  "text": "Zora: You did well!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 79,
+  "run": 16,
+  "off": 486,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 80,
+  "run": 0,
+  "off": 55,
+  "len": 30,
+  "text": "Gi Delilas: The Delilas Family",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 80,
+  "run": 1,
+  "off": 87,
+  "len": 26,
+  "text": "are the King's bodyguards.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 80,
+  "run": 2,
+  "off": 126,
+  "len": 31,
+  "text": "Gi Delilas: I here that you use",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 80,
+  "run": 3,
+  "off": 159,
+  "len": 31,
+  "text": "incredible fighting techniques.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 80,
+  "run": 4,
+  "off": 192,
+  "len": 26,
+  "text": "I must fight you some day.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 0,
+  "off": 55,
+  "len": 30,
+  "text": "Lu Delilas: Every day we train",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 1,
+  "off": 87,
+  "len": 25,
+  "text": "hard to protect the royal",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 2,
+  "off": 114,
+  "len": 7,
+  "text": "family.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 3,
+  "off": 124,
+  "len": 25,
+  "text": "Lu Delilas: You may fight",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 4,
+  "off": 151,
+  "len": 14,
+  "text": "fairly well...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 5,
+  "off": 168,
+  "len": 31,
+  "text": "Lu Delilas: but you're no match",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 6,
+  "off": 201,
+  "len": 7,
+  "text": "for us!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 7,
+  "off": 221,
+  "len": 30,
+  "text": "Lu Delilas: Those Seru are the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 8,
+  "off": 253,
+  "len": 33,
+  "text": "only reason you've come this far.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 9,
+  "off": 289,
+  "len": 25,
+  "text": "Lu Delilas: I want a Seru",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 10,
+  "off": 316,
+  "len": 25,
+  "text": "that's even more powerful",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 81,
+  "run": 11,
+  "off": 343,
+  "len": 11,
+  "text": "than yours!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 0,
+  "off": 57,
+  "len": 29,
+  "text": "Che Delilas: This is the room",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 1,
+  "off": 88,
+  "len": 28,
+  "text": "of the High Priestess, Zora.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 2,
+  "off": 119,
+  "len": 31,
+  "text": "Che Delilas: Commoners like you",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 3,
+  "off": 152,
+  "len": 16,
+  "text": "are not allowed.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 4,
+  "off": 181,
+  "len": 18,
+  "text": "Che Delilas: Hmmf.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 5,
+  "off": 201,
+  "len": 28,
+  "text": "Commoners like you shouldn't",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 82,
+  "run": 6,
+  "off": 231,
+  "len": 29,
+  "text": "meddle in affairs like these.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 83,
+  "run": 0,
+  "off": 23,
+  "len": 25,
+  "text": "The Queen is on the roof.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 84,
+  "run": 0,
+  "off": 23,
+  "len": 30,
+  "text": "These stairs lead to the roof.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 85,
+  "run": 0,
+  "off": 15,
+  "len": 25,
+  "text": "Queen Minea: You can save",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 85,
+  "run": 1,
+  "off": 42,
+  "len": 21,
+  "text": "Cort. I'm sure of it.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 86,
+  "run": 0,
+  "off": 58,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Do you want to return to",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 86,
+  "run": 1,
+  "off": 92,
+  "len": 35,
+  "text": "the future without the Nemesis Gem?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 86,
+  "run": 2,
+  "off": 132,
+  "len": 22,
+  "text": "{NAME} lit the Seru Flame.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 1,
+  "off": 34,
+  "len": 14,
+  "text": "Award ceremony",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 2,
+  "off": 66,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 3,
+  "off": 84,
+  "len": 23,
+  "text": "The horrible new weapon",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 4,
+  "off": 125,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 5,
+  "off": 143,
+  "len": 21,
+  "text": "To the heroes' return",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 6,
+  "off": 182,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 7,
+  "off": 200,
+  "len": 17,
+  "text": "A displeased Cort",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 8,
+  "off": 235,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 9,
+  "off": 252,
+  "len": 17,
+  "text": "End of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 10,
+  "off": 287,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 11,
+  "off": 304,
+  "len": 17,
+  "text": "End of {NAME:01}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 12,
+  "off": 339,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 13,
+  "off": 356,
+  "len": 17,
+  "text": "End of {NAME:02}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 14,
+  "off": 391,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 15,
+  "off": 408,
+  "len": 21,
+  "text": "Elevator installation",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 16,
+  "off": 447,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 17,
+  "off": 464,
+  "len": 26,
+  "text": "Mrs. Usha's conversation 1",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 18,
+  "off": 508,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 19,
+  "off": 525,
+  "len": 18,
+  "text": "Test Test 1, clear",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 20,
+  "off": 561,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 21,
+  "off": 578,
+  "len": 18,
+  "text": "Test Test 2, clear",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 22,
+  "off": 614,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 23,
+  "off": 631,
+  "len": 14,
+  "text": "Defeat of Koru",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 24,
+  "off": 663,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 25,
+  "off": 680,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 26,
+  "off": 719,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 27,
+  "off": 736,
+  "len": 31,
+  "text": "Destruction of Mist Generator 3",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 28,
+  "off": 785,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 29,
+  "off": 802,
+  "len": 12,
+  "text": "Usha peddler",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 30,
+  "off": 832,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 31,
+  "off": 849,
+  "len": 12,
+  "text": "Code failure",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 32,
+  "off": 879,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 33,
+  "off": 896,
+  "len": 14,
+  "text": "Usha peddler 2",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 34,
+  "off": 928,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 35,
+  "off": 945,
+  "len": 34,
+  "text": "Destruction of the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 36,
+  "off": 997,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 37,
+  "off": 1014,
+  "len": 19,
+  "text": "The dreaded Conkram",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 87,
+  "run": 38,
+  "off": 1051,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 89,
+  "run": 0,
+  "off": 56,
+  "len": 7,
+  "text": "Gggrrr!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 90,
+  "run": 0,
+  "off": 56,
+  "len": 7,
+  "text": "Gggrrr!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 91,
+  "run": 0,
+  "off": 20,
+  "len": 22,
+  "text": "There is a book called",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 91,
+  "run": 1,
+  "off": 44,
+  "len": 19,
+  "text": "\"The Secret of Seru",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 91,
+  "run": 2,
+  "off": 65,
+  "len": 13,
+  "text": "Enhancement.\"",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 92,
+  "run": 0,
+  "off": 20,
+  "len": 22,
+  "text": "There is a book called",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 92,
+  "run": 1,
+  "off": 44,
+  "len": 23,
+  "text": "\"Das Kapital der Seru.\"",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 93,
+  "run": 0,
+  "off": 20,
+  "len": 22,
+  "text": "There is a book called",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 93,
+  "run": 1,
+  "off": 44,
+  "len": 24,
+  "text": "\"The Royal Family Tree.\"",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 95,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:83}",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 95,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 95,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 95,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:83}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 95,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 105,
+  "run": 0,
+  "off": 553,
+  "len": 24,
+  "text": "{NAME:02}: That was easier than",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 105,
+  "run": 1,
+  "off": 579,
+  "len": 26,
+  "text": "I thought. So this is the ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 105,
+  "run": 2,
+  "off": 607,
+  "len": 20,
+  "text": "Conkram of the past.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 105,
+  "run": 3,
+  "off": 708,
+  "len": 25,
+  "text": "{NAME:01}: Quick! Let's find the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 105,
+  "run": 4,
+  "off": 735,
+  "len": 12,
+  "text": "Nemesis Gem!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 0,
+  "off": 267,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: What a mess you got",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 1,
+  "off": 296,
+  "len": 8,
+  "text": "me into.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 2,
+  "off": 396,
+  "len": 25,
+  "text": "{NAME:02}: There are things that",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 3,
+  "off": 423,
+  "len": 29,
+  "text": "look like Ra-Seru Eggs coming",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 4,
+  "off": 454,
+  "len": 17,
+  "text": "out of that hole.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 5,
+  "off": 565,
+  "len": 27,
+  "text": "{NAME:01}: Terra, what's going on?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 6,
+  "off": 594,
+  "len": 31,
+  "text": "Why are Ra-Seru Eggs coming out",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 7,
+  "off": 627,
+  "len": 13,
+  "text": "of that hole?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 8,
+  "off": 725,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That hole leads to the ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 9,
+  "off": 758,
+  "len": 28,
+  "text": "sealed Rogue's Tower, on the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 10,
+  "off": 788,
+  "len": 21,
+  "text": "frontier of Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 11,
+  "off": 812,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Those are alter egos of ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 12,
+  "off": 846,
+  "len": 36,
+  "text": "Rogues, rebel Ra-Seru. They have the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 13,
+  "off": 884,
+  "len": 32,
+  "text": "same properties as Ra-Seru Eggs.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 14,
+  "off": 1078,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: The Mist Generator here",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 15,
+  "off": 1111,
+  "len": 19,
+  "text": "is a primitive one.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 16,
+  "off": 1133,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: With our strength, we may ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 17,
+  "off": 1169,
+  "len": 34,
+  "text": "stop it temporarily, but unless we",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 18,
+  "off": 1205,
+  "len": 36,
+  "text": "cut off the flow of that material...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 19,
+  "off": 1244,
+  "len": 32,
+  "text": "{PAL:9}{M7}{PAL:7}: The Mist Generator can't",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 20,
+  "off": 1278,
+  "len": 23,
+  "text": "be shut off completely.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 21,
+  "off": 1325,
+  "len": 19,
+  "text": "{NAME:02}: In other words,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 22,
+  "off": 1346,
+  "len": 22,
+  "text": "we have to cut off the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 23,
+  "off": 1370,
+  "len": 7,
+  "text": "source.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 24,
+  "off": 1475,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: We must destroy Rogue's",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 25,
+  "off": 1508,
+  "len": 33,
+  "text": "Tower! That will stop that flow, ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 26,
+  "off": 1543,
+  "len": 18,
+  "text": "and stop the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 27,
+  "off": 1671,
+  "len": 20,
+  "text": "{NAME:01}: Rogue's Tower...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 28,
+  "off": 1763,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Rogues are evil",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 29,
+  "off": 1792,
+  "len": 32,
+  "text": "Ra-Seru who plotted a rebellion ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 30,
+  "off": 1826,
+  "len": 34,
+  "text": "against Tieg a thousand years ago.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 31,
+  "off": 2001,
+  "len": 26,
+  "text": "{NAME:02}: There's only one thing",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 32,
+  "off": 2029,
+  "len": 26,
+  "text": "to do, {NAME}! We must destroy",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 33,
+  "off": 2057,
+  "len": 32,
+  "text": "the head Rogue in Rogue's Tower!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 34,
+  "off": 2135,
+  "len": 24,
+  "text": "{NAME:02}: We can't destroy the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 35,
+  "off": 2161,
+  "len": 28,
+  "text": "Mist of the future unless we",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 36,
+  "off": 2191,
+  "len": 22,
+  "text": "destroy the Mist here!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 37,
+  "off": 2335,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: You must be careful.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 38,
+  "off": 2365,
+  "len": 30,
+  "text": "We can't return here unless we",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 39,
+  "off": 2397,
+  "len": 18,
+  "text": "defeat the Rogues.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 40,
+  "off": 2504,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: And one more thing...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 41,
+  "off": 2551,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Before you go to Rogue's ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 42,
+  "off": 2586,
+  "len": 30,
+  "text": "Tower, make sure you are fully",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 106,
+  "run": 43,
+  "off": 2618,
+  "len": 20,
+  "text": "prepared for battle.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 0,
+  "off": 217,
+  "len": 19,
+  "text": "King Nebular: Cort!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 1,
+  "off": 239,
+  "len": 26,
+  "text": "King Nebular: Fortunately,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 2,
+  "off": 267,
+  "len": 21,
+  "text": "the Mist has stopped.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 3,
+  "off": 290,
+  "len": 14,
+  "text": "That is good. ",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 4,
+  "off": 343,
+  "len": 31,
+  "text": "King Nebular: However, the Mist",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 5,
+  "off": 376,
+  "len": 31,
+  "text": "has claimed many lives. What do",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 6,
+  "off": 409,
+  "len": 24,
+  "text": "you think you are doing?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 7,
+  "off": 487,
+  "len": 18,
+  "text": "Cort: But, father!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 8,
+  "off": 507,
+  "len": 14,
+  "text": "The Mist is...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 9,
+  "off": 610,
+  "len": 20,
+  "text": "Jette: Your majesty,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 10,
+  "off": 632,
+  "len": 29,
+  "text": "this is all a simple mistake.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 11,
+  "off": 664,
+  "len": 26,
+  "text": "Jette: Yes, the experiment",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 12,
+  "off": 692,
+  "len": 22,
+  "text": "was successful, but...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 13,
+  "off": 762,
+  "len": 25,
+  "text": "King Nebular: A mistake?!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 14,
+  "off": 789,
+  "len": 29,
+  "text": "Fool! Does a simple \"mistake\"",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 15,
+  "off": 820,
+  "len": 20,
+  "text": "take people's lives?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 16,
+  "off": 933,
+  "len": 15,
+  "text": "King Nebular: ?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 17,
+  "off": 1573,
+  "len": 29,
+  "text": "King Nebular: Who... are you?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 18,
+  "off": 1774,
+  "len": 23,
+  "text": "Don't you recognize me?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 19,
+  "off": 1799,
+  "len": 12,
+  "text": "It's me, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 20,
+  "off": 1881,
+  "len": 17,
+  "text": "King Nebular: {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 21,
+  "off": 2011,
+  "len": 17,
+  "text": "{NAME:02}: Your majesty!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 22,
+  "off": 2030,
+  "len": 20,
+  "text": "You must believe us!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 23,
+  "off": 2053,
+  "len": 28,
+  "text": "{NAME:02}: We have just been to the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 24,
+  "off": 2083,
+  "len": 26,
+  "text": "Seru world and cut off the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 25,
+  "off": 2111,
+  "len": 19,
+  "text": "source of the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 26,
+  "off": 2193,
+  "len": 25,
+  "text": "King Nebular: Is that so?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 27,
+  "off": 2220,
+  "len": 10,
+  "text": "Fantastic!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 28,
+  "off": 2232,
+  "len": 28,
+  "text": "Now I understand everything!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 29,
+  "off": 2263,
+  "len": 22,
+  "text": "King Nebular: You have",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 30,
+  "off": 2287,
+  "len": 21,
+  "text": "my deepest gratitude.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 31,
+  "off": 2314,
+  "len": 35,
+  "text": "King Nebular: The people of Conkram",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 32,
+  "off": 2351,
+  "len": 20,
+  "text": "owe you their lives!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 33,
+  "off": 2373,
+  "len": 20,
+  "text": "I wish to hear more.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 34,
+  "off": 2403,
+  "len": 29,
+  "text": "King Nebular: Let's go to the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 35,
+  "off": 2434,
+  "len": 24,
+  "text": "surface for a long chat.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 36,
+  "off": 2460,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 37,
+  "off": 2599,
+  "len": 18,
+  "text": "King Nebular: Hmm?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 38,
+  "off": 2656,
+  "len": 30,
+  "text": "King Nebular: Cort, that thing",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 39,
+  "off": 2688,
+  "len": 30,
+  "text": "on your back... You're wearing",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 40,
+  "off": 2720,
+  "len": 7,
+  "text": "a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 41,
+  "off": 2730,
+  "len": 29,
+  "text": "King Nebular: It matters not.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 42,
+  "off": 2769,
+  "len": 32,
+  "text": "King Nebular: Cort! Jette! Zora!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 43,
+  "off": 2803,
+  "len": 34,
+  "text": "All of you remain there and repent",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 44,
+  "off": 2839,
+  "len": 23,
+  "text": "for what you have done!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 45,
+  "off": 3149,
+  "len": 18,
+  "text": "Zora: Prince Cort!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 46,
+  "off": 3169,
+  "len": 30,
+  "text": "His Majesty doesn't understand",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 47,
+  "off": 3201,
+  "len": 7,
+  "text": "at all.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 48,
+  "off": 3211,
+  "len": 31,
+  "text": "Zora: He doesn't understand the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 49,
+  "off": 3244,
+  "len": 24,
+  "text": "Mist's possibilities, or",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 50,
+  "off": 3270,
+  "len": 16,
+  "text": "your grand plan!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 51,
+  "off": 3385,
+  "len": 19,
+  "text": "Cort: I know, Zora.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 52,
+  "off": 3406,
+  "len": 21,
+  "text": "Just forget about it.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 53,
+  "off": 3466,
+  "len": 32,
+  "text": "Cort: Besides, I still have time",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 54,
+  "off": 3500,
+  "len": 18,
+  "text": "to get a lot done.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 55,
+  "off": 3620,
+  "len": 18,
+  "text": "Jette: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 56,
+  "off": 3640,
+  "len": 20,
+  "text": "You are quite right!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 107,
+  "run": 57,
+  "off": 3662,
+  "len": 12,
+  "text": "Quite right!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 0,
+  "off": 307,
+  "len": 31,
+  "text": "King Nebular: These three brave",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 1,
+  "off": 340,
+  "len": 27,
+  "text": "warriors have saved Conkram",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 2,
+  "off": 369,
+  "len": 12,
+  "text": "from danger.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 3,
+  "off": 421,
+  "len": 33,
+  "text": "King Nebular: In reward for this,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 4,
+  "off": 456,
+  "len": 28,
+  "text": "they desire the Nemesis Gem.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 5,
+  "off": 487,
+  "len": 30,
+  "text": "King Nebular: Nemesis Gems are",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 6,
+  "off": 519,
+  "len": 32,
+  "text": "byproducts of the Gate of Hell's",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 7,
+  "off": 553,
+  "len": 30,
+  "text": "construction. They are refuse.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 8,
+  "off": 637,
+  "len": 25,
+  "text": "King Nebular: It pains me",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 9,
+  "off": 664,
+  "len": 31,
+  "text": "to give these three such things",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 10,
+  "off": 697,
+  "len": 19,
+  "text": "as a reward, but...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 11,
+  "off": 719,
+  "len": 34,
+  "text": "King Nebular: If that is what they",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 12,
+  "off": 755,
+  "len": 22,
+  "text": "desire, then so be it.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 13,
+  "off": 779,
+  "len": 13,
+  "text": "Such dignity!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 14,
+  "off": 795,
+  "len": 18,
+  "text": "King Nebular: I am",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 15,
+  "off": 815,
+  "len": 31,
+  "text": "therefore going to give them...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 16,
+  "off": 885,
+  "len": 13,
+  "text": "Cort: Father!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 17,
+  "off": 1090,
+  "len": 20,
+  "text": "Cort: I beseech you!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 18,
+  "off": 1112,
+  "len": 20,
+  "text": "Do not give them the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 19,
+  "off": 1134,
+  "len": 12,
+  "text": "Nemesis Gem!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 20,
+  "off": 1218,
+  "len": 28,
+  "text": "King Nebular: Silence, Cort!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 21,
+  "off": 1248,
+  "len": 20,
+  "text": "This is my decision!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 22,
+  "off": 1352,
+  "len": 17,
+  "text": "King Nebular: {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 23,
+  "off": 1371,
+  "len": 10,
+  "text": "Come here.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 24,
+  "off": 1565,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 25,
+  "off": 1577,
+  "len": 7,
+  "text": "the {ITEM:B5}!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 26,
+  "off": 1617,
+  "len": 25,
+  "text": "King Nebular: All of you,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 108,
+  "run": 27,
+  "off": 1644,
+  "len": 22,
+  "text": "you have my gratitude!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 0,
+  "off": 133,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: Do you want to return",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 1,
+  "off": 164,
+  "len": 21,
+  "text": "to the future without",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 2,
+  "off": 187,
+  "len": 16,
+  "text": "the Nemesis Gem?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 3,
+  "off": 428,
+  "len": 20,
+  "text": "{NAME:02}: {NAME}, are we going",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 4,
+  "off": 450,
+  "len": 17,
+  "text": "back to our time?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 5,
+  "off": 592,
+  "len": 9,
+  "text": "{NAME:02}: Good.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 6,
+  "off": 607,
+  "len": 23,
+  "text": "{NAME:02}: Well, it would be a",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 7,
+  "off": 632,
+  "len": 23,
+  "text": "good idea to speak with",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 8,
+  "off": 657,
+  "len": 16,
+  "text": "the people here.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 9,
+  "off": 1421,
+  "len": 22,
+  "text": "{NAME} lit the Seru Flame.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 10,
+  "off": 1652,
+  "len": 13,
+  "text": "{NAME:01}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 11,
+  "off": 1700,
+  "len": 21,
+  "text": "{NAME:02}: {NAME:01}, what's wrong?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 12,
+  "off": 1879,
+  "len": 11,
+  "text": "{NAME:01}: Cort is",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 13,
+  "off": 1892,
+  "len": 17,
+  "text": "my older brother.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 14,
+  "off": 1936,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 15,
+  "off": 2026,
+  "len": 24,
+  "text": "{NAME:02}: Let's go back to the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 16,
+  "off": 2052,
+  "len": 11,
+  "text": "future, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 17,
+  "off": 2065,
+  "len": 33,
+  "text": "Your parents are waiting for you.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 18,
+  "off": 2131,
+  "len": 11,
+  "text": "{NAME:01}: O-Okay.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 19,
+  "off": 2145,
+  "len": 19,
+  "text": "{NAME:01}: You're right...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 20,
+  "off": 2166,
+  "len": 28,
+  "text": "Let's go back to the future.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 21,
+  "off": 2404,
+  "len": 19,
+  "text": "Jette: Prince Cort,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 22,
+  "off": 2425,
+  "len": 30,
+  "text": "if a Mist specimen is what you",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 23,
+  "off": 2457,
+  "len": 24,
+  "text": "need, then we have this.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 24,
+  "off": 2555,
+  "len": 19,
+  "text": "Cort: That's right!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 25,
+  "off": 2576,
+  "len": 29,
+  "text": "By analyzing this, I can make",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 26,
+  "off": 2607,
+  "len": 12,
+  "text": "my own Mist!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 27,
+  "off": 2625,
+  "len": 23,
+  "text": "Jette: You will require",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 28,
+  "off": 2650,
+  "len": 22,
+  "text": "a device of some size.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 29,
+  "off": 2684,
+  "len": 25,
+  "text": "Cort: I don't care! We'll",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 30,
+  "off": 2711,
+  "len": 29,
+  "text": "build a Mist Generator in the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 31,
+  "off": 2742,
+  "len": 18,
+  "text": "Absolute Fortress!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 32,
+  "off": 2791,
+  "len": 30,
+  "text": "Cort: We'll conquer the world!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 33,
+  "off": 2848,
+  "len": 31,
+  "text": "Zora: Ratayu has giant Seru and",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 34,
+  "off": 2881,
+  "len": 28,
+  "text": "the legend of Juggernaut....",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 35,
+  "off": 2915,
+  "len": 21,
+  "text": "Cort: Mist technology",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 36,
+  "off": 2938,
+  "len": 17,
+  "text": "and Juggernaut...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 37,
+  "off": 2958,
+  "len": 25,
+  "text": "Cort: What an interesting",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 38,
+  "off": 2985,
+  "len": 12,
+  "text": "combination!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 39,
+  "off": 3048,
+  "len": 27,
+  "text": "Zora: Prince Cort, there is",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 40,
+  "off": 3077,
+  "len": 22,
+  "text": "no end to your dreams!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 41,
+  "off": 3101,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 42,
+  "off": 3154,
+  "len": 17,
+  "text": "Cort: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 43,
+  "off": 3173,
+  "len": 30,
+  "text": "Listen well. This is an order.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 109,
+  "run": 44,
+  "off": 3205,
+  "len": 13,
+  "text": "An O-R-D-E-R.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 111,
+  "run": 0,
+  "off": 33,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: Do you want to return",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 111,
+  "run": 1,
+  "off": 64,
+  "len": 21,
+  "text": "to the future without",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 111,
+  "run": 2,
+  "off": 87,
+  "len": 16,
+  "text": "the Nemesis Gem?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 111,
+  "run": 3,
+  "off": 110,
+  "len": 22,
+  "text": "{NAME} lit the Seru Flame.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 112,
+  "run": 0,
+  "off": 75,
+  "len": 34,
+  "text": "The King and Queen have retired to",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 112,
+  "run": 1,
+  "off": 111,
+  "len": 34,
+  "text": "their chambers. If you wish to see",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 112,
+  "run": 2,
+  "off": 147,
+  "len": 24,
+  "text": "them, wait till morning.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 113,
+  "run": 0,
+  "off": 75,
+  "len": 25,
+  "text": "Yes, these stairs do lead",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 113,
+  "run": 1,
+  "off": 102,
+  "len": 30,
+  "text": "to the underground laboratory!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 113,
+  "run": 2,
+  "off": 135,
+  "len": 34,
+  "text": "If you want to see the new weapon,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 113,
+  "run": 3,
+  "off": 171,
+  "len": 29,
+  "text": "you'll have to wait until the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 113,
+  "run": 4,
+  "off": 202,
+  "len": 23,
+  "text": "demonstration tomorrow!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 0,
+  "off": 241,
+  "len": 32,
+  "text": "Queen Minea: This is my favorite",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 1,
+  "off": 275,
+  "len": 24,
+  "text": "place in all of Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 2,
+  "off": 336,
+  "len": 16,
+  "text": "Queen Minea: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 3,
+  "off": 363,
+  "len": 20,
+  "text": "thank you very much.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 4,
+  "off": 401,
+  "len": 27,
+  "text": "Queen Minea: Thanks to you,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 5,
+  "off": 430,
+  "len": 23,
+  "text": "my unborn child is safe",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 6,
+  "off": 455,
+  "len": 10,
+  "text": "and sound.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 7,
+  "off": 603,
+  "len": 10,
+  "text": "That's {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 8,
+  "off": 615,
+  "len": 7,
+  "text": "Moth...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 9,
+  "off": 843,
+  "len": 6,
+  "text": "Don't!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 10,
+  "off": 955,
+  "len": 19,
+  "text": "have you forgotten?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 11,
+  "off": 1090,
+  "len": 14,
+  "text": "{NAME:01}: But Terra!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 12,
+  "off": 1106,
+  "len": 17,
+  "text": "That's my mother!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 13,
+  "off": 1125,
+  "len": 10,
+  "text": "My mother!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 14,
+  "off": 1138,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You must never say",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 15,
+  "off": 1166,
+  "len": 31,
+  "text": "who you are or what will happen",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 16,
+  "off": 1199,
+  "len": 14,
+  "text": "in the future.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 17,
+  "off": 1216,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: If you do, you will just",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 18,
+  "off": 1250,
+  "len": 30,
+  "text": "create chaos that will benefit",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 19,
+  "off": 1282,
+  "len": 24,
+  "text": "the Mist and its allies.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 20,
+  "off": 1409,
+  "len": 10,
+  "text": "{NAME:01}: But...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 21,
+  "off": 1441,
+  "len": 23,
+  "text": "now that you are grown,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 22,
+  "off": 1466,
+  "len": 29,
+  "text": "you must understand. Correct?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 23,
+  "off": 1564,
+  "len": 10,
+  "text": "{NAME:01}: Chaos?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 24,
+  "off": 1576,
+  "len": 26,
+  "text": "Benefit the Mist's allies?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 25,
+  "off": 1736,
+  "len": 17,
+  "text": "{NAME:01}: You're right.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 26,
+  "off": 1755,
+  "len": 23,
+  "text": "I'll do what I have to.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 27,
+  "off": 1780,
+  "len": 24,
+  "text": "Even if I don't like it.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 28,
+  "off": 1843,
+  "len": 20,
+  "text": "Queen Minea: To whom",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 29,
+  "off": 1865,
+  "len": 13,
+  "text": "do you speak?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 30,
+  "off": 1917,
+  "len": 28,
+  "text": "{NAME:02}: Pardon me, your majesty.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 31,
+  "off": 1947,
+  "len": 26,
+  "text": "{NAME:01} says that you look just",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 32,
+  "off": 1975,
+  "len": 16,
+  "text": "like her mother.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 33,
+  "off": 2021,
+  "len": 23,
+  "text": "Queen Minea: Oh, I see!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 34,
+  "off": 2047,
+  "len": 16,
+  "text": "Queen Minea: {NAME:01},",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 35,
+  "off": 2065,
+  "len": 25,
+  "text": "I hope to have a daughter",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 36,
+  "off": 2092,
+  "len": 9,
+  "text": "like you.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 37,
+  "off": 2104,
+  "len": 26,
+  "text": "Queen Minea: I'll give you",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 38,
+  "off": 2132,
+  "len": 28,
+  "text": "this, so that you may always",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 39,
+  "off": 2162,
+  "len": 12,
+  "text": "remember me.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 40,
+  "off": 2401,
+  "len": 10,
+  "text": "{NAME:01} now has",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 41,
+  "off": 2413,
+  "len": 13,
+  "text": "Minea's Ring.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 42,
+  "off": 2584,
+  "len": 22,
+  "text": "Queen Minea: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 43,
+  "off": 2612,
+  "len": 28,
+  "text": "Queen Minea: Actually, I was",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 44,
+  "off": 2642,
+  "len": 24,
+  "text": "here praying for my son,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 45,
+  "off": 2668,
+  "len": 5,
+  "text": "Cort.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 46,
+  "off": 2700,
+  "len": 21,
+  "text": "Queen Minea: Cort has",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 47,
+  "off": 2723,
+  "len": 19,
+  "text": "changed completely.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 48,
+  "off": 2757,
+  "len": 19,
+  "text": "Queen Minea: He has",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 49,
+  "off": 2778,
+  "len": 25,
+  "text": "always been zealous about",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 50,
+  "off": 2805,
+  "len": 20,
+  "text": "his research, but...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 51,
+  "off": 2828,
+  "len": 27,
+  "text": "Queen Minea: Since becoming",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 52,
+  "off": 2857,
+  "len": 30,
+  "text": "involved in the Mist, he seems",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 53,
+  "off": 2889,
+  "len": 35,
+  "text": "like a completely different person.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 54,
+  "off": 2948,
+  "len": 27,
+  "text": "Queen Minea: I believe that",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 55,
+  "off": 2977,
+  "len": 23,
+  "text": "you brave warriors have",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 56,
+  "off": 3002,
+  "len": 23,
+  "text": "been sent to me by god.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 57,
+  "off": 3040,
+  "len": 20,
+  "text": "Queen Minea: Please,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 58,
+  "off": 3062,
+  "len": 29,
+  "text": "if something happens to Cort,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 59,
+  "off": 3093,
+  "len": 18,
+  "text": "you must save him.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 60,
+  "off": 3142,
+  "len": 31,
+  "text": "Queen Minea: You can save Cort.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 115,
+  "run": 61,
+  "off": 3175,
+  "len": 15,
+  "text": "I'm sure of it.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 0,
+  "off": 31,
+  "len": 19,
+  "text": "Jette: Prince Cort,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 1,
+  "off": 52,
+  "len": 30,
+  "text": "if a Mist specimen is what you",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 2,
+  "off": 84,
+  "len": 24,
+  "text": "need, then we have this.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 3,
+  "off": 182,
+  "len": 19,
+  "text": "Cort: That's right!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 4,
+  "off": 203,
+  "len": 29,
+  "text": "By analyzing this, I can make",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 5,
+  "off": 234,
+  "len": 12,
+  "text": "my own Mist!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 6,
+  "off": 252,
+  "len": 23,
+  "text": "Jette: You will require",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 7,
+  "off": 277,
+  "len": 22,
+  "text": "a device of some size.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 8,
+  "off": 311,
+  "len": 25,
+  "text": "Cort: I don't care! We'll",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 9,
+  "off": 338,
+  "len": 29,
+  "text": "build a Mist Generator in the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 10,
+  "off": 369,
+  "len": 18,
+  "text": "Absolute Fortress!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 11,
+  "off": 418,
+  "len": 30,
+  "text": "Cort: We'll conquer the world!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 12,
+  "off": 475,
+  "len": 31,
+  "text": "Zora: Ratayu has giant Seru and",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 13,
+  "off": 508,
+  "len": 28,
+  "text": "the legend of Juggernaut....",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 14,
+  "off": 542,
+  "len": 21,
+  "text": "Cort: Mist technology",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 15,
+  "off": 565,
+  "len": 17,
+  "text": "and Juggernaut...",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 16,
+  "off": 585,
+  "len": 25,
+  "text": "Cort: What an interesting",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 17,
+  "off": 612,
+  "len": 12,
+  "text": "combination!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 18,
+  "off": 636,
+  "len": 27,
+  "text": "Zora: Prince Cort, there is",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 19,
+  "off": 665,
+  "len": 21,
+  "text": "no end to your dreams",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 20,
+  "off": 688,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 21,
+  "off": 705,
+  "len": 17,
+  "text": "Cort: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 22,
+  "off": 724,
+  "len": 30,
+  "text": "Listen well. This is an order.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 117,
+  "run": 23,
+  "off": 756,
+  "len": 13,
+  "text": "An O-R-D-E-R.",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 118,
+  "run": 0,
+  "off": 127,
+  "len": 25,
+  "text": "Yes, these stairs do lead",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 118,
+  "run": 1,
+  "off": 154,
+  "len": 30,
+  "text": "to the underground laboratory!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 118,
+  "run": 2,
+  "off": 187,
+  "len": 34,
+  "text": "If you want to see the new weapon,",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 118,
+  "run": 3,
+  "off": 223,
+  "len": 29,
+  "text": "you'll have to wait until the",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 118,
+  "run": 4,
+  "off": 254,
+  "len": 23,
+  "text": "demonstration tomorrow!",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 119,
+  "run": 0,
+  "off": 24,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 119,
+  "run": 1,
+  "off": 61,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 120,
+  "run": 0,
+  "off": 24,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 120,
+  "run": 1,
+  "off": 61,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 121,
+  "run": 0,
+  "off": 24,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 121,
+  "run": 1,
+  "off": 61,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 122,
+  "run": 0,
+  "off": 24,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 122,
+  "run": 1,
+  "off": 61,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 123,
+  "run": 0,
+  "off": 26,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 123,
+  "run": 1,
+  "off": 63,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 124,
+  "run": 0,
+  "off": 26,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 124,
+  "run": 1,
+  "off": 63,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 125,
+  "run": 0,
+  "off": 26,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 125,
+  "run": 1,
+  "off": 63,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 126,
+  "run": 0,
+  "off": 26,
+  "len": 35,
+  "text": "Do you wish to jump into the vortex",
+  "ko": ""
+ },
+ {
+  "map": 626,
+  "script": 126,
+  "run": 1,
+  "off": 63,
+  "len": 24,
+  "text": "and go to Rogue's Tower?",
+  "ko": ""
+ }
+]

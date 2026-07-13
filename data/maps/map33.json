@@ -1,0 +1,4277 @@
+[
+ {
+  "map": 33,
+  "script": 4,
+  "run": 0,
+  "off": 20,
+  "len": 22,
+  "text": "Clean water flows from",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 4,
+  "run": 1,
+  "off": 44,
+  "len": 11,
+  "text": "the spring.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 4,
+  "run": 2,
+  "off": 57,
+  "len": 32,
+  "text": "Do you wish to drink this water?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 4,
+  "run": 3,
+  "off": 264,
+  "len": 33,
+  "text": "What delicious, refreshing water!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 4,
+  "run": 4,
+  "off": 299,
+  "len": 34,
+  "text": "HP and MP are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 4,
+  "run": 5,
+  "off": 343,
+  "len": 31,
+  "text": "decided not to drink the water.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 0,
+  "off": 51,
+  "len": 25,
+  "text": "Lezam: I am called Lezam.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 1,
+  "off": 78,
+  "len": 28,
+  "text": "I serve King Drake, ruler of",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 2,
+  "off": 108,
+  "len": 14,
+  "text": "Drake Kingdom.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 3,
+  "off": 125,
+  "len": 22,
+  "text": "Lezam: So, you are {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 4,
+  "off": 149,
+  "len": 33,
+  "text": "The hunters have told me of you. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 5,
+  "off": 185,
+  "len": 33,
+  "text": "Lezam: You have done great deeds.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 6,
+  "off": 220,
+  "len": 22,
+  "text": "You have my gratitude.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 7,
+  "off": 249,
+  "len": 29,
+  "text": "Tell me why you are grateful.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 8,
+  "off": 280,
+  "len": 28,
+  "text": "Thanks, but I must be going.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 9,
+  "off": 313,
+  "len": 30,
+  "text": "Lezam: You wish to resume your",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 10,
+  "off": 345,
+  "len": 27,
+  "text": "journey. I understand. Then",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 11,
+  "off": 374,
+  "len": 30,
+  "text": "I shall not take up your time.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 12,
+  "off": 407,
+  "len": 30,
+  "text": "Lezam: I had hoped to ask your",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 13,
+  "off": 439,
+  "len": 29,
+  "text": "help concerning Drake Castle,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 14,
+  "off": 470,
+  "len": 23,
+  "text": "which lies beyond here.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 15,
+  "off": 498,
+  "len": 21,
+  "text": "Lezam: What is wrong?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 16,
+  "off": 521,
+  "len": 29,
+  "text": "Do you wish to hear my story?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 17,
+  "off": 675,
+  "len": 29,
+  "text": "Lezam: Then I shall tell you.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 18,
+  "off": 710,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 19,
+  "off": 722,
+  "len": 10,
+  "text": "Good luck.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 20,
+  "off": 737,
+  "len": 25,
+  "text": "Lezam: Yes, this is about",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 21,
+  "off": 764,
+  "len": 34,
+  "text": "something that happened before the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 22,
+  "off": 800,
+  "len": 18,
+  "text": "Mist reached here.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 23,
+  "off": 821,
+  "len": 31,
+  "text": "Lezam: I was heading to Rim Elm",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 24,
+  "off": 854,
+  "len": 33,
+  "text": "under King Drake's orders to warn",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 25,
+  "off": 889,
+  "len": 17,
+  "text": "them of the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 26,
+  "off": 909,
+  "len": 29,
+  "text": "Lezam: But the Mist caught up",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 27,
+  "off": 940,
+  "len": 28,
+  "text": "with me, and I became a Seru",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 28,
+  "off": 970,
+  "len": 8,
+  "text": "monster!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 29,
+  "off": 981,
+  "len": 31,
+  "text": "Lezam: From what I hear, it is ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 30,
+  "off": 1014,
+  "len": 29,
+  "text": "your deeds that enabled me to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 31,
+  "off": 1045,
+  "len": 19,
+  "text": "become human again.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 32,
+  "off": 1067,
+  "len": 33,
+  "text": "Lezam: That is why I am grateful.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 33,
+  "off": 1102,
+  "len": 18,
+  "text": "Thank you so much!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 34,
+  "off": 1123,
+  "len": 33,
+  "text": "Lezam: Drake is surrounded by the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 35,
+  "off": 1158,
+  "len": 30,
+  "text": "Mist, and King Drake is surely",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 36,
+  "off": 1190,
+  "len": 28,
+  "text": "awaiting you... your powers!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 37,
+  "off": 1221,
+  "len": 35,
+  "text": "Lezam: With your powers, our Castle",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 38,
+  "off": 1258,
+  "len": 33,
+  "text": "could be saved. Will you help us?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 39,
+  "off": 1416,
+  "len": 21,
+  "text": "Lezam: Oh, thank you!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 40,
+  "off": 1439,
+  "len": 26,
+  "text": "Please do whatever you can",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 41,
+  "off": 1467,
+  "len": 21,
+  "text": "to save Drake Castle!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 42,
+  "off": 1491,
+  "len": 34,
+  "text": "Lezam: Before I departed, the King",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 43,
+  "off": 1527,
+  "len": 32,
+  "text": "had made a frightening decision.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 44,
+  "off": 1561,
+  "len": 19,
+  "text": "I hope he is safe. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 45,
+  "off": 1589,
+  "len": 18,
+  "text": "Lezam: N...No? Oh.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 46,
+  "off": 1610,
+  "len": 14,
+  "text": "Lezam: I see. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 47,
+  "off": 1626,
+  "len": 23,
+  "text": "Perhaps I ask too much.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 48,
+  "off": 1652,
+  "len": 30,
+  "text": "Lezam: I am sure you have your",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 49,
+  "off": 1684,
+  "len": 22,
+  "text": "own quests to pursue. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 50,
+  "off": 1708,
+  "len": 12,
+  "text": "I apologize.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 51,
+  "off": 1731,
+  "len": 25,
+  "text": "Lezam: Before departing, ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 52,
+  "off": 1758,
+  "len": 26,
+  "text": "King Drake made a decision",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 53,
+  "off": 1786,
+  "len": 21,
+  "text": "of great consequence.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 54,
+  "off": 1810,
+  "len": 28,
+  "text": "Lezam: One that is difficult",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 55,
+  "off": 1840,
+  "len": 11,
+  "text": "to discuss.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 56,
+  "off": 1854,
+  "len": 30,
+  "text": "Lezam: If you wish to know the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 57,
+  "off": 1886,
+  "len": 32,
+  "text": "consequences of that decision...",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 58,
+  "off": 1921,
+  "len": 30,
+  "text": "Lezam: Then go to Drake Castle",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 59,
+  "off": 1953,
+  "len": 21,
+  "text": "and see for yourself.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 60,
+  "off": 1996,
+  "len": 17,
+  "text": "Lezam: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 61,
+  "off": 2015,
+  "len": 27,
+  "text": "You freed Drake Castle from",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 62,
+  "off": 2044,
+  "len": 9,
+  "text": "the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 63,
+  "off": 2056,
+  "len": 14,
+  "text": "Lezam: Oh, me?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 64,
+  "off": 2073,
+  "len": 30,
+  "text": "Lezam: I cannot go back to the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 65,
+  "off": 2105,
+  "len": 35,
+  "text": "castle. I am ashamed for failing to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 66,
+  "off": 2142,
+  "len": 28,
+  "text": "fulfill my duty to the King.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 67,
+  "off": 2173,
+  "len": 21,
+  "text": "Lezam: That is why I ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 68,
+  "off": 2196,
+  "len": 19,
+  "text": "opened a shop here.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 69,
+  "off": 2218,
+  "len": 28,
+  "text": "Lezam: I'm a shopkeeper now!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 70,
+  "off": 2248,
+  "len": 20,
+  "text": "Welcome to my store!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 71,
+  "off": 2303,
+  "len": 17,
+  "text": "Lezam: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 72,
+  "off": 2322,
+  "len": 27,
+  "text": "You freed Drake Castle from",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 73,
+  "off": 2351,
+  "len": 9,
+  "text": "the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 74,
+  "off": 2363,
+  "len": 14,
+  "text": "Lezam: Oh, me?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 75,
+  "off": 2380,
+  "len": 29,
+  "text": "Lezam: I was sent by the King",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 76,
+  "off": 2411,
+  "len": 26,
+  "text": "to warn Rim Elm of danger.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 77,
+  "off": 2440,
+  "len": 32,
+  "text": "Lezam: But the Mist prevented me",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 78,
+  "off": 2474,
+  "len": 35,
+  "text": "from fulfilling that duty. I am too",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 79,
+  "off": 2511,
+  "len": 32,
+  "text": "ashamed to return to the castle.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 80,
+  "off": 2546,
+  "len": 21,
+  "text": "Lezam: That is why I ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 81,
+  "off": 2569,
+  "len": 19,
+  "text": "opened a shop here.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 82,
+  "off": 2594,
+  "len": 21,
+  "text": "Lezam: Do you wish to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 6,
+  "run": 83,
+  "off": 2617,
+  "len": 14,
+  "text": "buy something?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 0,
+  "off": 64,
+  "len": 25,
+  "text": "It's been a while since I",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 1,
+  "off": 91,
+  "len": 26,
+  "text": "ran across someone outside",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 2,
+  "off": 119,
+  "len": 12,
+  "text": "the village.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 3,
+  "off": 136,
+  "len": 17,
+  "text": "{NAME}, where are you",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 4,
+  "off": 155,
+  "len": 10,
+  "text": "going now?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 5,
+  "off": 174,
+  "len": 15,
+  "text": "Biron Monastery",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 6,
+  "off": 191,
+  "len": 12,
+  "text": "Drake Castle",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 7,
+  "off": 205,
+  "len": 16,
+  "text": "I can't tell you",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 8,
+  "off": 224,
+  "len": 22,
+  "text": "What? Biron Monastery?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 9,
+  "off": 248,
+  "len": 24,
+  "text": "Well, you've got quite a",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 10,
+  "off": 274,
+  "len": 21,
+  "text": "journey ahead of you!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 11,
+  "off": 298,
+  "len": 26,
+  "text": "To get to Biron, you must ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 12,
+  "off": 326,
+  "len": 27,
+  "text": "cross the river to the east",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 13,
+  "off": 355,
+  "len": 26,
+  "text": "and head northeast, but...",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 14,
+  "off": 386,
+  "len": 25,
+  "text": "Oh, so you're going there",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 15,
+  "off": 413,
+  "len": 15,
+  "text": "for Lezam, huh?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 16,
+  "off": 431,
+  "len": 21,
+  "text": "Drake Castle is north",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 17,
+  "off": 454,
+  "len": 14,
+  "text": "of the spring.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 18,
+  "off": 473,
+  "len": 21,
+  "text": "Ah, a secret mission!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 19,
+  "off": 496,
+  "len": 28,
+  "text": "What is it, a secret mission",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 20,
+  "off": 526,
+  "len": 16,
+  "text": "for the Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 21,
+  "off": 545,
+  "len": 13,
+  "text": "That's great!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 22,
+  "off": 560,
+  "len": 19,
+  "text": "{NAME}, you're a mighty",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 23,
+  "off": 581,
+  "len": 12,
+  "text": "warrior now!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 24,
+  "off": 598,
+  "len": 25,
+  "text": "{NAME}, don't forget to visit",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 25,
+  "off": 625,
+  "len": 18,
+  "text": "Rim Elm sometimes.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 26,
+  "off": 645,
+  "len": 17,
+  "text": "Tetsu misses you!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 27,
+  "off": 667,
+  "len": 8,
+  "text": "Hey, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 28,
+  "off": 677,
+  "len": 30,
+  "text": "You have a lot of friends now.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 29,
+  "off": 709,
+  "len": 13,
+  "text": "That's great!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 30,
+  "off": 727,
+  "len": 28,
+  "text": "The monster laying siege to ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 31,
+  "off": 757,
+  "len": 29,
+  "text": "Rim Elm is getting bigger and",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 32,
+  "off": 788,
+  "len": 15,
+  "text": "bigger, I hear.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 33,
+  "off": 806,
+  "len": 24,
+  "text": "Some day it might engulf",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 7,
+  "run": 34,
+  "off": 832,
+  "len": 16,
+  "text": "the whole world.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 0,
+  "off": 50,
+  "len": 24,
+  "text": "{NAME}, listen to what Lezam",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 1,
+  "off": 76,
+  "len": 11,
+  "text": "has to say!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 2,
+  "off": 92,
+  "len": 16,
+  "text": "The Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 3,
+  "off": 110,
+  "len": 29,
+  "text": "has driven all the Mist away.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 4,
+  "off": 142,
+  "len": 30,
+  "text": "Now, if only the waters of the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 5,
+  "off": 174,
+  "len": 35,
+  "text": "river to the east would subside, we",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 6,
+  "off": 211,
+  "len": 31,
+  "text": "could go even farther to hunt. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 7,
+  "off": 247,
+  "len": 26,
+  "text": "Now that the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 8,
+  "run": 8,
+  "off": 275,
+  "len": 26,
+  "text": "hunting is so much easier!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 0,
+  "off": 52,
+  "len": 32,
+  "text": "When we came to the spring as we",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 1,
+  "off": 86,
+  "len": 27,
+  "text": "always do, Lezam was here. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 2,
+  "off": 118,
+  "len": 24,
+  "text": "So Lezam was an envoy of",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 3,
+  "off": 144,
+  "len": 28,
+  "text": "King Drake. Speaking of King",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 4,
+  "off": 174,
+  "len": 8,
+  "text": "Drake...",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 5,
+  "off": 185,
+  "len": 33,
+  "text": "He is the one who used to control",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 9,
+  "run": 6,
+  "off": 220,
+  "len": 24,
+  "text": "the water gate upstream.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 0,
+  "off": 33,
+  "len": 32,
+  "text": "If you want to know about Lezam,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 1,
+  "off": 67,
+  "len": 18,
+  "text": "ask Lezam himself.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 2,
+  "off": 90,
+  "len": 22,
+  "text": "{NAME}, I have some advice",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 3,
+  "off": 114,
+  "len": 9,
+  "text": "for you. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 4,
+  "off": 125,
+  "len": 26,
+  "text": "Will you lend me your ear?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 5,
+  "off": 276,
+  "len": 29,
+  "text": "Now, you may have powers that",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 6,
+  "off": 307,
+  "len": 32,
+  "text": "we don't because of that Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 7,
+  "off": 341,
+  "len": 15,
+  "text": "and all, but...",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 8,
+  "off": 359,
+  "len": 24,
+  "text": "Drake Castle up ahead is",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 9,
+  "off": 385,
+  "len": 27,
+  "text": "just crawling with the most",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 10,
+  "off": 414,
+  "len": 23,
+  "text": "horrible Seru monsters!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 11,
+  "off": 440,
+  "len": 30,
+  "text": "Listen! These are the hunters'",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 12,
+  "off": 472,
+  "len": 30,
+  "text": "rules. Rule 1: Always have the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 13,
+  "off": 504,
+  "len": 17,
+  "text": "proper equipment.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 14,
+  "off": 524,
+  "len": 27,
+  "text": "If you think you don't have",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 15,
+  "off": 553,
+  "len": 32,
+  "text": "the right weapons or armor, then",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 16,
+  "off": 587,
+  "len": 27,
+  "text": "head right back to Rim Elm!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 17,
+  "off": 617,
+  "len": 34,
+  "text": "You can still buy whatever type of",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 18,
+  "off": 653,
+  "len": 25,
+  "text": "equipment you need at the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 19,
+  "off": 680,
+  "len": 12,
+  "text": "shops there.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 20,
+  "off": 695,
+  "len": 30,
+  "text": "Hunters' Rule Number 2: A trip",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 21,
+  "off": 727,
+  "len": 34,
+  "text": "without healing medicine is a trip",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 22,
+  "off": 763,
+  "len": 18,
+  "text": "to the next world!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 23,
+  "off": 784,
+  "len": 31,
+  "text": "When going to a strange place, ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 24,
+  "off": 817,
+  "len": 27,
+  "text": "always take at least 5 or 6",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 25,
+  "off": 846,
+  "len": 15,
+  "text": "healing leaves.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 26,
+  "off": 866,
+  "len": 32,
+  "text": "You don't want my advice? Hmmph.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 27,
+  "off": 900,
+  "len": 28,
+  "text": "I was just going to tell you",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 10,
+  "run": 28,
+  "off": 930,
+  "len": 28,
+  "text": "something for your own good.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 0,
+  "off": 33,
+  "len": 22,
+  "text": "{NAME}, you should talk to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 1,
+  "off": 57,
+  "len": 6,
+  "text": "Lezam.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 2,
+  "off": 68,
+  "len": 25,
+  "text": "{NAME}, before going outside,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 3,
+  "off": 95,
+  "len": 31,
+  "text": "drink the water at the drinking",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 4,
+  "off": 128,
+  "len": 23,
+  "text": "fountain by the spring.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 5,
+  "off": 154,
+  "len": 23,
+  "text": "Your whole body will be",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 11,
+  "run": 6,
+  "off": 179,
+  "len": 13,
+  "text": "re-energized!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 0,
+  "off": 54,
+  "len": 33,
+  "text": "I'm thinking of opening a trading",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 1,
+  "off": 89,
+  "len": 33,
+  "text": "business between Drake Castle and",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 2,
+  "off": 124,
+  "len": 29,
+  "text": "Rim Elm once the Mist clears.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 3,
+  "off": 158,
+  "len": 33,
+  "text": "The Mist stole our youth from us,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 4,
+  "off": 193,
+  "len": 29,
+  "text": "but I'm going to get it back.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 5,
+  "off": 227,
+  "len": 27,
+  "text": "I don't want to see Rim Elm",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 6,
+  "off": 256,
+  "len": 31,
+  "text": "like that. That's why I keep my",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 12,
+  "run": 7,
+  "off": 289,
+  "len": 12,
+  "text": "back turned.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 0,
+  "off": 58,
+  "len": 34,
+  "text": "Have you been to the Water Gate by",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 1,
+  "off": 94,
+  "len": 31,
+  "text": "Drake Castle? You can close the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 2,
+  "off": 127,
+  "len": 29,
+  "text": "gate with the Water Gate Key.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 3,
+  "off": 161,
+  "len": 31,
+  "text": "Did you know that the river has",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 4,
+  "off": 194,
+  "len": 28,
+  "text": "run dry? Somebody must have ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 5,
+  "off": 224,
+  "len": 22,
+  "text": "closed the Water Gate.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 6,
+  "off": 251,
+  "len": 34,
+  "text": "The world's a big place. There are",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 7,
+  "off": 287,
+  "len": 33,
+  "text": "all sorts of people who can teach",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 8,
+  "off": 322,
+  "len": 20,
+  "text": "you valuable skills.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 9,
+  "off": 347,
+  "len": 28,
+  "text": "{NAME}, Rim Elm, our home, is in",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 10,
+  "off": 377,
+  "len": 8,
+  "text": "trouble!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 11,
+  "off": 388,
+  "len": 33,
+  "text": "Use your Ra-Seru and do something",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 13,
+  "run": 12,
+  "off": 423,
+  "len": 7,
+  "text": "for us!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 0,
+  "off": 37,
+  "len": 30,
+  "text": "I haven't enjoyed traveling in",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 1,
+  "off": 69,
+  "len": 34,
+  "text": "ten years! Things are so nice now!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 2,
+  "off": 108,
+  "len": 31,
+  "text": "During our trip, if we had been",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 3,
+  "off": 141,
+  "len": 21,
+  "text": "in Rim Elm... Oh, my!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 4,
+  "off": 165,
+  "len": 33,
+  "text": "I know this sounds self-centered,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 5,
+  "off": 200,
+  "len": 30,
+  "text": "but I'm a little relieved that",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 14,
+  "run": 6,
+  "off": 232,
+  "len": 11,
+  "text": "we weren't.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 0,
+  "off": 48,
+  "len": 26,
+  "text": "{NAME}, I was able to find my ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 1,
+  "off": 76,
+  "len": 29,
+  "text": "younger brother, Lezam, since",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 2,
+  "off": 107,
+  "len": 17,
+  "text": "the Mist cleared!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 3,
+  "off": 127,
+  "len": 23,
+  "text": "I never thought that he",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 4,
+  "off": 152,
+  "len": 30,
+  "text": "would have gone into business.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 5,
+  "off": 185,
+  "len": 30,
+  "text": "But anyway, I'm helping out at",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 6,
+  "off": 217,
+  "len": 13,
+  "text": "his shop now.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 7,
+  "off": 233,
+  "len": 25,
+  "text": "So, welcome to our shop! ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 8,
+  "off": 260,
+  "len": 23,
+  "text": "What can I get for you?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 9,
+  "off": 311,
+  "len": 35,
+  "text": "The only way we can help is through",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 10,
+  "off": 348,
+  "len": 16,
+  "text": "our businesses. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 15,
+  "run": 11,
+  "off": 366,
+  "len": 21,
+  "text": "Please buy something!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 16,
+  "run": 0,
+  "off": 18,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 16,
+  "run": 1,
+  "off": 33,
+  "len": 19,
+  "text": "Liberation of Drake",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 16,
+  "run": 2,
+  "off": 54,
+  "len": 13,
+  "text": "Drake Kingdom",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 16,
+  "run": 3,
+  "off": 69,
+  "len": 5,
+  "text": "Clear",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 16,
+  "run": 4,
+  "off": 76,
+  "len": 5,
+  "text": "Clear",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 0,
+  "off": 21,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 1,
+  "off": 40,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 2,
+  "off": 75,
+  "len": 30,
+  "text": "it reads, \"{PAL:9}Arts{PAL:7}: Secrets.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 3,
+  "off": 117,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 4,
+  "off": 154,
+  "len": 21,
+  "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 5,
+  "off": 177,
+  "len": 24,
+  "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 6,
+  "off": 203,
+  "len": 19,
+  "text": "Read \"About {PAL:4}AP{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 7,
+  "off": 234,
+  "len": 26,
+  "text": "{PAL:9}Arts{PAL:7} -- For inflicting",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 8,
+  "off": 262,
+  "len": 31,
+  "text": "severe damage on your opponent,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 9,
+  "off": 295,
+  "len": 22,
+  "text": "two things are needed:",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 10,
+  "off": 319,
+  "len": 13,
+  "text": "Arts and AP! ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 11,
+  "off": 334,
+  "len": 15,
+  "text": "Execute Arts by",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 12,
+  "off": 351,
+  "len": 28,
+  "text": "combining \"Right (Ra-Seru)\",",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 13,
+  "off": 381,
+  "len": 22,
+  "text": "\"Left (Arms)\", \"High\",",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 14,
+  "off": 405,
+  "len": 25,
+  "text": "and \"Low\" battle commands",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 15,
+  "off": 432,
+  "len": 23,
+  "text": "in a specific sequence.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 16,
+  "off": 457,
+  "len": 30,
+  "text": "You also need sufficient AP to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 17,
+  "off": 489,
+  "len": 25,
+  "text": "execute an {PAL:9}Arts{PAL:7} move.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 18,
+  "off": 540,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 19,
+  "off": 559,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 20,
+  "off": 594,
+  "len": 29,
+  "text": "it reads \"{PAL:9}Arts{PAL:7}: Secrets.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 21,
+  "off": 635,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 22,
+  "off": 672,
+  "len": 21,
+  "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 23,
+  "off": 695,
+  "len": 24,
+  "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 24,
+  "off": 721,
+  "len": 19,
+  "text": "Read \"About {PAL:4}AP{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 25,
+  "off": 752,
+  "len": 29,
+  "text": "Try different combinations of",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 26,
+  "off": 783,
+  "len": 32,
+  "text": "commands when fighting -- that's",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 27,
+  "off": 817,
+  "len": 29,
+  "text": "the secret to discovering new",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 28,
+  "off": 859,
+  "len": 31,
+  "text": "A kind person may teach you new",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 29,
+  "off": 892,
+  "len": 27,
+  "text": "{PAL:9}Arts{PAL:7}. If you are lucky,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 30,
+  "off": 921,
+  "len": 25,
+  "text": "you can also discover new",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 31,
+  "off": 948,
+  "len": 32,
+  "text": "{PAL:9}Arts{PAL:7} using Auto battle mode.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 32,
+  "off": 982,
+  "len": 30,
+  "text": "There are also {PAL:9}Hyper Arts{PAL:7}!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 33,
+  "off": 1014,
+  "len": 33,
+  "text": "The only way to learn these is to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 34,
+  "off": 1049,
+  "len": 29,
+  "text": "read the hidden Secret Books.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 35,
+  "off": 1104,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 36,
+  "off": 1123,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 37,
+  "off": 1158,
+  "len": 29,
+  "text": "it reads \"{PAL:9}Arts{PAL:7}: Secrets.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 38,
+  "off": 1199,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 39,
+  "off": 1236,
+  "len": 21,
+  "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 40,
+  "off": 1259,
+  "len": 24,
+  "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 41,
+  "off": 1285,
+  "len": 19,
+  "text": "Read \"About {PAL:4}AP{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 42,
+  "off": 1316,
+  "len": 31,
+  "text": "{PAL:4}AP{PAL:7} stands for \"Art Points,\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 43,
+  "off": 1349,
+  "len": 37,
+  "text": "which are needed to execute {PAL:9}Arts{PAL:7}.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 44,
+  "off": 1388,
+  "len": 34,
+  "text": "When fighting a powerful opponent,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 45,
+  "off": 1424,
+  "len": 25,
+  "text": "check your remaining APs!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 46,
+  "off": 1451,
+  "len": 24,
+  "text": "APs range from 0 to 100.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 47,
+  "off": 1477,
+  "len": 34,
+  "text": "There are three ways to obtain AP:",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 48,
+  "off": 1513,
+  "len": 34,
+  "text": "1. Automatically during each turn.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 49,
+  "off": 1549,
+  "len": 28,
+  "text": "2. Using the Spirit command.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 50,
+  "off": 1579,
+  "len": 28,
+  "text": "3. Sustaining damage from an",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 51,
+  "off": 1609,
+  "len": 18,
+  "text": "opponent's attack.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 52,
+  "off": 1653,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 53,
+  "off": 1672,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 54,
+  "off": 1707,
+  "len": 29,
+  "text": "it reads \"{PAL:9}Arts{PAL:7}: Secrets.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 55,
+  "off": 1748,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 56,
+  "off": 1785,
+  "len": 21,
+  "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 57,
+  "off": 1808,
+  "len": 24,
+  "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 17,
+  "run": 58,
+  "off": 1834,
+  "len": 19,
+  "text": "Read \"About {PAL:4}AP{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 0,
+  "off": 21,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 1,
+  "off": 40,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 2,
+  "off": 75,
+  "len": 33,
+  "text": "it reads, \"Secrets of {PAL:5}Magic{PAL:7}.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 3,
+  "off": 120,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 4,
+  "off": 157,
+  "len": 22,
+  "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 5,
+  "off": 181,
+  "len": 25,
+  "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 6,
+  "off": 208,
+  "len": 33,
+  "text": "Read \"Identifying Seru Opponents\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 7,
+  "off": 253,
+  "len": 30,
+  "text": "{PAL:5}Magic{PAL:7} is the most powerful",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 8,
+  "off": 285,
+  "len": 32,
+  "text": "advantage of Ra-Seru.  To learn ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 9,
+  "off": 319,
+  "len": 33,
+  "text": "magic, defeat a Seru in combat.  ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 10,
+  "off": 354,
+  "len": 28,
+  "text": "{PAL:5}Magic{PAL:7} requires MP, which",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 11,
+  "off": 384,
+  "len": 24,
+  "text": "stands for Magic Points.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 12,
+  "off": 410,
+  "len": 27,
+  "text": "Each spell has a different ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 13,
+  "off": 439,
+  "len": 30,
+  "text": "{PAL:5}Magic Level{PAL:7} from 1 to 9.  ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 14,
+  "off": 471,
+  "len": 31,
+  "text": "When {PAL:5}Magic{PAL:7} is successfully ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 15,
+  "off": 504,
+  "len": 35,
+  "text": "used repeatedly, the level rises.  ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 16,
+  "off": 541,
+  "len": 31,
+  "text": "The power of {PAL:5}Magic{PAL:7} depends ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 17,
+  "off": 574,
+  "len": 31,
+  "text": "on the user, the opponent, and ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 18,
+  "off": 607,
+  "len": 23,
+  "text": "the attributes of each.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 19,
+  "off": 659,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 20,
+  "off": 678,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 21,
+  "off": 713,
+  "len": 32,
+  "text": "it reads \"Secrets of {PAL:5}Magic{PAL:7}.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 22,
+  "off": 757,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 23,
+  "off": 794,
+  "len": 22,
+  "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 24,
+  "off": 818,
+  "len": 25,
+  "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 25,
+  "off": 845,
+  "len": 33,
+  "text": "Read \"Identifying Seru Opponents\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 26,
+  "off": 890,
+  "len": 39,
+  "text": "First, remember that {PAL:5}Magic{PAL:7} can only",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 27,
+  "off": 931,
+  "len": 35,
+  "text": "be acquired by Ra-Seru, not humans!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 28,
+  "off": 968,
+  "len": 31,
+  "text": "When humans with Ra-Seru defeat",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 29,
+  "off": 1001,
+  "len": 36,
+  "text": "Seru, new {PAL:5}Magic{PAL:7} may be acquired,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 30,
+  "off": 1039,
+  "len": 28,
+  "text": "unless the Seru opponent was",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 31,
+  "off": 1069,
+  "len": 24,
+  "text": "defeated with {PAL:5}Magic{PAL:7}.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 32,
+  "off": 1095,
+  "len": 35,
+  "text": "Also, {PAL:5}Magic{PAL:7} is acquired only by",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 33,
+  "off": 1132,
+  "len": 26,
+  "text": "the victorious character. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 34,
+  "off": 1160,
+  "len": 34,
+  "text": "For a certain character to acquire",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 35,
+  "off": 1196,
+  "len": 38,
+  "text": "{PAL:5}Magic{PAL:7}, that character must deliver",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 36,
+  "off": 1236,
+  "len": 25,
+  "text": "the final blow in combat!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 37,
+  "off": 1290,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 38,
+  "off": 1309,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 39,
+  "off": 1344,
+  "len": 33,
+  "text": "it reads, \"Secrets of {PAL:5}Magic{PAL:7}.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 40,
+  "off": 1389,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 41,
+  "off": 1426,
+  "len": 22,
+  "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 42,
+  "off": 1450,
+  "len": 25,
+  "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 43,
+  "off": 1477,
+  "len": 33,
+  "text": "Read \"Identifying Seru Opponents\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 44,
+  "off": 1522,
+  "len": 36,
+  "text": "To acquire {PAL:5}Magic{PAL:7}, you must fight",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 45,
+  "off": 1560,
+  "len": 29,
+  "text": "a Seru opponent. Seru can be ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 46,
+  "off": 1591,
+  "len": 26,
+  "text": "identified by their name, ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 47,
+  "off": 1619,
+  "len": 20,
+  "text": "such as Fire Gimard.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 48,
+  "off": 1641,
+  "len": 27,
+  "text": "The name also tells you the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 49,
+  "off": 1670,
+  "len": 26,
+  "text": "element. Fire Seru possess",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 50,
+  "off": 1698,
+  "len": 28,
+  "text": "the Fire element, and so on.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 51,
+  "off": 1728,
+  "len": 33,
+  "text": "Seru opponents appear only in the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 52,
+  "off": 1763,
+  "len": 26,
+  "text": "Mist and never in a field.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 53,
+  "off": 1791,
+  "len": 31,
+  "text": "If you fight a Seru but fail to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 54,
+  "off": 1824,
+  "len": 31,
+  "text": "get its {PAL:5}Magic{PAL:7}, try fighting",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 55,
+  "off": 1857,
+  "len": 31,
+  "text": "that Seru in another Mist area.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 56,
+  "off": 1917,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 57,
+  "off": 1936,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 58,
+  "off": 1971,
+  "len": 33,
+  "text": "it reads, \"Secrets of {PAL:5}Magic{PAL:7}.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 59,
+  "off": 2016,
+  "len": 35,
+  "text": "I don't need to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 60,
+  "off": 2053,
+  "len": 22,
+  "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 61,
+  "off": 2077,
+  "len": 25,
+  "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 18,
+  "run": 62,
+  "off": 2104,
+  "len": 33,
+  "text": "Read \"Identifying Seru Opponents\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 0,
+  "off": 21,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 1,
+  "off": 40,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 2,
+  "off": 75,
+  "len": 35,
+  "text": "it reads, \"Secrets of Accessories.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 3,
+  "off": 120,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 4,
+  "off": 157,
+  "len": 24,
+  "text": "Read \"About Accessories\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 5,
+  "off": 183,
+  "len": 22,
+  "text": "Read \"Where to Obtain\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 6,
+  "off": 217,
+  "len": 34,
+  "text": "In addition to weapons and armor, ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 7,
+  "off": 253,
+  "len": 31,
+  "text": "each character can wear up to 3",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 8,
+  "off": 286,
+  "len": 32,
+  "text": "accessories. Accessories provide",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 9,
+  "off": 320,
+  "len": 29,
+  "text": "skills useful in fighting and",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 10,
+  "off": 351,
+  "len": 32,
+  "text": "traveling.  There are two kinds ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 11,
+  "off": 385,
+  "len": 30,
+  "text": "of skills: Individual Skills, ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 12,
+  "off": 417,
+  "len": 33,
+  "text": "effective only for the character ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 13,
+  "off": 452,
+  "len": 28,
+  "text": "possessing them, and Shared ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 14,
+  "off": 482,
+  "len": 31,
+  "text": "Skills, effective for everyone!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 15,
+  "off": 515,
+  "len": 34,
+  "text": "Each are listed in the Item menu, ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 16,
+  "off": 551,
+  "len": 28,
+  "text": "under \"I\" for Individual and",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 17,
+  "off": 581,
+  "len": 13,
+  "text": "\"A\" for All. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 18,
+  "off": 623,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 19,
+  "off": 642,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 20,
+  "off": 677,
+  "len": 35,
+  "text": "it reads, \"Secrets of Accessories.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 21,
+  "off": 722,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 22,
+  "off": 759,
+  "len": 24,
+  "text": "Read \"About Accessories\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 23,
+  "off": 785,
+  "len": 22,
+  "text": "Read \"Where to Obtain\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 24,
+  "off": 819,
+  "len": 35,
+  "text": "Many accessories are sold at shops,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 25,
+  "off": 856,
+  "len": 31,
+  "text": "but some can be very expensive,",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 26,
+  "off": 889,
+  "len": 17,
+  "text": "so choose wisely.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 27,
+  "off": 908,
+  "len": 35,
+  "text": "There are also accessories that are",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 28,
+  "off": 945,
+  "len": 35,
+  "text": "not sold in any shops. These hidden",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 29,
+  "off": 982,
+  "len": 26,
+  "text": "accessories grant powerful",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 30,
+  "off": 1010,
+  "len": 30,
+  "text": "skills and can be found in the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 31,
+  "off": 1042,
+  "len": 30,
+  "text": "hands of unlikely opponents or",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 32,
+  "off": 1074,
+  "len": 30,
+  "text": "in treasure chests deep inside",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 33,
+  "off": 1106,
+  "len": 27,
+  "text": "a dungeon. It's your job to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 34,
+  "off": 1135,
+  "len": 17,
+  "text": "search them out! ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 35,
+  "off": 1181,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 36,
+  "off": 1200,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 37,
+  "off": 1235,
+  "len": 35,
+  "text": "it reads, \"Secrets of Accessories.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 38,
+  "off": 1280,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 39,
+  "off": 1317,
+  "len": 24,
+  "text": "Read \"About Accessories\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 19,
+  "run": 40,
+  "off": 1343,
+  "len": 22,
+  "text": "Read \"Where to Obtain\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 0,
+  "off": 21,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 1,
+  "off": 40,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 2,
+  "off": 75,
+  "len": 32,
+  "text": "it reads, \"Secrets of Fighting.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 3,
+  "off": 119,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 4,
+  "off": 156,
+  "len": 31,
+  "text": "Read \"Attack Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 5,
+  "off": 189,
+  "len": 32,
+  "text": "Read \"Defense Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 6,
+  "off": 223,
+  "len": 22,
+  "text": "Read \"Abnormal Status\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 7,
+  "off": 257,
+  "len": 28,
+  "text": "Attack Power [ATK] increases",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 8,
+  "off": 287,
+  "len": 36,
+  "text": "according to your weapons and armor.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 9,
+  "off": 325,
+  "len": 31,
+  "text": "Attack Power is displayed under",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 10,
+  "off": 358,
+  "len": 25,
+  "text": "Status and determines the",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 11,
+  "off": 385,
+  "len": 26,
+  "text": "effectiveness of {PAL:9}Arts{PAL:7}.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 12,
+  "off": 413,
+  "len": 27,
+  "text": "Attack Power is the sum of:",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 13,
+  "off": 442,
+  "len": 32,
+  "text": "character attack power, Ra-Seru ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 14,
+  "off": 476,
+  "len": 30,
+  "text": "attack power, total equipment ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 15,
+  "off": 508,
+  "len": 35,
+  "text": "attack power, and accessory attack ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 16,
+  "off": 545,
+  "len": 29,
+  "text": "power.  Ra-Seru attack power ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 17,
+  "off": 576,
+  "len": 33,
+  "text": "increases when a Genesis Tree is ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 18,
+  "off": 611,
+  "len": 8,
+  "text": "revived.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 19,
+  "off": 648,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 20,
+  "off": 667,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 21,
+  "off": 702,
+  "len": 32,
+  "text": "it reads, \"Secrets of Fighting.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 22,
+  "off": 746,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 23,
+  "off": 783,
+  "len": 31,
+  "text": "Read \"Attack Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 24,
+  "off": 816,
+  "len": 32,
+  "text": "Read \"Defense Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 25,
+  "off": 850,
+  "len": 22,
+  "text": "Read \"Abnormal Status\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 26,
+  "off": 884,
+  "len": 32,
+  "text": "There are two types of defense: ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 27,
+  "off": 918,
+  "len": 28,
+  "text": "Upper-body defense [UDF] and",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 28,
+  "off": 948,
+  "len": 27,
+  "text": "Lower-body defense [LDF].  ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 29,
+  "off": 977,
+  "len": 29,
+  "text": "Upper-body defense is the sum",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 30,
+  "off": 1008,
+  "len": 27,
+  "text": "of a character's defensive ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 31,
+  "off": 1037,
+  "len": 30,
+  "text": "power and the defensive power ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 32,
+  "off": 1069,
+  "len": 35,
+  "text": "of head and body gear.  Lower-body ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 33,
+  "off": 1106,
+  "len": 24,
+  "text": "defense is the sum of a ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 34,
+  "off": 1132,
+  "len": 36,
+  "text": "character's defensive power and the ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 35,
+  "off": 1170,
+  "len": 32,
+  "text": "defensive power of body and leg ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 36,
+  "off": 1204,
+  "len": 5,
+  "text": "gear.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 37,
+  "off": 1238,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 38,
+  "off": 1257,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 39,
+  "off": 1292,
+  "len": 32,
+  "text": "it reads, \"Secrets of Fighting.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 40,
+  "off": 1336,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 41,
+  "off": 1373,
+  "len": 31,
+  "text": "Read \"Attack Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 42,
+  "off": 1406,
+  "len": 32,
+  "text": "Read \"Defense Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 43,
+  "off": 1440,
+  "len": 22,
+  "text": "Read \"Abnormal Status\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 44,
+  "off": 1474,
+  "len": 33,
+  "text": "Venom: Attack and defense powers ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 45,
+  "off": 1509,
+  "len": 31,
+  "text": "decline as HP gradually falls. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 46,
+  "off": 1542,
+  "len": 33,
+  "text": "Toxic: More dangerous than Venom.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 47,
+  "off": 1577,
+  "len": 28,
+  "text": "Numb: Temporarily unable to ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 48,
+  "off": 1607,
+  "len": 5,
+  "text": "move.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 49,
+  "off": 1614,
+  "len": 25,
+  "text": "Rot: Affected body parts ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 50,
+  "off": 1641,
+  "len": 24,
+  "text": "can't be used in battle.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 51,
+  "off": 1667,
+  "len": 30,
+  "text": "Curse: Disables {PAL:5}Magic{PAL:7} and ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 52,
+  "off": 1699,
+  "len": 27,
+  "text": "are vulnerable to attacks. ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 53,
+  "off": 1728,
+  "len": 33,
+  "text": "Stone: Unable to move.  Must use ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 54,
+  "off": 1763,
+  "len": 20,
+  "text": "Medicine to recover.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 55,
+  "off": 1812,
+  "len": 17,
+  "text": "Mysterious Statue",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 56,
+  "off": 1831,
+  "len": 33,
+  "text": "In strange script on the pedestal",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 57,
+  "off": 1866,
+  "len": 32,
+  "text": "it reads, \"Secrets of Fighting.\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 58,
+  "off": 1910,
+  "len": 35,
+  "text": "I don't want to read any part of it",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 59,
+  "off": 1947,
+  "len": 31,
+  "text": "Read \"Attack Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 60,
+  "off": 1980,
+  "len": 32,
+  "text": "Read \"Defense Power & Equipment\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 20,
+  "run": 61,
+  "off": 2014,
+  "len": 22,
+  "text": "Read \"Abnormal Status\"",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 21,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 21,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 21,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 21,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:77}!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 21,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 0,
+  "off": 232,
+  "len": 7,
+  "text": "Oh, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 1,
+  "off": 241,
+  "len": 18,
+  "text": "I'm glad you came.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 2,
+  "off": 359,
+  "len": 23,
+  "text": "I'm impressed! You made",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 3,
+  "off": 384,
+  "len": 24,
+  "text": "it here all by yourself?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 4,
+  "off": 533,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 5,
+  "off": 546,
+  "len": 20,
+  "text": "You're so confident!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 6,
+  "off": 569,
+  "len": 21,
+  "text": "You are a lot hardier",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 7,
+  "off": 592,
+  "len": 16,
+  "text": "than us hunters.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 8,
+  "off": 614,
+  "len": 23,
+  "text": "Oh, so the Ra-Seru Meta",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 9,
+  "off": 639,
+  "len": 16,
+  "text": "is with you, eh?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 10,
+  "off": 658,
+  "len": 19,
+  "text": "{NAME}, you've grown up",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 11,
+  "off": 679,
+  "len": 18,
+  "text": "into a fine adult!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 12,
+  "off": 712,
+  "len": 15,
+  "text": "By the way, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 13,
+  "off": 729,
+  "len": 12,
+  "text": "see that guy",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 14,
+  "off": 743,
+  "len": 11,
+  "text": "over there?",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 15,
+  "off": 836,
+  "len": 29,
+  "text": "Don't know him? Well, we come",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 16,
+  "off": 867,
+  "len": 33,
+  "text": "here often, but this is the first",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 17,
+  "off": 902,
+  "len": 33,
+  "text": "time we've met someone else here!",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 18,
+  "off": 950,
+  "len": 32,
+  "text": "He says his name's Lezam, and he",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 19,
+  "off": 984,
+  "len": 31,
+  "text": "was telling us the most amazing",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 20,
+  "off": 1017,
+  "len": 6,
+  "text": "story.",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 21,
+  "off": 1212,
+  "len": 22,
+  "text": "{NAME}, you should talk to",
+  "ko": ""
+ },
+ {
+  "map": 33,
+  "script": 25,
+  "run": 22,
+  "off": 1236,
+  "len": 11,
+  "text": "Lezam, too.",
+  "ko": ""
+ }
+]

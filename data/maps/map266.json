@@ -1,0 +1,830 @@
+[
+ {
+  "map": 266,
+  "script": 3,
+  "run": 0,
+  "off": 383,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.q<C9><05>",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 7,
+  "run": 0,
+  "off": 40,
+  "len": 32,
+  "text": "The Sky Gardens' plants are even",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 7,
+  "run": 1,
+  "off": 74,
+  "len": 27,
+  "text": "more vibrant than they were",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 7,
+  "run": 2,
+  "off": 103,
+  "len": 21,
+  "text": "before the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 7,
+  "run": 3,
+  "off": 134,
+  "len": 31,
+  "text": "It must be because you awakened",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 7,
+  "run": 4,
+  "off": 167,
+  "len": 17,
+  "text": "the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 8,
+  "run": 0,
+  "off": 50,
+  "len": 34,
+  "text": "What a thrill! Imagine, to witness",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 8,
+  "run": 1,
+  "off": 86,
+  "len": 26,
+  "text": "the birth of a new legend!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 11,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8D}",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 11,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 11,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 11,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8D}!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 11,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 12,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:D8}",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 12,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 12,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 12,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:D8}!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 12,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 13,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 13,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:7B}!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 0,
+  "off": 231,
+  "len": 20,
+  "text": "{NAME:01}: Hey, who's this?",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 1,
+  "off": 308,
+  "len": 20,
+  "text": "{PAL:5}{M7:02}{PAL:7}: It's a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 2,
+  "off": 393,
+  "len": 25,
+  "text": "{NAME:01}: A Seru? I didn't know",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 3,
+  "off": 420,
+  "len": 25,
+  "text": "Seru could be this weird.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 4,
+  "off": 565,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Have you forgotten?",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 5,
+  "off": 594,
+  "len": 30,
+  "text": "Seru themselves are blameless.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 6,
+  "off": 626,
+  "len": 26,
+  "text": "It's all the Mist's fault.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 7,
+  "off": 655,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Long exposure to the",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 8,
+  "off": 685,
+  "len": 31,
+  "text": "Mist must have turned that Seru",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 9,
+  "off": 718,
+  "len": 30,
+  "text": "into such a horrible creature.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 10,
+  "off": 828,
+  "len": 24,
+  "text": "{PAL:9}{M7}{PAL:7}: It's clinging to",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 11,
+  "off": 854,
+  "len": 30,
+  "text": "the Genesis Tree to absorb the",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 12,
+  "off": 886,
+  "len": 21,
+  "text": "energy that it emits.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 13,
+  "off": 1110,
+  "len": 21,
+  "text": "{NAME:01}: Let go! Let go of",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 14,
+  "off": 1133,
+  "len": 27,
+  "text": "the Genesis Tree right now!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 15,
+  "off": 1629,
+  "len": 8,
+  "text": "{NAME:01}: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 16,
+  "off": 1645,
+  "len": 5,
+  "text": "L<C8>LI(",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 17,
+  "off": 1859,
+  "len": 26,
+  "text": "{NAME:02}: The only way to revive",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 18,
+  "off": 1887,
+  "len": 29,
+  "text": "the Genesis Tree is to defeat",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 15,
+  "run": 19,
+  "off": 1918,
+  "len": 20,
+  "text": "him first! Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 0,
+  "off": 402,
+  "len": 25,
+  "text": "monster, but no match for",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 1,
+  "off": 429,
+  "len": 23,
+  "text": "the Biron martial arts!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 2,
+  "off": 651,
+  "len": 17,
+  "text": "{NAME:01}: Hurry! Hurry!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 3,
+  "off": 670,
+  "len": 19,
+  "text": "{NAME}, we have to help",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 4,
+  "off": 691,
+  "len": 17,
+  "text": "the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 5,
+  "off": 1179,
+  "len": 21,
+  "text": "{NAME} reached out gently",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 6,
+  "off": 1202,
+  "len": 21,
+  "text": "for the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 7,
+  "off": 1245,
+  "len": 23,
+  "text": "He felt a gentle warmth",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 8,
+  "off": 1270,
+  "len": 24,
+  "text": "in the palm of his hand.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 9,
+  "off": 1440,
+  "len": 22,
+  "text": "{NAME:01} reached out swiftly",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 10,
+  "off": 1464,
+  "len": 21,
+  "text": "for the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 11,
+  "off": 1505,
+  "len": 25,
+  "text": "She felt a quiet strength",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 12,
+  "off": 1532,
+  "len": 24,
+  "text": "in the palm of her hand.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 13,
+  "off": 1695,
+  "len": 23,
+  "text": "{NAME:02} reached out strongly",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 14,
+  "off": 1720,
+  "len": 21,
+  "text": "for the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 15,
+  "off": 1761,
+  "len": 16,
+  "text": "He felt pure joy",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 16,
+  "run": 16,
+  "off": 1779,
+  "len": 24,
+  "text": "in the palm of his hand.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 0,
+  "off": 174,
+  "len": 19,
+  "text": "{NAME:01}: Terra and I are",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 1,
+  "off": 195,
+  "len": 14,
+  "text": "even stronger!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 2,
+  "off": 211,
+  "len": 14,
+  "text": "This is great!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 3,
+  "off": 348,
+  "len": 18,
+  "text": "{NAME:02}: So this is how",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 4,
+  "off": 368,
+  "len": 30,
+  "text": "the Ra-Seru become stronger...",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 5,
+  "off": 535,
+  "len": 25,
+  "text": "Ooh, something's wrong...",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 6,
+  "off": 562,
+  "len": 22,
+  "text": "My head feels fuzzy...",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 7,
+  "off": 595,
+  "len": 31,
+  "text": "Was I asleep... Or was I awake?",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 8,
+  "off": 628,
+  "len": 26,
+  "text": "Oh, the Mist came, then...",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 9,
+  "off": 784,
+  "len": 29,
+  "text": "The Genesis Tree is changing!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 10,
+  "off": 820,
+  "len": 31,
+  "text": "Woah! The Mist is disappearing,",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 11,
+  "off": 853,
+  "len": 28,
+  "text": "too! Something is happening!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 12,
+  "off": 884,
+  "len": 23,
+  "text": "There's someone next to",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 13,
+  "off": 909,
+  "len": 17,
+  "text": "the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 14,
+  "off": 944,
+  "len": 29,
+  "text": "They must have drove away the",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 15,
+  "off": 975,
+  "len": 24,
+  "text": "Mist! Oh, how wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 16,
+  "off": 1532,
+  "len": 25,
+  "text": "It was you who got rid of",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 17,
+  "off": 1559,
+  "len": 16,
+  "text": "the Mist, right?",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 18,
+  "off": 1701,
+  "len": 30,
+  "text": "What? I couldn't hear you very",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 19,
+  "off": 1733,
+  "len": 33,
+  "text": "well. You're the ones who got rid",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 20,
+  "off": 1768,
+  "len": 19,
+  "text": "of the Mist, right?",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 21,
+  "off": 1964,
+  "len": 29,
+  "text": "I knew it! Thank you so much!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 22,
+  "off": 2000,
+  "len": 30,
+  "text": "How wonderful! It's a miracle!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 23,
+  "off": 2032,
+  "len": 23,
+  "text": "Tell me how you did it.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 24,
+  "off": 2113,
+  "len": 16,
+  "text": "Uh-huh. I see...",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 25,
+  "off": 2189,
+  "len": 8,
+  "text": "Amazing!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 26,
+  "off": 2289,
+  "len": 11,
+  "text": "Incredible!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 27,
+  "off": 2346,
+  "len": 11,
+  "text": "Just great!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 28,
+  "off": 2360,
+  "len": 28,
+  "text": "Magnificent! So reviving the",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 29,
+  "off": 2390,
+  "len": 30,
+  "text": "Genesis Trees is what does it.",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 30,
+  "off": 2422,
+  "len": 25,
+  "text": "I should get going, then!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 31,
+  "off": 2540,
+  "len": 28,
+  "text": "I'll hurry down ahead of you",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 32,
+  "off": 2570,
+  "len": 27,
+  "text": "so I can tell the people of",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 33,
+  "off": 2599,
+  "len": 26,
+  "text": "Jeremi about this miracle!",
+  "ko": ""
+ },
+ {
+  "map": 266,
+  "script": 19,
+  "run": 34,
+  "off": 2700,
+  "len": 27,
+  "text": "Some people never change...",
+  "ko": ""
+ }
+]

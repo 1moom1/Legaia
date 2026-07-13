@@ -1,0 +1,2090 @@
+[
+ {
+  "map": 618,
+  "script": 0,
+  "run": 0,
+  "off": 21,
+  "len": 31,
+  "text": "Karisto Station - Octam Station",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 0,
+  "run": 1,
+  "off": 54,
+  "len": 22,
+  "text": "Adult: 50G  Child: 20G",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 0,
+  "run": 2,
+  "off": 78,
+  "len": 25,
+  "text": "Single Car Reserved: 200G",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 23,
+  "run": 0,
+  "off": 38,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.u <09>",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 0,
+  "off": 45,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 1,
+  "off": 66,
+  "len": 37,
+  "text": "Destroying the Floating Castle's Mist",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 2,
+  "off": 105,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 3,
+  "off": 142,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 4,
+  "off": 150,
+  "len": 40,
+  "text": "Destroying the Floating Castle's Mist ON",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 5,
+  "off": 192,
+  "len": 41,
+  "text": "Destroying the Floating Castle's Mist OFF",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 6,
+  "off": 235,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 7,
+  "off": 262,
+  "len": 19,
+  "text": "Start first Karisto",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 8,
+  "off": 283,
+  "len": 21,
+  "text": "Do you wish to start?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 9,
+  "off": 315,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 10,
+  "off": 323,
+  "len": 10,
+  "text": "Yeah, sure",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 11,
+  "off": 335,
+  "len": 7,
+  "text": "No way!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 12,
+  "off": 344,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 24,
+  "run": 13,
+  "off": 362,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 25,
+  "run": 0,
+  "off": 42,
+  "len": 26,
+  "text": "Experience ancient history",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 25,
+  "run": 1,
+  "off": 70,
+  "len": 20,
+  "text": "and natural grandeur",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 25,
+  "run": 2,
+  "off": 92,
+  "len": 24,
+  "text": "in dream-filled Karisto!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 25,
+  "run": 3,
+  "off": 121,
+  "len": 15,
+  "text": "Welcome to Sol,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 25,
+  "run": 4,
+  "off": 138,
+  "len": 24,
+  "text": "the friendly town that's",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 25,
+  "run": 5,
+  "off": 164,
+  "len": 19,
+  "text": "full of excitement!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 26,
+  "run": 0,
+  "off": 42,
+  "len": 26,
+  "text": "The mysterious valley town",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 26,
+  "run": 1,
+  "off": 70,
+  "len": 19,
+  "text": "of Buma awaits you!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 26,
+  "run": 2,
+  "off": 94,
+  "len": 25,
+  "text": "Victory is close at hand!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 26,
+  "run": 3,
+  "off": 121,
+  "len": 31,
+  "text": "Join the fight against Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 26,
+  "run": 4,
+  "off": 154,
+  "len": 28,
+  "text": "-- Sol Department of Defense",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 0,
+  "off": 44,
+  "len": 34,
+  "text": "There is a poster titled \"Official",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 1,
+  "off": 80,
+  "len": 33,
+  "text": "Guide to Sightseeing in Karisto.\"",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 2,
+  "off": 115,
+  "len": 33,
+  "text": "Do you wish to read the contents?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 3,
+  "off": 273,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 4,
+  "off": 285,
+  "len": 18,
+  "text": "read the pamphlet.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 5,
+  "off": 308,
+  "len": 34,
+  "text": "Which section do you want to read?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 6,
+  "off": 358,
+  "len": 4,
+  "text": "Buma",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 7,
+  "off": 364,
+  "len": 8,
+  "text": "Uru Mais",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 8,
+  "off": 374,
+  "len": 13,
+  "text": "Nivora Ravine",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 9,
+  "off": 390,
+  "len": 30,
+  "text": "The world's largest city, Sol,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 10,
+  "off": 422,
+  "len": 28,
+  "text": "is known by many as Legaia's",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 11,
+  "off": 452,
+  "len": 22,
+  "text": "entertainment capital.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 12,
+  "off": 477,
+  "len": 35,
+  "text": "Visitors enjoy the full facilities,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 13,
+  "off": 514,
+  "len": 26,
+  "text": "theaters, fighting arenas,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 14,
+  "off": 542,
+  "len": 26,
+  "text": "amusement parks, and more!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 15,
+  "off": 571,
+  "len": 30,
+  "text": "Sol is actually a single giant",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 16,
+  "off": 603,
+  "len": 35,
+  "text": "structure with a history going back",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 17,
+  "off": 640,
+  "len": 18,
+  "text": "hundreds of years.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 18,
+  "off": 661,
+  "len": 30,
+  "text": "Enjoy the breathtaking view of",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 19,
+  "off": 693,
+  "len": 24,
+  "text": "Karisto Kingdom from the",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 20,
+  "off": 719,
+  "len": 29,
+  "text": "observatory at the top floor.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 21,
+  "off": 751,
+  "len": 33,
+  "text": "Do you want to read another part?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 22,
+  "off": 911,
+  "len": 32,
+  "text": "Tucked into East Karisto Ravine,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 23,
+  "off": 945,
+  "len": 30,
+  "text": "Buma is famous for its Genesis",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 24,
+  "off": 977,
+  "len": 29,
+  "text": "Trees and its lively streets.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 25,
+  "off": 1009,
+  "len": 33,
+  "text": "The beauty of the three cliffside",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 26,
+  "off": 1044,
+  "len": 30,
+  "text": "Genesis Trees paints a picture",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 27,
+  "off": 1076,
+  "len": 25,
+  "text": "of awe-inspiring majesty.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 28,
+  "off": 1104,
+  "len": 33,
+  "text": "Houses lining the river have also",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 29,
+  "off": 1139,
+  "len": 33,
+  "text": "helped make Buma famous the world",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 30,
+  "off": 1174,
+  "len": 27,
+  "text": "over for its quaint appeal.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 31,
+  "off": 1204,
+  "len": 33,
+  "text": "Do you want to read another part?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 32,
+  "off": 1362,
+  "len": 31,
+  "text": "Uru Mais -- the mysterious city",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 33,
+  "off": 1395,
+  "len": 17,
+  "text": "of ancient ruins.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 34,
+  "off": 1415,
+  "len": 18,
+  "text": "Who built it? Why?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 35,
+  "off": 1435,
+  "len": 34,
+  "text": "The answers, like the city itself,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 36,
+  "off": 1471,
+  "len": 24,
+  "text": "are shrouded in mystery.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 37,
+  "off": 1498,
+  "len": 33,
+  "text": "But Uru Mais is also world-famous",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 38,
+  "off": 1533,
+  "len": 29,
+  "text": "for the new type of Seru that",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 39,
+  "off": 1564,
+  "len": 16,
+  "text": "come from there.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 40,
+  "off": 1583,
+  "len": 30,
+  "text": "Most Seru, of course, are born",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 41,
+  "off": 1615,
+  "len": 20,
+  "text": "of two Seru parents.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 42,
+  "off": 1638,
+  "len": 30,
+  "text": "But in Uru Mais, a new type of",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 43,
+  "off": 1670,
+  "len": 30,
+  "text": "Seru occasionally appears from",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 44,
+  "off": 1702,
+  "len": 16,
+  "text": "out of thin air!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 45,
+  "off": 1721,
+  "len": 32,
+  "text": "Some say they come from a hidden",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 46,
+  "off": 1755,
+  "len": 31,
+  "text": "Seru world somewhere, but their",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 47,
+  "off": 1788,
+  "len": 23,
+  "text": "true origin is unknown.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 48,
+  "off": 1814,
+  "len": 30,
+  "text": "The unshakable fact is that in",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 49,
+  "off": 1846,
+  "len": 30,
+  "text": "Uru Mais, Seru appear suddenly",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 50,
+  "off": 1878,
+  "len": 20,
+  "text": "from out of nowhere!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 51,
+  "off": 1901,
+  "len": 33,
+  "text": "Seru trappers sent by the Emperor",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 52,
+  "off": 1936,
+  "len": 32,
+  "text": "of Sol monitor the ruins day and",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 53,
+  "off": 1970,
+  "len": 6,
+  "text": "night.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 54,
+  "off": 1979,
+  "len": 33,
+  "text": "Do you want to read another part?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 55,
+  "off": 2137,
+  "len": 29,
+  "text": "Nivora Ravine, famous for its",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 56,
+  "off": 2168,
+  "len": 30,
+  "text": "beauty, is located in northern",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 57,
+  "off": 2200,
+  "len": 5,
+  "text": "Buma.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 58,
+  "off": 2208,
+  "len": 32,
+  "text": "Climbers wishing to visit Nivora",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 59,
+  "off": 2242,
+  "len": 32,
+  "text": "Ravine should travel through the",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 60,
+  "off": 2276,
+  "len": 32,
+  "text": "limestone cave in northern Buma.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 27,
+  "run": 61,
+  "off": 2311,
+  "len": 33,
+  "text": "Do you want to read another part?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 0,
+  "off": 106,
+  "len": 21,
+  "text": "Look, under the tree!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 1,
+  "off": 129,
+  "len": 23,
+  "text": "Someone dropped 3,000G!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 2,
+  "off": 154,
+  "len": 26,
+  "text": "Do you want to pick it up?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 3,
+  "off": 250,
+  "len": 12,
+  "text": "{NAME} picked up",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 4,
+  "off": 264,
+  "len": 11,
+  "text": "the 3,000G.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 5,
+  "off": 361,
+  "len": 17,
+  "text": "{NAME} didn't pick up",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 29,
+  "run": 6,
+  "off": 380,
+  "len": 11,
+  "text": "the 3,000G.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 0,
+  "off": 120,
+  "len": 27,
+  "text": "It's a finely-crafted doll.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 1,
+  "off": 149,
+  "len": 33,
+  "text": "Writing on the doll's chest says:",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 2,
+  "off": 184,
+  "len": 24,
+  "text": "\"Honest Person's Store.\"",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 3,
+  "off": 255,
+  "len": 33,
+  "text": "Unattended kiosk. Buy Travel Kits",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 4,
+  "off": 290,
+  "len": 32,
+  "text": "for peace of mind! Please insert",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 5,
+  "off": 324,
+  "len": 20,
+  "text": "3,000G for each kit.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 6,
+  "off": 353,
+  "len": 32,
+  "text": "Check the Travel Kit's contents.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 7,
+  "off": 387,
+  "len": 18,
+  "text": "Take a Travel Kit.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 8,
+  "off": 407,
+  "len": 18,
+  "text": "Don't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 9,
+  "off": 443,
+  "len": 23,
+  "text": "Travel Kit contains: 5 ",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 10,
+  "off": 468,
+  "len": 31,
+  "text": "Healing Blooms, 1 Door of Wind,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 11,
+  "off": 501,
+  "len": 20,
+  "text": "and 1 Door of Light.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 12,
+  "off": 528,
+  "len": 18,
+  "text": "Take a Travel Kit.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 13,
+  "off": 548,
+  "len": 18,
+  "text": "Don't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 14,
+  "off": 584,
+  "len": 20,
+  "text": "{NAME} took a Travel Kit",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 15,
+  "off": 606,
+  "len": 13,
+  "text": "from the box.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 16,
+  "off": 646,
+  "len": 21,
+  "text": "{NAME} now has 5 Healing ",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 17,
+  "off": 669,
+  "len": 27,
+  "text": "Blooms, 1 Door of Wind, and",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 18,
+  "off": 698,
+  "len": 16,
+  "text": "1 Door of Light.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 19,
+  "off": 717,
+  "len": 27,
+  "text": "Do you wish to place 3,000G",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 20,
+  "off": 746,
+  "len": 24,
+  "text": "into the box as payment?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 21,
+  "off": 908,
+  "len": 15,
+  "text": "{NAME} paid 3,000G.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 22,
+  "off": 932,
+  "len": 25,
+  "text": "Oh, you don't have enough",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 23,
+  "off": 959,
+  "len": 30,
+  "text": "money! Do you want to put back",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 24,
+  "off": 991,
+  "len": 15,
+  "text": "the Travel Kit?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 25,
+  "off": 1167,
+  "len": 21,
+  "text": "{NAME} put the Travel Kit",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 26,
+  "off": 1190,
+  "len": 18,
+  "text": "back into the box.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 27,
+  "off": 1272,
+  "len": 21,
+  "text": "Honest Person's Store",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 31,
+  "run": 28,
+  "off": 1295,
+  "len": 17,
+  "text": "The box is empty.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 34,
+  "run": 0,
+  "off": 8,
+  "len": 35,
+  "text": "<12><7F><7F>%!<1F>Cara: (Singing) Row, row, row",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 34,
+  "run": 1,
+  "off": 45,
+  "len": 32,
+  "text": "your stupid boat... pathetically",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 34,
+  "run": 2,
+  "off": 79,
+  "len": 18,
+  "text": "down the stream...",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 0,
+  "off": 64,
+  "len": 32,
+  "text": "This is a flying train bound for",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 1,
+  "off": 98,
+  "len": 31,
+  "text": "Octam. The fare is 200G. Do you",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 2,
+  "off": 131,
+  "len": 14,
+  "text": "wish to board?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 3,
+  "off": 270,
+  "len": 33,
+  "text": "Oh, is the fare too high for you?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 4,
+  "off": 305,
+  "len": 29,
+  "text": "Well, the fare's the same for",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 5,
+  "off": 336,
+  "len": 29,
+  "text": "everyone. No use complaining.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 6,
+  "off": 381,
+  "len": 19,
+  "text": "Alright. Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 7,
+  "off": 454,
+  "len": 32,
+  "text": "Uh, you don't have enough money.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 8,
+  "off": 488,
+  "len": 35,
+  "text": "Sorry, but I can't let you through.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 9,
+  "off": 528,
+  "len": 23,
+  "text": "Please board the train.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 10,
+  "off": 553,
+  "len": 27,
+  "text": "We'll be departing shortly.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 11,
+  "off": 585,
+  "len": 30,
+  "text": "Sorry, but the flying train is",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 12,
+  "off": 617,
+  "len": 29,
+  "text": "in Sebucus, and we don't know",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 35,
+  "run": 13,
+  "off": 648,
+  "len": 20,
+  "text": "when it will return.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 36,
+  "run": 0,
+  "off": 43,
+  "len": 28,
+  "text": "I wanted to go to Octam, but",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 36,
+  "run": 1,
+  "off": 73,
+  "len": 26,
+  "text": "I don't have enough money.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 37,
+  "run": 0,
+  "off": 43,
+  "len": 26,
+  "text": "The station attendant here",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 37,
+  "run": 1,
+  "off": 71,
+  "len": 20,
+  "text": "isn't very friendly!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 38,
+  "run": 0,
+  "off": 43,
+  "len": 22,
+  "text": "See that animal there?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 38,
+  "run": 1,
+  "off": 67,
+  "len": 20,
+  "text": "Its name is Poochie.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 38,
+  "run": 2,
+  "off": 90,
+  "len": 27,
+  "text": "It's been waiting there for",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 38,
+  "run": 3,
+  "off": 119,
+  "len": 25,
+  "text": "its master ever since the",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 38,
+  "run": 4,
+  "off": 146,
+  "len": 13,
+  "text": "Mist cleared.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 39,
+  "run": 0,
+  "off": 45,
+  "len": 9,
+  "text": "(Whining)",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 0,
+  "off": 57,
+  "len": 31,
+  "text": "I had an unattended kiosk here,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 1,
+  "off": 90,
+  "len": 27,
+  "text": "but no one's gonna come buy",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 2,
+  "off": 119,
+  "len": 30,
+  "text": "anything with the Mist around.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 3,
+  "off": 154,
+  "len": 27,
+  "text": "You just can't trust people",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 4,
+  "off": 183,
+  "len": 8,
+  "text": "anymore.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 5,
+  "off": 194,
+  "len": 31,
+  "text": "I had an unattended kiosk here,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 6,
+  "off": 227,
+  "len": 30,
+  "text": "but people just took the goods",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 7,
+  "off": 259,
+  "len": 24,
+  "text": "without paying for them!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 8,
+  "off": 288,
+  "len": 32,
+  "text": "I have an unattended kiosk here,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 9,
+  "off": 322,
+  "len": 28,
+  "text": "and even with the Mist, some",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 10,
+  "off": 352,
+  "len": 25,
+  "text": "kind people put money in!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 11,
+  "off": 380,
+  "len": 32,
+  "text": "This makes me happy -- so happy,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 12,
+  "off": 414,
+  "len": 26,
+  "text": "in fact, I'm going to give",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 13,
+  "off": 442,
+  "len": 18,
+  "text": "you this for free!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 14,
+  "off": 475,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 15,
+  "off": 487,
+  "len": 7,
+  "text": "the {ITEM:CC}.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 16,
+  "off": 497,
+  "len": 33,
+  "text": "I guess human nature is basically",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 17,
+  "off": 532,
+  "len": 35,
+  "text": "good -- just like I always thought!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 18,
+  "off": 572,
+  "len": 25,
+  "text": "Now that the Mist's gone,",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 19,
+  "off": 599,
+  "len": 32,
+  "text": "it's time to reopen my business.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 20,
+  "off": 655,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 21,
+  "off": 667,
+  "len": 31,
+  "text": "You know, it's my dream to open",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 40,
+  "run": 22,
+  "off": 700,
+  "len": 21,
+  "text": "a store here someday.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 0,
+  "off": 872,
+  "len": 30,
+  "text": "Cara: Well, well! First you're",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 1,
+  "off": 904,
+  "len": 33,
+  "text": "wandering all over the place, now",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 2,
+  "off": 939,
+  "len": 20,
+  "text": "you're napping here?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 3,
+  "off": 1417,
+  "len": 9,
+  "text": "{NAME:02}: Cara!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 4,
+  "off": 1558,
+  "len": 34,
+  "text": "Cara: You're so pathetic. See what",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 5,
+  "off": 1594,
+  "len": 32,
+  "text": "happens when you depend on those",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 6,
+  "off": 1628,
+  "len": 14,
+  "text": "flying trains?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 7,
+  "off": 1804,
+  "len": 26,
+  "text": "Cara: I can't keep getting",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 8,
+  "off": 1832,
+  "len": 29,
+  "text": "you out of trouble, you know!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 9,
+  "off": 2036,
+  "len": 26,
+  "text": "{NAME:01}: Hey, I never asked you",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 10,
+  "off": 2064,
+  "len": 11,
+  "text": "to help me!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 11,
+  "off": 2162,
+  "len": 9,
+  "text": "{NAME:02}: Cara!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 12,
+  "off": 2173,
+  "len": 24,
+  "text": "What are you doing here?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 13,
+  "off": 2262,
+  "len": 18,
+  "text": "{NAME:02}: What is that?!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 14,
+  "off": 2535,
+  "len": 34,
+  "text": "Cara: I can't believe this. That's",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 15,
+  "off": 2571,
+  "len": 33,
+  "text": "the Floating Castle! The one that",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 53,
+  "run": 16,
+  "off": 2606,
+  "len": 30,
+  "text": "sprays Mist down from the sky!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 0,
+  "off": 315,
+  "len": 33,
+  "text": "Cara: He took everything from us.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 1,
+  "off": 512,
+  "len": 26,
+  "text": "{NAME:01}: The Floating Castle...",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 2,
+  "off": 540,
+  "len": 10,
+  "text": "it's gone.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 3,
+  "off": 577,
+  "len": 26,
+  "text": "{NAME:02}: Tell me, Cara. How are",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 4,
+  "off": 605,
+  "len": 25,
+  "text": "you able to travel freely",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 5,
+  "off": 632,
+  "len": 17,
+  "text": "through the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 6,
+  "off": 670,
+  "len": 21,
+  "text": "{NAME:02}: How do you escape",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 7,
+  "off": 693,
+  "len": 27,
+  "text": "possession by Seru when you",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 8,
+  "off": 722,
+  "len": 29,
+  "text": "don't have a Ra-Seru like us?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 9,
+  "off": 772,
+  "len": 14,
+  "text": "Cara: Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 10,
+  "off": 852,
+  "len": 24,
+  "text": "Cara: What is a Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 11,
+  "off": 878,
+  "len": 13,
+  "text": "All I have...",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 12,
+  "off": 938,
+  "len": 48,
+  "text": "<AC>\"<07><AC>\"<03><AC>\"<01>P<0B>40<04><1F>Cara: ...is this good luck charm!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 13,
+  "off": 1033,
+  "len": 16,
+  "text": "{NAME:01}: Cara! That's",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 14,
+  "off": 1051,
+  "len": 19,
+  "text": "a Ra-Seru Egg! Wow!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 15,
+  "off": 1192,
+  "len": 27,
+  "text": "{NAME:02}: Cara! Where did you get",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 16,
+  "off": 1221,
+  "len": 17,
+  "text": "that Ra-Seru Egg?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 17,
+  "off": 1346,
+  "len": 28,
+  "text": "Cara: Oh, so that's what you",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 18,
+  "off": 1376,
+  "len": 25,
+  "text": "call it -- a Ra-Seru Egg!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 19,
+  "off": 1403,
+  "len": 19,
+  "text": "I didn't know that!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 20,
+  "off": 1493,
+  "len": 25,
+  "text": "{NAME:01}: Cara, can I have that",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 21,
+  "off": 1520,
+  "len": 12,
+  "text": "Ra-Seru Egg?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 22,
+  "off": 1701,
+  "len": 23,
+  "text": "Cara: I don't think so!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 23,
+  "off": 1726,
+  "len": 21,
+  "text": "No you can't have it!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 24,
+  "off": 1749,
+  "len": 10,
+  "text": "It's mine!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 25,
+  "off": 1762,
+  "len": 34,
+  "text": "Cara: Why should I give it to you?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 26,
+  "off": 1798,
+  "len": 7,
+  "text": "Ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 27,
+  "off": 1858,
+  "len": 32,
+  "text": "Cara: Well, I have to get going.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 28,
+  "off": 1892,
+  "len": 20,
+  "text": "I have things to do!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 29,
+  "off": 2079,
+  "len": 21,
+  "text": "{NAME:02}: Wait! Cara, where",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 30,
+  "off": 2102,
+  "len": 14,
+  "text": "are you going?",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 31,
+  "off": 2197,
+  "len": 29,
+  "text": "Cara: Sorry! That's a secret!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 32,
+  "off": 2277,
+  "len": 19,
+  "text": "{NAME:02}: Oh, that woman!",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 33,
+  "off": 2298,
+  "len": 29,
+  "text": "But... I wonder where she got",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 34,
+  "off": 2329,
+  "len": 17,
+  "text": "that Ra-Seru Egg.",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 35,
+  "off": 2491,
+  "len": 24,
+  "text": "{NAME:01}: Cara might really be",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 36,
+  "off": 2517,
+  "len": 29,
+  "text": "a nice person. After all, she",
+  "ko": ""
+ },
+ {
+  "map": 618,
+  "script": 54,
+  "run": 37,
+  "off": 2548,
+  "len": 13,
+  "text": "helped us up.",
+  "ko": ""
+ }
+]

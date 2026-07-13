@@ -1,0 +1,3593 @@
+[
+ {
+  "map": 545,
+  "script": 16,
+  "run": 0,
+  "off": 49,
+  "len": 30,
+  "text": "Welcome to the city that never",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 1,
+  "off": 81,
+  "len": 36,
+  "text": "sleeps, Muscle Paradise! This is the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 2,
+  "off": 119,
+  "len": 27,
+  "text": "counter to purchase tokens.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 3,
+  "off": 157,
+  "len": 25,
+  "text": "I want to buy some tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 4,
+  "off": 184,
+  "len": 28,
+  "text": "Tell me how the arcade works",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 5,
+  "off": 214,
+  "len": 26,
+  "text": "Tell me the types of games",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 6,
+  "off": 242,
+  "len": 21,
+  "text": "I don't need any help",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 7,
+  "off": 278,
+  "len": 17,
+  "text": "Have a good time!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 8,
+  "off": 300,
+  "len": 28,
+  "text": "Thank you for your purchase.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 9,
+  "off": 330,
+  "len": 15,
+  "text": "Enjoy yourself!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 10,
+  "off": 350,
+  "len": 24,
+  "text": "Excuse me, but you don't",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 11,
+  "off": 376,
+  "len": 18,
+  "text": "have enough money.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 12,
+  "off": 396,
+  "len": 22,
+  "text": "Each token costs 100G.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 13,
+  "off": 423,
+  "len": 19,
+  "text": "We use tokens here.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 14,
+  "off": 444,
+  "len": 26,
+  "text": "You have to buy a token to",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 15,
+  "off": 472,
+  "len": 15,
+  "text": "play the games.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 16,
+  "off": 490,
+  "len": 32,
+  "text": "When you're finished playing the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 17,
+  "off": 524,
+  "len": 34,
+  "text": "games, you can exchange the tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 18,
+  "off": 560,
+  "len": 19,
+  "text": "you won for prizes.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 19,
+  "off": 582,
+  "len": 27,
+  "text": "Prizes are available at the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 20,
+  "off": 611,
+  "len": 17,
+  "text": "opposite counter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 21,
+  "off": 631,
+  "len": 29,
+  "text": "You can't exchange the tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 22,
+  "off": 662,
+  "len": 19,
+  "text": "you have for money.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 23,
+  "off": 684,
+  "len": 28,
+  "text": "But, we will hold on to your",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 24,
+  "off": 714,
+  "len": 29,
+  "text": "tokens until your next visit.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 25,
+  "off": 746,
+  "len": 26,
+  "text": "Do you need anything else?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 26,
+  "off": 783,
+  "len": 25,
+  "text": "I want to buy some tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 27,
+  "off": 810,
+  "len": 28,
+  "text": "Tell me how the arcade works",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 28,
+  "off": 840,
+  "len": 26,
+  "text": "Tell me the types of games",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 29,
+  "off": 868,
+  "len": 21,
+  "text": "I don't need any help",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 30,
+  "off": 892,
+  "len": 33,
+  "text": "We have a total of three types of",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 31,
+  "off": 927,
+  "len": 19,
+  "text": "games in two zones.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 32,
+  "off": 949,
+  "len": 33,
+  "text": "First, the front of the arcade is",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 33,
+  "off": 984,
+  "len": 19,
+  "text": "the Amusement Zone.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 34,
+  "off": 1006,
+  "len": 35,
+  "text": "Excitement guaranteed in successive",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 35,
+  "off": 1043,
+  "len": 32,
+  "text": "bonus rounds! The newest in slot",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 36,
+  "off": 1077,
+  "len": 28,
+  "text": "machine action -- Wild Card!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 37,
+  "off": 1108,
+  "len": 32,
+  "text": "Win tokens in successive rounds!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 38,
+  "off": 1142,
+  "len": 30,
+  "text": "Fighting game -- Baka Fighter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 39,
+  "off": 1174,
+  "len": 21,
+  "text": "Enjoy either or both!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 40,
+  "off": 1198,
+  "len": 32,
+  "text": "Proceed directly to the game you",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 41,
+  "off": 1232,
+  "len": 29,
+  "text": "wish to play after purchasing",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 42,
+  "off": 1263,
+  "len": 7,
+  "text": "tokens.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 43,
+  "off": 1273,
+  "len": 33,
+  "text": "In the rear is the Coliseum Zone!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 44,
+  "off": 1308,
+  "len": 32,
+  "text": "Register to enter at the special",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 45,
+  "off": 1342,
+  "len": 16,
+  "text": "sign-up counter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 46,
+  "off": 1361,
+  "len": 34,
+  "text": "Anyone confident in their fighting",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 47,
+  "off": 1397,
+  "len": 34,
+  "text": "abilities can enter the Tournament",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 48,
+  "off": 1433,
+  "len": 21,
+  "text": "held at the Coliseum!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 49,
+  "off": 1457,
+  "len": 26,
+  "text": "Do you need anything else?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 50,
+  "off": 1494,
+  "len": 25,
+  "text": "I want to buy some tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 51,
+  "off": 1521,
+  "len": 28,
+  "text": "Tell me how the arcade works",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 52,
+  "off": 1551,
+  "len": 26,
+  "text": "Tell me the types of games",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 53,
+  "off": 1579,
+  "len": 21,
+  "text": "I don't need any help",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 16,
+  "run": 54,
+  "off": 1605,
+  "len": 15,
+  "text": "Enjoy yourself!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 0,
+  "off": 65,
+  "len": 26,
+  "text": "This is the Prize Counter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 1,
+  "off": 93,
+  "len": 28,
+  "text": "Do you wish to exchange your",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 2,
+  "off": 123,
+  "len": 18,
+  "text": "tokens for prizes?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 3,
+  "off": 272,
+  "len": 10,
+  "text": "Good luck!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 4,
+  "off": 287,
+  "len": 28,
+  "text": "Thank you! {NAME}, you've gained",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 5,
+  "off": 317,
+  "len": 22,
+  "text": "quite a reputation for",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 6,
+  "off": 341,
+  "len": 26,
+  "text": "your effortless victories!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 7,
+  "off": 370,
+  "len": 31,
+  "text": "Incidentally, we have a special",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 8,
+  "off": 403,
+  "len": 36,
+  "text": "item for special customers like you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 9,
+  "off": 441,
+  "len": 19,
+  "text": "Are you interested?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 10,
+  "off": 585,
+  "len": 31,
+  "text": "Good. Actually, we can give you",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 11,
+  "off": 618,
+  "len": 32,
+  "text": "an Earth Ra-Seru Egg in exchange",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 12,
+  "off": 652,
+  "len": 19,
+  "text": "for 100,000 tokens.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 13,
+  "off": 674,
+  "len": 23,
+  "text": "Do you want to exchange",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 14,
+  "off": 699,
+  "len": 18,
+  "text": "100,000 tokens for",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 15,
+  "off": 719,
+  "len": 21,
+  "text": "an Earth Ra-Seru Egg?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 16,
+  "off": 884,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 17,
+  "off": 900,
+  "len": 18,
+  "text": "Earth Ra-Seru Egg!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 18,
+  "off": 924,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 19,
+  "off": 939,
+  "len": 14,
+  "text": "Oh. Very well.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 17,
+  "run": 20,
+  "off": 955,
+  "len": 10,
+  "text": "That's OK!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 0,
+  "off": 31,
+  "len": 27,
+  "text": "Welcome to Muscle Paradise!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 1,
+  "off": 60,
+  "len": 27,
+  "text": "This is the sign-up counter",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 2,
+  "off": 89,
+  "len": 22,
+  "text": "for the Coliseum Zone.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 3,
+  "off": 118,
+  "len": 31,
+  "text": "I want to enter the Tournament.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 4,
+  "off": 151,
+  "len": 10,
+  "text": "Never mind",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 5,
+  "off": 164,
+  "len": 29,
+  "text": "You want to enter? Wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 6,
+  "off": 195,
+  "len": 26,
+  "text": "The fee for registering is",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 7,
+  "off": 223,
+  "len": 11,
+  "text": "100 tokens.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 8,
+  "off": 243,
+  "len": 32,
+  "text": "I want to pay the fee and enter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 9,
+  "off": 277,
+  "len": 30,
+  "text": "Tell me how to play the games.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 10,
+  "off": 309,
+  "len": 29,
+  "text": "On second thought, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 11,
+  "off": 349,
+  "len": 31,
+  "text": "First, tell me which one of you",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 12,
+  "off": 382,
+  "len": 17,
+  "text": "will be entering.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 13,
+  "off": 421,
+  "len": 10,
+  "text": "Very well.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 14,
+  "off": 433,
+  "len": 19,
+  "text": "I will now register",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 15,
+  "off": 454,
+  "len": 22,
+  "text": "{NAME} for the Tournament.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 16,
+  "off": 786,
+  "len": 18,
+  "text": "{NAME:01}: Wait a minute!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 17,
+  "off": 806,
+  "len": 22,
+  "text": "I don't want to enter!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 18,
+  "off": 830,
+  "len": 24,
+  "text": "Why don't you enter, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 19,
+  "off": 1311,
+  "len": 19,
+  "text": "{NAME:01}: I said I didn't",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 20,
+  "off": 1332,
+  "len": 14,
+  "text": "want to enter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 21,
+  "off": 1826,
+  "len": 18,
+  "text": "{NAME:02}: Sorry, {NAME}, but",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 22,
+  "off": 1846,
+  "len": 33,
+  "text": "vain displays of the martial arts",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 23,
+  "off": 1881,
+  "len": 23,
+  "text": "of Biron are forbidden.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 24,
+  "off": 2343,
+  "len": 19,
+  "text": "{NAME:02}: I must decline.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 25,
+  "off": 2364,
+  "len": 17,
+  "text": "{NAME}, why don't you",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 26,
+  "off": 2383,
+  "len": 21,
+  "text": "enter the Tournament?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 27,
+  "off": 2601,
+  "len": 10,
+  "text": "Very well.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 28,
+  "off": 2613,
+  "len": 19,
+  "text": "I will now register",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 29,
+  "off": 2634,
+  "len": 22,
+  "text": "{NAME} for the Tournament.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 30,
+  "off": 2669,
+  "len": 25,
+  "text": "There are three levels in",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 31,
+  "off": 2696,
+  "len": 15,
+  "text": "the Tournament.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 32,
+  "off": 2713,
+  "len": 27,
+  "text": "Which do you want to enter?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 33,
+  "off": 2751,
+  "len": 8,
+  "text": "Beginner",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 34,
+  "off": 2761,
+  "len": 6,
+  "text": "Expert",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 35,
+  "off": 2769,
+  "len": 6,
+  "text": "Master",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 36,
+  "off": 2777,
+  "len": 29,
+  "text": "On second thought, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 37,
+  "off": 2808,
+  "len": 33,
+  "text": "I'll try the Mini Game this time.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 38,
+  "off": 2963,
+  "len": 22,
+  "text": "This is an elimination",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 39,
+  "off": 2987,
+  "len": 11,
+  "text": "tournament.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 40,
+  "off": 3001,
+  "len": 26,
+  "text": "Each contestant must fight",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 41,
+  "off": 3029,
+  "len": 23,
+  "text": "one-on-one against our ",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 42,
+  "off": 3054,
+  "len": 24,
+  "text": "powerful monsters alone!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 43,
+  "off": 3081,
+  "len": 27,
+  "text": "The more bouts you win, the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 44,
+  "off": 3110,
+  "len": 30,
+  "text": "more tokens you get. There are",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 45,
+  "off": 3142,
+  "len": 31,
+  "text": "three levels in the Tournament.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 46,
+  "off": 3176,
+  "len": 31,
+  "text": "The first is Beginner. You have",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 47,
+  "off": 3209,
+  "len": 35,
+  "text": "to fight eight monsters in sequence",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 48,
+  "off": 3246,
+  "len": 32,
+  "text": "as you would in a normal battle.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 49,
+  "off": 3281,
+  "len": 33,
+  "text": "At the Expert level, a contestant",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 50,
+  "off": 3316,
+  "len": 33,
+  "text": "must fight eight monsters wearing",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 51,
+  "off": 3351,
+  "len": 12,
+  "text": "only a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 52,
+  "off": 3366,
+  "len": 31,
+  "text": "As for the Master level, I will",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 53,
+  "off": 3399,
+  "len": 33,
+  "text": "say only that you must fight more",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 54,
+  "off": 3434,
+  "len": 20,
+  "text": "than eight monsters.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 55,
+  "off": 3457,
+  "len": 32,
+  "text": "After each bout HP automatically",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 56,
+  "off": 3491,
+  "len": 32,
+  "text": "increases or decreases depending",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 57,
+  "off": 3525,
+  "len": 34,
+  "text": "on how well, or poorly, you fight.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 58,
+  "off": 3562,
+  "len": 31,
+  "text": "It should also be noted that no",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 59,
+  "off": 3595,
+  "len": 28,
+  "text": "items whatsoever may be used",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 60,
+  "off": 3625,
+  "len": 14,
+  "text": "during a bout.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 61,
+  "off": 3642,
+  "len": 33,
+  "text": "There are three ways to leave the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 62,
+  "off": 3677,
+  "len": 31,
+  "text": "Tournament: by winning, losing,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 63,
+  "off": 3710,
+  "len": 30,
+  "text": "or running away during a bout.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 64,
+  "off": 3743,
+  "len": 21,
+  "text": "However, running away",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 65,
+  "off": 3766,
+  "len": 26,
+  "text": "is considered forfeiting, ",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 66,
+  "off": 3794,
+  "len": 30,
+  "text": "and no prize money is awarded.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 67,
+  "off": 3833,
+  "len": 32,
+  "text": "I want to pay the fee and enter.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 68,
+  "off": 3867,
+  "len": 30,
+  "text": "Tell me how to play the games.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 69,
+  "off": 3899,
+  "len": 29,
+  "text": "On second thought, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 70,
+  "off": 3931,
+  "len": 28,
+  "text": "We hope you come again soon!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 71,
+  "off": 3964,
+  "len": 33,
+  "text": "Sorry, but the fee is 100 tokens,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 72,
+  "off": 3999,
+  "len": 25,
+  "text": "and it appears you do not",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 21,
+  "run": 73,
+  "off": 4026,
+  "len": 12,
+  "text": "have enough.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 0,
+  "off": 36,
+  "len": 31,
+  "text": "The wonderful prizes available:",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 1,
+  "off": 69,
+  "len": 33,
+  "text": "Evil God Icon:      10,000 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 2,
+  "off": 104,
+  "len": 34,
+  "text": "Lost Grail:           8,000 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 3,
+  "off": 140,
+  "len": 34,
+  "text": "Life Armband:         5,000 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 4,
+  "off": 176,
+  "len": 34,
+  "text": "Deluxe Rod:           2,500 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 5,
+  "off": 212,
+  "len": 33,
+  "text": "Vitality Ring:       1,000 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 6,
+  "off": 247,
+  "len": 34,
+  "text": "Magic Ring:             500 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 7,
+  "off": 283,
+  "len": 34,
+  "text": "Healing Fruit:          250 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 8,
+  "off": 319,
+  "len": 27,
+  "text": "Incense:         200 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 9,
+  "off": 348,
+  "len": 34,
+  "text": "Fury Boost:             150 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 10,
+  "off": 384,
+  "len": 34,
+  "text": "Soru Bread:             100 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 22,
+  "run": 11,
+  "off": 420,
+  "len": 34,
+  "text": "Gold Card:               50 tokens",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 23,
+  "run": 0,
+  "off": 31,
+  "len": 34,
+  "text": "Ugh! I know the secret is to press",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 23,
+  "run": 1,
+  "off": 67,
+  "len": 35,
+  "text": "the button when you see the seam on",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 23,
+  "run": 2,
+  "off": 104,
+  "len": 22,
+  "text": "the reel, but still...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 24,
+  "run": 0,
+  "off": 46,
+  "len": 8,
+  "text": "Tee-hee!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 24,
+  "run": 1,
+  "off": 56,
+  "len": 30,
+  "text": "One bonus round after another!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 24,
+  "run": 2,
+  "off": 88,
+  "len": 18,
+  "text": "I just can't lose!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 25,
+  "run": 0,
+  "off": 35,
+  "len": 23,
+  "text": "I'm tired of this game.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 25,
+  "run": 1,
+  "off": 60,
+  "len": 30,
+  "text": "But I don't have anything else",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 25,
+  "run": 2,
+  "off": 92,
+  "len": 6,
+  "text": "to do.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 25,
+  "run": 3,
+  "off": 103,
+  "len": 27,
+  "text": "I heard the Mist down below",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 25,
+  "run": 4,
+  "off": 132,
+  "len": 30,
+  "text": "is gone. But that doesn't even",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 25,
+  "run": 5,
+  "off": 164,
+  "len": 27,
+  "text": "matter when you're in here!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 26,
+  "run": 0,
+  "off": 26,
+  "len": 7,
+  "text": "Shucks!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 26,
+  "run": 1,
+  "off": 35,
+  "len": 27,
+  "text": "That Songi bastard came out",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 26,
+  "run": 2,
+  "off": 64,
+  "len": 27,
+  "text": "just when I was doing good.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 0,
+  "off": 33,
+  "len": 26,
+  "text": "You guys know who Gaza is?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 1,
+  "off": 184,
+  "len": 33,
+  "text": "Let me just say that if Gaza gets",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 2,
+  "off": 219,
+  "len": 26,
+  "text": "in the ring, no Seru alive",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 3,
+  "off": 247,
+  "len": 16,
+  "text": "stands a chance!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 4,
+  "off": 266,
+  "len": 26,
+  "text": "The Astral Sword that Gaza",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 5,
+  "off": 294,
+  "len": 28,
+  "text": "wields is exquisitely sharp.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 6,
+  "off": 325,
+  "len": 25,
+  "text": "But Gaza only fights Seru",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 7,
+  "off": 352,
+  "len": 31,
+  "text": "monsters from the lower levels.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 8,
+  "off": 388,
+  "len": 27,
+  "text": "Gaza used to be a war hero.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 9,
+  "off": 417,
+  "len": 33,
+  "text": "A fine man. Proud. He trained day",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 10,
+  "off": 452,
+  "len": 29,
+  "text": "and night to hone his skills.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 11,
+  "off": 484,
+  "len": 28,
+  "text": "But when the Mist came, Seru",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 12,
+  "off": 514,
+  "len": 32,
+  "text": "monsters killed his kids and his",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 13,
+  "off": 548,
+  "len": 15,
+  "text": "grandkids, too.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 14,
+  "off": 566,
+  "len": 30,
+  "text": "He was crushed! The only thing",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 15,
+  "off": 598,
+  "len": 27,
+  "text": "that keeps him going now is",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 16,
+  "off": 627,
+  "len": 33,
+  "text": "exacting his revenge on the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 17,
+  "off": 665,
+  "len": 33,
+  "text": "Now, in the age of the Mist, Gaza",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 18,
+  "off": 700,
+  "len": 34,
+  "text": "is considered washed up. I can see",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 19,
+  "off": 736,
+  "len": 32,
+  "text": "why you might think that, but...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 20,
+  "off": 771,
+  "len": 28,
+  "text": "Let's remember the old Gaza,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 27,
+  "run": 21,
+  "off": 801,
+  "len": 23,
+  "text": "the strong, proud Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 0,
+  "off": 37,
+  "len": 22,
+  "text": "I've told Gaza so many",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 1,
+  "off": 61,
+  "len": 6,
+  "text": "times.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 2,
+  "off": 70,
+  "len": 33,
+  "text": "\"No matter how many Seru monsters",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 3,
+  "off": 105,
+  "len": 29,
+  "text": "you kill, it won't bring your",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 4,
+  "off": 136,
+  "len": 15,
+  "text": "children back.\"",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 5,
+  "off": 154,
+  "len": 33,
+  "text": "But I could never get through all",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 6,
+  "off": 189,
+  "len": 12,
+  "text": "that hatred.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 7,
+  "off": 204,
+  "len": 31,
+  "text": "Gaza isn't possessed by a Seru,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 8,
+  "off": 237,
+  "len": 30,
+  "text": "but the Mist has eaten away at",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 9,
+  "off": 269,
+  "len": 24,
+  "text": "his heart just the same.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 10,
+  "off": 298,
+  "len": 32,
+  "text": "Right now, I bet Gaza is playing",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 28,
+  "run": 11,
+  "off": 332,
+  "len": 24,
+  "text": "with his kids in heaven.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 29,
+  "run": 0,
+  "off": 33,
+  "len": 33,
+  "text": "These fights are so exhilarating!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 29,
+  "run": 1,
+  "off": 68,
+  "len": 29,
+  "text": "Since you guys have Seru, you",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 29,
+  "run": 2,
+  "off": 99,
+  "len": 13,
+  "text": "should enter!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 0,
+  "off": 35,
+  "len": 32,
+  "text": "Wow! Did you see that move? When",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 1,
+  "off": 69,
+  "len": 32,
+  "text": "the Mist clears, I'm gonna get a",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 2,
+  "off": 103,
+  "len": 30,
+  "text": "Seru and enter the Tournament!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 3,
+  "off": 138,
+  "len": 28,
+  "text": "The Mist downstairs may have",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 4,
+  "off": 168,
+  "len": 35,
+  "text": "cleared, but they say there's still",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 5,
+  "off": 205,
+  "len": 26,
+  "text": "a lot of Mist elixir here.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 6,
+  "off": 234,
+  "len": 29,
+  "text": "That's why the Seru are still",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 30,
+  "run": 7,
+  "off": 265,
+  "len": 9,
+  "text": "so tough.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 31,
+  "run": 0,
+  "off": 31,
+  "len": 14,
+  "text": "!<1F>Even: Ggrrr!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 32,
+  "run": 0,
+  "off": 29,
+  "len": 12,
+  "text": "Even: Ggrrr!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 0,
+  "off": 31,
+  "len": 19,
+  "text": "Innkeeper: Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 1,
+  "off": 52,
+  "len": 25,
+  "text": "A room is 280G per night.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 2,
+  "off": 79,
+  "len": 30,
+  "text": "Do you want to stay the night?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 3,
+  "off": 235,
+  "len": 14,
+  "text": "Innkeeper: Oh.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 4,
+  "off": 251,
+  "len": 17,
+  "text": "Well, come again!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 5,
+  "off": 273,
+  "len": 25,
+  "text": "Innkeeper: You don't have",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 6,
+  "off": 300,
+  "len": 32,
+  "text": "enough money. Come back when you",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 7,
+  "off": 334,
+  "len": 10,
+  "text": "have 280G.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 8,
+  "off": 360,
+  "len": 21,
+  "text": "Innkeeper: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 9,
+  "off": 384,
+  "len": 29,
+  "text": "Innkeeper: Please show these ",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 10,
+  "off": 415,
+  "len": 20,
+  "text": "three to their room!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 54,
+  "run": 11,
+  "off": 569,
+  "len": 21,
+  "text": "Innkeeper: Good luck!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 0,
+  "off": 31,
+  "len": 33,
+  "text": "Hey, you're new here, aren't you?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 1,
+  "off": 66,
+  "len": 31,
+  "text": "Have you seen much of the town?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 2,
+  "off": 222,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 3,
+  "off": 235,
+  "len": 33,
+  "text": "I bet! This is a pretty fun town,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 4,
+  "off": 276,
+  "len": 30,
+  "text": "This is the most exciting town",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 5,
+  "off": 308,
+  "len": 28,
+  "text": "in the world! Sol offers all",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 6,
+  "off": 338,
+  "len": 23,
+  "text": "forms of entertainment.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 7,
+  "off": 364,
+  "len": 31,
+  "text": "This town is paradise! But then",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 8,
+  "off": 397,
+  "len": 35,
+  "text": "again, every kind of enjoyment gets",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 9,
+  "off": 434,
+  "len": 18,
+  "text": "boring in the end.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 10,
+  "off": 455,
+  "len": 34,
+  "text": "Ten years! For ten years I've been",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 11,
+  "off": 491,
+  "len": 32,
+  "text": "trapped in paradise by the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 12,
+  "off": 526,
+  "len": 32,
+  "text": "I want to see the outside world!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 13,
+  "off": 560,
+  "len": 31,
+  "text": "I want to lay down in the grass",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 14,
+  "off": 593,
+  "len": 23,
+  "text": "and gaze up at the sky!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 15,
+  "off": 619,
+  "len": 24,
+  "text": "I'm tired of this place!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 16,
+  "off": 645,
+  "len": 23,
+  "text": "Fed up with everything!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 17,
+  "off": 670,
+  "len": 29,
+  "text": "Somebody, get me out of here!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 18,
+  "off": 702,
+  "len": 22,
+  "text": "Life. Fate. It's all a",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 19,
+  "off": 726,
+  "len": 23,
+  "text": "joke. A great big joke!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 20,
+  "off": 754,
+  "len": 30,
+  "text": "Ha. ha. ha! That's a good one!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 21,
+  "off": 786,
+  "len": 30,
+  "text": "I like you! You'll have a good",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 22,
+  "off": 818,
+  "len": 18,
+  "text": "time in this town!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 23,
+  "off": 839,
+  "len": 34,
+  "text": "So cut loose and have a good time!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 24,
+  "off": 881,
+  "len": 23,
+  "text": "Oh, yeah, that's right.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 25,
+  "off": 906,
+  "len": 12,
+  "text": "I'm married.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 55,
+  "run": 26,
+  "off": 920,
+  "len": 20,
+  "text": "I completely forgot!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 56,
+  "run": 0,
+  "off": 30,
+  "len": 31,
+  "text": "I was lucky to survive the Mist",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 56,
+  "run": 1,
+  "off": 63,
+  "len": 33,
+  "text": "and make it back here. But on the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 56,
+  "run": 2,
+  "off": 98,
+  "len": 13,
+  "text": "other hand...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 56,
+  "run": 3,
+  "off": 114,
+  "len": 31,
+  "text": "I go crazy when I think what my",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 56,
+  "run": 4,
+  "off": 147,
+  "len": 35,
+  "text": "husband must have been doing in the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 56,
+  "run": 5,
+  "off": 184,
+  "len": 33,
+  "text": "ten years he's been away from me!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 58,
+  "run": 0,
+  "off": 22,
+  "len": 23,
+  "text": "On the glass is a sign:",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 58,
+  "run": 1,
+  "off": 47,
+  "len": 33,
+  "text": "The rare, expensive Voltech Fish!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 0,
+  "off": 29,
+  "len": 20,
+  "text": "Oh, you're new here!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 1,
+  "off": 51,
+  "len": 30,
+  "text": "Do you want to hear about when",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 2,
+  "off": 83,
+  "len": 21,
+  "text": "the Mist came to Sol?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 3,
+  "off": 229,
+  "len": 33,
+  "text": "It was right in the middle of the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 4,
+  "off": 264,
+  "len": 28,
+  "text": "long, long war with Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 5,
+  "off": 295,
+  "len": 32,
+  "text": "The war had been raging for over",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 6,
+  "off": 329,
+  "len": 30,
+  "text": "ten years, and we were beating",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 7,
+  "off": 361,
+  "len": 15,
+  "text": "Conkram's army.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 8,
+  "off": 379,
+  "len": 33,
+  "text": "\"We're about to win! Soon the war",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 9,
+  "off": 414,
+  "len": 32,
+  "text": "will be over,\" everyone thought.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 10,
+  "off": 449,
+  "len": 29,
+  "text": "We were about to win, when a ",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 11,
+  "off": 480,
+  "len": 36,
+  "text": "strange castle appeared in the sky, ",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 12,
+  "off": 518,
+  "len": 35,
+  "text": "and Mist started flowing out of it!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 13,
+  "off": 556,
+  "len": 28,
+  "text": "As long as the Mist is here,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 14,
+  "off": 586,
+  "len": 29,
+  "text": "my family and friends will be",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 15,
+  "off": 617,
+  "len": 18,
+  "text": "possessed by Seru.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 16,
+  "off": 638,
+  "len": 29,
+  "text": "Victory was close yet too far",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 17,
+  "off": 669,
+  "len": 33,
+  "text": "to grasp. That's the real tragedy",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 18,
+  "off": 704,
+  "len": 7,
+  "text": "of Sol.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 19,
+  "off": 716,
+  "len": 31,
+  "text": "Oh, Well. I guess stories like ",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 20,
+  "off": 749,
+  "len": 32,
+  "text": "that wouldn't interest strangers",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 21,
+  "off": 783,
+  "len": 9,
+  "text": "like you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 22,
+  "off": 797,
+  "len": 34,
+  "text": "Well, I suppose we should be happy",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 23,
+  "off": 833,
+  "len": 32,
+  "text": "for those who were reunited with",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 59,
+  "run": 24,
+  "off": 867,
+  "len": 25,
+  "text": "their family and friends.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 0,
+  "off": 29,
+  "len": 33,
+  "text": "When the town was attacked by the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 1,
+  "off": 64,
+  "len": 28,
+  "text": "Mist, people were crying and",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 2,
+  "off": 94,
+  "len": 30,
+  "text": "screaming. It was utter chaos.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 3,
+  "off": 127,
+  "len": 29,
+  "text": "But within a year, the people",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 4,
+  "off": 158,
+  "len": 30,
+  "text": "began indulging in debauchery,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 5,
+  "off": 190,
+  "len": 26,
+  "text": "as a diversion, they said.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 6,
+  "off": 219,
+  "len": 28,
+  "text": "Drinking, fighting, dancing.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 7,
+  "off": 249,
+  "len": 33,
+  "text": "But after a few years they became",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 8,
+  "off": 284,
+  "len": 28,
+  "text": "bored with those diversions.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 9,
+  "off": 315,
+  "len": 34,
+  "text": "The people here are like ghosts --",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 10,
+  "off": 351,
+  "len": 34,
+  "text": "not living but merely existing out",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 11,
+  "off": 387,
+  "len": 17,
+  "text": "of fear of dying.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 12,
+  "off": 409,
+  "len": 28,
+  "text": "When the Mist cleared and my",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 13,
+  "off": 439,
+  "len": 34,
+  "text": "husband came home, I realized what",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 60,
+  "run": 14,
+  "off": 475,
+  "len": 27,
+  "text": "the real tragedy of Sol is.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 61,
+  "run": 0,
+  "off": 28,
+  "len": 27,
+  "text": "When I came out of the Mist",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 61,
+  "run": 1,
+  "off": 57,
+  "len": 32,
+  "text": "downstairs, my wife was old, and",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 61,
+  "run": 2,
+  "off": 91,
+  "len": 25,
+  "text": "all my friends were dead.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 61,
+  "run": 3,
+  "off": 119,
+  "len": 23,
+  "text": "This is reality? Hmmph.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 61,
+  "run": 4,
+  "off": 144,
+  "len": 27,
+  "text": "It's more like a bad dream.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 63,
+  "run": 0,
+  "off": 201,
+  "len": 33,
+  "text": "You don't have any tokens on you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 64,
+  "run": 0,
+  "off": 201,
+  "len": 33,
+  "text": "You don't have any tokens on you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 65,
+  "run": 0,
+  "off": 201,
+  "len": 33,
+  "text": "You don't have any tokens on you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 66,
+  "run": 0,
+  "off": 201,
+  "len": 33,
+  "text": "You don't have any tokens on you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 67,
+  "run": 0,
+  "off": 201,
+  "len": 33,
+  "text": "You don't have any tokens on you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 68,
+  "run": 0,
+  "off": 201,
+  "len": 33,
+  "text": "You don't have any tokens on you.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 0,
+  "off": 46,
+  "len": 11,
+  "text": "First fight",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 1,
+  "off": 68,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 2,
+  "off": 97,
+  "len": 24,
+  "text": "6th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 3,
+  "off": 132,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 4,
+  "off": 161,
+  "len": 24,
+  "text": "7th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 5,
+  "off": 196,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 6,
+  "off": 225,
+  "len": 17,
+  "text": "A familiar melody",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 7,
+  "off": 253,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 8,
+  "off": 282,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 9,
+  "off": 304,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 10,
+  "off": 334,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 11,
+  "off": 368,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 12,
+  "off": 374,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 13,
+  "off": 385,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 75,
+  "run": 14,
+  "off": 396,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 0,
+  "off": 76,
+  "len": 29,
+  "text": "Hey! Who asked you to get rid",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 1,
+  "off": 107,
+  "len": 31,
+  "text": "of the Mist? Why don't you mind",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 2,
+  "off": 140,
+  "len": 18,
+  "text": "your own business!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 3,
+  "off": 191,
+  "len": 33,
+  "text": "Stop that! What's the matter with",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 4,
+  "off": 226,
+  "len": 23,
+  "text": "you, talking like that?",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 5,
+  "off": 282,
+  "len": 18,
+  "text": "I-I'm sorry, dear.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 6,
+  "off": 302,
+  "len": 24,
+  "text": "I just got carried away.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 7,
+  "off": 353,
+  "len": 17,
+  "text": "{NAME}, I'm so sorry.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 8,
+  "off": 372,
+  "len": 21,
+  "text": "My husband is just so",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 83,
+  "run": 9,
+  "off": 395,
+  "len": 13,
+  "text": "ill-mannered.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 0,
+  "off": 213,
+  "len": 13,
+  "text": "Referee: 8...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 1,
+  "off": 256,
+  "len": 13,
+  "text": "Referee: 9...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 2,
+  "off": 299,
+  "len": 14,
+  "text": "Referee: 10...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 3,
+  "off": 436,
+  "len": 30,
+  "text": "And there's the bell signaling",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 4,
+  "off": 468,
+  "len": 21,
+  "text": "the end of the fight.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 5,
+  "off": 529,
+  "len": 25,
+  "text": "A colorful finish in only",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 6,
+  "off": 556,
+  "len": 21,
+  "text": "1 minute, 47 seconds.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 7,
+  "off": 611,
+  "len": 33,
+  "text": "The contestant in the blue corner",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 84,
+  "run": 8,
+  "off": 646,
+  "len": 25,
+  "text": "has won a record victory.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 0,
+  "off": 681,
+  "len": 20,
+  "text": "And the winner is...",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 1,
+  "off": 882,
+  "len": 22,
+  "text": "That was a good fight.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 2,
+  "off": 906,
+  "len": 10,
+  "text": "Well done.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 3,
+  "off": 918,
+  "len": 24,
+  "text": "We hope you enter again.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 4,
+  "off": 945,
+  "len": 24,
+  "text": "Contestant {NAME} is awarded",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 5,
+  "off": 971,
+  "len": 10,
+  "text": "{CE:14} tokens!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 6,
+  "off": 996,
+  "len": 13,
+  "text": "What a fight!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 7,
+  "off": 1011,
+  "len": 15,
+  "text": "Simply amazing!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 8,
+  "off": 1029,
+  "len": 20,
+  "text": "Congratulations, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 9,
+  "off": 1051,
+  "len": 26,
+  "text": "You've made it through the",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 10,
+  "off": 1079,
+  "len": 13,
+  "text": "Master level.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 11,
+  "off": 1095,
+  "len": 27,
+  "text": "To commemorate his victory,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 12,
+  "off": 1124,
+  "len": 18,
+  "text": "we present {NAME} with",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 13,
+  "off": 1162,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 14,
+  "off": 1174,
+  "len": 7,
+  "text": "the {ITEM:CD}!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 15,
+  "off": 1184,
+  "len": 17,
+  "text": "Contestant {NAME} has",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 16,
+  "off": 1203,
+  "len": 17,
+  "text": "also been awarded",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 85,
+  "run": 17,
+  "off": 1222,
+  "len": 10,
+  "text": "{CE:14} tokens.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 0,
+  "off": 642,
+  "len": 23,
+  "text": "And the fight ends with",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 1,
+  "off": 667,
+  "len": 21,
+  "text": "contestant {NAME} knocked",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 2,
+  "off": 690,
+  "len": 20,
+  "text": "savagely to the mat!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 3,
+  "off": 900,
+  "len": 26,
+  "text": "That's too bad, contestant",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 4,
+  "off": 928,
+  "len": 19,
+  "text": "{NAME}. We look forward",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 5,
+  "off": 949,
+  "len": 21,
+  "text": "to your return match.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 6,
+  "off": 973,
+  "len": 17,
+  "text": "Contestant {NAME} has",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 7,
+  "off": 992,
+  "len": 17,
+  "text": "also been awarded",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 86,
+  "run": 8,
+  "off": 1011,
+  "len": 10,
+  "text": "{CE:14} tokens.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 0,
+  "off": 204,
+  "len": 30,
+  "text": "Sorry, but contestants who run",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 1,
+  "off": 236,
+  "len": 28,
+  "text": "away in the middle of a bout",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 2,
+  "off": 266,
+  "len": 18,
+  "text": "receive no tokens!",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 3,
+  "off": 287,
+  "len": 26,
+  "text": "To win tokens, you have to",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 4,
+  "off": 315,
+  "len": 16,
+  "text": "fight to the end",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 5,
+  "off": 333,
+  "len": 15,
+  "text": "or be defeated.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 6,
+  "off": 353,
+  "len": 25,
+  "text": "{NAME}! What a shame to enter",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 7,
+  "off": 380,
+  "len": 31,
+  "text": "the Tournament just to run away",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 8,
+  "off": 413,
+  "len": 16,
+  "text": "at the outstart.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 9,
+  "off": 432,
+  "len": 30,
+  "text": "You're a very timid person, so",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 10,
+  "off": 464,
+  "len": 29,
+  "text": "we're giving you the Timidity",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 11,
+  "off": 495,
+  "len": 14,
+  "text": "Prize -- a {ITEM:F7}.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 12,
+  "off": 526,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 13,
+  "off": 538,
+  "len": 7,
+  "text": "the {ITEM:F7}.",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 14,
+  "off": 548,
+  "len": 31,
+  "text": "Congratulations! Keep training,",
+  "ko": ""
+ },
+ {
+  "map": 545,
+  "script": 87,
+  "run": 15,
+  "off": 581,
+  "len": 32,
+  "text": "and master the art of timidness!",
+  "ko": ""
+ }
+]

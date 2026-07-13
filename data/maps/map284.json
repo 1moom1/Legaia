@@ -1,0 +1,3413 @@
+[
+ {
+  "map": 284,
+  "script": 0,
+  "run": 0,
+  "off": 28,
+  "len": 15,
+  "text": "{NAME} inserted the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 0,
+  "run": 1,
+  "off": 45,
+  "len": 17,
+  "text": "{ITEM:BF} into the door!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 0,
+  "run": 2,
+  "off": 73,
+  "len": 16,
+  "text": "The door opened!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 11,
+  "run": 0,
+  "off": 38,
+  "len": 19,
+  "text": "The door is locked!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 11,
+  "run": 1,
+  "off": 59,
+  "len": 17,
+  "text": "You can't get in!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 18,
+  "run": 0,
+  "off": 36,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.v[<05>",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 1,
+  "off": 42,
+  "len": 29,
+  "text": "5th Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 2,
+  "off": 73,
+  "len": 17,
+  "text": "Saryu's awakening",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 3,
+  "off": 92,
+  "len": 25,
+  "text": "{NAME:01}'s captivity, continued",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 4,
+  "off": 119,
+  "len": 4,
+  "text": "Next",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 5,
+  "off": 153,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 6,
+  "off": 168,
+  "len": 7,
+  "text": "Set all",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 7,
+  "off": 177,
+  "len": 5,
+  "text": "Clear",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 8,
+  "off": 184,
+  "len": 17,
+  "text": "Saryu's awakening",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 19,
+  "run": 9,
+  "off": 203,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 23,
+  "run": 0,
+  "off": 44,
+  "len": 7,
+  "text": "Gggrrr!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 23,
+  "run": 1,
+  "off": 54,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 23,
+  "run": 2,
+  "off": 84,
+  "len": 33,
+  "text": "It's looking at us with sad eyes.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 24,
+  "run": 0,
+  "off": 40,
+  "len": 10,
+  "text": "Groowwl...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 24,
+  "run": 1,
+  "off": 53,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 24,
+  "run": 2,
+  "off": 83,
+  "len": 34,
+  "text": "It's looking at us with suspicion.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 25,
+  "run": 0,
+  "off": 40,
+  "len": 10,
+  "text": "Gggrrrr...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 25,
+  "run": 1,
+  "off": 53,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 25,
+  "run": 2,
+  "off": 83,
+  "len": 30,
+  "text": "It's looking at us menacingly.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 26,
+  "run": 0,
+  "off": 40,
+  "len": 8,
+  "text": "Ggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 26,
+  "run": 1,
+  "off": 51,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 26,
+  "run": 2,
+  "off": 81,
+  "len": 34,
+  "text": "It's looking at us with suspicion.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 27,
+  "run": 0,
+  "off": 40,
+  "len": 12,
+  "text": "Growwwoww...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 27,
+  "run": 1,
+  "off": 55,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 27,
+  "run": 2,
+  "off": 85,
+  "len": 16,
+  "text": "It looks crazed!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 28,
+  "run": 0,
+  "off": 40,
+  "len": 15,
+  "text": "Gggrerrrowwl...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 28,
+  "run": 1,
+  "off": 58,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 28,
+  "run": 2,
+  "off": 88,
+  "len": 30,
+  "text": "It's looking at us doubtfully.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 29,
+  "run": 0,
+  "off": 40,
+  "len": 8,
+  "text": "Gowww...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 29,
+  "run": 1,
+  "off": 51,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 29,
+  "run": 2,
+  "off": 81,
+  "len": 32,
+  "text": "It's looking at us disturbingly.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 30,
+  "run": 0,
+  "off": 37,
+  "len": 12,
+  "text": "Geerrrooo...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 30,
+  "run": 1,
+  "off": 52,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 30,
+  "run": 2,
+  "off": 82,
+  "len": 25,
+  "text": "It's looking at us sadly.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 31,
+  "run": 0,
+  "off": 40,
+  "len": 12,
+  "text": "Ggooggrooo..",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 31,
+  "run": 1,
+  "off": 55,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 31,
+  "run": 2,
+  "off": 85,
+  "len": 20,
+  "text": "It looks distressed.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 32,
+  "run": 0,
+  "off": 42,
+  "len": 14,
+  "text": "Geerrrowwll...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 32,
+  "run": 1,
+  "off": 59,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 32,
+  "run": 2,
+  "off": 89,
+  "len": 31,
+  "text": "It's looking at us with sorrow.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 33,
+  "run": 0,
+  "off": 42,
+  "len": 12,
+  "text": "Groo Groo...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 33,
+  "run": 1,
+  "off": 57,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 33,
+  "run": 2,
+  "off": 87,
+  "len": 16,
+  "text": "It looks lonely.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 34,
+  "run": 0,
+  "off": 42,
+  "len": 13,
+  "text": "Gooorrrooo...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 34,
+  "run": 1,
+  "off": 58,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 34,
+  "run": 2,
+  "off": 88,
+  "len": 29,
+  "text": "It's looking at us strangely.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 35,
+  "run": 0,
+  "off": 33,
+  "len": 33,
+  "text": "I do not say more than necessary.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 35,
+  "run": 1,
+  "off": 69,
+  "len": 35,
+  "text": "If I do, Saryu will have me killed.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 35,
+  "run": 2,
+  "off": 109,
+  "len": 31,
+  "text": "The Mist seems to be flowing in",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 35,
+  "run": 3,
+  "off": 142,
+  "len": 21,
+  "text": "from the western sea.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 35,
+  "run": 4,
+  "off": 168,
+  "len": 29,
+  "text": "Saryu, too, has many troubles",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 35,
+  "run": 5,
+  "off": 199,
+  "len": 12,
+  "text": "and worries.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 0,
+  "off": 29,
+  "len": 35,
+  "text": "I do not think more than necessary.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 1,
+  "off": 67,
+  "len": 35,
+  "text": "If I do, Saryu will have me killed.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 2,
+  "off": 111,
+  "len": 33,
+  "text": "In Ratayu's western wall there is",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 3,
+  "off": 146,
+  "len": 32,
+  "text": "a checkpoint. You can get to the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 4,
+  "off": 180,
+  "len": 26,
+  "text": "Western Sea through there.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 5,
+  "off": 211,
+  "len": 33,
+  "text": "I wish I could give up soldiering",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 36,
+  "run": 6,
+  "off": 246,
+  "len": 31,
+  "text": "and find a nice wife somewhere.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 37,
+  "run": 0,
+  "off": 36,
+  "len": 31,
+  "text": "Saryu has ordered me not to let",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 37,
+  "run": 1,
+  "off": 69,
+  "len": 15,
+  "text": "anyone through.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 37,
+  "run": 2,
+  "off": 87,
+  "len": 29,
+  "text": "So I will let no one through.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 37,
+  "run": 3,
+  "off": 127,
+  "len": 34,
+  "text": "Cross the suspension bridge to the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 37,
+  "run": 4,
+  "off": 163,
+  "len": 30,
+  "text": "outside, then follow the trail",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 37,
+  "run": 5,
+  "off": 195,
+  "len": 11,
+  "text": "to the sea.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 38,
+  "run": 0,
+  "off": 56,
+  "len": 31,
+  "text": "Below here are the Seru brides.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 38,
+  "run": 1,
+  "off": 89,
+  "len": 32,
+  "text": "But Saryu has ordered not to let",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 38,
+  "run": 2,
+  "off": 123,
+  "len": 20,
+  "text": "anyone through here.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 38,
+  "run": 3,
+  "off": 146,
+  "len": 25,
+  "text": "So I cannot let you pass.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 38,
+  "run": 4,
+  "off": 176,
+  "len": 35,
+  "text": "I apologize, but this room has been",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 38,
+  "run": 5,
+  "off": 213,
+  "len": 29,
+  "text": "sealed under orders of Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 39,
+  "run": 0,
+  "off": 60,
+  "len": 31,
+  "text": "Below here are the Seru brides.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 39,
+  "run": 1,
+  "off": 93,
+  "len": 35,
+  "text": "But Saryu has ordered me not to let",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 39,
+  "run": 2,
+  "off": 130,
+  "len": 20,
+  "text": "anyone through here.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 39,
+  "run": 3,
+  "off": 153,
+  "len": 25,
+  "text": "So I cannot let you pass.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 39,
+  "run": 4,
+  "off": 183,
+  "len": 35,
+  "text": "I apologize, but this room has been",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 39,
+  "run": 5,
+  "off": 220,
+  "len": 29,
+  "text": "sealed under orders of Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 40,
+  "run": 0,
+  "off": 32,
+  "len": 28,
+  "text": "Saryu has ordered us to obey",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 40,
+  "run": 1,
+  "off": 62,
+  "len": 11,
+  "text": "his orders.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 40,
+  "run": 2,
+  "off": 76,
+  "len": 26,
+  "text": "So we will obey what Saryu",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 40,
+  "run": 3,
+  "off": 104,
+  "len": 12,
+  "text": "has ordered.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 40,
+  "run": 4,
+  "off": 121,
+  "len": 22,
+  "text": "I feel like I had this",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 40,
+  "run": 5,
+  "off": 145,
+  "len": 31,
+  "text": "horrible, horrible nightmare...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 41,
+  "run": 0,
+  "off": 32,
+  "len": 31,
+  "text": "Saryu ordered me to keep watch.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 41,
+  "run": 1,
+  "off": 66,
+  "len": 22,
+  "text": "So I am keeping watch.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 41,
+  "run": 2,
+  "off": 93,
+  "len": 31,
+  "text": "I couldn't say this before, but",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 41,
+  "run": 3,
+  "off": 126,
+  "len": 28,
+  "text": "I never trusted that Dohati.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 0,
+  "off": 36,
+  "len": 11,
+  "text": "Oh, yeah...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 1,
+  "off": 49,
+  "len": 17,
+  "text": "The Mist is gone.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 2,
+  "off": 69,
+  "len": 30,
+  "text": "I feel like I was having a bad",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 3,
+  "off": 101,
+  "len": 26,
+  "text": "dream. And I feel like the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 4,
+  "off": 129,
+  "len": 23,
+  "text": "nightmare hasn't ended.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 5,
+  "off": 157,
+  "len": 35,
+  "text": "Now that everyone's back to normal,",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 42,
+  "run": 6,
+  "off": 194,
+  "len": 29,
+  "text": "preparing meals is a big job!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 0,
+  "off": 33,
+  "len": 10,
+  "text": "Oh, you...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 1,
+  "off": 46,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 2,
+  "off": 58,
+  "len": 28,
+  "text": "I see. So you are travelers.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 3,
+  "off": 89,
+  "len": 26,
+  "text": "Yes, the soldiers here are",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 4,
+  "off": 117,
+  "len": 27,
+  "text": "under Saryu's spell. It's a",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 5,
+  "off": 146,
+  "len": 21,
+  "text": "form of mind control.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 6,
+  "off": 170,
+  "len": 31,
+  "text": "Before the Mist came, Saryu put",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 7,
+  "off": 203,
+  "len": 28,
+  "text": "on that Seru... He became an",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 8,
+  "off": 233,
+  "len": 26,
+  "text": "entirely different person.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 9,
+  "off": 262,
+  "len": 33,
+  "text": "It's so horrible what's happening",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 10,
+  "off": 297,
+  "len": 29,
+  "text": "to the \"Seru brides.\" I don't",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 11,
+  "off": 328,
+  "len": 16,
+  "text": "know what to do.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 12,
+  "off": 349,
+  "len": 32,
+  "text": "The Seru brides returned to town",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 13,
+  "off": 383,
+  "len": 32,
+  "text": "when the Mist cleared. I respect",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 43,
+  "run": 14,
+  "off": 417,
+  "len": 16,
+  "text": "you all so much.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "(Mumbling)",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 1,
+  "off": 47,
+  "len": 11,
+  "text": "Horrible...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 2,
+  "off": 61,
+  "len": 14,
+  "text": "A huge Seru...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 3,
+  "off": 78,
+  "len": 15,
+  "text": "Jugger...nau...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 4,
+  "off": 96,
+  "len": 9,
+  "text": "Zzzzzz...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 5,
+  "off": 110,
+  "len": 27,
+  "text": "So Ratayu's young girls are",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 6,
+  "off": 139,
+  "len": 33,
+  "text": "saved. As a young guy, that makes",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 44,
+  "run": 7,
+  "off": 174,
+  "len": 14,
+  "text": "me very happy.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 45,
+  "run": 0,
+  "off": 13,
+  "len": 8,
+  "text": "=7%1<16>sW<05>",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 45,
+  "run": 1,
+  "off": 34,
+  "len": 8,
+  "text": "Zzzzz...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 45,
+  "run": 2,
+  "off": 47,
+  "len": 27,
+  "text": "Don't bother me! I'm trying",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 45,
+  "run": 3,
+  "off": 76,
+  "len": 18,
+  "text": "to get some sleep!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 0,
+  "off": 59,
+  "len": 31,
+  "text": "Saryu: The Mist... was born due",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 1,
+  "off": 92,
+  "len": 31,
+  "text": "to a mistake. I... am grateful.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 2,
+  "off": 125,
+  "len": 19,
+  "text": "You destroyed...it.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 3,
+  "off": 147,
+  "len": 21,
+  "text": "Saryu: My successor, ",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 4,
+  "off": 170,
+  "len": 31,
+  "text": "much difficulty will he have...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 5,
+  "off": 203,
+  "len": 30,
+  "text": "because you destroyed... Mist.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 6,
+  "off": 236,
+  "len": 26,
+  "text": "Saryu: But I am pleased...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 7,
+  "off": 264,
+  "len": 22,
+  "text": "You have my gratitude.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 8,
+  "off": 289,
+  "len": 30,
+  "text": "Saryu: The Mist... has made me",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 9,
+  "off": 321,
+  "len": 13,
+  "text": "very tired...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 10,
+  "off": 337,
+  "len": 30,
+  "text": "Saryu: Rest... I wish to rest.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 11,
+  "off": 369,
+  "len": 19,
+  "text": "You... may leave...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 12,
+  "off": 390,
+  "len": 19,
+  "text": "That's an... order.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 13,
+  "off": 414,
+  "len": 17,
+  "text": "Saryu: Leave now.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 14,
+  "off": 433,
+  "len": 28,
+  "text": "Don't touch the Seru brides.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 15,
+  "off": 463,
+  "len": 16,
+  "text": "That's an order.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 16,
+  "off": 484,
+  "len": 29,
+  "text": "Saryu: Mist Generator... Yes,",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 17,
+  "off": 515,
+  "len": 31,
+  "text": "Dohati said he's going to build",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 18,
+  "off": 548,
+  "len": 29,
+  "text": "something in the Western Sea.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 19,
+  "off": 580,
+  "len": 34,
+  "text": "Saryu: That may be somehow related",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 20,
+  "off": 616,
+  "len": 14,
+  "text": "to Juggernaut.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 21,
+  "off": 635,
+  "len": 31,
+  "text": "Saryu: What... should I do now?",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 22,
+  "off": 671,
+  "len": 31,
+  "text": "Saryu: The Gate of Letona is in",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 23,
+  "off": 704,
+  "len": 24,
+  "text": "the town's eastern wall.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 46,
+  "run": 24,
+  "off": 730,
+  "len": 22,
+  "text": "Please do this for me.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 0,
+  "off": 41,
+  "len": 31,
+  "text": "Saryu: The Mist... was born due",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 1,
+  "off": 74,
+  "len": 31,
+  "text": "to a mistake. I... am grateful.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 2,
+  "off": 107,
+  "len": 19,
+  "text": "You destroyed...it.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 3,
+  "off": 129,
+  "len": 21,
+  "text": "Saryu: My successor, ",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 4,
+  "off": 152,
+  "len": 31,
+  "text": "much difficulty will he have...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 5,
+  "off": 185,
+  "len": 30,
+  "text": "because you destroyed... Mist.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 6,
+  "off": 218,
+  "len": 26,
+  "text": "Saryu: But I am pleased...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 7,
+  "off": 246,
+  "len": 22,
+  "text": "You have my gratitude.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 8,
+  "off": 271,
+  "len": 30,
+  "text": "Saryu: The Mist... has made me",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 9,
+  "off": 303,
+  "len": 13,
+  "text": "very tired...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 10,
+  "off": 319,
+  "len": 30,
+  "text": "Saryu: Rest... I wish to rest.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 11,
+  "off": 351,
+  "len": 19,
+  "text": "You... may leave...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 12,
+  "off": 372,
+  "len": 19,
+  "text": "That's an... order.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 13,
+  "off": 396,
+  "len": 21,
+  "text": "Saryu: You may leave.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 14,
+  "off": 419,
+  "len": 28,
+  "text": "Don't touch the Seru brides.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 15,
+  "off": 449,
+  "len": 16,
+  "text": "That's an order.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 16,
+  "off": 470,
+  "len": 29,
+  "text": "Saryu: Mist Generator... Yes,",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 17,
+  "off": 501,
+  "len": 31,
+  "text": "Dohati said he's going to build",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 18,
+  "off": 534,
+  "len": 29,
+  "text": "something in the Western Sea.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 19,
+  "off": 566,
+  "len": 34,
+  "text": "Saryu: That may be somehow related",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 20,
+  "off": 602,
+  "len": 14,
+  "text": "to Juggernaut.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 21,
+  "off": 651,
+  "len": 35,
+  "text": "Saryu: I spoke with the townspeople",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 22,
+  "off": 688,
+  "len": 22,
+  "text": "after you left for the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 23,
+  "off": 712,
+  "len": 15,
+  "text": "Mist Generator.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 24,
+  "off": 730,
+  "len": 32,
+  "text": "Saryu: I have committed horrible",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 25,
+  "off": 764,
+  "len": 29,
+  "text": "atrocities for which I do not",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 26,
+  "off": 795,
+  "len": 22,
+  "text": "expect to be forgiven.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 27,
+  "off": 820,
+  "len": 32,
+  "text": "Saryu: However, I will work hard",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 28,
+  "off": 854,
+  "len": 32,
+  "text": "in the hope that the people will",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 29,
+  "off": 888,
+  "len": 11,
+  "text": "understand.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 30,
+  "off": 934,
+  "len": 24,
+  "text": "Saryu: Ah, it so good to",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 31,
+  "off": 960,
+  "len": 14,
+  "text": "see you again!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 32,
+  "off": 977,
+  "len": 31,
+  "text": "Saryu: Since we last met I have",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 33,
+  "off": 1010,
+  "len": 22,
+  "text": "been speaking with the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 34,
+  "off": 1034,
+  "len": 12,
+  "text": "townspeople.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 35,
+  "off": 1049,
+  "len": 29,
+  "text": "Saryu: We spoke frankly about",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 36,
+  "off": 1080,
+  "len": 32,
+  "text": "the town's future and about what",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 37,
+  "off": 1114,
+  "len": 22,
+  "text": "is to be done with me.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 38,
+  "off": 1139,
+  "len": 33,
+  "text": "Saryu: Little by little, hope for",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 39,
+  "off": 1174,
+  "len": 34,
+  "text": "the future is returning to Ratayu.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 40,
+  "off": 1211,
+  "len": 35,
+  "text": "Saryu: Humans are indeed wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 41,
+  "off": 1248,
+  "len": 27,
+  "text": "Of that I am now convinced!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 42,
+  "off": 1294,
+  "len": 31,
+  "text": "Saryu: Ah, it's the heroes with",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 43,
+  "off": 1327,
+  "len": 30,
+  "text": "the Ra-Seru! You all seem much",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 44,
+  "off": 1359,
+  "len": 13,
+  "text": "stronger now!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 45,
+  "off": 1375,
+  "len": 32,
+  "text": "Saryu: I almost didn't recognize",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 46,
+  "off": 1409,
+  "len": 21,
+  "text": "you! Most impressive.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 47,
+  "off": 1433,
+  "len": 34,
+  "text": "Saryu: I expect I may be permitted",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 48,
+  "off": 1469,
+  "len": 17,
+  "text": "to give you this.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 49,
+  "off": 1501,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 50,
+  "off": 1513,
+  "len": 7,
+  "text": "the {ITEM:BF}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 51,
+  "off": 1526,
+  "len": 29,
+  "text": "Saryu: You are more qualified",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 52,
+  "off": 1557,
+  "len": 24,
+  "text": "than I to hold that key.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 47,
+  "run": 53,
+  "off": 1584,
+  "len": 31,
+  "text": "Saryu: Please use it carefully.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 0,
+  "off": 69,
+  "len": 29,
+  "text": "Saryu is tired. My orders are",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 1,
+  "off": 100,
+  "len": 34,
+  "text": "to let you speak to him only once.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 2,
+  "off": 137,
+  "len": 27,
+  "text": "So you may speak only once.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 3,
+  "off": 169,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 4,
+  "off": 181,
+  "len": 33,
+  "text": "Saryu is tired and ordered me not",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 5,
+  "off": 216,
+  "len": 22,
+  "text": "to let anyone see him.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 6,
+  "off": 241,
+  "len": 25,
+  "text": "So I cannot let you pass.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 7,
+  "off": 271,
+  "len": 27,
+  "text": "It seems we were being mind",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 8,
+  "off": 300,
+  "len": 26,
+  "text": "controlled by the Sim-Seru",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 9,
+  "off": 328,
+  "len": 27,
+  "text": "that was attached to Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 10,
+  "off": 358,
+  "len": 29,
+  "text": "Please forgive me for all the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 48,
+  "run": 11,
+  "off": 389,
+  "len": 26,
+  "text": "rude things I said to you.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 0,
+  "off": 69,
+  "len": 29,
+  "text": "Saryu is tired. My orders are",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 1,
+  "off": 100,
+  "len": 34,
+  "text": "to let you speak to him only once.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 2,
+  "off": 137,
+  "len": 27,
+  "text": "So you may speak only once.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 3,
+  "off": 169,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 4,
+  "off": 181,
+  "len": 33,
+  "text": "Saryu is tired and ordered me not",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 5,
+  "off": 216,
+  "len": 22,
+  "text": "to let anyone see him.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 6,
+  "off": 241,
+  "len": 25,
+  "text": "So I cannot let you pass.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 7,
+  "off": 271,
+  "len": 27,
+  "text": "It seems we were being mind",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 8,
+  "off": 300,
+  "len": 27,
+  "text": "controlled by the Sim-Seru ",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 9,
+  "off": 329,
+  "len": 27,
+  "text": "that was attached to Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 10,
+  "off": 359,
+  "len": 29,
+  "text": "Please forgive me for all the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 49,
+  "run": 11,
+  "off": 390,
+  "len": 26,
+  "text": "rude things I said to you.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 50,
+  "run": 0,
+  "off": 42,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 50,
+  "run": 1,
+  "off": 72,
+  "len": 18,
+  "text": "It looks very sad.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 51,
+  "run": 0,
+  "off": 42,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 51,
+  "run": 1,
+  "off": 72,
+  "len": 25,
+  "text": "It's looking at us sadly.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 54,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 54,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 54,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 54,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 54,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 55,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:85}",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 55,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 55,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 55,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:85}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 55,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 56,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 56,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 56,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 56,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 56,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 57,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:81}",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 57,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 57,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 57,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 57,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 58,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8D}",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 58,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 58,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 58,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8D}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 58,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 59,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:79}",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 59,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 59,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 59,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:79}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 59,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 0,
+  "off": 15,
+  "len": 24,
+  "text": "The castle with the Mist",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 1,
+  "off": 41,
+  "len": 31,
+  "text": "Generator is beyond the western",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 2,
+  "off": 74,
+  "len": 23,
+  "text": "gate, which lies ahead.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 3,
+  "off": 100,
+  "len": 28,
+  "text": "Do you want to open the door",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 4,
+  "off": 130,
+  "len": 20,
+  "text": "to the western gate?",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 5,
+  "off": 276,
+  "len": 35,
+  "text": "I see. Well, if you ever want to go",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 6,
+  "off": 313,
+  "len": 32,
+  "text": "to the town's western gate, just",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 7,
+  "off": 347,
+  "len": 11,
+  "text": "call on me.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 8,
+  "off": 365,
+  "len": 31,
+  "text": "Very well! Please wait a moment",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 9,
+  "off": 398,
+  "len": 27,
+  "text": "while I turn on the switch.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 10,
+  "off": 428,
+  "len": 22,
+  "text": "Thank you for waiting.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 95,
+  "run": 11,
+  "off": 452,
+  "len": 22,
+  "text": "Please, go on through.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 0,
+  "off": 112,
+  "len": 31,
+  "text": "Saryu: I have caused you all so",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 1,
+  "off": 145,
+  "len": 32,
+  "text": "much trouble. Again, I thank you",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 2,
+  "off": 179,
+  "len": 24,
+  "text": "for what you did for us.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 3,
+  "off": 308,
+  "len": 25,
+  "text": "Saryu: Yes, I am entirely",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 4,
+  "off": 335,
+  "len": 29,
+  "text": "responsible for the tragedies",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 5,
+  "off": 366,
+  "len": 27,
+  "text": "that occurred in this town.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 6,
+  "off": 396,
+  "len": 34,
+  "text": "Saryu: One day, a man named Dohati",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 7,
+  "off": 432,
+  "len": 30,
+  "text": "came to the castle with a most",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 8,
+  "off": 464,
+  "len": 13,
+  "text": "unusual Seru.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 9,
+  "off": 480,
+  "len": 27,
+  "text": "Saryu: Foolishly, I put the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 10,
+  "off": 509,
+  "len": 8,
+  "text": "Seru on.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 11,
+  "off": 568,
+  "len": 26,
+  "text": "Saryu: It was an evil Seru",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 12,
+  "off": 596,
+  "len": 21,
+  "text": "they had created -- a",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 13,
+  "off": 619,
+  "len": 9,
+  "text": "Sim-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 14,
+  "off": 631,
+  "len": 32,
+  "text": "Saryu: My mind was controlled by",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 15,
+  "off": 665,
+  "len": 32,
+  "text": "the Sim-Seru. It made me turn on",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 16,
+  "off": 699,
+  "len": 30,
+  "text": "the device sealed underground.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 17,
+  "off": 768,
+  "len": 25,
+  "text": "Saryu: For Dohati, I made",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 18,
+  "off": 795,
+  "len": 33,
+  "text": "Juggernaut and sacrificed many of",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 19,
+  "off": 830,
+  "len": 32,
+  "text": "the town's young women to do so.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 20,
+  "off": 923,
+  "len": 32,
+  "text": "Saryu: The device's records show",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 21,
+  "off": 957,
+  "len": 33,
+  "text": "that I made one Juggernaut before",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 22,
+  "off": 992,
+  "len": 14,
+  "text": "the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 23,
+  "off": 1051,
+  "len": 32,
+  "text": "Saryu: The Sim-Seru gave me only",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 24,
+  "off": 1085,
+  "len": 34,
+  "text": "one command: to create an infinite",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 25,
+  "off": 1121,
+  "len": 23,
+  "text": "number of that monster!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 26,
+  "off": 1186,
+  "len": 32,
+  "text": "Saryu: Ironically, that resulted",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 27,
+  "off": 1220,
+  "len": 32,
+  "text": "in your helping us to revive the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 28,
+  "off": 1254,
+  "len": 13,
+  "text": "Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 29,
+  "off": 1313,
+  "len": 31,
+  "text": "Saryu: Had it not been for you,",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 30,
+  "off": 1346,
+  "len": 30,
+  "text": "I probably would have remained",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 31,
+  "off": 1378,
+  "len": 29,
+  "text": "a foolish puppet of the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 32,
+  "off": 1490,
+  "len": 29,
+  "text": "Saryu: I will do anything for",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 33,
+  "off": 1521,
+  "len": 21,
+  "text": "you! Ah, yes -- here!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 34,
+  "off": 1581,
+  "len": 23,
+  "text": "Saryu: I give you this!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 35,
+  "off": 1692,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 36,
+  "off": 1704,
+  "len": 7,
+  "text": "the {ITEM:B4}.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 37,
+  "off": 1753,
+  "len": 27,
+  "text": "Saryu: That will enable you",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 38,
+  "off": 1782,
+  "len": 26,
+  "text": "to get to Dohati's castle.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 39,
+  "off": 1833,
+  "len": 32,
+  "text": "Saryu: Please destroy the Mist's",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 97,
+  "run": 40,
+  "off": 1867,
+  "len": 34,
+  "text": "henchmen -- Dohati and Juggernaut.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 0,
+  "off": 218,
+  "len": 16,
+  "text": "{NAME:01}: Who is that?",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 1,
+  "off": 358,
+  "len": 22,
+  "text": "{NAME:02}: What's the matter?",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 2,
+  "off": 530,
+  "len": 12,
+  "text": "A visitor...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 3,
+  "off": 544,
+  "len": 21,
+  "text": "I, Saryu, am pleased.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 4,
+  "off": 567,
+  "len": 30,
+  "text": "I have something nice for you.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 5,
+  "off": 648,
+  "len": 27,
+  "text": "{NAME:02}: Saryu? You're possessed",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 6,
+  "off": 677,
+  "len": 30,
+  "text": "by a Seru... How can you speak",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 7,
+  "off": 709,
+  "len": 6,
+  "text": "to us?",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 8,
+  "off": 767,
+  "len": 26,
+  "text": "Saryu: I cannot understand",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 9,
+  "off": 795,
+  "len": 18,
+  "text": "difficult words...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 10,
+  "off": 815,
+  "len": 29,
+  "text": "I give you the key to Letona.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 11,
+  "off": 969,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 12,
+  "off": 981,
+  "len": 7,
+  "text": "the {ITEM:B3}!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 13,
+  "off": 1050,
+  "len": 23,
+  "text": "Saryu: The {ITEM:B3} will open",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 14,
+  "off": 1075,
+  "len": 23,
+  "text": "the gate. You can reach",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 15,
+  "off": 1100,
+  "len": 32,
+  "text": "Mt. Letona's Genesis Tree there.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 16,
+  "off": 1135,
+  "len": 29,
+  "text": "Saryu: The Mist can be driven",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 17,
+  "off": 1166,
+  "len": 31,
+  "text": "from Ratayu. Then I can be with",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 18,
+  "off": 1199,
+  "len": 23,
+  "text": "my bride. I am pleased.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 19,
+  "off": 1225,
+  "len": 22,
+  "text": "Saryu: I give you this",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 20,
+  "off": 1249,
+  "len": 8,
+  "text": "{ITEM:B4}, too.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 21,
+  "off": 1437,
+  "len": 12,
+  "text": "{NAME:01}: Alright!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 22,
+  "off": 1524,
+  "len": 23,
+  "text": "{NAME:01}: I didn't understand",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 23,
+  "off": 1549,
+  "len": 30,
+  "text": "everything, but I got the part",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 24,
+  "off": 1581,
+  "len": 23,
+  "text": "about the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 25,
+  "off": 1652,
+  "len": 27,
+  "text": "{NAME:02}: I think he'll give us a",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 26,
+  "off": 1681,
+  "len": 32,
+  "text": "key to reach the Mist Generator,",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 27,
+  "off": 1715,
+  "len": 30,
+  "text": "if we revive the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 28,
+  "off": 1748,
+  "len": 23,
+  "text": "{NAME:02}: It sounds good, but",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 29,
+  "off": 1773,
+  "len": 24,
+  "text": "something troubles me...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 30,
+  "off": 1863,
+  "len": 28,
+  "text": "{NAME:01}: But Saryu said something",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 31,
+  "off": 1893,
+  "len": 23,
+  "text": "about brides! {NAME:02}, let's",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 32,
+  "off": 1918,
+  "len": 9,
+  "text": "help him!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 33,
+  "off": 1984,
+  "len": 18,
+  "text": "{NAME:02}: {NAME}, I will let",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 102,
+  "run": 34,
+  "off": 2004,
+  "len": 22,
+  "text": "you decide what to do.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 0,
+  "off": 174,
+  "len": 15,
+  "text": "Saryu: I see...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 1,
+  "off": 273,
+  "len": 30,
+  "text": "Saryu: Your homes were damaged",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 2,
+  "off": 305,
+  "len": 28,
+  "text": "by the Juggernaut I created.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 3,
+  "off": 414,
+  "len": 27,
+  "text": "Saryu: I am terribly sorry.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 4,
+  "off": 607,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 5,
+  "off": 616,
+  "len": 27,
+  "text": "It's not your fault, Saryu!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 6,
+  "off": 645,
+  "len": 26,
+  "text": "It's the Sim-Seru's fault!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 7,
+  "off": 737,
+  "len": 12,
+  "text": "Saryu: {NAME:01}...",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 8,
+  "off": 791,
+  "len": 34,
+  "text": "Saryu: I am told you are searching",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 9,
+  "off": 827,
+  "len": 28,
+  "text": "for your parents in Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 10,
+  "off": 936,
+  "len": 17,
+  "text": "{NAME:01}: That's right!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 11,
+  "off": 955,
+  "len": 29,
+  "text": "Hari told me they were there!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 12,
+  "off": 1070,
+  "len": 32,
+  "text": "Saryu: There is but one way from",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 13,
+  "off": 1104,
+  "len": 30,
+  "text": "the Sebucus Islands to Karisto",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 14,
+  "off": 1136,
+  "len": 26,
+  "text": "Kingdom, where Conkram is.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 15,
+  "off": 1168,
+  "len": 35,
+  "text": "Saryu: That is by the flying train.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 16,
+  "off": 1205,
+  "len": 31,
+  "text": "There is a flying train station",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 17,
+  "off": 1238,
+  "len": 9,
+  "text": "in Octam.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 18,
+  "off": 1250,
+  "len": 29,
+  "text": "Saryu: I do not know if it is",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 19,
+  "off": 1281,
+  "len": 28,
+  "text": "still in operation, but it's",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 20,
+  "off": 1311,
+  "len": 12,
+  "text": "worth a try.",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 21,
+  "off": 1378,
+  "len": 29,
+  "text": "{NAME:01}: I see. Songi is where the",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 22,
+  "off": 1409,
+  "len": 20,
+  "text": "Mist is. {NAME}, we must",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 23,
+  "off": 1431,
+  "len": 22,
+  "text": "go to Karisto Kingdom!",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 24,
+  "off": 1528,
+  "len": 20,
+  "text": "{NAME:01}: {NAME}, did you hear",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 25,
+  "off": 1550,
+  "len": 27,
+  "text": "that? I want to go to Octam",
+  "ko": ""
+ },
+ {
+  "map": 284,
+  "script": 108,
+  "run": 26,
+  "off": 1579,
+  "len": 24,
+  "text": "and ride a flying train!",
+  "ko": ""
+ }
+]

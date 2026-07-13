@@ -1,0 +1,2126 @@
+[
+ {
+  "map": 41,
+  "script": 1,
+  "run": 0,
+  "off": 37,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.p<10><0B>",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 2,
+  "run": 0,
+  "off": 16,
+  "len": 26,
+  "text": "Terra 2: Make a selection.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 2,
+  "run": 1,
+  "off": 53,
+  "len": 12,
+  "text": "{NAME:01} Beginning",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 2,
+  "run": 2,
+  "off": 67,
+  "len": 11,
+  "text": "Start Piura",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 2,
+  "run": 3,
+  "off": 80,
+  "len": 10,
+  "text": "Earthquake",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 0,
+  "off": 87,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Make it snappy!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 1,
+  "off": 112,
+  "len": 15,
+  "text": "{NAME:01}, I have much",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 2,
+  "off": 129,
+  "len": 13,
+  "text": "to teach you.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 3,
+  "off": 145,
+  "len": 22,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now follow me!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 4,
+  "off": 232,
+  "len": 25,
+  "text": "you much, but I wonder if",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 5,
+  "off": 259,
+  "len": 17,
+  "text": "it is sinking in.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 6,
+  "off": 279,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: So now it's time for",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 7,
+  "off": 309,
+  "len": 32,
+  "text": "a test. The first question is...",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 8,
+  "off": 352,
+  "len": 36,
+  "text": "{PAL:4}{M7:01}{PAL:7}: When the Mist is around you,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 9,
+  "off": 390,
+  "len": 24,
+  "text": "which is the combination",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 10,
+  "off": 416,
+  "len": 22,
+  "text": "that results in chaos?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 11,
+  "off": 450,
+  "len": 16,
+  "text": "Seru and Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 12,
+  "off": 468,
+  "len": 17,
+  "text": "Ra-Seru and human",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 13,
+  "off": 487,
+  "len": 14,
+  "text": "Seru and human",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 14,
+  "off": 503,
+  "len": 16,
+  "text": "Human and animal",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 15,
+  "off": 588,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Have you been paying any",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 16,
+  "off": 622,
+  "len": 32,
+  "text": "attention to what I've told you?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 17,
+  "off": 751,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now I'll ask you again.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 18,
+  "off": 928,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: A Seru touched by the Mist",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 19,
+  "off": 964,
+  "len": 28,
+  "text": "begins to act on its own and",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 20,
+  "off": 994,
+  "len": 31,
+  "text": "possess the human that uses it.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 21,
+  "off": 1028,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: So you must be careful.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 22,
+  "off": 1061,
+  "len": 21,
+  "text": "Now I will leave you.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 23,
+  "off": 1084,
+  "len": 27,
+  "text": "I will be waiting up ahead.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 24,
+  "off": 1199,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now for the second test.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 25,
+  "off": 1233,
+  "len": 17,
+  "text": "Listen carefully!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 26,
+  "off": 1261,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: What is it that, when it",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 27,
+  "off": 1295,
+  "len": 36,
+  "text": "is revived, uses powers from another",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 28,
+  "off": 1333,
+  "len": 28,
+  "text": "world to push back the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 29,
+  "off": 1373,
+  "len": 19,
+  "text": "The Book of Genesis",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 30,
+  "off": 1394,
+  "len": 14,
+  "text": "A Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 31,
+  "off": 1410,
+  "len": 12,
+  "text": "A geneticist",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 32,
+  "off": 1424,
+  "len": 11,
+  "text": "A dandelion",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 33,
+  "off": 1510,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Have you been paying any",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 34,
+  "off": 1544,
+  "len": 32,
+  "text": "attention to what I've told you?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 35,
+  "off": 1667,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now I'll ask you again.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 36,
+  "off": 1856,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Soon you will be entrusted",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 37,
+  "off": 1892,
+  "len": 24,
+  "text": "with the reviving of the",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 38,
+  "off": 1918,
+  "len": 14,
+  "text": "Genesis Trees.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 39,
+  "off": 2032,
+  "len": 24,
+  "text": "depends entirely on you.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 40,
+  "off": 2166,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now for the last question.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 41,
+  "off": 2202,
+  "len": 22,
+  "text": "Listen very carefully.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 42,
+  "off": 2235,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Which Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 43,
+  "off": 2263,
+  "len": 17,
+  "text": "is closest to us?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 44,
+  "off": 2292,
+  "len": 11,
+  "text": "Mt. Rikuaku",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 45,
+  "off": 2305,
+  "len": 12,
+  "text": "Mt. Rikuraku",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 46,
+  "off": 2319,
+  "len": 11,
+  "text": "Mt. Rirokua",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 47,
+  "off": 2332,
+  "len": 11,
+  "text": "Mt. Rikuroa",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 48,
+  "off": 2364,
+  "len": 24,
+  "text": "Is there something wrong",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 49,
+  "off": 2390,
+  "len": 16,
+  "text": "with your brain?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 50,
+  "off": 2458,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now I will ask you",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 51,
+  "off": 2486,
+  "len": 10,
+  "text": "once more.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 52,
+  "off": 2592,
+  "len": 24,
+  "text": "It's the Genesis Tree at",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 53,
+  "off": 2618,
+  "len": 12,
+  "text": "Mt. Rikuroa!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 54,
+  "off": 2725,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Mt. Rikuroa is located",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 55,
+  "off": 2757,
+  "len": 19,
+  "text": "south of this cave.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 56,
+  "off": 2779,
+  "len": 35,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Although now we are trapped",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 57,
+  "off": 2816,
+  "len": 31,
+  "text": "inside Snowdrift Cave, someday,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 58,
+  "off": 2849,
+  "len": 10,
+  "text": "someday...",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 59,
+  "off": 2862,
+  "len": 25,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The day will come",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 60,
+  "off": 2889,
+  "len": 25,
+  "text": "when you and I will go to",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 61,
+  "off": 2916,
+  "len": 21,
+  "text": "Mt. Rikuroa together!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 62,
+  "off": 3038,
+  "len": 26,
+  "text": "I look forward to that day",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 63,
+  "off": 3066,
+  "len": 15,
+  "text": "with eagerness.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 64,
+  "off": 3172,
+  "len": 25,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now come with me.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 65,
+  "off": 3199,
+  "len": 34,
+  "text": "After using the mind, it's time to",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 66,
+  "off": 3235,
+  "len": 32,
+  "text": "use the body. Time for training!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 67,
+  "off": 3343,
+  "len": 23,
+  "text": "What are you afraid of?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 68,
+  "off": 3369,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I won't let you leave",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 69,
+  "off": 3400,
+  "len": 23,
+  "text": "until practice is over!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 70,
+  "off": 3435,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Ah-ha, so you are injured.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 71,
+  "off": 3472,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Hold still while I",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 72,
+  "off": 3500,
+  "len": 17,
+  "text": "lick your wounds.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 73,
+  "off": 3539,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 74,
+  "off": 3550,
+  "len": 24,
+  "text": "are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 75,
+  "off": 3605,
+  "len": 25,
+  "text": "to have some energy left.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 76,
+  "off": 3653,
+  "len": 21,
+  "text": "on with the training.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 77,
+  "off": 3686,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Ah-ha, so you are injured.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 78,
+  "off": 3723,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Hold still while I",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 79,
+  "off": 3751,
+  "len": 17,
+  "text": "lick your wounds.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 80,
+  "off": 3790,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 81,
+  "off": 3801,
+  "len": 24,
+  "text": "are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 82,
+  "off": 3841,
+  "len": 21,
+  "text": "you must work on your",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 83,
+  "off": 3864,
+  "len": 11,
+  "text": "techniques.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 84,
+  "off": 3884,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now watch carefully.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 85,
+  "off": 3914,
+  "len": 22,
+  "text": "I'm going to teach you",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 86,
+  "off": 3938,
+  "len": 16,
+  "text": "the Lizard Tail.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 87,
+  "off": 4003,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Ah-ha, so you are injured.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 88,
+  "off": 4040,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Hold still while I",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 89,
+  "off": 4068,
+  "len": 17,
+  "text": "lick your wounds.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 90,
+  "off": 4107,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 91,
+  "off": 4118,
+  "len": 24,
+  "text": "are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 92,
+  "off": 4172,
+  "len": 25,
+  "text": "Do you want to go back to",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 93,
+  "off": 4199,
+  "len": 30,
+  "text": "camp and get something to eat?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 94,
+  "off": 4354,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Alright, {NAME:01}. After all,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 95,
+  "off": 4387,
+  "len": 17,
+  "text": "you do eat a lot!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 96,
+  "off": 4456,
+  "len": 37,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Ha, ha, ha! I'm just teasing.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 97,
+  "off": 4495,
+  "len": 14,
+  "text": "Now follow me.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 98,
+  "off": 4561,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You still wish to train?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 99,
+  "off": 4595,
+  "len": 25,
+  "text": "I admire your enthusiasm.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 100,
+  "off": 4623,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Then practice until your ",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 101,
+  "off": 4658,
+  "len": 34,
+  "text": "heart's content.  I'll be waiting ",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 102,
+  "off": 4694,
+  "len": 5,
+  "text": "here.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 103,
+  "off": 4723,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 104,
+  "off": 4749,
+  "len": 33,
+  "text": "You're pushing yourself too hard!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 105,
+  "off": 4785,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Hold still while I",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 106,
+  "off": 4813,
+  "len": 17,
+  "text": "lick your wounds.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 107,
+  "off": 4833,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 108,
+  "off": 4844,
+  "len": 24,
+  "text": "are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 109,
+  "off": 4871,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now you're all better.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 110,
+  "off": 4903,
+  "len": 26,
+  "text": "Well, do you wish to train",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 111,
+  "off": 4931,
+  "len": 16,
+  "text": "a little longer?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 112,
+  "off": 5072,
+  "len": 25,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Ah, that is good!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 113,
+  "off": 5099,
+  "len": 25,
+  "text": "I admire your enthusiasm.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 114,
+  "off": 5127,
+  "len": 35,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I'll be waiting over there.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 115,
+  "off": 5176,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You're getting tired.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 116,
+  "off": 5207,
+  "len": 21,
+  "text": "Let's go back to camp",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 117,
+  "off": 5230,
+  "len": 25,
+  "text": "and get something to eat.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 118,
+  "off": 5258,
+  "len": 21,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Come with me!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 119,
+  "off": 5547,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: It looks like there are",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 120,
+  "off": 5580,
+  "len": 14,
+  "text": "Seru up ahead.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 121,
+  "off": 5600,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I can feel the wind",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 122,
+  "off": 5629,
+  "len": 13,
+  "text": "blowing here.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 123,
+  "off": 5653,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Do you know what that",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 124,
+  "off": 5684,
+  "len": 10,
+  "text": "means, {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 125,
+  "off": 5696,
+  "len": 27,
+  "text": "It means we can go outside!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 126,
+  "off": 5729,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Let's head for Mt. Rikuroa",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 127,
+  "off": 5765,
+  "len": 21,
+  "text": "and the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 128,
+  "off": 5867,
+  "len": 25,
+  "text": "be confident in yourself!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 129,
+  "off": 5895,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Seru cannot defeat",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 3,
+  "run": 130,
+  "off": 5927,
+  "len": 25,
+  "text": "someone as strong as you.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 4,
+  "run": 0,
+  "off": 335,
+  "len": 22,
+  "text": "Piura: Squeal, squeal!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 4,
+  "run": 1,
+  "off": 641,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 4,
+  "run": 2,
+  "off": 728,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 5,
+  "run": 0,
+  "off": 335,
+  "len": 22,
+  "text": "Piura: Squeal, squeal!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 5,
+  "run": 1,
+  "off": 641,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 5,
+  "run": 2,
+  "off": 728,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 6,
+  "run": 0,
+  "off": 337,
+  "len": 22,
+  "text": "Piura: Squeal, squeal!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 6,
+  "run": 1,
+  "off": 643,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 6,
+  "run": 2,
+  "off": 730,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 7,
+  "run": 0,
+  "off": 335,
+  "len": 22,
+  "text": "Piura: Squeal, squeal!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 7,
+  "run": 1,
+  "off": 641,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 7,
+  "run": 2,
+  "off": 728,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 8,
+  "run": 0,
+  "off": 337,
+  "len": 22,
+  "text": "Piura: Squeal, squeal!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 8,
+  "run": 1,
+  "off": 643,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 8,
+  "run": 2,
+  "off": 730,
+  "len": 7,
+  "text": "Squeak!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 10,
+  "run": 0,
+  "off": 42,
+  "len": 20,
+  "text": "You now have the {ITEM:A3}.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 11,
+  "run": 0,
+  "off": 42,
+  "len": 20,
+  "text": "You now have the {ITEM:A3}.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 12,
+  "run": 0,
+  "off": 42,
+  "len": 20,
+  "text": "You now have the {ITEM:A3}.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 13,
+  "run": 0,
+  "off": 42,
+  "len": 20,
+  "text": "You now have the {ITEM:A3}.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 0,
+  "off": 429,
+  "len": 14,
+  "text": "Where are you?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 1,
+  "off": 445,
+  "len": 22,
+  "text": "Your mother needs you!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 2,
+  "off": 650,
+  "len": 18,
+  "text": "It's so dark here.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 3,
+  "off": 805,
+  "len": 18,
+  "text": "I want to see you!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 4,
+  "off": 825,
+  "len": 15,
+  "text": "I need you, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 5,
+  "off": 1032,
+  "len": 24,
+  "text": "You can't sleep forever!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 6,
+  "off": 1058,
+  "len": 20,
+  "text": "It's time to get up!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 7,
+  "off": 1246,
+  "len": 26,
+  "text": "like you were having a bad",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 8,
+  "off": 1274,
+  "len": 6,
+  "text": "dream.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 9,
+  "off": 1417,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Yes, well, you should",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 10,
+  "off": 1448,
+  "len": 28,
+  "text": "always remember your dreams,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 11,
+  "off": 1478,
+  "len": 22,
+  "text": "no matter how painful.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 12,
+  "off": 1503,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Dreams tell you",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 13,
+  "off": 1528,
+  "len": 17,
+  "text": "about the future.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 14,
+  "off": 1548,
+  "len": 22,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Alright, then.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 15,
+  "off": 1572,
+  "len": 18,
+  "text": "Time for practice!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 16,
+  "off": 1592,
+  "len": 13,
+  "text": "Come with me.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 17,
+  "off": 1624,
+  "len": 27,
+  "text": "I guess you just don't want",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 18,
+  "off": 1653,
+  "len": 20,
+  "text": "to tell me about it.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 19,
+  "off": 1676,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Listen to me! You must",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 20,
+  "off": 1708,
+  "len": 28,
+  "text": "always remember your dreams,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 21,
+  "off": 1738,
+  "len": 34,
+  "text": "no matter how painful they may be.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 22,
+  "off": 1775,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Dreams tell you",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 23,
+  "off": 1800,
+  "len": 17,
+  "text": "about the future.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 24,
+  "off": 1862,
+  "len": 22,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Alright, then.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 25,
+  "off": 1886,
+  "len": 18,
+  "text": "Time for practice!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 16,
+  "run": 26,
+  "off": 1906,
+  "len": 13,
+  "text": "Come with me.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 0,
+  "off": 110,
+  "len": 18,
+  "text": "Now we're going to",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 1,
+  "off": 130,
+  "len": 18,
+  "text": "practice fighting.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 2,
+  "off": 151,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: As I have always said,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 3,
+  "off": 183,
+  "len": 35,
+  "text": "never get careless during practice,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 4,
+  "off": 220,
+  "len": 19,
+  "text": "or you'll get hurt.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 5,
+  "off": 281,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Touch the Red Piura or ",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 6,
+  "off": 314,
+  "len": 33,
+  "text": "Black Piura sticking out of those",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 7,
+  "off": 349,
+  "len": 24,
+  "text": "holes to start fighting.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 8,
+  "off": 380,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: If you're not confident,",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 9,
+  "off": 414,
+  "len": 30,
+  "text": "fight the Red Piura. If you're",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 10,
+  "off": 446,
+  "len": 33,
+  "text": "confident, fight the Black Piura.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 22,
+  "run": 11,
+  "off": 505,
+  "len": 6,
+  "text": "Begin!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 0,
+  "off": 70,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, you have improved",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 1,
+  "off": 101,
+  "len": 33,
+  "text": "greatly. Perhaps there is no more",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 2,
+  "off": 136,
+  "len": 31,
+  "text": "I can teach you by spoken word.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 3,
+  "off": 190,
+  "len": 22,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now it is time",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 4,
+  "off": 214,
+  "len": 30,
+  "text": "for me to tell you everything.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 5,
+  "off": 269,
+  "len": 27,
+  "text": "over there. I must tell you",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 6,
+  "off": 298,
+  "len": 20,
+  "text": "something important.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 7,
+  "off": 893,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I think it's over.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 8,
+  "off": 922,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We've lived in this",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 9,
+  "off": 951,
+  "len": 30,
+  "text": "cave for some time, but that's",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 10,
+  "off": 983,
+  "len": 27,
+  "text": "the biggest earthquake yet.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 11,
+  "off": 1076,
+  "len": 30,
+  "text": "The wind! The wind is blowing!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 12,
+  "off": 1124,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: A hole must have opened",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 13,
+  "off": 1157,
+  "len": 12,
+  "text": "in the cave.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 14,
+  "off": 1215,
+  "len": 26,
+  "text": "It's the Mist! They're out",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 15,
+  "off": 1243,
+  "len": 19,
+  "text": "there, in the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 16,
+  "off": 1278,
+  "len": 21,
+  "text": "Quick! We must hurry.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 17,
+  "off": 1302,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We'll follow the wind",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 18,
+  "off": 1333,
+  "len": 20,
+  "text": "to the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 19,
+  "off": 1355,
+  "len": 22,
+  "text": "Hurry, to Mt. Rikuroa!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 20,
+  "off": 1400,
+  "len": 22,
+  "text": "We've no time to lose!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 27,
+  "run": 21,
+  "off": 1424,
+  "len": 10,
+  "text": "Follow me!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 30,
+  "run": 0,
+  "off": 91,
+  "len": 19,
+  "text": "You're a tough one!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 30,
+  "run": 1,
+  "off": 113,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now it's time to return",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 30,
+  "run": 2,
+  "off": 146,
+  "len": 33,
+  "text": "to camp and get something to eat.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 30,
+  "run": 3,
+  "off": 181,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 0,
+  "off": 146,
+  "len": 21,
+  "text": "you must work on your",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 1,
+  "off": 169,
+  "len": 11,
+  "text": "techniques.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 2,
+  "off": 183,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now watch carefully.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 3,
+  "off": 213,
+  "len": 22,
+  "text": "I'm going to teach you",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 4,
+  "off": 302,
+  "len": 30,
+  "text": "that was magnificent fighting!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 5,
+  "off": 351,
+  "len": 19,
+  "text": "don't get careless!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 6,
+  "off": 389,
+  "len": 18,
+  "text": "you're doing well!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 7,
+  "off": 426,
+  "len": 21,
+  "text": "you're getting tired.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 8,
+  "off": 449,
+  "len": 29,
+  "text": "Don't push yourself too hard!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 9,
+  "off": 500,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 10,
+  "off": 519,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Hold still while",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 11,
+  "off": 545,
+  "len": 19,
+  "text": "I lick your wounds.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 12,
+  "off": 567,
+  "len": 16,
+  "text": "{NAME:01}'s strength is",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 13,
+  "off": 585,
+  "len": 9,
+  "text": "restored!",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 14,
+  "off": 610,
+  "len": 20,
+  "text": "This isn't practice.",
+  "ko": ""
+ },
+ {
+  "map": 41,
+  "script": 31,
+  "run": 15,
+  "off": 632,
+  "len": 11,
+  "text": "Be careful!",
+  "ko": ""
+ }
+]

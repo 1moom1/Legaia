@@ -1,0 +1,146 @@
+[
+ {
+  "map": 766,
+  "script": 32,
+  "run": 0,
+  "off": 112,
+  "len": 4,
+  "text": ".<18>LI",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 33,
+  "run": 0,
+  "off": 60,
+  "len": 5,
+  "text": "Hmmm.",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 0,
+  "off": 98,
+  "len": 33,
+  "text": "However, that era came to an end.",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 1,
+  "off": 189,
+  "len": 30,
+  "text": "Appearing from out of nowhere,",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 2,
+  "off": 221,
+  "len": 26,
+  "text": "the Mist covered the land,",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 3,
+  "off": 249,
+  "len": 29,
+  "text": "bringing to an end prosperous",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 4,
+  "off": 280,
+  "len": 34,
+  "text": "symbiosis between humans and Seru.",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 5,
+  "off": 375,
+  "len": 5,
+  "text": "40<01>JZ",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 6,
+  "off": 466,
+  "len": 26,
+  "text": "After the thick Mist came,",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 7,
+  "off": 494,
+  "len": 33,
+  "text": "the Seru, who once obeyed humans,",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 8,
+  "off": 529,
+  "len": 22,
+  "text": "rebelled against them.",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 9,
+  "off": 916,
+  "len": 31,
+  "text": "The Seru began attacking humans",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 10,
+  "off": 949,
+  "len": 27,
+  "text": "at will. Seru that attached",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 11,
+  "off": 978,
+  "len": 31,
+  "text": "themselves to humans controlled",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 12,
+  "off": 1011,
+  "len": 32,
+  "text": "their minds and turned them into",
+  "ko": ""
+ },
+ {
+  "map": 766,
+  "script": 50,
+  "run": 13,
+  "off": 1045,
+  "len": 12,
+  "text": "evil beasts.",
+  "ko": ""
+ }
+]

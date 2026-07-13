@@ -1,0 +1,1415 @@
+[
+ {
+  "map": 48,
+  "script": 1,
+  "run": 0,
+  "off": 107,
+  "len": 27,
+  "text": "Small blades of grass sway.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 1,
+  "off": 352,
+  "len": 21,
+  "text": "{NAME:01}: What weird grass.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 2,
+  "off": 375,
+  "len": 17,
+  "text": "{NAME}, is it edible?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 3,
+  "off": 422,
+  "len": 23,
+  "text": "{NAME:02}: You guys don't know",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 4,
+  "off": 447,
+  "len": 17,
+  "text": "anything, do you?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 5,
+  "off": 466,
+  "len": 27,
+  "text": "That's called Bridge Grass.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 6,
+  "off": 538,
+  "len": 28,
+  "text": "{NAME:02}: It's tiny now, but it'll",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 7,
+  "off": 568,
+  "len": 33,
+  "text": "be big enough to span a gorge and",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 8,
+  "off": 603,
+  "len": 25,
+  "text": "strong enough to walk on!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 9,
+  "off": 631,
+  "len": 21,
+  "text": "{NAME:02}: And, no, it's not",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 10,
+  "off": 654,
+  "len": 7,
+  "text": "edible!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 11,
+  "off": 769,
+  "len": 27,
+  "text": "{NAME:01}: Oh. So we can't eat it.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 12,
+  "off": 1069,
+  "len": 27,
+  "text": "{NAME:01}: Oh. So we can't eat it.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 13,
+  "off": 1098,
+  "len": 16,
+  "text": "Oh, hey, I know!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 14,
+  "off": 1160,
+  "len": 26,
+  "text": "we got Fertilizer from the",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 15,
+  "off": 1188,
+  "len": 22,
+  "text": "treasure chest, right?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 16,
+  "off": 1305,
+  "len": 24,
+  "text": "{NAME:01}: Let's give it to the",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 17,
+  "off": 1331,
+  "len": 27,
+  "text": "Bridge Grass! It might grow",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 18,
+  "off": 1360,
+  "len": 16,
+  "text": "faster that way!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 19,
+  "off": 1514,
+  "len": 27,
+  "text": "{NAME:02}: Hmm. I thought you were",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 20,
+  "off": 1543,
+  "len": 25,
+  "text": "just a fool, but that's a",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 21,
+  "off": 1570,
+  "len": 10,
+  "text": "good idea.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 22,
+  "off": 1677,
+  "len": 20,
+  "text": "{NAME:01}: You're mean, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 23,
+  "off": 1699,
+  "len": 8,
+  "text": "Boo-hoo!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 24,
+  "off": 1806,
+  "len": 26,
+  "text": "The blades of Bridge Grass",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 25,
+  "off": 1834,
+  "len": 12,
+  "text": "are swaying.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 26,
+  "off": 1851,
+  "len": 26,
+  "text": "The blades of Bridge Grass",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 27,
+  "off": 1879,
+  "len": 12,
+  "text": "are swaying.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 28,
+  "off": 1893,
+  "len": 34,
+  "text": "Do you wish to use the Fertilizer?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 29,
+  "off": 1945,
+  "len": 14,
+  "text": "{NAME} did not use",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 30,
+  "off": 1961,
+  "len": 15,
+  "text": "the Fertilizer.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 31,
+  "off": 1991,
+  "len": 24,
+  "text": "{NAME} poured the Fertilizer",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 32,
+  "off": 2017,
+  "len": 18,
+  "text": "at the base of the",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 1,
+  "run": 33,
+  "off": 2037,
+  "len": 13,
+  "text": "Bridge Grass.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 8,
+  "run": 0,
+  "off": 75,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.r{M4:05}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 9,
+  "run": 0,
+  "off": 15,
+  "len": 19,
+  "text": "{NAME:01}: {NAME}, the Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 9,
+  "run": 1,
+  "off": 36,
+  "len": 17,
+  "text": "egg is so pretty.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 10,
+  "run": 0,
+  "off": 12,
+  "len": 22,
+  "text": "{NAME:02}: I feel uneasy. {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 10,
+  "run": 1,
+  "off": 36,
+  "len": 32,
+  "text": "Let's go back to Biron Monastery",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 10,
+  "run": 2,
+  "off": 70,
+  "len": 27,
+  "text": "as soon as you're finished.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 0,
+  "off": 176,
+  "len": 23,
+  "text": "{NAME} feels the warmth of ",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 1,
+  "off": 201,
+  "len": 23,
+  "text": "life at his fingertips.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 2,
+  "off": 266,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 3,
+  "off": 278,
+  "len": 7,
+  "text": "the {ITEM:AB}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 4,
+  "off": 412,
+  "len": 25,
+  "text": "Egg needs the power of a ",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 5,
+  "off": 439,
+  "len": 21,
+  "text": "healthy Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 6,
+  "off": 463,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: Take good care of",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 7,
+  "off": 490,
+  "len": 27,
+  "text": "the Ra-Seru Egg until then.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 8,
+  "off": 566,
+  "len": 23,
+  "text": "{NAME:01}: I can't wait to see",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 9,
+  "off": 591,
+  "len": 30,
+  "text": "what kind of Ra-Seru comes out",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 10,
+  "off": 623,
+  "len": 11,
+  "text": "of the egg!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 11,
+  "off": 694,
+  "len": 21,
+  "text": "{NAME:02}: West Voz Forest's",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 12,
+  "off": 717,
+  "len": 24,
+  "text": "Genesis Tree was dead...",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 13,
+  "off": 780,
+  "len": 22,
+  "text": "{NAME:02}: I wonder how Songi",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 14,
+  "off": 804,
+  "len": 25,
+  "text": "fared in East Voz Forest.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 11,
+  "run": 15,
+  "off": 919,
+  "len": 9,
+  "text": "{NAME:02}: What?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 13,
+  "run": 0,
+  "off": 62,
+  "len": 13,
+  "text": "There is a {ITEM:71}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 13,
+  "run": 1,
+  "off": 77,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 13,
+  "run": 2,
+  "off": 109,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 13,
+  "run": 3,
+  "off": 121,
+  "len": 7,
+  "text": "the {ITEM:71}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 13,
+  "run": 4,
+  "off": 141,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 14,
+  "run": 0,
+  "off": 52,
+  "len": 11,
+  "text": "There is {ITEM:A9}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 14,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 14,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 14,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:A9}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 14,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 16,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:7F}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 16,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 16,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 16,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:7F}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 16,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 17,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 17,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 17,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 17,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:77}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 17,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 18,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8C}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 18,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 18,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 18,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8C}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 18,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 19,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:7F}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 19,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 19,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 19,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:7F}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 19,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 20,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:88}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 20,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 20,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 20,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:88}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 20,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 21,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:D9}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 21,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 21,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 21,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:D9}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 21,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 22,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:1C}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 22,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 22,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 22,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:1C}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 22,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 23,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 23,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 23,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 24,
+  "run": 0,
+  "off": 39,
+  "len": 14,
+  "text": "{NAME:63} has the {ITEM:DE}!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 0,
+  "off": 321,
+  "len": 9,
+  "text": "{NAME:02}: This?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 1,
+  "off": 332,
+  "len": 23,
+  "text": "This is a Genesis Tree?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 2,
+  "off": 405,
+  "len": 27,
+  "text": "{NAME:02}: This dead, rotting tree",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 3,
+  "off": 434,
+  "len": 34,
+  "text": "doesn't look like it has the power",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 4,
+  "off": 470,
+  "len": 23,
+  "text": "to drive away the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 5,
+  "off": 542,
+  "len": 28,
+  "text": "{NAME:02}: But it doesn't matter to",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 6,
+  "off": 572,
+  "len": 23,
+  "text": "me. {NAME}, hurry up and do",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 7,
+  "off": 597,
+  "len": 29,
+  "text": "whatever you came here to do.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 8,
+  "off": 858,
+  "len": 28,
+  "text": "{NAME:01}: There's something wrong!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 9,
+  "off": 888,
+  "len": 27,
+  "text": "{NAME}, there's something wrong",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 10,
+  "off": 917,
+  "len": 23,
+  "text": "with this Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 11,
+  "off": 1115,
+  "len": 26,
+  "text": "{NAME:01}: This is different from",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 12,
+  "off": 1143,
+  "len": 27,
+  "text": "Mt. Rikuroa's Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 13,
+  "off": 1172,
+  "len": 23,
+  "text": "Terra, what's going on?",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 14,
+  "off": 1282,
+  "len": 25,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We were too late.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 15,
+  "off": 1309,
+  "len": 33,
+  "text": "The poison of the Mist has killed",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 16,
+  "off": 1344,
+  "len": 18,
+  "text": "this Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 17,
+  "off": 1482,
+  "len": 23,
+  "text": "{NAME:01}: The Genesis Tree is",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 18,
+  "off": 1507,
+  "len": 6,
+  "text": "dead?!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 19,
+  "off": 1585,
+  "len": 21,
+  "text": "{NAME:01}: But I thought you",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 20,
+  "off": 1608,
+  "len": 24,
+  "text": "and Meta could give life",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 21,
+  "off": 1634,
+  "len": 20,
+  "text": "to the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 22,
+  "off": 1786,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: Regrettably, this one",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 23,
+  "off": 1817,
+  "len": 34,
+  "text": "is too far gone for us to help it.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 24,
+  "off": 1914,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 25,
+  "off": 2035,
+  "len": 27,
+  "text": "{NAME:02}: In other words, we came",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 26,
+  "off": 2064,
+  "len": 32,
+  "text": "all the way out here for naught!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 27,
+  "off": 2098,
+  "len": 30,
+  "text": "There's nothing we can do now.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 28,
+  "off": 2146,
+  "len": 22,
+  "text": "{NAME:02}: Let's stop wasting",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 29,
+  "off": 2170,
+  "len": 17,
+  "text": "time and get back",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 30,
+  "off": 2189,
+  "len": 19,
+  "text": "to Biron Monastery.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 31,
+  "off": 2365,
+  "len": 8,
+  "text": "{NAME:02}: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 32,
+  "off": 2427,
+  "len": 20,
+  "text": "Something's glowing!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 33,
+  "off": 2449,
+  "len": 19,
+  "text": "Look! It's glowing!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 34,
+  "off": 2677,
+  "len": 28,
+  "text": "That's the glow of a Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 35,
+  "off": 2707,
+  "len": 24,
+  "text": "Egg! It's a Ra-Seru Egg!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 36,
+  "off": 2794,
+  "len": 22,
+  "text": "{PAL:4}{M7:01}{PAL:7}: How fortunate!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 37,
+  "off": 2818,
+  "len": 24,
+  "text": "At least the Ra-Seru Egg",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 38,
+  "off": 2844,
+  "len": 15,
+  "text": "still survives!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 39,
+  "off": 2901,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Meta and I will",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 40,
+  "off": 2926,
+  "len": 27,
+  "text": "combine our powers and call",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 41,
+  "off": 2955,
+  "len": 22,
+  "text": "the Ra-Seru Egg to us.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 36,
+  "run": 42,
+  "off": 3112,
+  "len": 24,
+  "text": "Now get the Ra-Seru Egg!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 0,
+  "off": 397,
+  "len": 24,
+  "text": "{NAME:02}: That sound and light",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 1,
+  "off": 423,
+  "len": 23,
+  "text": "came from the direction",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 2,
+  "off": 448,
+  "len": 19,
+  "text": "of Biron Monastery!",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 3,
+  "off": 508,
+  "len": 27,
+  "text": "{NAME:01}: I wonder what happened.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 4,
+  "off": 604,
+  "len": 21,
+  "text": "{NAME:02}: {NAME}, the Monastery",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 5,
+  "off": 627,
+  "len": 18,
+  "text": "may be in trouble.",
+  "ko": ""
+ },
+ {
+  "map": 48,
+  "script": 37,
+  "run": 6,
+  "off": 647,
+  "len": 25,
+  "text": "We must hurry back there!",
+  "ko": ""
+ }
+]

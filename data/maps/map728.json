@@ -1,0 +1,371 @@
+[
+ {
+  "map": 728,
+  "script": 9,
+  "run": 0,
+  "off": 334,
+  "len": 12,
+  "text": "{NAME:02}: Oh my...",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 1,
+  "off": 348,
+  "len": 25,
+  "text": "What happened to Conkram?",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 2,
+  "off": 594,
+  "len": 13,
+  "text": "{NAME:01}: Father...",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 3,
+  "off": 723,
+  "len": 11,
+  "text": "{NAME:01}: Mother!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 4,
+  "off": 952,
+  "len": 13,
+  "text": "{NAME:01}: Mother!!!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 5,
+  "off": 1178,
+  "len": 17,
+  "text": "{NAME:01}: Faaaaather!!!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 6,
+  "off": 1279,
+  "len": 18,
+  "text": "{NAME:01}: Where are you?",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 7,
+  "off": 1299,
+  "len": 17,
+  "text": "Where did you go?",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 8,
+  "off": 1366,
+  "len": 19,
+  "text": "{NAME:01}: I destroyed the",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 9,
+  "off": 1387,
+  "len": 15,
+  "text": "Mist Generator.",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 10,
+  "off": 1404,
+  "len": 17,
+  "text": "The Mist is gone!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 11,
+  "off": 1427,
+  "len": 19,
+  "text": "{NAME:01}: Mother, father!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 12,
+  "off": 1448,
+  "len": 28,
+  "text": "Now you're free of the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 13,
+  "off": 1587,
+  "len": 18,
+  "text": "{NAME:02}: Ozma, tell me!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 14,
+  "off": 1607,
+  "len": 14,
+  "text": "What happened?",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 15,
+  "off": 1702,
+  "len": 35,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Sim-Seru around Conkram",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 16,
+  "off": 1739,
+  "len": 27,
+  "text": "grew in an unstable manner.",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 17,
+  "off": 1769,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Sim-Seru could live",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 18,
+  "off": 1802,
+  "len": 34,
+  "text": "only in the Mist. So when the Mist",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 19,
+  "off": 1838,
+  "len": 14,
+  "text": "disappeared...",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 20,
+  "off": 1855,
+  "len": 26,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Sim Seru died,",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 21,
+  "off": 1883,
+  "len": 20,
+  "text": "and Conkram with it.",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 22,
+  "off": 2083,
+  "len": 17,
+  "text": "{NAME:01}: Terra! Terra!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 23,
+  "off": 2102,
+  "len": 23,
+  "text": "Why didn't you tell me?",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 24,
+  "off": 2128,
+  "len": 26,
+  "text": "{NAME:01}: Why didn't you tell me",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 25,
+  "off": 2156,
+  "len": 29,
+  "text": "Conkram would die if the Mist",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 26,
+  "off": 2187,
+  "len": 12,
+  "text": "disappeared?",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 27,
+  "off": 2415,
+  "len": 27,
+  "text": "{NAME:02}: The King and Queen must",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 28,
+  "off": 2444,
+  "len": 29,
+  "text": "have known this would happen,",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 29,
+  "off": 2475,
+  "len": 24,
+  "text": "if the Mist disappeared.",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 30,
+  "off": 2502,
+  "len": 26,
+  "text": "{NAME:02}: Yet they ordered us to",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 31,
+  "off": 2530,
+  "len": 27,
+  "text": "destroy the Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 32,
+  "off": 2574,
+  "len": 28,
+  "text": "Don't blame Terra. There was",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 33,
+  "off": 2604,
+  "len": 13,
+  "text": "no other way.",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 34,
+  "off": 2638,
+  "len": 11,
+  "text": "{NAME:01}: No! No!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 35,
+  "off": 2651,
+  "len": 16,
+  "text": "Terra, you lied!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 36,
+  "off": 2731,
+  "len": 22,
+  "text": "{NAME:01}: I hate you, Terra!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 37,
+  "off": 2755,
+  "len": 27,
+  "text": "Bring my father back to me!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 38,
+  "off": 2784,
+  "len": 27,
+  "text": "Bring my mother back to me!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 39,
+  "off": 2986,
+  "len": 12,
+  "text": "{NAME:01}: Waaahhh!",
+  "ko": ""
+ },
+ {
+  "map": 728,
+  "script": 9,
+  "run": 40,
+  "off": 3000,
+  "len": 8,
+  "text": "Waaahhh!",
+  "ko": ""
+ }
+]

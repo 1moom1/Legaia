@@ -1,0 +1,326 @@
+[
+ {
+  "map": 683,
+  "script": 22,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C3}",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 22,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 22,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 22,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:C3}!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 22,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:1B}",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 23,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 23,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:1B}!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 23,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 24,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:1F}",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 24,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 24,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 24,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:1F}!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 24,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 25,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:21}",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 25,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 25,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 25,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:21}!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 25,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 0,
+  "off": 621,
+  "len": 8,
+  "text": "{NAME:01}: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 1,
+  "off": 713,
+  "len": 20,
+  "text": "{NAME:01}: I feel a breeze!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 2,
+  "off": 735,
+  "len": 23,
+  "text": "There's a breeze coming",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 3,
+  "off": 760,
+  "len": 16,
+  "text": "from over there!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 4,
+  "off": 852,
+  "len": 18,
+  "text": "{NAME:02}: W-What's that?",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 5,
+  "off": 1028,
+  "len": 16,
+  "text": "{NAME:01}: Ah! Waaaaaa!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 6,
+  "off": 1057,
+  "len": 21,
+  "text": "{NAME:02}: What's wrong, {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 7,
+  "off": 1080,
+  "len": 28,
+  "text": "What are you shouting about?",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 8,
+  "off": 1112,
+  "len": 13,
+  "text": "{NAME:02}: H-Holy...",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 9,
+  "off": 1721,
+  "len": 10,
+  "text": "{NAME:02}: Y-You!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 10,
+  "off": 1786,
+  "len": 20,
+  "text": "{NAME:01}: Are you alright,",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 11,
+  "off": 1814,
+  "len": 25,
+  "text": "{NAME:01}: Please, don't let go!",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 12,
+  "off": 1866,
+  "len": 22,
+  "text": "{NAME:02}: I'm trying, but...",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 13,
+  "off": 1890,
+  "len": 11,
+  "text": "my hands...",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 14,
+  "off": 1907,
+  "len": 30,
+  "text": "{NAME:02}: I can't get a good grip...",
+  "ko": ""
+ },
+ {
+  "map": 683,
+  "script": 30,
+  "run": 15,
+  "off": 1939,
+  "len": 17,
+  "text": "We're slipping...",
+  "ko": ""
+ }
+]

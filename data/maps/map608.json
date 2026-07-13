@@ -1,0 +1,1649 @@
+[
+ {
+  "map": 608,
+  "script": 12,
+  "run": 0,
+  "off": 72,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.t<C8><05>",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 0,
+  "off": 35,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 1,
+  "off": 56,
+  "len": 16,
+  "text": "<Award ceremony>",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 2,
+  "off": 74,
+  "len": 28,
+  "text": "Do you wish to plant a flag?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 3,
+  "off": 113,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 4,
+  "off": 121,
+  "len": 17,
+  "text": "Award ceremony ON",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 5,
+  "off": 140,
+  "len": 18,
+  "text": "Award ceremony OFF",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 6,
+  "off": 160,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 14,
+  "run": 7,
+  "off": 179,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 0,
+  "off": 20,
+  "len": 29,
+  "text": "Clean water ushers forth from",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 1,
+  "off": 51,
+  "len": 11,
+  "text": "the spring.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 2,
+  "off": 64,
+  "len": 32,
+  "text": "Do you wish to drink this water?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 3,
+  "off": 352,
+  "len": 33,
+  "text": "What delicious, refreshing water!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 4,
+  "off": 387,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 5,
+  "off": 398,
+  "len": 24,
+  "text": "are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 6,
+  "off": 438,
+  "len": 14,
+  "text": "{NAME} decided not",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 19,
+  "run": 7,
+  "off": 454,
+  "len": 19,
+  "text": "to drink the water.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 29,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C1}",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 29,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 29,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 29,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:C1}!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 29,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 30,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:E4}",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 30,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 30,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 30,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:E4}!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 30,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 31,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:2D}",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 31,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 31,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 31,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:2D}!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 31,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 32,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:DC}",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 32,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 32,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 32,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:DC}!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 32,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 33,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:33}",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 33,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 33,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 33,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:33}!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 33,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 0,
+  "off": 312,
+  "len": 18,
+  "text": "{NAME:02}: So this is the",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 1,
+  "off": 332,
+  "len": 13,
+  "text": "Gate of Hell.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 2,
+  "off": 474,
+  "len": 21,
+  "text": "{NAME:01}: If we destroy the",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 3,
+  "off": 497,
+  "len": 25,
+  "text": "Mist Generator here, then",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 4,
+  "off": 524,
+  "len": 21,
+  "text": "Conkram will be free.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 5,
+  "off": 602,
+  "len": 23,
+  "text": "{NAME:02}: {NAME:01}, the Nemesis Gem",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 6,
+  "off": 627,
+  "len": 27,
+  "text": "from your parents! Throw it",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 7,
+  "off": 656,
+  "len": 25,
+  "text": "towards the Gate of Hell!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 8,
+  "off": 732,
+  "len": 7,
+  "text": "{NAME:01}: OK!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 9,
+  "off": 873,
+  "len": 26,
+  "text": "{NAME:01}: I'm not afraid of you!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 10,
+  "off": 901,
+  "len": 11,
+  "text": "I hate you!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 11,
+  "off": 914,
+  "len": 16,
+  "text": "Get out of here!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 12,
+  "off": 1368,
+  "len": 11,
+  "text": "You did it!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 13,
+  "off": 1508,
+  "len": 25,
+  "text": "{NAME:01}: Now we can go inside.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 14,
+  "off": 1535,
+  "len": 24,
+  "text": "Once we destroy the Mist",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 15,
+  "off": 1561,
+  "len": 32,
+  "text": "Generator, Conkram will be free!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 16,
+  "off": 1642,
+  "len": 22,
+  "text": "{NAME:01}: Then my mother and",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 17,
+  "off": 1666,
+  "len": 14,
+  "text": "father will...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 18,
+  "off": 1747,
+  "len": 20,
+  "text": "{NAME:02}: Alright, listen!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 19,
+  "off": 1769,
+  "len": 32,
+  "text": "This is the last Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 38,
+  "run": 20,
+  "off": 1803,
+  "len": 23,
+  "text": "Let's not get careless!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 0,
+  "off": 116,
+  "len": 24,
+  "text": "Look! There's a big pool",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 1,
+  "off": 142,
+  "len": 8,
+  "text": "of Mist!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 2,
+  "off": 351,
+  "len": 8,
+  "text": "{NAME:01}: Wow!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 3,
+  "off": 361,
+  "len": 24,
+  "text": "Amazing! It looks like a",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 4,
+  "off": 387,
+  "len": 18,
+  "text": "lake made of Mist!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 5,
+  "off": 420,
+  "len": 21,
+  "text": "{NAME:01}: Hey, what's that?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 6,
+  "off": 593,
+  "len": 17,
+  "text": "{NAME:01}: What is that?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 7,
+  "off": 768,
+  "len": 26,
+  "text": "{NAME:02}: This must be Mist from",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 8,
+  "off": 796,
+  "len": 25,
+  "text": "the Mist Generator above.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 9,
+  "off": 905,
+  "len": 25,
+  "text": "{NAME:01}: That means we have to",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 10,
+  "off": 932,
+  "len": 19,
+  "text": "climb up from here!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 11,
+  "off": 1104,
+  "len": 26,
+  "text": "{NAME:02}: Either way, we have to",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 12,
+  "off": 1132,
+  "len": 27,
+  "text": "go around the lake of Mist.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 13,
+  "off": 1297,
+  "len": 28,
+  "text": "I can't wait to destroy that",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 39,
+  "run": 14,
+  "off": 1327,
+  "len": 15,
+  "text": "Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 0,
+  "off": 220,
+  "len": 18,
+  "text": "{NAME:01}: {NAME}, over here!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 1,
+  "off": 240,
+  "len": 26,
+  "text": "I can see the lake of Mist",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 2,
+  "off": 268,
+  "len": 10,
+  "text": "from here.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 3,
+  "off": 603,
+  "len": 9,
+  "text": "Look out!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 4,
+  "off": 614,
+  "len": 25,
+  "text": "The ground is collapsing!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 5,
+  "off": 877,
+  "len": 23,
+  "text": "don't get carried away!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 6,
+  "off": 902,
+  "len": 28,
+  "text": "Careful, or you'll get hurt!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 7,
+  "off": 1114,
+  "len": 20,
+  "text": "{NAME:02}: What on earth is",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 8,
+  "off": 1136,
+  "len": 28,
+  "text": "going on? Is there something",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 9,
+  "off": 1166,
+  "len": 9,
+  "text": "under us?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 10,
+  "off": 1714,
+  "len": 13,
+  "text": "That voice...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 11,
+  "off": 1844,
+  "len": 22,
+  "text": "{NAME:01}: It's J-Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 12,
+  "off": 2186,
+  "len": 20,
+  "text": "{NAME:01}: It's Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 13,
+  "off": 2208,
+  "len": 23,
+  "text": "Juggernaut is below us!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 14,
+  "off": 2478,
+  "len": 15,
+  "text": "{NAME:02}: It stopped.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 15,
+  "off": 2495,
+  "len": 20,
+  "text": "Maybe he's sleeping.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 16,
+  "off": 2701,
+  "len": 23,
+  "text": "{NAME:01}: That must have been",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 17,
+  "off": 2726,
+  "len": 32,
+  "text": "Juggernaut tossing in his sleep.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 18,
+  "off": 2891,
+  "len": 15,
+  "text": "{NAME:02}: I guess so.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 19,
+  "off": 2908,
+  "len": 20,
+  "text": "Anyway, let's hurry.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 40,
+  "run": 20,
+  "off": 2930,
+  "len": 30,
+  "text": "We can't afford to waste time.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 0,
+  "off": 338,
+  "len": 20,
+  "text": "What happened to the",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 1,
+  "off": 360,
+  "len": 14,
+  "text": "Door of Light?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 2,
+  "off": 377,
+  "len": 24,
+  "text": "{NAME:01}: This isn't the exit!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 3,
+  "off": 403,
+  "len": 24,
+  "text": "This isn't where we were",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 4,
+  "off": 429,
+  "len": 7,
+  "text": "before!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 5,
+  "off": 590,
+  "len": 22,
+  "text": "{NAME:02}: {NAME}, we're not safe",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 6,
+  "off": 614,
+  "len": 30,
+  "text": "here. It's the vibrations from",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 7,
+  "off": 646,
+  "len": 31,
+  "text": "the explosion. Let's jump down!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 8,
+  "off": 684,
+  "len": 29,
+  "text": "Good! Then get ready to jump!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 9,
+  "off": 715,
+  "len": 28,
+  "text": "This place is too dangerous!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 10,
+  "off": 1001,
+  "len": 9,
+  "text": "{NAME:01}: Cara!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 11,
+  "off": 1012,
+  "len": 18,
+  "text": "What should we do?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 12,
+  "off": 1032,
+  "len": 22,
+  "text": "There's nowhere to go!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 13,
+  "off": 1125,
+  "len": 17,
+  "text": "Cara: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 14,
+  "off": 1144,
+  "len": 17,
+  "text": "What do you mean,",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 15,
+  "off": 1163,
+  "len": 16,
+  "text": "\"nowhere to go\"?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 16,
+  "off": 1182,
+  "len": 15,
+  "text": "Cara: We can go",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 17,
+  "off": 1199,
+  "len": 11,
+  "text": "right here!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 18,
+  "off": 1539,
+  "len": 11,
+  "text": "{NAME:01}: Aaahhh!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 19,
+  "off": 1552,
+  "len": 17,
+  "text": "Cara fell off...!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 20,
+  "off": 1632,
+  "len": 24,
+  "text": "Should we jump down like",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 21,
+  "off": 1658,
+  "len": 10,
+  "text": "Cara did? ",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 22,
+  "off": 1675,
+  "len": 23,
+  "text": "Then get ready to jump!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 23,
+  "off": 1700,
+  "len": 28,
+  "text": "This place is too dangerous!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 24,
+  "off": 4326,
+  "len": 11,
+  "text": "Cara: Whew!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 25,
+  "off": 4339,
+  "len": 15,
+  "text": "That was close!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 26,
+  "off": 4556,
+  "len": 9,
+  "text": "{NAME:02}: Cara,",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 27,
+  "off": 4567,
+  "len": 20,
+  "text": "you came because you",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 28,
+  "off": 4589,
+  "len": 18,
+  "text": "wanted to help us!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 29,
+  "off": 4610,
+  "len": 22,
+  "text": "{NAME:02}: But how did you...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 30,
+  "off": 4644,
+  "len": 20,
+  "text": "{NAME:02}: Cara, I'll never",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 31,
+  "off": 4666,
+  "len": 27,
+  "text": "forget what you did for us.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 32,
+  "off": 4695,
+  "len": 10,
+  "text": "But how...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 33,
+  "off": 4939,
+  "len": 17,
+  "text": "Cara: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 34,
+  "off": 5101,
+  "len": 15,
+  "text": "Cara: Hey, you!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 35,
+  "off": 5118,
+  "len": 15,
+  "text": "Come down here!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 36,
+  "off": 5689,
+  "len": 14,
+  "text": "{NAME:01}: Grantes...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 37,
+  "off": 5793,
+  "len": 25,
+  "text": "{NAME:01}: Is that you, Grantes?",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 38,
+  "off": 5869,
+  "len": 16,
+  "text": "Grantes: Uh-huh.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 39,
+  "off": 5933,
+  "len": 23,
+  "text": "{NAME:02}: Those Seru Wings...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 40,
+  "off": 5971,
+  "len": 23,
+  "text": "Grantes: The elder gave",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 41,
+  "off": 5996,
+  "len": 15,
+  "text": "his permission.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 42,
+  "off": 6201,
+  "len": 11,
+  "text": "{NAME:01}: Hooray!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 43,
+  "off": 6214,
+  "len": 30,
+  "text": "Grantes, I'm so glad you came!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 44,
+  "off": 6246,
+  "len": 29,
+  "text": "Cara, I'm so glad to see you!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 45,
+  "off": 6402,
+  "len": 32,
+  "text": "Cara: We were worried about you.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 46,
+  "off": 6436,
+  "len": 29,
+  "text": "We were watching the Absolute",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 47,
+  "off": 6467,
+  "len": 22,
+  "text": "Fortress from the air.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 48,
+  "off": 6492,
+  "len": 31,
+  "text": "Cara: Then we saw this terrific",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 49,
+  "off": 6525,
+  "len": 30,
+  "text": "flash of light, so we got here",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 50,
+  "off": 6557,
+  "len": 20,
+  "text": "as fast as we could!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 51,
+  "off": 6675,
+  "len": 23,
+  "text": "{NAME:02}: Grantes, that means",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 52,
+  "off": 6700,
+  "len": 23,
+  "text": "you're a Soren again...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 53,
+  "off": 6753,
+  "len": 32,
+  "text": "Grantes: No, I'm returning these",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 54,
+  "off": 6787,
+  "len": 25,
+  "text": "Seru Wings as soon as I'm",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 55,
+  "off": 6814,
+  "len": 15,
+  "text": "done with them.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 56,
+  "off": 6969,
+  "len": 30,
+  "text": "Cara: He says he wants to live",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 57,
+  "off": 7001,
+  "len": 23,
+  "text": "as an earthbound human.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 58,
+  "off": 7229,
+  "len": 16,
+  "text": "Grantes: Cara...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 59,
+  "off": 7524,
+  "len": 8,
+  "text": "{NAME:02}: Hmm.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 60,
+  "off": 7733,
+  "len": 17,
+  "text": "{NAME:01}: I understand!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 61,
+  "off": 7752,
+  "len": 15,
+  "text": "You're in love!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 62,
+  "off": 7769,
+  "len": 27,
+  "text": "You're in love, aren't you!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 63,
+  "off": 7905,
+  "len": 21,
+  "text": "Cara: Ha, ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 64,
+  "off": 7928,
+  "len": 24,
+  "text": "You have such a pure and",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 65,
+  "off": 7954,
+  "len": 13,
+  "text": "honest heart!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 66,
+  "off": 8114,
+  "len": 16,
+  "text": "Grantes: Cara...",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 67,
+  "off": 8240,
+  "len": 14,
+  "text": "Cara: Alright.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 68,
+  "off": 8256,
+  "len": 22,
+  "text": "Let's get out of here.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 69,
+  "off": 8792,
+  "len": 21,
+  "text": "Cara: I'm really glad",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 70,
+  "off": 8815,
+  "len": 15,
+  "text": "that I met you.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 71,
+  "off": 8833,
+  "len": 27,
+  "text": "Cara: Come visit me in Buma",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 72,
+  "off": 8862,
+  "len": 23,
+  "text": "when you have the time.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 73,
+  "off": 8887,
+  "len": 17,
+  "text": "We'll be waiting.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 74,
+  "off": 9074,
+  "len": 20,
+  "text": "{NAME:02}: Ah, it's good to",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 75,
+  "off": 9096,
+  "len": 9,
+  "text": "be human!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 76,
+  "off": 9335,
+  "len": 20,
+  "text": "{NAME:01}: Now all the Mist",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 77,
+  "off": 9357,
+  "len": 8,
+  "text": "is gone.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 78,
+  "off": 9434,
+  "len": 17,
+  "text": "{NAME:02}: That's right!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 79,
+  "off": 9453,
+  "len": 27,
+  "text": "And Juggernaut and the Mist",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 80,
+  "off": 9482,
+  "len": 33,
+  "text": "Generator are destroyed, as well!",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 81,
+  "off": 9563,
+  "len": 24,
+  "text": "{NAME:01}: Let's go to Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 82,
+  "off": 9589,
+  "len": 24,
+  "text": "My mother and father are",
+  "ko": ""
+ },
+ {
+  "map": 608,
+  "script": 43,
+  "run": 83,
+  "off": 9615,
+  "len": 15,
+  "text": "waiting for us.",
+  "ko": ""
+ }
+]

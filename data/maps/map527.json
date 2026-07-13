@@ -1,0 +1,1586 @@
+[
+ {
+  "map": 527,
+  "script": 0,
+  "run": 0,
+  "off": 9,
+  "len": 10,
+  "text": "L5!,<07>,<01>+<03>1",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 2,
+  "run": 0,
+  "off": 17,
+  "len": 10,
+  "text": "L5!,<07>,<01>+<03>1",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 3,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6T>!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 4,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6T?!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 5,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6T@!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 6,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6TA!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 7,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6TB!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 8,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6TC!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 9,
+  "run": 0,
+  "off": 34,
+  "len": 10,
+  "text": "L6TD!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 23,
+  "run": 0,
+  "off": 36,
+  "len": 10,
+  "text": "L6T\\!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 24,
+  "run": 0,
+  "off": 36,
+  "len": 10,
+  "text": "L6TY!&<FE><FF>!6",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 25,
+  "run": 0,
+  "off": 38,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.t<03>/",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 0,
+  "off": 33,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 1,
+  "off": 54,
+  "len": 30,
+  "text": "Arrival at lowest level of Sol",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 2,
+  "off": 93,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 3,
+  "off": 101,
+  "len": 12,
+  "text": "Replay event",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 4,
+  "off": 115,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 5,
+  "off": 130,
+  "len": 13,
+  "text": "Gaza's return",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 6,
+  "off": 152,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 7,
+  "off": 160,
+  "len": 12,
+  "text": "Replay event",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 8,
+  "off": 174,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 9,
+  "off": 227,
+  "len": 29,
+  "text": "6th Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 10,
+  "off": 265,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 11,
+  "off": 273,
+  "len": 12,
+  "text": "Replay event",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 12,
+  "off": 287,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 13,
+  "off": 321,
+  "len": 5,
+  "text": "D*!&<B1>",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 14,
+  "off": 328,
+  "len": 39,
+  "text": "6th Genesis Tree Resurrection continued",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 15,
+  "off": 376,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 16,
+  "off": 384,
+  "len": 12,
+  "text": "Replay event",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 17,
+  "off": 398,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 26,
+  "run": 18,
+  "off": 484,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 39,
+  "run": 0,
+  "off": 145,
+  "len": 14,
+  "text": "{NAME:01}: Old man...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 0,
+  "off": 247,
+  "len": 23,
+  "text": "{NAME:01}: The air is so cold!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 1,
+  "off": 272,
+  "len": 24,
+  "text": "I'm chilled to the bone!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 2,
+  "off": 298,
+  "len": 23,
+  "text": "This place is so weird!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 3,
+  "off": 409,
+  "len": 25,
+  "text": "{NAME:02}: The air is stale from",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 4,
+  "off": 436,
+  "len": 33,
+  "text": "being sealed in here for so long.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 5,
+  "off": 711,
+  "len": 21,
+  "text": "{NAME:01}: Hey, what's that?",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 6,
+  "off": 734,
+  "len": 29,
+  "text": "There, in the middle -- those",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 7,
+  "off": 765,
+  "len": 14,
+  "text": "strange rocks.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 8,
+  "off": 821,
+  "len": 20,
+  "text": "{NAME:02}: That must be the",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 9,
+  "off": 843,
+  "len": 30,
+  "text": "Warrior's Square that Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 10,
+  "off": 875,
+  "len": 18,
+  "text": "was talking about.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 11,
+  "off": 899,
+  "len": 29,
+  "text": "{NAME:02}: The Square must be behind",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 12,
+  "off": 930,
+  "len": 13,
+  "text": "those stones.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 13,
+  "off": 1144,
+  "len": 22,
+  "text": "{NAME:01}: Ooh, I want to see",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 14,
+  "off": 1168,
+  "len": 24,
+  "text": "the Square! I want to go",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 40,
+  "run": 15,
+  "off": 1194,
+  "len": 19,
+  "text": "through the stones!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 0,
+  "off": 267,
+  "len": 34,
+  "text": "The Genesis Tree! We have to plant",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 1,
+  "off": 303,
+  "len": 21,
+  "text": "the seedling quickly!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 2,
+  "off": 409,
+  "len": 14,
+  "text": "{NAME:02}: {NAME}! Hurry!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 3,
+  "off": 425,
+  "len": 27,
+  "text": "I'm worried about Songi and",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 4,
+  "off": 454,
+  "len": 5,
+  "text": "Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 5,
+  "off": 647,
+  "len": 31,
+  "text": "Songi: Oh, thank you for always",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 6,
+  "off": 680,
+  "len": 30,
+  "text": "thinking of me, members of the",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 7,
+  "off": 712,
+  "len": 14,
+  "text": "Moron Brigade!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 8,
+  "off": 969,
+  "len": 30,
+  "text": "Songi: I wouldn't want to ruin",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 9,
+  "off": 1001,
+  "len": 33,
+  "text": "my reputation by not living up to",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 10,
+  "off": 1036,
+  "len": 25,
+  "text": "you morons' expectations!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 11,
+  "off": 1361,
+  "len": 21,
+  "text": "{NAME:02}: Songi! Leave here",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 12,
+  "off": 1384,
+  "len": 16,
+  "text": "peacefully! Now!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 13,
+  "off": 1457,
+  "len": 26,
+  "text": "{NAME:01}: Songi! What did you do",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 14,
+  "off": 1485,
+  "len": 23,
+  "text": "with the old man, Gaza?",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 15,
+  "off": 1564,
+  "len": 32,
+  "text": "Songi: Well, well. How touching!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 16,
+  "off": 1598,
+  "len": 29,
+  "text": "The barbarian girl is fond of",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 17,
+  "off": 1629,
+  "len": 15,
+  "text": "the old geezer!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 18,
+  "off": 1723,
+  "len": 22,
+  "text": "{NAME:01}: Ooh! I'm steaming!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 19,
+  "off": 1870,
+  "len": 29,
+  "text": "Songi: If you want to see him",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 20,
+  "off": 1901,
+  "len": 25,
+  "text": "that much, then go ahead!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 21,
+  "off": 1951,
+  "len": 28,
+  "text": "Songi: Gaza! Come out, Gaza!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 22,
+  "off": 1981,
+  "len": 17,
+  "text": "We have visitors!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 23,
+  "off": 2285,
+  "len": 30,
+  "text": "Songi: Ha, ha, ha! I'm just as",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 24,
+  "off": 2317,
+  "len": 26,
+  "text": "crazy about this geezer as",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 25,
+  "off": 2345,
+  "len": 14,
+  "text": "you fools are!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 26,
+  "off": 2362,
+  "len": 34,
+  "text": "Songi: In fact, I like him so much",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 27,
+  "off": 2398,
+  "len": 31,
+  "text": "that I gave him a custom-fitted",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 28,
+  "off": 2431,
+  "len": 9,
+  "text": "Sim-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 29,
+  "off": 2563,
+  "len": 33,
+  "text": "Songi: He's a Super Geezer now...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 30,
+  "off": 2598,
+  "len": 32,
+  "text": "and quite a formidable opponent,",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 31,
+  "off": 2632,
+  "len": 4,
+  "text": "too!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 32,
+  "off": 2655,
+  "len": 19,
+  "text": "Songi: Now, then...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 33,
+  "off": 2731,
+  "len": 28,
+  "text": "Songi: I'll leave you to the",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 34,
+  "off": 2761,
+  "len": 31,
+  "text": "geezer. If you'll forgive me, I",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 35,
+  "off": 2794,
+  "len": 31,
+  "text": "must be going. I'm so busy now!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 36,
+  "off": 2844,
+  "len": 34,
+  "text": "Songi: I would wish you good luck,",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 37,
+  "off": 2880,
+  "len": 31,
+  "text": "but that won't do you any good!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 38,
+  "off": 2987,
+  "len": 18,
+  "text": "Songi: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 39,
+  "off": 3143,
+  "len": 12,
+  "text": "{NAME:01}: Old Man!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 40,
+  "off": 3164,
+  "len": 15,
+  "text": "Gaza: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 41,
+  "off": 3245,
+  "len": 19,
+  "text": "Stay away from him!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 42,
+  "off": 3266,
+  "len": 25,
+  "text": "He's possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 43,
+  "off": 3819,
+  "len": 22,
+  "text": "{NAME:01}: {NAME}! The old man...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 44,
+  "off": 3843,
+  "len": 13,
+  "text": "Gaza, he's...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 45,
+  "off": 3895,
+  "len": 25,
+  "text": "{NAME:01}: He's being destroyed!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 46,
+  "off": 3945,
+  "len": 21,
+  "text": "{NAME:02}: He's in a frenzy.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 47,
+  "off": 3968,
+  "len": 25,
+  "text": "There's nothing to do now",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 48,
+  "off": 3995,
+  "len": 14,
+  "text": "but fight him!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 49,
+  "off": 4073,
+  "len": 30,
+  "text": "Gaza: T-Thou wouldst hinder my",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 50,
+  "off": 4105,
+  "len": 16,
+  "text": "path of carnage.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 51,
+  "off": 4184,
+  "len": 34,
+  "text": "Gaza: You must die! Prepare to die",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 52,
+  "off": 4220,
+  "len": 33,
+  "text": "by the steel of the Astral Sword!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 41,
+  "run": 53,
+  "off": 4341,
+  "len": 31,
+  "text": "Gaza: Prepare to meet thy doom!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 0,
+  "off": 237,
+  "len": 18,
+  "text": "{NAME:01}: The old man...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 1,
+  "off": 336,
+  "len": 31,
+  "text": "The horrible Seru is separating",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 2,
+  "off": 369,
+  "len": 17,
+  "text": "from Gaza's body!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 3,
+  "off": 552,
+  "len": 29,
+  "text": "Gaza: I d-dropped my guard...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 4,
+  "off": 687,
+  "len": 33,
+  "text": "Gaza: I am... utterly defeated...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 5,
+  "off": 722,
+  "len": 15,
+  "text": "by the enemy...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 6,
+  "off": 783,
+  "len": 33,
+  "text": "Gaza: Failed to keep the vow... I",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 7,
+  "off": 818,
+  "len": 28,
+  "text": "made... My dream... never to",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 8,
+  "off": 848,
+  "len": 10,
+  "text": "come true!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 9,
+  "off": 893,
+  "len": 10,
+  "text": "Gaza: Mar!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 10,
+  "off": 905,
+  "len": 16,
+  "text": "Theodore! Belde!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 11,
+  "off": 1131,
+  "len": 17,
+  "text": "{NAME:01}: Terra! Terra!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 12,
+  "off": 1150,
+  "len": 30,
+  "text": "He's dying! Don't let him die!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 13,
+  "off": 1182,
+  "len": 9,
+  "text": "Help him!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 14,
+  "off": 1230,
+  "len": 19,
+  "text": "{NAME:01}: Terra, you're a",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 15,
+  "off": 1251,
+  "len": 33,
+  "text": "Ra-Seru! You have amazing powers!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 16,
+  "off": 1299,
+  "len": 29,
+  "text": "{NAME:01}: Please, help the old man!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 17,
+  "off": 1413,
+  "len": 34,
+  "text": "dying. There is nothing we can do.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 18,
+  "off": 1525,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Yes, that's it. It may be",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 19,
+  "off": 1560,
+  "len": 34,
+  "text": "possible to keep his spirit alive.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 20,
+  "off": 1678,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Special powers are needed",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 21,
+  "off": 1713,
+  "len": 34,
+  "text": "to raise the Genesis Tree seedling",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 22,
+  "off": 1749,
+  "len": 31,
+  "text": "into a full-grown Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 23,
+  "off": 1860,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: Gaza's strong spirit,",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 24,
+  "off": 1891,
+  "len": 35,
+  "text": "which trapped Gaza in its prison...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 25,
+  "off": 1929,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: It's pure and earnest",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 26,
+  "off": 1960,
+  "len": 34,
+  "text": "enough to provide the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 27,
+  "off": 1996,
+  "len": 34,
+  "text": "seedling with the energy it needs!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 28,
+  "off": 2153,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Gaza's soul will live",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 29,
+  "off": 2184,
+  "len": 32,
+  "text": "eternally in the Genesis Tree in",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 30,
+  "off": 2218,
+  "len": 17,
+  "text": "Warrior's Square!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 31,
+  "off": 2324,
+  "len": 29,
+  "text": "{NAME:01}: You mean that the old man",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 32,
+  "off": 2355,
+  "len": 23,
+  "text": "is going to turn into a",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 33,
+  "off": 2380,
+  "len": 18,
+  "text": "Genesis Tree here?",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 34,
+  "off": 2404,
+  "len": 25,
+  "text": "Gaza: I... am to become a",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 35,
+  "off": 2431,
+  "len": 31,
+  "text": "G-Genesis Tree? Now that I have",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 36,
+  "off": 2464,
+  "len": 29,
+  "text": "failed... to uphold my vow...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 37,
+  "off": 2496,
+  "len": 33,
+  "text": "Gaza: Then I can die contentedly.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 38,
+  "off": 2531,
+  "len": 28,
+  "text": "Please help me join with the",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 39,
+  "off": 2561,
+  "len": 13,
+  "text": "Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 40,
+  "off": 2626,
+  "len": 20,
+  "text": "{NAME:02}: {NAME:01}! Gaza's pulse",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 41,
+  "off": 2648,
+  "len": 18,
+  "text": "is getting weaker!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 42,
+  "off": 2689,
+  "len": 26,
+  "text": "{NAME:01}: Old man! If you really",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 43,
+  "off": 2717,
+  "len": 21,
+  "text": "want to join with the",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 44,
+  "off": 2740,
+  "len": 15,
+  "text": "Genesis Tree...",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 45,
+  "off": 2812,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: {NAME}! Place the Genesis",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 46,
+  "off": 2843,
+  "len": 35,
+  "text": "Tree seedling next to Gaza! Let his",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 42,
+  "run": 47,
+  "off": 2880,
+  "len": 20,
+  "text": "energy flow into it!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 0,
+  "off": 336,
+  "len": 29,
+  "text": "Look! That's Gaza's keepsake!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 1,
+  "off": 635,
+  "len": 21,
+  "text": "T-That's the old man!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 2,
+  "off": 706,
+  "len": 22,
+  "text": "{NAME:01}: He wants us to use",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 3,
+  "off": 730,
+  "len": 22,
+  "text": "it now that he's gone!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 4,
+  "off": 994,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 5,
+  "off": 1006,
+  "len": 7,
+  "text": "the {ITEM:BA}!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 6,
+  "off": 1066,
+  "len": 24,
+  "text": "{NAME:02}: For an instant, Gaza",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 7,
+  "off": 1092,
+  "len": 29,
+  "text": "saw his grandchild Mar's face",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 8,
+  "off": 1123,
+  "len": 11,
+  "text": "in you, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 9,
+  "off": 1230,
+  "len": 21,
+  "text": "{NAME:01}: Old ma... I mean,",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 10,
+  "off": 1253,
+  "len": 19,
+  "text": "Grandpa! Watch over",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 53,
+  "run": 11,
+  "off": 1274,
+  "len": 14,
+  "text": "all of us, OK?",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 54,
+  "run": 0,
+  "off": 21,
+  "len": 33,
+  "text": "In the middle of the exposed dirt",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 54,
+  "run": 1,
+  "off": 56,
+  "len": 33,
+  "text": "are signs that something had been",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 54,
+  "run": 2,
+  "off": 91,
+  "len": 19,
+  "text": "planted there once.",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 0,
+  "off": 155,
+  "len": 21,
+  "text": "A voice is heard from",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 1,
+  "off": 178,
+  "len": 24,
+  "text": "beyond the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 2,
+  "off": 205,
+  "len": 18,
+  "text": "Hari: {NAME} and Meta!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 3,
+  "off": 225,
+  "len": 21,
+  "text": "Human and Ra-Seru who",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 4,
+  "off": 248,
+  "len": 15,
+  "text": "see the future!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 5,
+  "off": 266,
+  "len": 29,
+  "text": "Hari: Tieg sends you the last",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 6,
+  "off": 297,
+  "len": 29,
+  "text": "of his powers so that you may",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 7,
+  "off": 328,
+  "len": 20,
+  "text": "correct history now!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 8,
+  "off": 368,
+  "len": 33,
+  "text": "Meta's true powers have come out!",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 9,
+  "off": 404,
+  "len": 29,
+  "text": "Hari: You have the last of my",
+  "ko": ""
+ },
+ {
+  "map": 527,
+  "script": 55,
+  "run": 10,
+  "off": 435,
+  "len": 24,
+  "text": "power... my very spirit!",
+  "ko": ""
+ }
+]

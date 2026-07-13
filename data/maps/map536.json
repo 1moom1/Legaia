@@ -1,0 +1,434 @@
+[
+ {
+  "map": 536,
+  "script": 7,
+  "run": 0,
+  "off": 104,
+  "len": 23,
+  "text": "e'e(e)e*e+e,e-e.5<D0><07><01>t<C8><05>",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 0,
+  "off": 43,
+  "len": 7,
+  "text": "Oh, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 1,
+  "off": 52,
+  "len": 18,
+  "text": "Are you going out?",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 2,
+  "off": 195,
+  "len": 34,
+  "text": "I see. If you go to the northeast,",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 3,
+  "off": 231,
+  "len": 35,
+  "text": "you'll reach Buma, city of ravines.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 4,
+  "off": 269,
+  "len": 31,
+  "text": "From there go west to reach the",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 5,
+  "off": 302,
+  "len": 27,
+  "text": "tower where Dr. Usha lives.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 6,
+  "off": 334,
+  "len": 33,
+  "text": "Oh. So you still have business to",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 7,
+  "off": 369,
+  "len": 17,
+  "text": "attend to in Sol.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 8,
+  "off": 405,
+  "len": 32,
+  "text": "You have saved Sol, but the Mist",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 9,
+  "off": 439,
+  "len": 31,
+  "text": "from the Floating Castle still ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 10,
+  "off": 472,
+  "len": 23,
+  "text": "covers Karisto Kingdom!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 11,
+  "off": 498,
+  "len": 33,
+  "text": "Please! You must use your powers ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 12,
+  "off": 533,
+  "len": 20,
+  "text": "to save the Kingdom!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 13,
+  "off": 558,
+  "len": 30,
+  "text": "We will do whatever we can to ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 14,
+  "off": 590,
+  "len": 34,
+  "text": "make Sol a peaceful and prosperous",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 12,
+  "run": 15,
+  "off": 626,
+  "len": 6,
+  "text": "place.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 0,
+  "off": 43,
+  "len": 25,
+  "text": "Have you met His Majesty,",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 1,
+  "off": 70,
+  "len": 19,
+  "text": "Emperor Etora VIII?",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 2,
+  "off": 214,
+  "len": 29,
+  "text": "Very well. Then do not forget",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 3,
+  "off": 245,
+  "len": 24,
+  "text": "what you have been told!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 4,
+  "off": 274,
+  "len": 26,
+  "text": "But you must! His Majesty ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 5,
+  "off": 302,
+  "len": 30,
+  "text": "wishes to speak to you! He has",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 6,
+  "off": 334,
+  "len": 22,
+  "text": "something to tell you.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 7,
+  "off": 359,
+  "len": 31,
+  "text": "His Majesty can be found at the",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 8,
+  "off": 392,
+  "len": 30,
+  "text": "inn on the lower floor. Please",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 9,
+  "off": 424,
+  "len": 11,
+  "text": "go see him.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 10,
+  "off": 440,
+  "len": 28,
+  "text": "Thanks to you, Sol has begun",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 13,
+  "run": 11,
+  "off": 470,
+  "len": 30,
+  "text": "to regain its former vitality.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 0,
+  "off": 506,
+  "len": 9,
+  "text": "{NAME:01}: Wow! ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 1,
+  "off": 657,
+  "len": 13,
+  "text": "{NAME:01}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 2,
+  "off": 731,
+  "len": 27,
+  "text": "{NAME:02}: So this is Sol! I never",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 3,
+  "off": 760,
+  "len": 31,
+  "text": "imagined that such a huge city ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 4,
+  "off": 793,
+  "len": 30,
+  "text": "could be built by human hands!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 5,
+  "off": 826,
+  "len": 24,
+  "text": "{NAME:02}: This must have been ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 6,
+  "off": 852,
+  "len": 32,
+  "text": "built with the power of the Seru",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 7,
+  "off": 886,
+  "len": 12,
+  "text": "of long ago.",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 8,
+  "off": 901,
+  "len": 24,
+  "text": "{NAME:02}: The flying trains...",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 9,
+  "off": 927,
+  "len": 19,
+  "text": "The city itself... ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 10,
+  "off": 948,
+  "len": 30,
+  "text": "Truly a pre-Mist civilization!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 11,
+  "off": 1101,
+  "len": 24,
+  "text": "{NAME:01}: Let's see what it's ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 12,
+  "off": 1127,
+  "len": 12,
+  "text": "like inside!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 13,
+  "off": 1281,
+  "len": 18,
+  "text": "Don't go in alone!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 14,
+  "off": 1461,
+  "len": 18,
+  "text": "{NAME:01}: Well come on, ",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 15,
+  "off": 1481,
+  "len": 20,
+  "text": "{NAME} and {NAME:02}! Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 16,
+  "off": 1674,
+  "len": 23,
+  "text": "{NAME:02}: Ha, ha, ha! There's",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 17,
+  "off": 1699,
+  "len": 19,
+  "text": "no arguing with {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 536,
+  "script": 17,
+  "run": 18,
+  "off": 1736,
+  "len": 24,
+  "text": "We're all going inside! ",
+  "ko": ""
+ }
+]

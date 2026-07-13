@@ -1,0 +1,1379 @@
+[
+ {
+  "map": 303,
+  "script": 22,
+  "run": 0,
+  "off": 45,
+  "len": 18,
+  "text": "Start flag setting",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 1,
+  "off": 66,
+  "len": 20,
+  "text": "<{NAME:01} in Growing Room>",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 2,
+  "off": 88,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 3,
+  "off": 125,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 4,
+  "off": 133,
+  "len": 21,
+  "text": "{NAME:01} in Growing Room ON",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 5,
+  "off": 156,
+  "len": 22,
+  "text": "{NAME:01} in Growing Room OFF",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 6,
+  "off": 180,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 7,
+  "off": 199,
+  "len": 19,
+  "text": "<Battle with Saryu>",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 8,
+  "off": 220,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 9,
+  "off": 257,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 10,
+  "off": 265,
+  "len": 20,
+  "text": "Battle with Saryu ON",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 11,
+  "off": 287,
+  "len": 21,
+  "text": "Battle with Saryu OFF",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 12,
+  "off": 310,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 22,
+  "run": 13,
+  "off": 329,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 0,
+  "off": 142,
+  "len": 27,
+  "text": "Bride of Seru: W-Who is it?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 1,
+  "off": 171,
+  "len": 28,
+  "text": "I... can't... hear anything.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 2,
+  "off": 201,
+  "len": 20,
+  "text": "I... can't... see...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 3,
+  "off": 351,
+  "len": 14,
+  "text": "Heh, heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 4,
+  "off": 367,
+  "len": 21,
+  "text": "Young girls are soooo",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 5,
+  "off": 390,
+  "len": 11,
+  "text": "nutritious.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 6,
+  "off": 431,
+  "len": 14,
+  "text": "Heh, heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 7,
+  "off": 447,
+  "len": 8,
+  "text": "Not yet!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 8,
+  "off": 457,
+  "len": 19,
+  "text": "It's not your turn!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 9,
+  "off": 493,
+  "len": 14,
+  "text": "Heh, heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 10,
+  "off": 509,
+  "len": 12,
+  "text": "Hee hee hee!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 11,
+  "off": 1216,
+  "len": 28,
+  "text": "{NAME:01}: Where did that woman go?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 12,
+  "off": 1393,
+  "len": 14,
+  "text": "Heh, heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 29,
+  "run": 13,
+  "off": 1409,
+  "len": 14,
+  "text": "You're next...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 30,
+  "run": 0,
+  "off": 14,
+  "len": 15,
+  "text": "Oh, the pain...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 30,
+  "run": 1,
+  "off": 34,
+  "len": 17,
+  "text": "You...shall be...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 30,
+  "run": 2,
+  "off": 53,
+  "len": 14,
+  "text": "a Seru, too...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 31,
+  "run": 0,
+  "off": 14,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 31,
+  "run": 1,
+  "off": 28,
+  "len": 32,
+  "text": "I spoke but there was no answer.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 32,
+  "run": 0,
+  "off": 14,
+  "len": 10,
+  "text": "Someone...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 32,
+  "run": 1,
+  "off": 26,
+  "len": 22,
+  "text": "Someone, put me out of",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 32,
+  "run": 2,
+  "off": 50,
+  "len": 12,
+  "text": "my misery...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 32,
+  "run": 3,
+  "off": 67,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 33,
+  "run": 0,
+  "off": 14,
+  "len": 19,
+  "text": "Someone, help me...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 33,
+  "run": 1,
+  "off": 35,
+  "len": 24,
+  "text": "I can't hear anything...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 33,
+  "run": 2,
+  "off": 61,
+  "len": 23,
+  "text": "I can't see anything...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 33,
+  "run": 3,
+  "off": 89,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 34,
+  "run": 0,
+  "off": 14,
+  "len": 9,
+  "text": "H-Help...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 34,
+  "run": 1,
+  "off": 28,
+  "len": 24,
+  "text": "How could this happen...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 35,
+  "run": 0,
+  "off": 14,
+  "len": 26,
+  "text": "I can't take this anymore!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 35,
+  "run": 1,
+  "off": 42,
+  "len": 34,
+  "text": "Someone, release me from the pain.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 35,
+  "run": 2,
+  "off": 81,
+  "len": 32,
+  "text": "I spoke but there was no answer.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 0,
+  "off": 10,
+  "len": 7,
+  "text": ".<7F><7F>%s>.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 1,
+  "off": 90,
+  "len": 14,
+  "text": "Heh, heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 2,
+  "off": 106,
+  "len": 25,
+  "text": "Have you come for a tour?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 3,
+  "off": 134,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 4,
+  "off": 146,
+  "len": 27,
+  "text": "Hey, don't even think about",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 5,
+  "off": 175,
+  "len": 33,
+  "text": "trying to save those young girls.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 6,
+  "off": 211,
+  "len": 30,
+  "text": "Even if you succeed in freeing",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 7,
+  "off": 243,
+  "len": 22,
+  "text": "them, they'll all die.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 8,
+  "off": 268,
+  "len": 20,
+  "text": "They cannot be freed",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 9,
+  "off": 290,
+  "len": 27,
+  "text": "without the power of Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 10,
+  "off": 320,
+  "len": 18,
+  "text": "Stick to the tour.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 11,
+  "off": 340,
+  "len": 30,
+  "text": "You may look, but don't touch.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 12,
+  "off": 375,
+  "len": 14,
+  "text": "Heh, heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 13,
+  "off": 392,
+  "len": 19,
+  "text": "When Saryu arrives,",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 14,
+  "off": 413,
+  "len": 23,
+  "text": "you will all join those",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 15,
+  "off": 438,
+  "len": 12,
+  "text": "young girls!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 16,
+  "off": 453,
+  "len": 30,
+  "text": "Soon you won't even be able to",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 17,
+  "off": 485,
+  "len": 33,
+  "text": "walk! Time to lament what remains",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 36,
+  "run": 18,
+  "off": 520,
+  "len": 13,
+  "text": "of the world!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 0,
+  "off": 8,
+  "len": 7,
+  "text": ".<7F><7F>%s>.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 1,
+  "off": 88,
+  "len": 14,
+  "text": "Hee, hee, hee!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 2,
+  "off": 104,
+  "len": 30,
+  "text": "The lives of young maidens are",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 3,
+  "off": 136,
+  "len": 29,
+  "text": "the best food for Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 4,
+  "off": 170,
+  "len": 9,
+  "text": "Hee, hee!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 5,
+  "off": 181,
+  "len": 31,
+  "text": "Here's a vigorous-looking girl.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 6,
+  "off": 214,
+  "len": 16,
+  "text": "So full of life!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 7,
+  "off": 233,
+  "len": 24,
+  "text": "Now Juggernaut will grow",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 8,
+  "off": 259,
+  "len": 12,
+  "text": "even faster!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 37,
+  "run": 9,
+  "off": 273,
+  "len": 14,
+  "text": "Hee, hee, hee!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 38,
+  "run": 0,
+  "off": 108,
+  "len": 28,
+  "text": "Juggernaut: I am Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 38,
+  "run": 1,
+  "off": 138,
+  "len": 16,
+  "text": "I am invincible!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 38,
+  "run": 2,
+  "off": 156,
+  "len": 13,
+  "text": "Undefeatable!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 39,
+  "run": 0,
+  "off": 90,
+  "len": 32,
+  "text": "Saryu: I am the possessed Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 39,
+  "run": 1,
+  "off": 124,
+  "len": 5,
+  "text": "Yeah!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 43,
+  "run": 0,
+  "off": 92,
+  "len": 29,
+  "text": "Saryu ordered me not to watch",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 43,
+  "run": 1,
+  "off": 123,
+  "len": 27,
+  "text": "anything that happens here.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 43,
+  "run": 2,
+  "off": 153,
+  "len": 26,
+  "text": "So I won't watch anything.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 44,
+  "run": 0,
+  "off": 94,
+  "len": 34,
+  "text": "Saryu said that monster Juggernaut",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 44,
+  "run": 1,
+  "off": 130,
+  "len": 19,
+  "text": "is nothing to fear.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 44,
+  "run": 2,
+  "off": 152,
+  "len": 21,
+  "text": "So I am not afraid of",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 44,
+  "run": 3,
+  "off": 175,
+  "len": 15,
+  "text": "the Juggernaut.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 48,
+  "run": 0,
+  "off": 73,
+  "len": 14,
+  "text": "There is an {ITEM:76}",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 48,
+  "run": 1,
+  "off": 89,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 48,
+  "run": 2,
+  "off": 121,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 48,
+  "run": 3,
+  "off": 133,
+  "len": 7,
+  "text": "the {ITEM:76}!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 48,
+  "run": 4,
+  "off": 153,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 0,
+  "off": 457,
+  "len": 19,
+  "text": "Someone, help me...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 1,
+  "off": 478,
+  "len": 24,
+  "text": "I can't hear anything...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 2,
+  "off": 504,
+  "len": 14,
+  "text": "I can't see...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 3,
+  "off": 548,
+  "len": 15,
+  "text": "Oh, the pain...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 4,
+  "off": 1138,
+  "len": 12,
+  "text": "Here we are.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 5,
+  "off": 1152,
+  "len": 23,
+  "text": "Now wait here for Saryu",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 56,
+  "run": 6,
+  "off": 1177,
+  "len": 10,
+  "text": "to arrive!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 0,
+  "off": 58,
+  "len": 27,
+  "text": "Saryu: The bride of Seru is",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 1,
+  "off": 87,
+  "len": 19,
+  "text": "waiting, so I came.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 2,
+  "off": 351,
+  "len": 33,
+  "text": "Saryu: You'll find more happiness",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 3,
+  "off": 386,
+  "len": 31,
+  "text": "as Juggernaut's flesh and blood",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 4,
+  "off": 419,
+  "len": 35,
+  "text": "than living your own wretched life.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 5,
+  "off": 493,
+  "len": 35,
+  "text": "Saryu: So consider yourselves lucky",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 6,
+  "off": 530,
+  "len": 21,
+  "text": "to be brides of Seru.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 7,
+  "off": 553,
+  "len": 30,
+  "text": "Now be quiet! That's an order!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 8,
+  "off": 795,
+  "len": 16,
+  "text": "what you've done",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 9,
+  "off": 813,
+  "len": 16,
+  "text": "is unforgivable!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 10,
+  "off": 1182,
+  "len": 31,
+  "text": "Saryu: The brides are not dead.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 11,
+  "off": 1215,
+  "len": 32,
+  "text": "Their vigorous bodies live. Now,",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 57,
+  "run": 12,
+  "off": 1249,
+  "len": 28,
+  "text": "connect them to the machine.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 0,
+  "off": 216,
+  "len": 23,
+  "text": "Saryu: Soon, very soon.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 1,
+  "off": 241,
+  "len": 23,
+  "text": "The brides of Seru will",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 2,
+  "off": 266,
+  "len": 14,
+  "text": "give you life.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 3,
+  "off": 294,
+  "len": 14,
+  "text": "Hee, hee, hee!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 4,
+  "off": 310,
+  "len": 25,
+  "text": "Juggernaut is nearly full",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 5,
+  "off": 337,
+  "len": 14,
+  "text": "of life force.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 6,
+  "off": 573,
+  "len": 23,
+  "text": "We're here to save you!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 7,
+  "off": 1218,
+  "len": 4,
+  "text": "L<C8>LF",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 8,
+  "off": 1633,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: It's time to give {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 9,
+  "off": 1663,
+  "len": 20,
+  "text": "our fighting powers!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 10,
+  "off": 2120,
+  "len": 13,
+  "text": "{NAME:01}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 11,
+  "off": 2366,
+  "len": 19,
+  "text": "Oh, thank goodness!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 12,
+  "off": 2761,
+  "len": 30,
+  "text": "{NAME:01}: I never stopped believing!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 13,
+  "off": 2793,
+  "len": 26,
+  "text": "I knew I could count on my",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 14,
+  "off": 2990,
+  "len": 26,
+  "text": "Saryu: You can't \"believe\"",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 15,
+  "off": 3018,
+  "len": 19,
+  "text": "anything! I haven't",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 16,
+  "off": 3039,
+  "len": 23,
+  "text": "ordered you to believe!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 17,
+  "off": 3082,
+  "len": 32,
+  "text": "Saryu: You have done something I",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 18,
+  "off": 3116,
+  "len": 25,
+  "text": "have not ordered. I don't",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 19,
+  "off": 3143,
+  "len": 23,
+  "text": "like you! You must die!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 20,
+  "off": 3169,
+  "len": 28,
+  "text": "Saryu: Die! That's an order!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 58,
+  "run": 21,
+  "off": 3199,
+  "len": 16,
+  "text": "I will kill you!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 0,
+  "off": 371,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Look at that Seru.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 1,
+  "off": 399,
+  "len": 25,
+  "text": "That is the Sim-Seru that",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 2,
+  "off": 426,
+  "len": 22,
+  "text": "was controlling Saryu.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 3,
+  "off": 454,
+  "len": 21,
+  "text": "{NAME:02}: Blasted Sim-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 4,
+  "off": 477,
+  "len": 28,
+  "text": "It deserves to be destroyed.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 5,
+  "off": 1508,
+  "len": 28,
+  "text": "Saryu: Oh, my aching head...",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 6,
+  "off": 1619,
+  "len": 20,
+  "text": "Saryu: W-Where am I?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 7,
+  "off": 1641,
+  "len": 18,
+  "text": "What room is this?",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 8,
+  "off": 1730,
+  "len": 19,
+  "text": "Saryu: ...(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 9,
+  "off": 1767,
+  "len": 18,
+  "text": "Saryu: !(Surprise)",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 10,
+  "off": 2064,
+  "len": 10,
+  "text": "Saryu: No!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 11,
+  "off": 2076,
+  "len": 22,
+  "text": "The device is running!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 12,
+  "off": 2234,
+  "len": 30,
+  "text": "Saryu: This machine must never",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 13,
+  "off": 2266,
+  "len": 26,
+  "text": "be turned on! Turn it off!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 14,
+  "off": 2294,
+  "len": 21,
+  "text": "You must turn it off!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 15,
+  "off": 2981,
+  "len": 22,
+  "text": "Saryu: Thank goodness!",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 16,
+  "off": 3005,
+  "len": 34,
+  "text": "That must never reach the surface.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 17,
+  "off": 3041,
+  "len": 25,
+  "text": "It's... a forbidden Seru.",
+  "ko": ""
+ },
+ {
+  "map": 303,
+  "script": 59,
+  "run": 18,
+  "off": 3109,
+  "len": 19,
+  "text": "Saryu: ...(Silence)",
+  "ko": ""
+ }
+]

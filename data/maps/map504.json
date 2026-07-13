@@ -1,0 +1,551 @@
+[
+ {
+  "map": 504,
+  "script": 4,
+  "run": 0,
+  "off": 21,
+  "len": 16,
+  "text": "The power is off",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 4,
+  "run": 1,
+  "off": 39,
+  "len": 24,
+  "text": "and the door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 5,
+  "run": 0,
+  "off": 23,
+  "len": 16,
+  "text": "The power is off",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 5,
+  "run": 1,
+  "off": 41,
+  "len": 24,
+  "text": "and the door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 6,
+  "run": 0,
+  "off": 23,
+  "len": 16,
+  "text": "The power is off",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 6,
+  "run": 1,
+  "off": 41,
+  "len": 24,
+  "text": "and the door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 7,
+  "run": 0,
+  "off": 23,
+  "len": 16,
+  "text": "The power is off",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 7,
+  "run": 1,
+  "off": 41,
+  "len": 24,
+  "text": "and the door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 0,
+  "off": 21,
+  "len": 24,
+  "text": "Mommy went into the Mist",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 1,
+  "off": 47,
+  "len": 18,
+  "text": "to look for Daddy.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 2,
+  "off": 68,
+  "len": 26,
+  "text": "And, um, Grandpa went into",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 3,
+  "off": 96,
+  "len": 26,
+  "text": "the Mist to look for Mommy",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 4,
+  "off": 124,
+  "len": 10,
+  "text": "and Daddy.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 5,
+  "off": 137,
+  "len": 33,
+  "text": "And my, um, big brother went into",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 6,
+  "off": 172,
+  "len": 30,
+  "text": "the Mist to look for Mommy and",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 7,
+  "off": 204,
+  "len": 18,
+  "text": "Daddy and Grandpa.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 8,
+  "off": 225,
+  "len": 30,
+  "text": "Now I have to go into the Mist",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 9,
+  "off": 257,
+  "len": 21,
+  "text": "to look for everyone.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 12,
+  "run": 10,
+  "off": 283,
+  "len": 21,
+  "text": "My brother came back!",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 13,
+  "run": 0,
+  "off": 43,
+  "len": 31,
+  "text": "My parents and grandfather were",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 13,
+  "run": 1,
+  "off": 76,
+  "len": 31,
+  "text": "lost in the Mist, but I'm going",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 13,
+  "run": 2,
+  "off": 109,
+  "len": 34,
+  "text": "to take care of my little brother.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 0,
+  "off": 19,
+  "len": 33,
+  "text": "It's all over. The world is dead!",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 1,
+  "off": 54,
+  "len": 26,
+  "text": "This is heaven. A paradise",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 2,
+  "off": 82,
+  "len": 11,
+  "text": "of despair!",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 3,
+  "off": 98,
+  "len": 32,
+  "text": "I used to call Sol a dead world,",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 4,
+  "off": 132,
+  "len": 24,
+  "text": "a paradise of despair...",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 5,
+  "off": 159,
+  "len": 34,
+  "text": "I'm so embarrassed. Hope, despair,",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 6,
+  "off": 195,
+  "len": 35,
+  "text": "life and death -- it all depends on",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 14,
+  "run": 7,
+  "off": 232,
+  "len": 23,
+  "text": "how you look at things!",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 0,
+  "off": 19,
+  "len": 26,
+  "text": "Genesis Tree? Now that you",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 1,
+  "off": 47,
+  "len": 14,
+  "text": "mention it....",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 2,
+  "off": 64,
+  "len": 36,
+  "text": "I heard that in the era of Etora IV,",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 3,
+  "off": 102,
+  "len": 36,
+  "text": "the Genesis Tree in Warrior's Square",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 4,
+  "off": 140,
+  "len": 31,
+  "text": "died and was moved to the roof.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 5,
+  "off": 178,
+  "len": 26,
+  "text": "Genesis Tree? Now that you",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 6,
+  "off": 206,
+  "len": 14,
+  "text": "mention it....",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 7,
+  "off": 223,
+  "len": 33,
+  "text": "Hmm. I hear there's a magnificent",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 8,
+  "off": 258,
+  "len": 28,
+  "text": "Genesis Tree in Buma, a town",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 15,
+  "run": 9,
+  "off": 288,
+  "len": 14,
+  "text": "north of here.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 0,
+  "off": 17,
+  "len": 18,
+  "text": "(Grumble, grumble)",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 1,
+  "off": 38,
+  "len": 31,
+  "text": "Uh, how annoying! I wish they'd",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 2,
+  "off": 71,
+  "len": 28,
+  "text": "stop saying \"Sir! Sir! Sir!\"",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 3,
+  "off": 101,
+  "len": 13,
+  "text": "all the time!",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 4,
+  "off": 117,
+  "len": 20,
+  "text": "Those Biron monks...",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 5,
+  "off": 139,
+  "len": 22,
+  "text": "What are they, idiots?",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 6,
+  "off": 166,
+  "len": 18,
+  "text": "(Grumble, grumble)",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 7,
+  "off": 187,
+  "len": 34,
+  "text": "Those Biron people could have told",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 8,
+  "off": 223,
+  "len": 27,
+  "text": "me they had a Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 9,
+  "off": 253,
+  "len": 30,
+  "text": "Then I would have gone back to",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 16,
+  "run": 10,
+  "off": 285,
+  "len": 20,
+  "text": "Warrior's Square....",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 0,
+  "off": 21,
+  "len": 31,
+  "text": "There are all these weapons and",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 1,
+  "off": 54,
+  "len": 17,
+  "text": "armor for sale...",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 2,
+  "off": 74,
+  "len": 28,
+  "text": "But nobody is buying them to",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 3,
+  "off": 104,
+  "len": 27,
+  "text": "use in battle. Except Gaza,",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 4,
+  "off": 133,
+  "len": 8,
+  "text": "that is.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 5,
+  "off": 146,
+  "len": 23,
+  "text": "The Mist downstairs has",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 6,
+  "off": 171,
+  "len": 31,
+  "text": "disappeared. So why is everyone",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 17,
+  "run": 7,
+  "off": 204,
+  "len": 20,
+  "text": "acting so perplexed?",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 18,
+  "run": 0,
+  "off": 19,
+  "len": 8,
+  "text": "Oh well.",
+  "ko": ""
+ },
+ {
+  "map": 504,
+  "script": 18,
+  "run": 1,
+  "off": 29,
+  "len": 30,
+  "text": "It takes all kinds, I suppose.",
+  "ko": ""
+ }
+]

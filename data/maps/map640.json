@@ -1,0 +1,3269 @@
+[
+ {
+  "map": 640,
+  "script": 6,
+  "run": 0,
+  "off": 26,
+  "len": 14,
+  "text": "The sign says,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 6,
+  "run": 1,
+  "off": 42,
+  "len": 23,
+  "text": "\"Shield Control Panel.\"",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 6,
+  "run": 2,
+  "off": 67,
+  "len": 30,
+  "text": "Do you wish to move the lever?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 6,
+  "run": 3,
+  "off": 381,
+  "len": 26,
+  "text": "{NAME:01} did not move the lever.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 6,
+  "run": 4,
+  "off": 412,
+  "len": 14,
+  "text": "The sign says,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 6,
+  "run": 5,
+  "off": 428,
+  "len": 23,
+  "text": "\"Shield Control Panel.\"",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 6,
+  "run": 6,
+  "off": 453,
+  "len": 19,
+  "text": "The lever is stuck.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 0,
+  "off": 24,
+  "len": 31,
+  "text": "If you roll this over the edge,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 1,
+  "off": 57,
+  "len": 25,
+  "text": "it may fill the large gap",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 2,
+  "off": 84,
+  "len": 13,
+  "text": "in {NAME}'s path.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 3,
+  "off": 100,
+  "len": 23,
+  "text": "Do you wish to push the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 4,
+  "off": 125,
+  "len": 29,
+  "text": "giant snowball over the edge?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 5,
+  "off": 437,
+  "len": 25,
+  "text": "The snow is packed tight!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 6,
+  "off": 464,
+  "len": 28,
+  "text": "It should roll over the edge",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 7,
+  "off": 494,
+  "len": 25,
+  "text": "with just a slight shove!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 8,
+  "off": 522,
+  "len": 23,
+  "text": "Do you wish to push the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 9,
+  "off": 547,
+  "len": 29,
+  "text": "giant snowball over the edge?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 10,
+  "run": 10,
+  "off": 593,
+  "len": 29,
+  "text": "{NAME:02} did not move the snowball.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 26,
+  "run": 0,
+  "off": 432,
+  "len": 23,
+  "text": "e'e(e)e*e+e,e-e.!!/<19><CD><F8>]",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 30,
+  "run": 0,
+  "off": 48,
+  "len": 4,
+  "text": "Hey!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 30,
+  "run": 1,
+  "off": 54,
+  "len": 13,
+  "text": "I am Delilas.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 31,
+  "run": 0,
+  "off": 50,
+  "len": 18,
+  "text": "Hey! I am Delilas.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 32,
+  "run": 0,
+  "off": 187,
+  "len": 21,
+  "text": "Hey! I am Lu Delilas.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 39,
+  "run": 0,
+  "off": 47,
+  "len": 25,
+  "text": "Do you wish to push this?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 39,
+  "run": 1,
+  "off": 164,
+  "len": 32,
+  "text": "It won't budge an inch no matter",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 39,
+  "run": 2,
+  "off": 198,
+  "len": 18,
+  "text": "how hard you push.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 39,
+  "run": 3,
+  "off": 221,
+  "len": 23,
+  "text": "{NAME} did not do anything.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 40,
+  "run": 0,
+  "off": 44,
+  "len": 25,
+  "text": "Do you wish to push this?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 40,
+  "run": 1,
+  "off": 157,
+  "len": 32,
+  "text": "It won't budge an inch no matter",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 40,
+  "run": 2,
+  "off": 191,
+  "len": 18,
+  "text": "how hard you push.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 40,
+  "run": 3,
+  "off": 214,
+  "len": 23,
+  "text": "{NAME} did not do anything.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 0,
+  "off": 51,
+  "len": 27,
+  "text": "The Genesis Tree is frozen!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 1,
+  "off": 89,
+  "len": 12,
+  "text": "To next flag",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 2,
+  "off": 112,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 3,
+  "off": 141,
+  "len": 14,
+  "text": "Revolving road",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 4,
+  "off": 166,
+  "len": 12,
+  "text": "To next flag",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 5,
+  "off": 189,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 6,
+  "off": 220,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 7,
+  "off": 246,
+  "len": 8,
+  "text": "999,999G",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 8,
+  "off": 256,
+  "len": 6,
+  "text": "5,000G",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 9,
+  "off": 264,
+  "len": 6,
+  "text": "1,000G",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 10,
+  "off": 296,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 11,
+  "off": 330,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 12,
+  "off": 336,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 13,
+  "off": 347,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 47,
+  "run": 14,
+  "off": 358,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 51,
+  "run": 0,
+  "off": 24,
+  "len": 29,
+  "text": "A huge block of ice! It's far",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 51,
+  "run": 1,
+  "off": 55,
+  "len": 26,
+  "text": "too big and heavy to move!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 72,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:CF}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 72,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 72,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 72,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:CF}!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 72,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 73,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:EB}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 73,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 73,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 73,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:EB}!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 73,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 74,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:81}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 74,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 74,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 74,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 74,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 75,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:E4}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 75,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 75,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 75,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:E4}!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 75,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 76,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 76,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 76,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 76,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 76,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 77,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C4}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 77,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 77,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 77,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:C4}!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 77,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 0,
+  "off": 476,
+  "len": 29,
+  "text": "{NAME:02}: This must be the entrance",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 1,
+  "off": 507,
+  "len": 21,
+  "text": "to the three tunnels.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 2,
+  "off": 531,
+  "len": 26,
+  "text": "{NAME:02}: We'll have to split up",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 3,
+  "off": 559,
+  "len": 34,
+  "text": "from here and make way on our own.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 4,
+  "off": 697,
+  "len": 14,
+  "text": "Are you ready?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 5,
+  "off": 728,
+  "len": 16,
+  "text": "{NAME:02}: Alright, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 6,
+  "off": 746,
+  "len": 28,
+  "text": "You're the leader. You lead!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 7,
+  "off": 1043,
+  "len": 23,
+  "text": "{NAME:02}: Good! I'll take the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 8,
+  "off": 1068,
+  "len": 32,
+  "text": "Thunder Tunnel on the right, and",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 9,
+  "off": 1102,
+  "len": 34,
+  "text": "head for where we'll set the bomb.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 10,
+  "off": 1270,
+  "len": 24,
+  "text": "{NAME:01}: I'll take the middle",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 11,
+  "off": 1296,
+  "len": 31,
+  "text": "tunnel. That means you have the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 12,
+  "off": 1329,
+  "len": 16,
+  "text": "left tunnel, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 13,
+  "off": 1594,
+  "len": 29,
+  "text": "Do you want help for controls",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 14,
+  "off": 1625,
+  "len": 21,
+  "text": "in the Three Tunnels?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 15,
+  "off": 1672,
+  "len": 23,
+  "text": "In this dungeon, {NAME}, {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 16,
+  "off": 1697,
+  "len": 27,
+  "text": "and {NAME:02} split up and go into",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 17,
+  "off": 1726,
+  "len": 17,
+  "text": "separate tunnels.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 18,
+  "off": 1745,
+  "len": 33,
+  "text": "To control a different character,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 19,
+  "off": 1780,
+  "len": 26,
+  "text": "press the {CE:2} button on the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 20,
+  "off": 1808,
+  "len": 11,
+  "text": "controller.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 21,
+  "off": 1821,
+  "len": 35,
+  "text": "The screen will jump to a character",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 22,
+  "off": 1858,
+  "len": 35,
+  "text": "in another tunnel and you will have",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 23,
+  "off": 1895,
+  "len": 26,
+  "text": "control of this character.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 24,
+  "off": 2223,
+  "len": 14,
+  "text": "are you ready?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 25,
+  "off": 2254,
+  "len": 16,
+  "text": "{NAME:02}: Alright, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 78,
+  "run": 26,
+  "off": 2272,
+  "len": 28,
+  "text": "You're the leader. You lead!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 0,
+  "off": 273,
+  "len": 31,
+  "text": "This is where we must plant the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 1,
+  "off": 306,
+  "len": 5,
+  "text": "bomb.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 2,
+  "off": 349,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: But the others don't seem",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 3,
+  "off": 384,
+  "len": 35,
+  "text": "to have reached their destinations.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 4,
+  "off": 422,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: We must wait a little",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 5,
+  "off": 453,
+  "len": 6,
+  "text": "while.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 6,
+  "off": 714,
+  "len": 26,
+  "text": "everyone has reached Koru.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 7,
+  "off": 907,
+  "len": 26,
+  "text": "can you hear me? Let's set",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 79,
+  "run": 8,
+  "off": 935,
+  "len": 20,
+  "text": "the TimeSpace Bombs!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 0,
+  "off": 249,
+  "len": 18,
+  "text": "This must be Koru!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 1,
+  "off": 305,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We have to wait until",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 2,
+  "off": 336,
+  "len": 24,
+  "text": "everyone is in position.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 3,
+  "off": 588,
+  "len": 27,
+  "text": "Now everyone is in position",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 4,
+  "off": 617,
+  "len": 8,
+  "text": "at Koru!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 5,
+  "off": 761,
+  "len": 26,
+  "text": "can you hear me? Let's set",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 80,
+  "run": 6,
+  "off": 789,
+  "len": 20,
+  "text": "the TimeSpace Bombs!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 0,
+  "off": 229,
+  "len": 27,
+  "text": "{PAL:5}{M7:02}{PAL:7}: We're finally here,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 1,
+  "off": 263,
+  "len": 27,
+  "text": "This is Koru, the Ice Seru.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 2,
+  "off": 328,
+  "len": 27,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Now we have to wait",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 3,
+  "off": 357,
+  "len": 30,
+  "text": "until everyone is in position.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 4,
+  "off": 570,
+  "len": 27,
+  "text": "{PAL:5}{M7:02}{PAL:7}: It looks like we're",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 5,
+  "off": 599,
+  "len": 24,
+  "text": "all in position by Koru!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 6,
+  "off": 898,
+  "len": 23,
+  "text": "{NAME:01}: What took you, {NAME:02}?!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 7,
+  "off": 923,
+  "len": 30,
+  "text": "The bombs! We have to push the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 81,
+  "run": 8,
+  "off": 955,
+  "len": 28,
+  "text": "buttons on the bombs! Hurry!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 82,
+  "run": 0,
+  "off": 17,
+  "len": 28,
+  "text": "This is the tunnel entrance.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 82,
+  "run": 1,
+  "off": 47,
+  "len": 31,
+  "text": "Do you want to go back outside?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 83,
+  "run": 0,
+  "off": 15,
+  "len": 28,
+  "text": "This is the tunnel entrance.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 83,
+  "run": 1,
+  "off": 45,
+  "len": 31,
+  "text": "Do you want to go back outside?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 84,
+  "run": 0,
+  "off": 15,
+  "len": 28,
+  "text": "This is the tunnel entrance.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 84,
+  "run": 1,
+  "off": 45,
+  "len": 31,
+  "text": "Do you want to go back outside?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 0,
+  "off": 353,
+  "len": 21,
+  "text": "Delilas Family: Wait!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 1,
+  "off": 578,
+  "len": 23,
+  "text": "Gi Delilas: The Mist is",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 2,
+  "off": 603,
+  "len": 31,
+  "text": "salvation! The Mist is eternal,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 3,
+  "off": 636,
+  "len": 16,
+  "text": "perfect harmony!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 4,
+  "off": 661,
+  "len": 32,
+  "text": "Lu Delilas: A millennium of Mist",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 5,
+  "off": 695,
+  "len": 34,
+  "text": "and followers is our goal! That is",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 6,
+  "off": 731,
+  "len": 27,
+  "text": "what we promised Lord Zora!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 7,
+  "off": 767,
+  "len": 35,
+  "text": "Che Delilas: Swine! You are enemies",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 8,
+  "off": 804,
+  "len": 30,
+  "text": "of Lord Zora and therefore our",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 9,
+  "off": 836,
+  "len": 23,
+  "text": "enemies. You shall die!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 10,
+  "off": 1364,
+  "len": 34,
+  "text": "Gi Delilas: I'm Gi Delilas, expert",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 11,
+  "off": 1400,
+  "len": 33,
+  "text": "at fatal blows to a killing point",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 12,
+  "off": 1435,
+  "len": 22,
+  "text": "on my opponent's body!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 13,
+  "off": 1891,
+  "len": 28,
+  "text": "Lu Delilas: I am Lu Delilas!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 14,
+  "off": 1921,
+  "len": 30,
+  "text": "I strike with lightning speed!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 15,
+  "off": 2198,
+  "len": 4,
+  "text": "<15>LGx",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 16,
+  "off": 2254,
+  "len": 35,
+  "text": "<08><AD><1F><08><1F>Che Delilas: I am Che Delilas!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 17,
+  "off": 2291,
+  "len": 28,
+  "text": "Brute strength and chaos are",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 18,
+  "off": 2321,
+  "len": 16,
+  "text": "what I am about!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 19,
+  "off": 3067,
+  "len": 26,
+  "text": "We are the Delilas Family!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 20,
+  "off": 3186,
+  "len": 33,
+  "text": "Gi Delilas: We will never let you",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 21,
+  "off": 3221,
+  "len": 26,
+  "text": "destroy Koru.  He has been",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 22,
+  "off": 3249,
+  "len": 25,
+  "text": "placed here by Lord Zora!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 23,
+  "off": 3478,
+  "len": 32,
+  "text": "Lu Delilas: Youngsters, when you",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 24,
+  "off": 3512,
+  "len": 31,
+  "text": "play with fire, you get burned!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 25,
+  "off": 3826,
+  "len": 19,
+  "text": "Che Delilas: Aieee!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 26,
+  "off": 3847,
+  "len": 23,
+  "text": "This will be your final",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 27,
+  "off": 3872,
+  "len": 14,
+  "text": "resting place!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 28,
+  "off": 4249,
+  "len": 24,
+  "text": "Che Delilas: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 29,
+  "off": 4275,
+  "len": 29,
+  "text": "Fight me! I will show you how",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 85,
+  "run": 30,
+  "off": 4306,
+  "len": 17,
+  "text": "strength is used!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 0,
+  "off": 171,
+  "len": 16,
+  "text": "{NAME:02}: The dreadful",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 1,
+  "off": 189,
+  "len": 15,
+  "text": "Delilas Family!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 2,
+  "off": 265,
+  "len": 22,
+  "text": "{NAME:02}: Alright, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 3,
+  "off": 289,
+  "len": 30,
+  "text": "Let's set the TimeSpace Bombs!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 4,
+  "off": 479,
+  "len": 26,
+  "text": "{NAME:01}: OK! I put my TimeSpace",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 5,
+  "off": 507,
+  "len": 14,
+  "text": "Bomb in place!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 6,
+  "off": 884,
+  "len": 23,
+  "text": "{NAME:02}: I hope they explode",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 7,
+  "off": 909,
+  "len": 30,
+  "text": "after 3 seconds... Not sooner!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 8,
+  "off": 1014,
+  "len": 26,
+  "text": "{NAME:02}: All we can do is press",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 9,
+  "off": 1042,
+  "len": 28,
+  "text": "buttons and run like demons.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 10,
+  "off": 1072,
+  "len": 31,
+  "text": "Ready? Press on the count of 3!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 11,
+  "off": 1168,
+  "len": 10,
+  "text": "{NAME:02}: Three!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 12,
+  "off": 1181,
+  "len": 8,
+  "text": "{NAME:02}: Two!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 13,
+  "off": 1237,
+  "len": 22,
+  "text": "{NAME:02}: One! The button is",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 14,
+  "off": 1261,
+  "len": 22,
+  "text": "pressed! Now run! Run!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 15,
+  "off": 1431,
+  "len": 8,
+  "text": "{NAME:01}: One!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 16,
+  "off": 1642,
+  "len": 10,
+  "text": "{NAME:01}: Aaahh!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 88,
+  "run": 17,
+  "off": 1654,
+  "len": 19,
+  "text": "Dr. Usha, you liar!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 0,
+  "off": 153,
+  "len": 10,
+  "text": "Qfs<02>J<CC> Q^<F2>",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 1,
+  "off": 232,
+  "len": 22,
+  "text": "Che Delilas: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 2,
+  "off": 287,
+  "len": 25,
+  "text": "Che Delilas: B-Brother...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 3,
+  "off": 314,
+  "len": 33,
+  "text": "I'm a wreck. Help me, my brother!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 4,
+  "off": 422,
+  "len": 33,
+  "text": "Gi Delilas: Stop whimpering, Che.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 5,
+  "off": 457,
+  "len": 17,
+  "text": "I-I'm right here.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 6,
+  "off": 477,
+  "len": 24,
+  "text": "Gi Delilas: Where is Lu?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 7,
+  "off": 503,
+  "len": 13,
+  "text": "Is she alive?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 8,
+  "off": 794,
+  "len": 30,
+  "text": "Lu Delilas: I'm right here, my",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 9,
+  "off": 826,
+  "len": 8,
+  "text": "brother.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 10,
+  "off": 990,
+  "len": 35,
+  "text": "Gi Delilas: Ha, ha, ha! So not even",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 11,
+  "off": 1027,
+  "len": 32,
+  "text": "the Ra-Seru could finish us off!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 12,
+  "off": 1065,
+  "len": 31,
+  "text": "Gi Delilas: Look! Koru is still",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 13,
+  "off": 1098,
+  "len": 28,
+  "text": "alive! The thermal energy...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 14,
+  "off": 1132,
+  "len": 35,
+  "text": "Gi Delilas: The thermal energy he's",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 15,
+  "off": 1169,
+  "len": 34,
+  "text": "stored in his belly for so long...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 16,
+  "off": 1205,
+  "len": 17,
+  "text": "Let's release it!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 17,
+  "off": 1284,
+  "len": 32,
+  "text": "Lu Delilas: Brother! Do you mean",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 18,
+  "off": 1318,
+  "len": 26,
+  "text": "the three of us will merge",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 19,
+  "off": 1346,
+  "len": 10,
+  "text": "with Koru?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 20,
+  "off": 1377,
+  "len": 24,
+  "text": "Gi Delilas: Correct! Lu,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 21,
+  "off": 1403,
+  "len": 29,
+  "text": "is life that precious to you?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 22,
+  "off": 1495,
+  "len": 32,
+  "text": "Lu Delilas: N-No! Of course not!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 23,
+  "off": 1649,
+  "len": 30,
+  "text": "Che Delilas: Har, har, har! In",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 24,
+  "off": 1681,
+  "len": 31,
+  "text": "doing so we lay waste to all of",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 25,
+  "off": 1714,
+  "len": 19,
+  "text": "Karisto! I like it!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 26,
+  "off": 1783,
+  "len": 35,
+  "text": "Gi Delilas: Listen! We must use our",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 27,
+  "off": 1820,
+  "len": 33,
+  "text": "remaining strength! Those Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 28,
+  "off": 1855,
+  "len": 33,
+  "text": "will wish they'd never been born!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 29,
+  "off": 1957,
+  "len": 15,
+  "text": "Lu Delilas: Uh!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 30,
+  "off": 1974,
+  "len": 19,
+  "text": "Che Delilas: Arrgh!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 31,
+  "off": 2375,
+  "len": 30,
+  "text": "Make us one with your life... ",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 32,
+  "off": 2407,
+  "len": 14,
+  "text": "and your fate!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 33,
+  "off": 3503,
+  "len": 23,
+  "text": "The light is so bright!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 34,
+  "off": 3528,
+  "len": 17,
+  "text": "What's going on?!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 35,
+  "off": 3631,
+  "len": 25,
+  "text": "{NAME:02}: Such a strange light!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 36,
+  "off": 3721,
+  "len": 29,
+  "text": "Look! It's Koru! The light is",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 37,
+  "off": 3752,
+  "len": 17,
+  "text": "coming from Koru!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 38,
+  "off": 3917,
+  "len": 28,
+  "text": "{NAME:01}: Huh? But we blew Koru up",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 39,
+  "off": 3947,
+  "len": 25,
+  "text": "with the TimeSpace Bombs!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 40,
+  "off": 4048,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: It seems the Delilases",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 41,
+  "off": 4080,
+  "len": 26,
+  "text": "have merged with that Seru",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 42,
+  "off": 4108,
+  "len": 34,
+  "text": "and commanded it to self-destruct!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 43,
+  "off": 4269,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: If Koru blows up,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 44,
+  "off": 4296,
+  "len": 31,
+  "text": "everything between here and Sol",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 45,
+  "off": 4329,
+  "len": 18,
+  "text": "will be vaporized!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 46,
+  "off": 4490,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 47,
+  "off": 4575,
+  "len": 28,
+  "text": "{NAME:02}: How could this happen...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 48,
+  "off": 4606,
+  "len": 20,
+  "text": "{NAME:02}: Ozma, how can we",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 49,
+  "off": 4628,
+  "len": 10,
+  "text": "stop them?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 50,
+  "off": 4698,
+  "len": 25,
+  "text": "{PAL:5}{M7:02}{PAL:7}: I don't know, but",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 51,
+  "off": 4725,
+  "len": 26,
+  "text": "since they are controlling",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 52,
+  "off": 4753,
+  "len": 34,
+  "text": "Koru, perhaps if we defeat them...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 53,
+  "off": 4900,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Whatever we do, we'd",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 89,
+  "run": 54,
+  "off": 4930,
+  "len": 21,
+  "text": "better do it quickly!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 92,
+  "run": 0,
+  "off": 143,
+  "len": 33,
+  "text": "way to get through is to get that",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 92,
+  "run": 1,
+  "off": 178,
+  "len": 35,
+  "text": "ball of snow up there to fall over.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 98,
+  "run": 0,
+  "off": 66,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: We have to jump down to",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 98,
+  "run": 1,
+  "off": 99,
+  "len": 29,
+  "text": "where Koru is! Are you ready!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 98,
+  "run": 2,
+  "off": 135,
+  "len": 18,
+  "text": "Now wait a second!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 98,
+  "run": 3,
+  "off": 155,
+  "len": 22,
+  "text": "I'm ready! Let's jump!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 0,
+  "off": 233,
+  "len": 19,
+  "text": "{NAME:02}: Delilas Family!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 1,
+  "off": 254,
+  "len": 26,
+  "text": "Don't be stupid! Stop what",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 2,
+  "off": 282,
+  "len": 13,
+  "text": "you're doing!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 3,
+  "off": 340,
+  "len": 27,
+  "text": "{NAME:01}: Yeah! If Koru blows up,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 4,
+  "off": 369,
+  "len": 23,
+  "text": "you guys will die, too!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 5,
+  "off": 540,
+  "len": 23,
+  "text": "Gi Delilas: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 6,
+  "off": 565,
+  "len": 30,
+  "text": "We are all prepared for death!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 7,
+  "off": 694,
+  "len": 28,
+  "text": "Che Delilas: Once Karisto is",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 8,
+  "off": 724,
+  "len": 31,
+  "text": "flattened, Lord Zora will build",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 9,
+  "off": 757,
+  "len": 30,
+  "text": "the kingdom of the Mist there!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 10,
+  "off": 858,
+  "len": 32,
+  "text": "Lu Delilas: If you want to fight",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 11,
+  "off": 892,
+  "len": 28,
+  "text": "us, come on over. We'll play",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 12,
+  "off": 922,
+  "len": 35,
+  "text": "with you until the explosion comes.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 13,
+  "off": 1130,
+  "len": 28,
+  "text": "{NAME:02}: That suits me just fine!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 14,
+  "off": 1258,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Be careful, {NAME:02}! If we",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 15,
+  "off": 1289,
+  "len": 26,
+  "text": "don't finish them quickly,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 99,
+  "run": 16,
+  "off": 1317,
+  "len": 33,
+  "text": "we'll be caught in the explosion!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 0,
+  "off": 129,
+  "len": 21,
+  "text": "Che Delilas: H-How...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 1,
+  "off": 152,
+  "len": 22,
+  "text": "How could this happen?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 2,
+  "off": 237,
+  "len": 20,
+  "text": "Che Delilas: Arrggh!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 3,
+  "off": 449,
+  "len": 20,
+  "text": "Lu Delilas: Brother!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 4,
+  "off": 598,
+  "len": 16,
+  "text": "Lu Delilas: You!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 5,
+  "off": 652,
+  "len": 31,
+  "text": "Lu Delilas: Get over here, kid!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 6,
+  "off": 685,
+  "len": 30,
+  "text": "I'm gonna send you to the next",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 100,
+  "run": 7,
+  "off": 717,
+  "len": 6,
+  "text": "world!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 101,
+  "run": 0,
+  "off": 140,
+  "len": 30,
+  "text": "Lu Delilas: No! This can't be!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 101,
+  "run": 1,
+  "off": 172,
+  "len": 29,
+  "text": "How can I lose? I can't lose!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 101,
+  "run": 2,
+  "off": 451,
+  "len": 29,
+  "text": "Gi Delilas: I'll kill you for",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 101,
+  "run": 3,
+  "off": 482,
+  "len": 30,
+  "text": "what you did to my brother and",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 101,
+  "run": 4,
+  "off": 514,
+  "len": 7,
+  "text": "sister!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 102,
+  "run": 0,
+  "off": 106,
+  "len": 32,
+  "text": "Gi Delilas: H-How humiliating...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 103,
+  "run": 0,
+  "off": 272,
+  "len": 15,
+  "text": "{NAME:01}: We defeated",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 103,
+  "run": 1,
+  "off": 289,
+  "len": 14,
+  "text": "the Delilases!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 103,
+  "run": 2,
+  "off": 305,
+  "len": 20,
+  "text": "But what about Koru?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 103,
+  "run": 3,
+  "off": 635,
+  "len": 24,
+  "text": "{NAME:02}: Feel that warmth? It",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 103,
+  "run": 4,
+  "off": 661,
+  "len": 32,
+  "text": "must be heat escaping from Koru!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 108,
+  "run": 0,
+  "off": 75,
+  "len": 27,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Now we have to wait",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 108,
+  "run": 1,
+  "off": 104,
+  "len": 30,
+  "text": "until everyone is in position.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 109,
+  "run": 0,
+  "off": 75,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We have to wait until",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 109,
+  "run": 1,
+  "off": 106,
+  "len": 24,
+  "text": "everyone is in position.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 0,
+  "off": 281,
+  "len": 20,
+  "text": "{NAME:02}: Dr. Usha said to",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 1,
+  "off": 303,
+  "len": 30,
+  "text": "plant the first TimeSpace Bomb",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 2,
+  "off": 335,
+  "len": 5,
+  "text": "here.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 3,
+  "off": 484,
+  "len": 23,
+  "text": "{NAME:01}: Oh, goodie! Goodie!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 4,
+  "off": 509,
+  "len": 22,
+  "text": "There's gonna be a BIG",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 5,
+  "off": 533,
+  "len": 10,
+  "text": "explosion!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 6,
+  "off": 605,
+  "len": 26,
+  "text": "{NAME:02}: I'll set the TimeSpace",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 7,
+  "off": 633,
+  "len": 5,
+  "text": "Bomb.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 8,
+  "off": 666,
+  "len": 29,
+  "text": "{NAME:02}: When I press the buttons,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 9,
+  "off": 697,
+  "len": 32,
+  "text": "I'll give the signal. When I do,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 10,
+  "off": 731,
+  "len": 21,
+  "text": "run and find shelter!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 11,
+  "off": 991,
+  "len": 22,
+  "text": "{NAME:01}: {NAME:02}, it explodes in",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 12,
+  "off": 1015,
+  "len": 21,
+  "text": "three seconds, right?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 13,
+  "off": 1099,
+  "len": 17,
+  "text": "{NAME:02}: That's right.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 14,
+  "off": 1388,
+  "len": 27,
+  "text": "{NAME:01}: In three seconds Nivora",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 15,
+  "off": 1417,
+  "len": 25,
+  "text": "will change! In one, two,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 16,
+  "off": 1444,
+  "len": 6,
+  "text": "three!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 17,
+  "off": 1989,
+  "len": 29,
+  "text": "{NAME:02}: First, connect the wires.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 18,
+  "off": 2020,
+  "len": 20,
+  "text": "Then go like this...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 19,
+  "off": 2186,
+  "len": 12,
+  "text": "{NAME:02}: All set!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 20,
+  "off": 2234,
+  "len": 22,
+  "text": "{NAME:02}: Alright! I pressed",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 21,
+  "off": 2258,
+  "len": 16,
+  "text": "the switch. Run!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 22,
+  "off": 2536,
+  "len": 8,
+  "text": "{NAME:01}: One!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 23,
+  "off": 2694,
+  "len": 8,
+  "text": "{NAME:01}: Two!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 24,
+  "off": 3073,
+  "len": 10,
+  "text": "{NAME:01}: Ugh...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 25,
+  "off": 3304,
+  "len": 23,
+  "text": "{NAME:01}: Dr. Usha, you liar!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 26,
+  "off": 3330,
+  "len": 20,
+  "text": "{NAME:01}: I counted right!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 27,
+  "off": 3566,
+  "len": 24,
+  "text": "{NAME:01}: I counted one-two...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 28,
+  "off": 3661,
+  "len": 21,
+  "text": "{NAME:02}: Was it defective?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 29,
+  "off": 3684,
+  "len": 27,
+  "text": "Why did it explode so soon?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 30,
+  "off": 3729,
+  "len": 24,
+  "text": "{NAME:02}: Is everyone alright?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 31,
+  "off": 3895,
+  "len": 29,
+  "text": "{NAME:02}: Well, there are no doubts",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 32,
+  "off": 3926,
+  "len": 26,
+  "text": "about the TimeSpace Bomb's",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 33,
+  "off": 3954,
+  "len": 28,
+  "text": "power. Look at the entrance!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 34,
+  "off": 4191,
+  "len": 23,
+  "text": "{NAME:01}: Wow! That TimeSpace",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 35,
+  "off": 4216,
+  "len": 27,
+  "text": "Bomb is so powerful! But...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 36,
+  "off": 4351,
+  "len": 28,
+  "text": "{NAME:01}: if the TimeSpace Bomb is",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 37,
+  "off": 4381,
+  "len": 35,
+  "text": "so powerful, why didn't they use it",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 38,
+  "off": 4418,
+  "len": 28,
+  "text": "on the Genesis Tree in Buma?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 39,
+  "off": 4521,
+  "len": 24,
+  "text": "{NAME:01}: Then they could have",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 40,
+  "off": 4547,
+  "len": 21,
+  "text": "melted the ice on the",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 41,
+  "off": 4570,
+  "len": 24,
+  "text": "Genesis Tree right away.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 42,
+  "off": 4654,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: No, no, you can't do",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 43,
+  "off": 4684,
+  "len": 21,
+  "text": "that! Now listen, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 44,
+  "off": 4708,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: A powerful bomb like that",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 45,
+  "off": 4743,
+  "len": 30,
+  "text": "would destroy the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 46,
+  "off": 4775,
+  "len": 31,
+  "text": "-- and Buma and everyone there!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 47,
+  "off": 4975,
+  "len": 9,
+  "text": "{NAME:01}: Oh...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 48,
+  "off": 4986,
+  "len": 26,
+  "text": "I guess the TimeSpace Bomb",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 110,
+  "run": 49,
+  "off": 5014,
+  "len": 18,
+  "text": "is too powerful...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 0,
+  "off": 461,
+  "len": 21,
+  "text": "Careful! If you slip,",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 1,
+  "off": 484,
+  "len": 32,
+  "text": "you'll fall right into the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 2,
+  "off": 552,
+  "len": 9,
+  "text": "Aaahhh...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 3,
+  "off": 636,
+  "len": 33,
+  "text": "Luctes: Now that the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 4,
+  "off": 671,
+  "len": 30,
+  "text": "of Sol is revived and the Mist",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 5,
+  "off": 703,
+  "len": 17,
+  "text": "around it gone...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 6,
+  "off": 855,
+  "len": 28,
+  "text": "This is our chance to charge",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 7,
+  "off": 885,
+  "len": 20,
+  "text": "the Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 8,
+  "off": 956,
+  "len": 15,
+  "text": "Don't be hasty!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 9,
+  "off": 973,
+  "len": 17,
+  "text": "Zora is powerful!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 10,
+  "off": 996,
+  "len": 14,
+  "text": "Luctes: Quiet!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 11,
+  "off": 1012,
+  "len": 17,
+  "text": "Someone's coming!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 12,
+  "off": 1272,
+  "len": 26,
+  "text": "Over here! There's no Mist",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 13,
+  "off": 1300,
+  "len": 10,
+  "text": "over here!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 14,
+  "off": 2310,
+  "len": 26,
+  "text": "{NAME:02}: Ah, the summit. So not",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 15,
+  "off": 2338,
+  "len": 25,
+  "text": "even the Mist can make it",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 16,
+  "off": 2365,
+  "len": 21,
+  "text": "to this great height.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 17,
+  "off": 2606,
+  "len": 13,
+  "text": "{NAME:01}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 18,
+  "off": 2643,
+  "len": 21,
+  "text": "{NAME:02}: What's wrong, {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 19,
+  "off": 2730,
+  "len": 21,
+  "text": "{NAME:01}: That's strange...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 20,
+  "off": 2753,
+  "len": 23,
+  "text": "I thought I saw someone",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 21,
+  "off": 2778,
+  "len": 9,
+  "text": "nearby...",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 22,
+  "off": 2886,
+  "len": 23,
+  "text": "{NAME:02}: I don't see anyone.",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 23,
+  "off": 3001,
+  "len": 15,
+  "text": "{NAME:01}: Never mind!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 111,
+  "run": 24,
+  "off": 3027,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 120,
+  "run": 0,
+  "off": 59,
+  "len": 29,
+  "text": "A strange crest on the ground",
+  "ko": ""
+ },
+ {
+  "map": 640,
+  "script": 120,
+  "run": 1,
+  "off": 90,
+  "len": 15,
+  "text": "began to shine!",
+  "ko": ""
+ }
+]

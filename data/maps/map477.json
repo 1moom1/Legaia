@@ -1,0 +1,1352 @@
+[
+ {
+  "map": 477,
+  "script": 39,
+  "run": 0,
+  "off": 62,
+  "len": 24,
+  "text": "{NAME:02} must be the strongest",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 1,
+  "off": 88,
+  "len": 16,
+  "text": "in all of Biron!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 2,
+  "off": 110,
+  "len": 33,
+  "text": "He has to be! Songi can train all",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 3,
+  "off": 145,
+  "len": 34,
+  "text": "he wants, but he could never match",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 4,
+  "off": 181,
+  "len": 24,
+  "text": "{NAME:02}'s spiritual strength!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 5,
+  "off": 211,
+  "len": 8,
+  "text": "Silence!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 6,
+  "off": 221,
+  "len": 17,
+  "text": "It's Master Zopu!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 7,
+  "off": 480,
+  "len": 29,
+  "text": "Zopu: Eight years have passed",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 8,
+  "off": 511,
+  "len": 33,
+  "text": "since the Mist covered the earth!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 9,
+  "off": 546,
+  "len": 33,
+  "text": "These are difficult times, but...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 10,
+  "off": 582,
+  "len": 30,
+  "text": "Zopu: I am pleased at how hard",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 11,
+  "off": 614,
+  "len": 32,
+  "text": "each of you is devoting yourself",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 12,
+  "off": 648,
+  "len": 17,
+  "text": "to your training.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 13,
+  "off": 691,
+  "len": 27,
+  "text": "Zopu: Now, as you all know,",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 14,
+  "off": 720,
+  "len": 19,
+  "text": "tomorrow is Biron's",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 15,
+  "off": 741,
+  "len": 24,
+  "text": "Transmigration Festival.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 16,
+  "off": 768,
+  "len": 29,
+  "text": "Zopu: As always, we will hold",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 17,
+  "off": 799,
+  "len": 22,
+  "text": "the ritual tournament.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 18,
+  "off": 847,
+  "len": 9,
+  "text": "Zopu: {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 19,
+  "off": 859,
+  "len": 21,
+  "text": "{NAME:02}: Yes, Master Zopu!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 20,
+  "off": 927,
+  "len": 12,
+  "text": "Zopu: Songi!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 21,
+  "off": 942,
+  "len": 24,
+  "text": "Songi: Yes, Master Zopu!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 22,
+  "off": 1013,
+  "len": 24,
+  "text": "Zopu: As monks of Biron,",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 23,
+  "off": 1039,
+  "len": 33,
+  "text": "there are things expected of you.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 24,
+  "off": 1075,
+  "len": 30,
+  "text": "Zopu: You must fight with all ",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 25,
+  "off": 1107,
+  "len": 29,
+  "text": "your skills in order to make ",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 26,
+  "off": 1138,
+  "len": 29,
+  "text": "this a chivalrous tournament.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 27,
+  "off": 1257,
+  "len": 16,
+  "text": "Songi: Yes, sir!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 28,
+  "off": 1302,
+  "len": 29,
+  "text": "Zopu: That is enough training",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 29,
+  "off": 1333,
+  "len": 29,
+  "text": "for today. Time to begin your",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 30,
+  "off": 1364,
+  "len": 17,
+  "text": "individual tasks!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 31,
+  "off": 2037,
+  "len": 15,
+  "text": "Songi: Hey, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 32,
+  "off": 2054,
+  "len": 25,
+  "text": "That ritual tournament is",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 33,
+  "off": 2081,
+  "len": 16,
+  "text": "such a drag, eh?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 34,
+  "off": 2139,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 35,
+  "off": 2217,
+  "len": 29,
+  "text": "Songi: Hey, I don't like that",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 36,
+  "off": 2248,
+  "len": 18,
+  "text": "look in your eyes!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 37,
+  "off": 2367,
+  "len": 26,
+  "text": "Songi: {NAME:02}! I bet you think",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 38,
+  "off": 2395,
+  "len": 31,
+  "text": "you're going to win, don't you?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 39,
+  "off": 2471,
+  "len": 12,
+  "text": "{NAME:02}: No, I...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 40,
+  "off": 2495,
+  "len": 24,
+  "text": "Songi: To hell with you!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 41,
+  "off": 2521,
+  "len": 29,
+  "text": "I'm not stupid! I can tell by",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 42,
+  "off": 2552,
+  "len": 23,
+  "text": "that look in your eyes!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 43,
+  "off": 2593,
+  "len": 12,
+  "text": "Songi: Hmmf.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 44,
+  "off": 2623,
+  "len": 21,
+  "text": "Songi: Ah, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 45,
+  "off": 2646,
+  "len": 27,
+  "text": "Let's just have ourselves a",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 46,
+  "off": 2675,
+  "len": 28,
+  "text": "good time tomorrow, alright?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 47,
+  "off": 2709,
+  "len": 18,
+  "text": "Songi: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 48,
+  "off": 3047,
+  "len": 20,
+  "text": "But, Songi! Tomorrow",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 49,
+  "off": 3069,
+  "len": 18,
+  "text": "is the tournament!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 50,
+  "off": 3090,
+  "len": 29,
+  "text": "If you take Jigul grass, your",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 51,
+  "off": 3121,
+  "len": 31,
+  "text": "body will go numb and you won't",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 52,
+  "off": 3154,
+  "len": 17,
+  "text": "be able to fight!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 53,
+  "off": 3184,
+  "len": 30,
+  "text": "Songi: Mind your own business!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 54,
+  "off": 3216,
+  "len": 26,
+  "text": "I can't take this headache",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 55,
+  "off": 3244,
+  "len": 8,
+  "text": "anymore!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 56,
+  "off": 3255,
+  "len": 30,
+  "text": "Songi: Besides, everyone knows",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 57,
+  "off": 3287,
+  "len": 34,
+  "text": "that Jigul grass is the best thing",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 58,
+  "off": 3323,
+  "len": 15,
+  "text": "for a headache.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 59,
+  "off": 3387,
+  "len": 31,
+  "text": "Songi: So quit yapping and just",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 60,
+  "off": 3420,
+  "len": 28,
+  "text": "give me the Jigul grass now!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 61,
+  "off": 3454,
+  "len": 27,
+  "text": "Alright, but don't blame me",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 62,
+  "off": 3483,
+  "len": 19,
+  "text": "if things go wrong.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 63,
+  "off": 3738,
+  "len": 25,
+  "text": "Songi, do you want water?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 64,
+  "off": 3797,
+  "len": 33,
+  "text": "Songi: No! I'm going to take this",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 65,
+  "off": 3832,
+  "len": 27,
+  "text": "after I go back to my room.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 66,
+  "off": 4202,
+  "len": 14,
+  "text": "Songi: Oh, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 67,
+  "off": 4218,
+  "len": 31,
+  "text": "This is so embarrassing, but...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 68,
+  "off": 4252,
+  "len": 24,
+  "text": "Songi: I was afraid that",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 69,
+  "off": 4278,
+  "len": 30,
+  "text": "you'd beat me tomorrow, and...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 70,
+  "off": 4311,
+  "len": 30,
+  "text": "Songi: I knew I shouldn't, but",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 71,
+  "off": 4343,
+  "len": 29,
+  "text": "I took Fury Boosts to help me",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 72,
+  "off": 4374,
+  "len": 22,
+  "text": "fight better tomorrow!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 73,
+  "off": 4516,
+  "len": 34,
+  "text": "Songi: But as soon as I took them,",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 74,
+  "off": 4552,
+  "len": 25,
+  "text": "I started feeling guilty!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 75,
+  "off": 4579,
+  "len": 21,
+  "text": "I felt self-loathing.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 76,
+  "off": 4639,
+  "len": 24,
+  "text": "Songi: So here! You take",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 77,
+  "off": 4665,
+  "len": 18,
+  "text": "a Fury Boost, too!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 78,
+  "off": 4712,
+  "len": 12,
+  "text": "{NAME:02}: But why?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 79,
+  "off": 4753,
+  "len": 31,
+  "text": "Songi: This is a contest, so we",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 80,
+  "off": 4786,
+  "len": 27,
+  "text": "gotta be fair, right? And I",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 81,
+  "off": 4815,
+  "len": 29,
+  "text": "want this to be a fair fight!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 82,
+  "off": 4847,
+  "len": 28,
+  "text": "Songi: So go ahead, take it!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 83,
+  "off": 4881,
+  "len": 25,
+  "text": "{NAME:02}: Well, I don't know...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 84,
+  "off": 4909,
+  "len": 24,
+  "text": "{NAME:02}: Alright! I'll do it!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 85,
+  "off": 5050,
+  "len": 28,
+  "text": "Songi: Pretty good! You just",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 86,
+  "off": 5080,
+  "len": 23,
+  "text": "gulped that right down!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 87,
+  "off": 5105,
+  "len": 9,
+  "text": "Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 88,
+  "off": 5117,
+  "len": 22,
+  "text": "Songi: O.K., let's go!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 89,
+  "off": 5381,
+  "len": 16,
+  "text": "Zopu: {NAME:02}! Songi!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 90,
+  "off": 5399,
+  "len": 14,
+  "text": "Are you ready?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 91,
+  "off": 5503,
+  "len": 28,
+  "text": "Zopu: In praise of the great",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 92,
+  "off": 5533,
+  "len": 34,
+  "text": "benevolence and miracles of Biron,",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 93,
+  "off": 5569,
+  "len": 31,
+  "text": "we hold this ritual tournament!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 94,
+  "off": 5701,
+  "len": 31,
+  "text": "Zopu: Let the tournament begin!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 95,
+  "off": 5761,
+  "len": 29,
+  "text": "Songi: What's the matter, {NAME:02}?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 96,
+  "off": 5792,
+  "len": 25,
+  "text": "Are you scared? Fight me!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 97,
+  "off": 5823,
+  "len": 9,
+  "text": "{NAME:02}: Uh...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 98,
+  "off": 5888,
+  "len": 19,
+  "text": "Songi: Come on, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 99,
+  "off": 6131,
+  "len": 33,
+  "text": "It only took a matter of seconds!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 100,
+  "off": 6193,
+  "len": 8,
+  "text": "{NAME:02} lost!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 101,
+  "off": 6230,
+  "len": 19,
+  "text": "I don't believe it!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 102,
+  "off": 6309,
+  "len": 18,
+  "text": "Songi: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 103,
+  "off": 6329,
+  "len": 24,
+  "text": "That's right! I beat {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 104,
+  "off": 6355,
+  "len": 17,
+  "text": "Me, Songi! I win!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 105,
+  "off": 6543,
+  "len": 18,
+  "text": "Songi! You made {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 106,
+  "off": 6563,
+  "len": 21,
+  "text": "take the Jigul grass,",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 107,
+  "off": 6586,
+  "len": 11,
+  "text": "didn't you!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 108,
+  "off": 6610,
+  "len": 20,
+  "text": "Songi: Aw, be quiet!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 109,
+  "off": 6632,
+  "len": 31,
+  "text": "How should I know what medicine",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 110,
+  "off": 6665,
+  "len": 17,
+  "text": "he takes, anyway?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 111,
+  "off": 6694,
+  "len": 18,
+  "text": "Stop playing dumb!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 112,
+  "off": 6714,
+  "len": 20,
+  "text": "You may think you've",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 113,
+  "off": 6736,
+  "len": 13,
+  "text": "tricked {NAME:02}...",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 114,
+  "off": 6775,
+  "len": 12,
+  "text": "But he knew!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 115,
+  "off": 6789,
+  "len": 18,
+  "text": "He knew all along!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 116,
+  "off": 6813,
+  "len": 12,
+  "text": "Songi: What?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 117,
+  "off": 6854,
+  "len": 27,
+  "text": "I told him! I told him that",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 118,
+  "off": 6883,
+  "len": 27,
+  "text": "I gave you the Jigul grass.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 119,
+  "off": 6913,
+  "len": 28,
+  "text": "And I warned him not to take",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 120,
+  "off": 6943,
+  "len": 26,
+  "text": "any medicine you gave him!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 121,
+  "off": 6984,
+  "len": 8,
+  "text": "Songi: !",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 122,
+  "off": 6998,
+  "len": 25,
+  "text": "But {NAME:02} just laughed. \"Oh,",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 123,
+  "off": 7025,
+  "len": 23,
+  "text": "Songi's my best friend.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 124,
+  "off": 7050,
+  "len": 22,
+  "text": "Don't worry!\" he said.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 125,
+  "off": 7187,
+  "len": 10,
+  "text": "Songi: {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 126,
+  "off": 7274,
+  "len": 14,
+  "text": "Songi: Darnit!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 127,
+  "off": 7290,
+  "len": 31,
+  "text": "He's sleeping! He's still numb!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 128,
+  "off": 7334,
+  "len": 27,
+  "text": "Songi: {NAME:02}, you think you're",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 129,
+  "off": 7363,
+  "len": 32,
+  "text": "clever, don't you? You think you",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 130,
+  "off": 7397,
+  "len": 31,
+  "text": "let me win! You're so arrogant!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 131,
+  "off": 7431,
+  "len": 30,
+  "text": "Songi: You think it's funny to",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 132,
+  "off": 7463,
+  "len": 28,
+  "text": "make a fool of me like that?",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 133,
+  "off": 7494,
+  "len": 24,
+  "text": "Songi: Some best friend!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 134,
+  "off": 7520,
+  "len": 14,
+  "text": "You hypocrite!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 135,
+  "off": 7560,
+  "len": 33,
+  "text": "Songi: You'll never get away with",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 136,
+  "off": 7595,
+  "len": 15,
+  "text": "this -- Never!!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 137,
+  "off": 7632,
+  "len": 22,
+  "text": "Songi: I'll crush you!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 138,
+  "off": 7656,
+  "len": 28,
+  "text": "{NAME:02}, I'll beat you to a pulp!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 139,
+  "off": 7886,
+  "len": 18,
+  "text": "You did your best.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 140,
+  "off": 7906,
+  "len": 34,
+  "text": "You have nothing to be ashamed of.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 141,
+  "off": 7942,
+  "len": 32,
+  "text": "After all, even when unavoidable",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 142,
+  "off": 7976,
+  "len": 35,
+  "text": "misfortune occurs, it is the spirit",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 143,
+  "off": 8013,
+  "len": 24,
+  "text": "that remains in the end.",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 144,
+  "off": 8039,
+  "len": 32,
+  "text": "So be proud of yourself! And use",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 145,
+  "off": 8073,
+  "len": 31,
+  "text": "that pride to create happiness!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 146,
+  "off": 8106,
+  "len": 34,
+  "text": "That is what it means to be human!",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 147,
+  "off": 8142,
+  "len": 31,
+  "text": "For humans are those who create",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 148,
+  "off": 8175,
+  "len": 30,
+  "text": "their own happiness with their",
+  "ko": ""
+ },
+ {
+  "map": 477,
+  "script": 39,
+  "run": 149,
+  "off": 8207,
+  "len": 6,
+  "text": "pride.",
+  "ko": ""
+ }
+]

@@ -1,0 +1,2018 @@
+[
+ {
+  "map": 97,
+  "script": 6,
+  "run": 0,
+  "off": 13,
+  "len": 24,
+  "text": "Hey, save your strength!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 25,
+  "run": 0,
+  "off": 18,
+  "len": 14,
+  "text": "I am Flag Man!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 25,
+  "run": 1,
+  "off": 43,
+  "len": 4,
+  "text": "Next",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 25,
+  "run": 2,
+  "off": 49,
+  "len": 15,
+  "text": "Clear all flags",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 25,
+  "run": 3,
+  "off": 66,
+  "len": 14,
+  "text": "Goodbye, Songi",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 25,
+  "run": 4,
+  "off": 82,
+  "len": 13,
+  "text": "Goodbye, Zeto",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 27,
+  "run": 0,
+  "off": 24,
+  "len": 19,
+  "text": "{NAME:01}: I'm so excited!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 27,
+  "run": 1,
+  "off": 48,
+  "len": 14,
+  "text": "{NAME:01}: That {NAME:02}...",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 27,
+  "run": 2,
+  "off": 64,
+  "len": 18,
+  "text": "he's so depressed.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 28,
+  "run": 0,
+  "off": 24,
+  "len": 30,
+  "text": "{NAME:02}: It's still hard to believe",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 28,
+  "run": 1,
+  "off": 56,
+  "len": 32,
+  "text": "that this tree has the powers to",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 28,
+  "run": 2,
+  "off": 90,
+  "len": 20,
+  "text": "drive away the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 28,
+  "run": 3,
+  "off": 115,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 37,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 37,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 37,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 37,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 37,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 38,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:95}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 38,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 38,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 38,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:95}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 38,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 39,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 39,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 39,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 39,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:77}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 39,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 40,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:81}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 40,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 40,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 40,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 40,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 41,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 41,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 41,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 41,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 41,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 42,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8C}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 42,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 42,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 42,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8C}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 42,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 43,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 43,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 43,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 43,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 43,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 44,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:7F}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 44,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 44,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 44,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:7F}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 44,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 45,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:24}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 45,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 45,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 45,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:24}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 45,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 46,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 46,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 46,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 46,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 46,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 47,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 47,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 47,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 47,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 47,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 48,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:DF}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 48,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 48,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 48,
+  "run": 3,
+  "off": 128,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 49,
+  "run": 0,
+  "off": 10,
+  "len": 7,
+  "text": "]%1<15>LP<F4>",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 49,
+  "run": 1,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:88}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 49,
+  "run": 2,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 49,
+  "run": 3,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 49,
+  "run": 4,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:88}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 49,
+  "run": 5,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 50,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:E0}",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 50,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 50,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 50,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:E0}!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 50,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 0,
+  "off": 322,
+  "len": 21,
+  "text": "Look at all the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 1,
+  "off": 345,
+  "len": 28,
+  "text": "It's coming from over there!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 2,
+  "off": 442,
+  "len": 22,
+  "text": "{NAME:02}: It's a smokestack!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 3,
+  "off": 466,
+  "len": 25,
+  "text": "Thick Mist is pouring out",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 4,
+  "off": 493,
+  "len": 21,
+  "text": "from that smokestack!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 5,
+  "off": 625,
+  "len": 26,
+  "text": "{PAL:5}{M7:02}{PAL:7}: That is where the ",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 6,
+  "off": 653,
+  "len": 24,
+  "text": "Mist that engulfed Drake",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 7,
+  "off": 679,
+  "len": 19,
+  "text": "Kingdom comes from!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 8,
+  "off": 873,
+  "len": 23,
+  "text": "This castle has caverns",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 9,
+  "off": 898,
+  "len": 17,
+  "text": "deep underground.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 10,
+  "off": 918,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Deep inside them is a Mist",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 11,
+  "off": 954,
+  "len": 32,
+  "text": "Generator! That's where the Mist",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 12,
+  "off": 988,
+  "len": 15,
+  "text": "is coming from!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 13,
+  "off": 1230,
+  "len": 20,
+  "text": "{NAME:01}: I'll destroy the",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 14,
+  "off": 1252,
+  "len": 25,
+  "text": "Mist Generator! I want to",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 15,
+  "off": 1279,
+  "len": 24,
+  "text": "get rid of all the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 16,
+  "off": 1363,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You're a good girl.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 17,
+  "off": 1392,
+  "len": 28,
+  "text": "That's right, {NAME:01}. We have to",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 18,
+  "off": 1422,
+  "len": 27,
+  "text": "destroy the Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 19,
+  "off": 1604,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: Once we reach the Mist ",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 20,
+  "off": 1637,
+  "len": 32,
+  "text": "Generator, we can stop the Mist ",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 21,
+  "off": 1671,
+  "len": 24,
+  "text": "with our Ra-Seru powers.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 22,
+  "off": 1698,
+  "len": 37,
+  "text": "{PAL:9}{M7}{PAL:7}: But this is a vital castle to",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 23,
+  "off": 1737,
+  "len": 30,
+  "text": "the enemy, and will be heavily",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 61,
+  "run": 24,
+  "off": 1769,
+  "len": 31,
+  "text": "defended. Proceed with caution!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 0,
+  "off": 31,
+  "len": 18,
+  "text": "Songi: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 1,
+  "off": 51,
+  "len": 29,
+  "text": "Here comes the army of idiots",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 2,
+  "off": 82,
+  "len": 16,
+  "text": "to save the day!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 3,
+  "off": 225,
+  "len": 28,
+  "text": "Songi: What courage! Perhaps",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 4,
+  "off": 255,
+  "len": 25,
+  "text": "idiots do not fear death!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 5,
+  "off": 282,
+  "len": 16,
+  "text": "Oh, what comedy!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 6,
+  "off": 773,
+  "len": 11,
+  "text": "Step aside.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 7,
+  "off": 786,
+  "len": 18,
+  "text": "Leave Songi to me.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 8,
+  "off": 889,
+  "len": 24,
+  "text": "Songi: {NAME:02}! How forgetful",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 9,
+  "off": 915,
+  "len": 29,
+  "text": "you are! It is I who defeated",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 10,
+  "off": 946,
+  "len": 16,
+  "text": "you once before!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 11,
+  "off": 965,
+  "len": 30,
+  "text": "Songi: Have you forgotten how ",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 12,
+  "off": 997,
+  "len": 28,
+  "text": "much stronger than you I am?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 13,
+  "off": 1097,
+  "len": 27,
+  "text": "Songi: You must be suicidal",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 14,
+  "off": 1126,
+  "len": 30,
+  "text": "to fight someone as skilled as",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 15,
+  "off": 1158,
+  "len": 26,
+  "text": "I am in the fighting arts.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 16,
+  "off": 1187,
+  "len": 23,
+  "text": "Songi: Oh, how pitiful!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 17,
+  "off": 1212,
+  "len": 22,
+  "text": "Your extreme stupidity",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 18,
+  "off": 1236,
+  "len": 24,
+  "text": "brings tears to my eyes!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 19,
+  "off": 1362,
+  "len": 21,
+  "text": "Songi: Well, come on!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 20,
+  "off": 1385,
+  "len": 24,
+  "text": "I'll finish you quickly,",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 62,
+  "run": 21,
+  "off": 1411,
+  "len": 23,
+  "text": "so you'll feel no pain.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 0,
+  "off": 330,
+  "len": 13,
+  "text": "{NAME:01}: Oh my...!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 1,
+  "off": 469,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Mist Generator is",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 2,
+  "off": 500,
+  "len": 31,
+  "text": "a machine that creates Mist and",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 3,
+  "off": 533,
+  "len": 34,
+  "text": "a product of humans' evil desires.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 4,
+  "off": 599,
+  "len": 25,
+  "text": "{NAME:02}: Can we really destroy",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 5,
+  "off": 626,
+  "len": 19,
+  "text": "something that big?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 6,
+  "off": 705,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: With our faith, Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 7,
+  "off": 738,
+  "len": 27,
+  "text": "and humans can destroy this",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 8,
+  "off": 767,
+  "len": 17,
+  "text": "machine together!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 9,
+  "off": 900,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: This machine does",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 10,
+  "off": 927,
+  "len": 20,
+  "text": "not belong on earth!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 11,
+  "off": 949,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 12,
+  "off": 1367,
+  "len": 28,
+  "text": "Zeto: The Mist is salvation.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 13,
+  "off": 1397,
+  "len": 20,
+  "text": "The Mist is eternal.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 14,
+  "off": 1419,
+  "len": 28,
+  "text": "The Mist is perfect harmony.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 15,
+  "off": 1450,
+  "len": 34,
+  "text": "Zeto: You should have accepted the",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 16,
+  "off": 1486,
+  "len": 29,
+  "text": "Mist obediently. Instead, you",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 17,
+  "off": 1517,
+  "len": 20,
+  "text": "resist so foolishly.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 18,
+  "off": 1567,
+  "len": 30,
+  "text": "Zeto: I, Zeto, will now put an",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 19,
+  "off": 1599,
+  "len": 30,
+  "text": "end to your futile resistance!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 20,
+  "off": 1722,
+  "len": 26,
+  "text": "{NAME:01}: I know you. You're the",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 21,
+  "off": 1750,
+  "len": 22,
+  "text": "one who bothered me at",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 22,
+  "off": 1774,
+  "len": 12,
+  "text": "Mt. Rikuroa!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 23,
+  "off": 1849,
+  "len": 26,
+  "text": "{NAME:01}: You did those horrible",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 24,
+  "off": 1877,
+  "len": 25,
+  "text": "things to Terra the wolf!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 25,
+  "off": 2052,
+  "len": 13,
+  "text": "{NAME:01}: I... I...",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 63,
+  "run": 26,
+  "off": 2067,
+  "len": 18,
+  "text": "I'll make you pay!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 0,
+  "off": 108,
+  "len": 26,
+  "text": "Songi: I don't believe it!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 1,
+  "off": 136,
+  "len": 27,
+  "text": "That Seru has made you much",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 2,
+  "off": 165,
+  "len": 21,
+  "text": "stronger than before!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 3,
+  "off": 225,
+  "len": 31,
+  "text": "Songi: I am pleased! After all,",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 4,
+  "off": 258,
+  "len": 26,
+  "text": "a weak rival is so boring.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 5,
+  "off": 314,
+  "len": 31,
+  "text": "Songi: We both use Seru -- that",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 6,
+  "off": 347,
+  "len": 32,
+  "text": "makes us comrades. So let's call",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 7,
+  "off": 381,
+  "len": 32,
+  "text": "our little meeting today a draw.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 8,
+  "off": 583,
+  "len": 28,
+  "text": "Songi: As a fellow Seru-user",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 9,
+  "off": 613,
+  "len": 27,
+  "text": "I'll tell you something you",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 10,
+  "off": 642,
+  "len": 12,
+  "text": "should know.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 11,
+  "off": 697,
+  "len": 31,
+  "text": "Songi: The lord of this castle,",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 12,
+  "off": 730,
+  "len": 31,
+  "text": "Zeto, is waiting for you all by",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 13,
+  "off": 763,
+  "len": 19,
+  "text": "the Mist Generator.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 14,
+  "off": 800,
+  "len": 19,
+  "text": "Songi: {NAME:02}, be very,",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 15,
+  "off": 821,
+  "len": 26,
+  "text": "very careful, if you value",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 16,
+  "off": 849,
+  "len": 10,
+  "text": "your life.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 17,
+  "off": 919,
+  "len": 20,
+  "text": "Songi: Don't lose to",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 18,
+  "off": 941,
+  "len": 18,
+  "text": "someone like Zeto.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 19,
+  "off": 961,
+  "len": 9,
+  "text": "Farewell!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 20,
+  "off": 1079,
+  "len": 21,
+  "text": "{NAME:02}: Just what is that",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 21,
+  "off": 1102,
+  "len": 17,
+  "text": "guy up to anyway?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 22,
+  "off": 1232,
+  "len": 21,
+  "text": "{NAME:02}: My apologies for ",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 23,
+  "off": 1255,
+  "len": 17,
+  "text": "taking so long...",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 24,
+  "off": 1334,
+  "len": 21,
+  "text": "{NAME:01}: I don't like that",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 25,
+  "off": 1357,
+  "len": 18,
+  "text": "Songi! I hate him!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 26,
+  "off": 1458,
+  "len": 23,
+  "text": "{NAME:01}: Next time he comes,",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 27,
+  "off": 1483,
+  "len": 20,
+  "text": "I'll fight him, too!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 28,
+  "off": 1605,
+  "len": 26,
+  "text": "{NAME:02}: Yes, I suspect the day",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 29,
+  "off": 1633,
+  "len": 28,
+  "text": "will soon come when we shall",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 30,
+  "off": 1663,
+  "len": 24,
+  "text": "all have to fight him...",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 31,
+  "off": 1736,
+  "len": 20,
+  "text": "{NAME:02}: Now let's hurry!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 64,
+  "run": 32,
+  "off": 1758,
+  "len": 22,
+  "text": "To the Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 0,
+  "off": 455,
+  "len": 25,
+  "text": "Zeto: How could I lose to",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 1,
+  "off": 482,
+  "len": 30,
+  "text": "humans? Is it because of those",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 2,
+  "off": 514,
+  "len": 18,
+  "text": "Ra-Seru? Urgggh...",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 3,
+  "off": 562,
+  "len": 30,
+  "text": "Zeto: Those Ra-Seru, who don't",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 4,
+  "off": 594,
+  "len": 31,
+  "text": "even know the Mist's salvation?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 5,
+  "off": 627,
+  "len": 24,
+  "text": "Forgive me, Prince Cort!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 6,
+  "off": 1162,
+  "len": 28,
+  "text": "{NAME:02}! Are you ready to destroy",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 7,
+  "off": 1192,
+  "len": 19,
+  "text": "the Mist Generator?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 8,
+  "off": 1228,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: This is to destroy all",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 9,
+  "off": 1260,
+  "len": 32,
+  "text": "Mist from the face of the earth!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 10,
+  "off": 1294,
+  "len": 14,
+  "text": "Are you ready!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 11,
+  "off": 1446,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: We must work as one!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 65,
+  "run": 12,
+  "off": 1476,
+  "len": 7,
+  "text": "Attack!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 0,
+  "off": 485,
+  "len": 28,
+  "text": "{NAME:02}: Amazing! The Ra-Seru are",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 1,
+  "off": 515,
+  "len": 31,
+  "text": "powerful enough to destroy that",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 2,
+  "off": 548,
+  "len": 21,
+  "text": "giant Mist Generator!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 3,
+  "off": 847,
+  "len": 10,
+  "text": "{NAME:01}: Terra?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 4,
+  "off": 860,
+  "len": 23,
+  "text": "{NAME:01}: Terra, are you sad?",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 5,
+  "off": 885,
+  "len": 22,
+  "text": "I can tell that you're",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 6,
+  "off": 909,
+  "len": 14,
+  "text": "crying, Terra.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 7,
+  "off": 986,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You're so kind, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 8,
+  "off": 1015,
+  "len": 25,
+  "text": "But don't worry about me.",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 9,
+  "off": 1170,
+  "len": 10,
+  "text": "{NAME:01}: But...",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 10,
+  "off": 1502,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: After all, the detestable",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 11,
+  "off": 1537,
+  "len": 34,
+  "text": "Mist that surrounded Drake Kingdom",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 12,
+  "off": 1573,
+  "len": 12,
+  "text": "is now gone!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 13,
+  "off": 1716,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But we mustn't rest yet!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 14,
+  "off": 1750,
+  "len": 34,
+  "text": "We still have to destroy those who",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 15,
+  "off": 1786,
+  "len": 32,
+  "text": "created these infernal machines!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 16,
+  "off": 1962,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: There are also people",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 17,
+  "off": 1993,
+  "len": 30,
+  "text": "in other areas still suffering",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 18,
+  "off": 2025,
+  "len": 21,
+  "text": "in the horrible Mist!",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 19,
+  "off": 2171,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Resting now is ",
+  "ko": ""
+ },
+ {
+  "map": 97,
+  "script": 66,
+  "run": 20,
+  "off": 2196,
+  "len": 22,
+  "text": "the same as giving up!",
+  "ko": ""
+ }
+]

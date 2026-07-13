@@ -1,0 +1,10586 @@
+[
+ {
+  "map": 185,
+  "script": 5,
+  "run": 0,
+  "off": 48,
+  "len": 11,
+  "text": "There is 1G",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 5,
+  "run": 1,
+  "off": 61,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 185,
+  "script": 5,
+  "run": 2,
+  "off": 84,
+  "len": 11,
+  "text": "now has 1G!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 5,
+  "run": 3,
+  "off": 101,
+  "len": 12,
+  "text": "The cupboard",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 5,
+  "run": 4,
+  "off": 115,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 6,
+  "run": 0,
+  "off": 46,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 6,
+  "run": 1,
+  "off": 61,
+  "len": 14,
+  "text": "in the drawer!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 6,
+  "run": 2,
+  "off": 78,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 6,
+  "run": 3,
+  "off": 90,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 6,
+  "run": 4,
+  "off": 103,
+  "len": 20,
+  "text": "The drawer is empty!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 0,
+  "off": 90,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 1,
+  "off": 105,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 2,
+  "off": 124,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 3,
+  "off": 136,
+  "len": 7,
+  "text": "the {ITEM:77}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 4,
+  "off": 149,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 5,
+  "off": 193,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 6,
+  "off": 208,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 7,
+  "off": 227,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 8,
+  "off": 239,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 9,
+  "off": 252,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 10,
+  "off": 296,
+  "len": 13,
+  "text": "There is a {ITEM:89}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 11,
+  "off": 311,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 12,
+  "off": 330,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 13,
+  "off": 342,
+  "len": 7,
+  "text": "the {ITEM:89}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 14,
+  "off": 355,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 15,
+  "off": 417,
+  "len": 28,
+  "text": "There are ten Healing Leaves",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 16,
+  "off": 447,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 17,
+  "off": 466,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 18,
+  "off": 478,
+  "len": 19,
+  "text": "ten Healing Leaves!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 19,
+  "off": 503,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 20,
+  "off": 547,
+  "len": 13,
+  "text": "There is a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 21,
+  "off": 562,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 22,
+  "off": 581,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 23,
+  "off": 593,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 12,
+  "run": 24,
+  "off": 606,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 185,
+  "script": 21,
+  "run": 0,
+  "off": 235,
+  "len": 4,
+  "text": "k?{t",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 22,
+  "run": 0,
+  "off": 231,
+  "len": 4,
+  "text": "k?{t",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 23,
+  "run": 0,
+  "off": 393,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.q<D5><05>",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 23,
+  "run": 1,
+  "off": 1155,
+  "len": 4,
+  "text": "k?{t",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 0,
+  "off": 78,
+  "len": 23,
+  "text": "Well, what do you know!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 1,
+  "off": 103,
+  "len": 25,
+  "text": "You're my first customers",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 2,
+  "off": 130,
+  "len": 20,
+  "text": "since the Mist came!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 3,
+  "off": 155,
+  "len": 21,
+  "text": "What's going on here?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 4,
+  "off": 178,
+  "len": 21,
+  "text": "The hot spring water ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 5,
+  "off": 201,
+  "len": 21,
+  "text": "suddenly turned cold!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 6,
+  "off": 225,
+  "len": 26,
+  "text": "The windmills are stopped.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 7,
+  "off": 253,
+  "len": 24,
+  "text": "There is nothing to keep",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 8,
+  "off": 279,
+  "len": 13,
+  "text": "the Mist out!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 9,
+  "off": 295,
+  "len": 34,
+  "text": "Some rascal must be fooling around",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 10,
+  "off": 331,
+  "len": 27,
+  "text": "with the magma underground!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 11,
+  "off": 363,
+  "len": 31,
+  "text": "The Mist is gone! We don't need",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 24,
+  "run": 12,
+  "off": 396,
+  "len": 22,
+  "text": "the windmills anymore!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 0,
+  "off": 75,
+  "len": 32,
+  "text": "Do you know why the Mist doesn't",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 1,
+  "off": 109,
+  "len": 20,
+  "text": "come into this town?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 2,
+  "off": 254,
+  "len": 14,
+  "text": "So you do, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 3,
+  "off": 273,
+  "len": 27,
+  "text": "Vidna is full of windmills.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 4,
+  "off": 302,
+  "len": 29,
+  "text": "The strong wind they generate",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 5,
+  "off": 333,
+  "len": 20,
+  "text": "blows the Mist away.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 6,
+  "off": 358,
+  "len": 31,
+  "text": "The hot spring may be cold, and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 7,
+  "off": 391,
+  "len": 31,
+  "text": "the windmills may have stopped,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 25,
+  "run": 8,
+  "off": 424,
+  "len": 31,
+  "text": "but there's no Mist! Wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 0,
+  "off": 69,
+  "len": 27,
+  "text": "You're a new face. We don't",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 1,
+  "off": 98,
+  "len": 32,
+  "text": "get many visitors from afar. So,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 2,
+  "off": 132,
+  "len": 34,
+  "text": "have you bathed in the hot spring?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 3,
+  "off": 291,
+  "len": 33,
+  "text": "Good! Before the Mist covered the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 4,
+  "off": 326,
+  "len": 32,
+  "text": "world, many travelers would come",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 5,
+  "off": 360,
+  "len": 25,
+  "text": "here to enjoy the waters.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 6,
+  "off": 390,
+  "len": 35,
+  "text": "Oh, that won't do! How can you come",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 7,
+  "off": 427,
+  "len": 24,
+  "text": "to Vidna without bathing",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 8,
+  "off": 453,
+  "len": 24,
+  "text": "in the hot springs here?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 9,
+  "off": 480,
+  "len": 30,
+  "text": "The hot springs aren't just an",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 10,
+  "off": 512,
+  "len": 30,
+  "text": "attraction. They're the town's",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 11,
+  "off": 544,
+  "len": 28,
+  "text": "lifeblood. Go bathe in them!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 12,
+  "off": 575,
+  "len": 24,
+  "text": "Bathe in the hot springs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 13,
+  "off": 601,
+  "len": 23,
+  "text": "and refresh yourselves.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 14,
+  "off": 629,
+  "len": 16,
+  "text": "Have you been to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 15,
+  "off": 647,
+  "len": 7,
+  "text": "Ratayu?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 16,
+  "off": 779,
+  "len": 30,
+  "text": "Long ago, I heard a rumor that",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 17,
+  "off": 811,
+  "len": 30,
+  "text": "their Lord Saryu had gone mad.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 18,
+  "off": 846,
+  "len": 33,
+  "text": "Really? Ratayu was also known for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 19,
+  "off": 881,
+  "len": 35,
+  "text": "its hot springs, but who knows what",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 20,
+  "off": 918,
+  "len": 25,
+  "text": "has happened to them now.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 21,
+  "off": 948,
+  "len": 33,
+  "text": "We may have lost our hot springs,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 22,
+  "off": 983,
+  "len": 31,
+  "text": "but the pride of Vidna is still",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 26,
+  "run": 23,
+  "off": 1016,
+  "len": 23,
+  "text": "the great hero, Danpas.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 0,
+  "off": 83,
+  "len": 33,
+  "text": "It's been 10 years since the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 1,
+  "off": 118,
+  "len": 30,
+  "text": "came, and the outside world is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 2,
+  "off": 150,
+  "len": 22,
+  "text": "in a horrible state...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 3,
+  "off": 175,
+  "len": 29,
+  "text": "But in peaceful Vidna, things",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 4,
+  "off": 206,
+  "len": 33,
+  "text": "are downright boring. I wonder if",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 5,
+  "off": 241,
+  "len": 31,
+  "text": "something exciting will happen.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 6,
+  "off": 279,
+  "len": 29,
+  "text": "But in peaceful Vidna, things",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 7,
+  "off": 310,
+  "len": 33,
+  "text": "are downright boring. I wonder if",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 8,
+  "off": 345,
+  "len": 31,
+  "text": "something exciting will happen.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 9,
+  "off": 379,
+  "len": 35,
+  "text": "Oh, so you want fishing tackle, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 10,
+  "off": 416,
+  "len": 29,
+  "text": "If that's what you want, I'll",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 11,
+  "off": 447,
+  "len": 15,
+  "text": "give it to you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 12,
+  "off": 465,
+  "len": 28,
+  "text": "I'm tired of fishing anyway.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 13,
+  "off": 530,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 14,
+  "off": 542,
+  "len": 23,
+  "text": "the fishing tackle set.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 15,
+  "off": 588,
+  "len": 26,
+  "text": "Now that the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 16,
+  "off": 616,
+  "len": 30,
+  "text": "the sea and the sky are clear!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 17,
+  "off": 651,
+  "len": 30,
+  "text": "Oh, you have the Camera Stone!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 18,
+  "off": 683,
+  "len": 21,
+  "text": "Take a picture of me!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 19,
+  "off": 715,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 20,
+  "off": 832,
+  "len": 6,
+  "text": "Hmmph!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 21,
+  "off": 840,
+  "len": 11,
+  "text": "Cheapskate!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 22,
+  "off": 1059,
+  "len": 25,
+  "text": "The {ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 23,
+  "off": 1086,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 27,
+  "run": 24,
+  "off": 1116,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 0,
+  "off": 75,
+  "len": 21,
+  "text": "Vidna is a nice town,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 1,
+  "off": 98,
+  "len": 27,
+  "text": "but it's not very exciting.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 2,
+  "off": 135,
+  "len": 30,
+  "text": "I became a Seru monster in the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 3,
+  "off": 167,
+  "len": 34,
+  "text": "Mist. Now that was quite exciting.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 4,
+  "off": 206,
+  "len": 16,
+  "text": "Hey, little boy.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 5,
+  "off": 224,
+  "len": 29,
+  "text": "You have a nice Camera Stone.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 6,
+  "off": 255,
+  "len": 25,
+  "text": "Will you take my picture?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 7,
+  "off": 405,
+  "len": 8,
+  "text": "Hee hee!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 8,
+  "off": 415,
+  "len": 31,
+  "text": "You're embarrassed, aren't you?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 9,
+  "off": 448,
+  "len": 9,
+  "text": "How cute!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 10,
+  "off": 677,
+  "len": 25,
+  "text": "The {ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 11,
+  "off": 704,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 28,
+  "run": 12,
+  "off": 734,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 0,
+  "off": 71,
+  "len": 19,
+  "text": "Do you know Danpas?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 1,
+  "off": 215,
+  "len": 29,
+  "text": "You do, eh? Well, he's a good",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 2,
+  "off": 246,
+  "len": 32,
+  "text": "person, but everyone thinks he's",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 3,
+  "off": 280,
+  "len": 17,
+  "text": "a little strange.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 4,
+  "off": 302,
+  "len": 10,
+  "text": "You don't?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 5,
+  "off": 314,
+  "len": 34,
+  "text": "He lives on the west edge of town.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 6,
+  "off": 350,
+  "len": 25,
+  "text": "Why don't you go see him?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 7,
+  "off": 378,
+  "len": 33,
+  "text": "He's a little strange, but no one",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 8,
+  "off": 413,
+  "len": 26,
+  "text": "else in town says anything",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 9,
+  "off": 441,
+  "len": 14,
+  "text": "normal either.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 10,
+  "off": 465,
+  "len": 19,
+  "text": "Do you know Danpas?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 11,
+  "off": 609,
+  "len": 22,
+  "text": "So, you must know that",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 12,
+  "off": 633,
+  "len": 28,
+  "text": "he's the hero who saved the ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 13,
+  "off": 663,
+  "len": 26,
+  "text": "townspeople from the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 14,
+  "off": 694,
+  "len": 31,
+  "text": "You don't? In this town, if you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 15,
+  "off": 727,
+  "len": 26,
+  "text": "don't know Danpas, you get",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 16,
+  "off": 755,
+  "len": 11,
+  "text": "laughed at!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 17,
+  "off": 771,
+  "len": 19,
+  "text": "Oh, a Camera Stone!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 18,
+  "off": 792,
+  "len": 13,
+  "text": "I like those!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 19,
+  "off": 807,
+  "len": 13,
+  "text": "Can I try it?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 20,
+  "off": 831,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 21,
+  "off": 948,
+  "len": 28,
+  "text": "So you don't want me to, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 22,
+  "off": 978,
+  "len": 15,
+  "text": "That's too bad,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 23,
+  "off": 995,
+  "len": 28,
+  "text": "'cause I take good pictures.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 24,
+  "off": 1575,
+  "len": 25,
+  "text": "The {ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 25,
+  "off": 1602,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 29,
+  "run": 26,
+  "off": 1632,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 0,
+  "off": 71,
+  "len": 27,
+  "text": "The machine room is my, um,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 1,
+  "off": 100,
+  "len": 33,
+  "text": "favorite place in the whole town.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 2,
+  "off": 136,
+  "len": 31,
+  "text": "It's really hot inside, but the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 3,
+  "off": 169,
+  "len": 32,
+  "text": "machines that move the windmills",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 4,
+  "off": 203,
+  "len": 27,
+  "text": "are there. They're so cool!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 5,
+  "off": 235,
+  "len": 23,
+  "text": "The machines that make ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 6,
+  "off": 260,
+  "len": 18,
+  "text": "the windmills move",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 30,
+  "run": 7,
+  "off": 280,
+  "len": 16,
+  "text": "stopped working.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 0,
+  "off": 69,
+  "len": 35,
+  "text": "What a troublemaker that Danpas is!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 1,
+  "off": 106,
+  "len": 33,
+  "text": "Saying strange things and scaring",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 2,
+  "off": 141,
+  "len": 9,
+  "text": "everyone.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 3,
+  "off": 155,
+  "len": 28,
+  "text": "I'm just an old hag who was ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 4,
+  "off": 185,
+  "len": 20,
+  "text": "badmouthing Danpas. ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 5,
+  "off": 207,
+  "len": 27,
+  "text": "Now I've learned my lesson!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 6,
+  "off": 237,
+  "len": 27,
+  "text": "Danpas had great foresight!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 7,
+  "off": 269,
+  "len": 25,
+  "text": "Danpas survived the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 31,
+  "run": 8,
+  "off": 296,
+  "len": 17,
+  "text": "He's a great man!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 0,
+  "off": 81,
+  "len": 27,
+  "text": "They say that the Seru turn",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 1,
+  "off": 110,
+  "len": 25,
+  "text": "savage and possess people",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 2,
+  "off": 137,
+  "len": 25,
+  "text": "when touched by the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 3,
+  "off": 165,
+  "len": 33,
+  "text": "But here, there's no Mist, so you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 4,
+  "off": 200,
+  "len": 32,
+  "text": "can wear Seru safely. Of course,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 5,
+  "off": 234,
+  "len": 25,
+  "text": "there's no need for them.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 6,
+  "off": 274,
+  "len": 6,
+  "text": "Aaahh!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 7,
+  "off": 283,
+  "len": 14,
+  "text": "Seru monsters!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 8,
+  "off": 299,
+  "len": 20,
+  "text": "But this one somehow",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 9,
+  "off": 321,
+  "len": 15,
+  "text": "seems pleasant.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 10,
+  "off": 341,
+  "len": 24,
+  "text": "Because of the Mist, the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 11,
+  "off": 367,
+  "len": 22,
+  "text": "Seru I was wearing did",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 12,
+  "off": 391,
+  "len": 16,
+  "text": "something to me.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 13,
+  "off": 410,
+  "len": 30,
+  "text": "But now that the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 32,
+  "run": 14,
+  "off": 442,
+  "len": 34,
+  "text": "the Seru can be worn safely again.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 0,
+  "off": 67,
+  "len": 30,
+  "text": "Before the Mist came, this was",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 1,
+  "off": 99,
+  "len": 29,
+  "text": "the world's best resort area.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 2,
+  "off": 130,
+  "len": 30,
+  "text": "We had visitors from all over.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 3,
+  "off": 163,
+  "len": 33,
+  "text": "Pepe lives behind the hot spring.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 4,
+  "off": 198,
+  "len": 31,
+  "text": "He came with his mother and got",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 5,
+  "off": 231,
+  "len": 11,
+  "text": "stuck here.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 6,
+  "off": 247,
+  "len": 24,
+  "text": "I wonder if he went home",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 33,
+  "run": 7,
+  "off": 273,
+  "len": 22,
+  "text": "when the Mist cleared?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 0,
+  "off": 79,
+  "len": 28,
+  "text": "Ah, the hot spring! It's the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 1,
+  "off": 109,
+  "len": 20,
+  "text": "secret to long life!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 2,
+  "off": 139,
+  "len": 29,
+  "text": "Now that the waters are cold,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 3,
+  "off": 170,
+  "len": 25,
+  "text": "we're using it as a pool.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 4,
+  "off": 200,
+  "len": 32,
+  "text": "Hey, perfect timing. Just when I",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 5,
+  "off": 234,
+  "len": 28,
+  "text": "wanted my picture taken with",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 6,
+  "off": 264,
+  "len": 15,
+  "text": "a Camera Stone.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 7,
+  "off": 282,
+  "len": 32,
+  "text": "Take a good picture of me, would",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 8,
+  "off": 316,
+  "len": 26,
+  "text": "you? And get my good side.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 9,
+  "off": 353,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 10,
+  "off": 470,
+  "len": 26,
+  "text": "Can't take a picture of an",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 11,
+  "off": 498,
+  "len": 20,
+  "text": "old man like me, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 12,
+  "off": 520,
+  "len": 23,
+  "text": "You hurt my feelings...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 13,
+  "off": 755,
+  "len": 25,
+  "text": "The {ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 14,
+  "off": 782,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 34,
+  "run": 15,
+  "off": 812,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 35,
+  "run": 0,
+  "off": 74,
+  "len": 7,
+  "text": "Grrr...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 35,
+  "run": 1,
+  "off": 84,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 35,
+  "run": 2,
+  "off": 101,
+  "len": 18,
+  "text": "There is a sadness",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 35,
+  "run": 3,
+  "off": 121,
+  "len": 21,
+  "text": "deep within its eyes.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 36,
+  "run": 0,
+  "off": 72,
+  "len": 28,
+  "text": "There is something scribbled",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 36,
+  "run": 1,
+  "off": 102,
+  "len": 21,
+  "text": "on the sign. It says:",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 36,
+  "run": 2,
+  "off": 126,
+  "len": 25,
+  "text": "Seek refuge from the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 36,
+  "run": 3,
+  "off": 153,
+  "len": 17,
+  "text": "at Danpas' house!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 0,
+  "off": 78,
+  "len": 23,
+  "text": "Take your memories home",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 1,
+  "off": 103,
+  "len": 19,
+  "text": "with you! Buy a {ITEM:AD}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 2,
+  "off": 124,
+  "len": 32,
+  "text": "Do you want to buy it for 100G? ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 3,
+  "off": 281,
+  "len": 23,
+  "text": "I'll be frank with you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 4,
+  "off": 306,
+  "len": 24,
+  "text": "You just got ripped off.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 5,
+  "off": 355,
+  "len": 11,
+  "text": "{NAME} now has ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 6,
+  "off": 368,
+  "len": 7,
+  "text": "the {ITEM:AD}.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 7,
+  "off": 380,
+  "len": 28,
+  "text": "Sorry, but if you don't have",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 8,
+  "off": 410,
+  "len": 25,
+  "text": "any money, you can't have",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 9,
+  "off": 437,
+  "len": 7,
+  "text": "the {ITEM:AD}.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 10,
+  "off": 449,
+  "len": 23,
+  "text": "I'll be frank with you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 37,
+  "run": 11,
+  "off": 474,
+  "len": 18,
+  "text": "You got a bargain.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 45,
+  "run": 0,
+  "off": 57,
+  "len": 29,
+  "text": "This is a fishing tackle set.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 45,
+  "run": 1,
+  "off": 88,
+  "len": 16,
+  "text": "It's pretty old.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 45,
+  "run": 2,
+  "off": 152,
+  "len": 15,
+  "text": "{NAME} now has the ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 45,
+  "run": 3,
+  "off": 169,
+  "len": 19,
+  "text": "fishing tackle set!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 47,
+  "run": 0,
+  "off": 133,
+  "len": 25,
+  "text": "Sorry, but you don't have",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 47,
+  "run": 1,
+  "off": 160,
+  "len": 10,
+  "text": "any coins.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 47,
+  "run": 2,
+  "off": 172,
+  "len": 25,
+  "text": "You can't play this game.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 0,
+  "off": 76,
+  "len": 30,
+  "text": "Man! It sure was hard carrying",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 1,
+  "off": 108,
+  "len": 28,
+  "text": "this thing through the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 2,
+  "off": 139,
+  "len": 9,
+  "text": "Hey, kid.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 3,
+  "off": 150,
+  "len": 16,
+  "text": "Here, take this.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 4,
+  "off": 168,
+  "len": 28,
+  "text": "Play a game on this machine.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 5,
+  "off": 215,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 6,
+  "off": 227,
+  "len": 10,
+  "text": "ten coins.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 7,
+  "off": 262,
+  "len": 27,
+  "text": "If you want to play a game,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 8,
+  "off": 291,
+  "len": 21,
+  "text": "Go to the machine and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 9,
+  "off": 314,
+  "len": 17,
+  "text": "drop the coin in.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 10,
+  "off": 379,
+  "len": 15,
+  "text": "Pretty fun, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 11,
+  "off": 396,
+  "len": 27,
+  "text": "Wanna play again? How about",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 12,
+  "off": 425,
+  "len": 18,
+  "text": "one coin for 100G?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 13,
+  "off": 588,
+  "len": 30,
+  "text": "Hey, kid! Wanna try this game?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 14,
+  "off": 620,
+  "len": 23,
+  "text": "It's 100G for one coin.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 15,
+  "off": 645,
+  "len": 14,
+  "text": "Wanna buy one?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 16,
+  "off": 788,
+  "len": 9,
+  "text": "Have fun!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 17,
+  "off": 802,
+  "len": 23,
+  "text": "Don't want a coin, huh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 18,
+  "off": 827,
+  "len": 33,
+  "text": "Well, then, do you wanna trade me",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 19,
+  "off": 862,
+  "len": 22,
+  "text": "your coin for an item?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 20,
+  "off": 1016,
+  "len": 9,
+  "text": "Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 21,
+  "off": 1027,
+  "len": 19,
+  "text": "See you later, kid!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 22,
+  "off": 1051,
+  "len": 19,
+  "text": "Hey, wait a minute.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 23,
+  "off": 1072,
+  "len": 25,
+  "text": "You don't have any money?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 24,
+  "off": 1099,
+  "len": 26,
+  "text": "What are you trying to do?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 25,
+  "off": 1136,
+  "len": 30,
+  "text": "Man! It sure was hard carrying",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 48,
+  "run": 26,
+  "off": 1168,
+  "len": 28,
+  "text": "this thing through the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 0,
+  "off": 79,
+  "len": 32,
+  "text": "Before the Mist came, there were",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 1,
+  "off": 113,
+  "len": 31,
+  "text": "plenty of tourists in town, and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 2,
+  "off": 146,
+  "len": 19,
+  "text": "I was a tour guide.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 3,
+  "off": 171,
+  "len": 31,
+  "text": "If you want, I'll give you guys",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 4,
+  "off": 204,
+  "len": 21,
+  "text": "a tour. How 'bout it?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 5,
+  "off": 236,
+  "len": 21,
+  "text": "We want to see Vidna!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 6,
+  "off": 259,
+  "len": 21,
+  "text": "We want to see Octam!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 7,
+  "off": 282,
+  "len": 19,
+  "text": "Tell us about Hari!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 8,
+  "off": 303,
+  "len": 14,
+  "text": "Na, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 9,
+  "off": 320,
+  "len": 26,
+  "text": "OK, a tour of Vidna it is!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 10,
+  "off": 348,
+  "len": 20,
+  "text": "I'll do it for 100G.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 11,
+  "off": 370,
+  "len": 27,
+  "text": "But you gotta pay cash, OK?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 12,
+  "off": 408,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 13,
+  "off": 536,
+  "len": 21,
+  "text": "Alright, it's a deal!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 14,
+  "off": 560,
+  "len": 27,
+  "text": "I'd like to welcome you all",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 15,
+  "off": 589,
+  "len": 26,
+  "text": "to Vidna. Enjoy your stay!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 16,
+  "off": 618,
+  "len": 31,
+  "text": "As you know, Vidna has a lot of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 17,
+  "off": 651,
+  "len": 33,
+  "text": "geothermal energy. It's a town of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 18,
+  "off": 686,
+  "len": 26,
+  "text": "hot springs and windmills.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 19,
+  "off": 715,
+  "len": 27,
+  "text": "138 years ago, Mayor Molina",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 20,
+  "off": 744,
+  "len": 21,
+  "text": "saw the value of this",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 21,
+  "off": 767,
+  "len": 20,
+  "text": "geothermal energy...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 22,
+  "off": 790,
+  "len": 32,
+  "text": "and developed a tourism industry",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 23,
+  "off": 824,
+  "len": 19,
+  "text": "based on the area's",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 24,
+  "off": 845,
+  "len": 15,
+  "text": "natural beauty.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 25,
+  "off": 863,
+  "len": 33,
+  "text": "Vidna became famous as a paradise",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 26,
+  "off": 898,
+  "len": 29,
+  "text": "on earth that everyone wanted",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 27,
+  "off": 929,
+  "len": 9,
+  "text": "to visit.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 28,
+  "off": 941,
+  "len": 32,
+  "text": "People came from all over Legaia",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 29,
+  "off": 975,
+  "len": 20,
+  "text": "for the hot springs.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 30,
+  "off": 998,
+  "len": 28,
+  "text": "In fact, Vidna's slogan was:",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 31,
+  "off": 1028,
+  "len": 33,
+  "text": "\"Just as Vidna's underground heat",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 32,
+  "off": 1063,
+  "len": 34,
+  "text": "will keep the windmills turning...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 33,
+  "off": 1100,
+  "len": 32,
+  "text": "and the hot springs hot forever,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 34,
+  "off": 1134,
+  "len": 34,
+  "text": "no love borne here will ever die.\"",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 35,
+  "off": 1171,
+  "len": 33,
+  "text": "In other words, they thought that",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 36,
+  "off": 1206,
+  "len": 29,
+  "text": "Vidna's prosperity would last",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 37,
+  "off": 1237,
+  "len": 8,
+  "text": "forever.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 38,
+  "off": 1251,
+  "len": 16,
+  "text": "Well, that's it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 39,
+  "off": 1269,
+  "len": 31,
+  "text": "A pretty professional tour, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 40,
+  "off": 1302,
+  "len": 25,
+  "text": "Do you want another tour?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 41,
+  "off": 1338,
+  "len": 21,
+  "text": "We want to see Vidna!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 42,
+  "off": 1361,
+  "len": 21,
+  "text": "We want to see Octam!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 43,
+  "off": 1384,
+  "len": 19,
+  "text": "Tell us about Hari!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 44,
+  "off": 1405,
+  "len": 14,
+  "text": "Na, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 45,
+  "off": 1422,
+  "len": 26,
+  "text": "OK, a tour of Octam it is!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 46,
+  "off": 1450,
+  "len": 20,
+  "text": "I'll do it for 100G.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 47,
+  "off": 1472,
+  "len": 27,
+  "text": "But you gotta pay cash, OK?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 48,
+  "off": 1510,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 49,
+  "off": 1638,
+  "len": 33,
+  "text": "Ah, Octam... I've been there many",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 50,
+  "off": 1673,
+  "len": 26,
+  "text": "times as a tour conductor.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 51,
+  "off": 1701,
+  "len": 27,
+  "text": "Here we go. Enjoy the tour!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 52,
+  "off": 1731,
+  "len": 21,
+  "text": "Ladies and gentlemen,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 53,
+  "off": 1754,
+  "len": 29,
+  "text": "here we are, the eternal city",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 54,
+  "off": 1785,
+  "len": 9,
+  "text": "of Octam!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 55,
+  "off": 1797,
+  "len": 31,
+  "text": "Octam, situated north of Vidna,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 56,
+  "off": 1830,
+  "len": 17,
+  "text": "was once a hub of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 57,
+  "off": 1849,
+  "len": 23,
+  "text": "flying wagon transport.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 58,
+  "off": 1875,
+  "len": 31,
+  "text": "It's also famous for the Temple",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 59,
+  "off": 1908,
+  "len": 35,
+  "text": "of Rem, which is dedicated to Rem, ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 60,
+  "off": 1945,
+  "len": 16,
+  "text": "the god of fate.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 61,
+  "off": 1964,
+  "len": 26,
+  "text": "Here, flying wagons travel",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 62,
+  "off": 1992,
+  "len": 30,
+  "text": "overhead and the Temple of Rem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 63,
+  "off": 2024,
+  "len": 24,
+  "text": "sleeps deep underground.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 64,
+  "off": 2051,
+  "len": 24,
+  "text": "Octam is also famous for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 65,
+  "off": 2077,
+  "len": 27,
+  "text": "Hari, the living god of the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 66,
+  "off": 2106,
+  "len": 14,
+  "text": "Temple of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 67,
+  "off": 2123,
+  "len": 20,
+  "text": "You know the saying,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 68,
+  "off": 2145,
+  "len": 27,
+  "text": "\"See Octam and die,\" right?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 69,
+  "off": 2175,
+  "len": 31,
+  "text": "Well, I'm sure anyone could die",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 70,
+  "off": 2208,
+  "len": 24,
+  "text": "happy once they've heard",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 71,
+  "off": 2234,
+  "len": 21,
+  "text": "the prophecy of Hari.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 72,
+  "off": 2261,
+  "len": 16,
+  "text": "Well, that's it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 73,
+  "off": 2279,
+  "len": 31,
+  "text": "A pretty professional tour, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 74,
+  "off": 2312,
+  "len": 25,
+  "text": "Do you want another tour?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 75,
+  "off": 2348,
+  "len": 21,
+  "text": "We want to see Vidna!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 76,
+  "off": 2371,
+  "len": 21,
+  "text": "We want to see Octam!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 77,
+  "off": 2394,
+  "len": 19,
+  "text": "Tell us about Hari!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 78,
+  "off": 2415,
+  "len": 14,
+  "text": "Na, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 79,
+  "off": 2432,
+  "len": 21,
+  "text": "Do I know about Hari?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 80,
+  "off": 2455,
+  "len": 35,
+  "text": "Of course I do! And for 100G cash, ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 81,
+  "off": 2492,
+  "len": 28,
+  "text": "I'll tell you all about him.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 82,
+  "off": 2531,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 83,
+  "off": 2659,
+  "len": 25,
+  "text": "This isn't really a tour,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 84,
+  "off": 2686,
+  "len": 22,
+  "text": "so I'll keep it brief.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 85,
+  "off": 2711,
+  "len": 29,
+  "text": "Hari is said to be the living",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 86,
+  "off": 2742,
+  "len": 25,
+  "text": "god of the Temple of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 87,
+  "off": 2770,
+  "len": 27,
+  "text": "Some say he's 1,000 or even",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 88,
+  "off": 2799,
+  "len": 16,
+  "text": "2,000 years old.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 89,
+  "off": 2818,
+  "len": 32,
+  "text": "Frankly I have trouble believing",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 90,
+  "off": 2852,
+  "len": 29,
+  "text": "that a human being could live",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 91,
+  "off": 2883,
+  "len": 10,
+  "text": "that long.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 92,
+  "off": 2896,
+  "len": 28,
+  "text": "They also say that Hari only",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 93,
+  "off": 2926,
+  "len": 35,
+  "text": "appears before the temple priestess",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 94,
+  "off": 2963,
+  "len": 23,
+  "text": "and the Mayor of Octam.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 95,
+  "off": 2989,
+  "len": 18,
+  "text": "But if you ask me,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 96,
+  "off": 3009,
+  "len": 23,
+  "text": "I doubt he even exists.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 97,
+  "off": 3035,
+  "len": 21,
+  "text": "But if Hari really is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 98,
+  "off": 3058,
+  "len": 19,
+  "text": "a divine prophet...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 99,
+  "off": 3080,
+  "len": 33,
+  "text": "he could at least tell me if I'll",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 100,
+  "off": 3115,
+  "len": 29,
+  "text": "ever get work as a tour guide",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 101,
+  "off": 3146,
+  "len": 6,
+  "text": "again.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 102,
+  "off": 3158,
+  "len": 9,
+  "text": "Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 103,
+  "off": 3169,
+  "len": 29,
+  "text": "Well, is there anything else?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 104,
+  "off": 3209,
+  "len": 21,
+  "text": "We want to see Vidna!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 105,
+  "off": 3232,
+  "len": 21,
+  "text": "We want to see Octam!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 106,
+  "off": 3255,
+  "len": 19,
+  "text": "Tell us about Hari!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 107,
+  "off": 3276,
+  "len": 14,
+  "text": "Na, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 108,
+  "off": 3293,
+  "len": 30,
+  "text": "(Sigh!) I wish I could do some",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 109,
+  "off": 3325,
+  "len": 22,
+  "text": "tours before the world",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 110,
+  "off": 3349,
+  "len": 16,
+  "text": "comes to an end.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 111,
+  "off": 3370,
+  "len": 24,
+  "text": "Hey, don't think you can",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 112,
+  "off": 3396,
+  "len": 25,
+  "text": "hear my stories for free!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 113,
+  "off": 3424,
+  "len": 30,
+  "text": "I'm a professional tour guide!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 114,
+  "off": 3456,
+  "len": 30,
+  "text": "Giving free tours goes against",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 115,
+  "off": 3488,
+  "len": 23,
+  "text": "my professional ethics.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 116,
+  "off": 3516,
+  "len": 19,
+  "text": "Hey, just a minute!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 117,
+  "off": 3537,
+  "len": 27,
+  "text": "You don't have enough cash.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 118,
+  "off": 3566,
+  "len": 24,
+  "text": "Come on, this is my job!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 119,
+  "off": 3598,
+  "len": 30,
+  "text": "Ah, so you want me to tell you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 120,
+  "off": 3630,
+  "len": 25,
+  "text": "more about this area, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 121,
+  "off": 3666,
+  "len": 21,
+  "text": "We want to see Vidna!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 122,
+  "off": 3689,
+  "len": 21,
+  "text": "We want to see Octam!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 123,
+  "off": 3712,
+  "len": 19,
+  "text": "Tell us about Hari!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 124,
+  "off": 3733,
+  "len": 14,
+  "text": "Na, forget it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 125,
+  "off": 3756,
+  "len": 30,
+  "text": "With all that's going on, this",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 126,
+  "off": 3788,
+  "len": 31,
+  "text": "ain't the time for sightseeing!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 127,
+  "off": 3821,
+  "len": 13,
+  "text": "But anyway...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 128,
+  "off": 3837,
+  "len": 25,
+  "text": "If you want to rest, I'll",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 129,
+  "off": 3864,
+  "len": 30,
+  "text": "lend you my bed. How 'bout it?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 130,
+  "off": 3905,
+  "len": 11,
+  "text": "No, thanks.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 131,
+  "off": 4027,
+  "len": 19,
+  "text": "Alright, that'll be",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 132,
+  "off": 4048,
+  "len": 23,
+  "text": "250G per night, please.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 133,
+  "off": 4082,
+  "len": 9,
+  "text": "Forget it",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 134,
+  "off": 4213,
+  "len": 30,
+  "text": "Gee, I appreciate this. Around",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 135,
+  "off": 4245,
+  "len": 33,
+  "text": "here, this is about the only work",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 136,
+  "off": 4280,
+  "len": 16,
+  "text": "there is for me.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 137,
+  "off": 4353,
+  "len": 32,
+  "text": "Hey, hey! You don't get to sleep",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 138,
+  "off": 4387,
+  "len": 19,
+  "text": "for free, you know!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 139,
+  "off": 4408,
+  "len": 15,
+  "text": "That's my rule.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 140,
+  "off": 4426,
+  "len": 35,
+  "text": "Lending out beds is my job. Letting",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 141,
+  "off": 4463,
+  "len": 31,
+  "text": "people sleep here for free goes",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 142,
+  "off": 4496,
+  "len": 31,
+  "text": "against my professional ethics.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 143,
+  "off": 4532,
+  "len": 6,
+  "text": "Hmmph!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 144,
+  "off": 4540,
+  "len": 26,
+  "text": "Well, if you're not tired,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 145,
+  "off": 4568,
+  "len": 17,
+  "text": "you're not tired.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 146,
+  "off": 4590,
+  "len": 19,
+  "text": "Hey, just a minute!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 147,
+  "off": 4611,
+  "len": 27,
+  "text": "You don't have enough cash.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 148,
+  "off": 4640,
+  "len": 24,
+  "text": "Come on, this is my job!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 149,
+  "off": 4679,
+  "len": 35,
+  "text": "With the Mist gone from the Sebucus",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 150,
+  "off": 4716,
+  "len": 35,
+  "text": "Islands, the tourists will ride the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 151,
+  "off": 4753,
+  "len": 29,
+  "text": "flying wagons and come again.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 152,
+  "off": 4785,
+  "len": 30,
+  "text": "Then I'll go back to work as a",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 153,
+  "off": 4817,
+  "len": 23,
+  "text": "tour guide, like in the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 154,
+  "off": 4842,
+  "len": 21,
+  "text": "old days. But, hey...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 155,
+  "off": 4866,
+  "len": 32,
+  "text": "Do you want me to tell you about",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 156,
+  "off": 4900,
+  "len": 20,
+  "text": "the Karisto Kingdom?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 157,
+  "off": 5045,
+  "len": 30,
+  "text": "The Karisto Kingdom tour costs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 158,
+  "off": 5077,
+  "len": 23,
+  "text": "100G. That's OK, right?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 159,
+  "off": 5237,
+  "len": 24,
+  "text": "<1F>Way to go, big spender!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 160,
+  "off": 5263,
+  "len": 20,
+  "text": "Alright, here we go.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 161,
+  "off": 5286,
+  "len": 30,
+  "text": "Eh hem...ladies and gentlemen.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 162,
+  "off": 5318,
+  "len": 32,
+  "text": "The Karisto Kingdom is the heart",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 163,
+  "off": 5352,
+  "len": 24,
+  "text": "of Legaian civilization.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 164,
+  "off": 5379,
+  "len": 23,
+  "text": "Naturally, you know why",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 165,
+  "off": 5404,
+  "len": 23,
+  "text": "Karisto is the heart of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 166,
+  "off": 5429,
+  "len": 20,
+  "text": "civilization, right?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 167,
+  "off": 5456,
+  "len": 17,
+  "text": "No, not really...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 168,
+  "off": 5475,
+  "len": 19,
+  "text": "Yes! It's the Seru!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 169,
+  "off": 5497,
+  "len": 21,
+  "text": "What? You don't know?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 170,
+  "off": 5520,
+  "len": 23,
+  "text": "You say you don't know?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 171,
+  "off": 5546,
+  "len": 34,
+  "text": "Ladies and gentlemen, it's because",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 172,
+  "off": 5582,
+  "len": 32,
+  "text": "of the Seru. Karisto is the only",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 173,
+  "off": 5616,
+  "len": 26,
+  "text": "place where Seru are born.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 174,
+  "off": 5648,
+  "len": 14,
+  "text": "That's right. ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 175,
+  "off": 5664,
+  "len": 25,
+  "text": "Say, you're pretty smart!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 176,
+  "off": 5692,
+  "len": 31,
+  "text": "The Karisto Kingdom is the only",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 177,
+  "off": 5725,
+  "len": 28,
+  "text": "place where the Seru species",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 178,
+  "off": 5755,
+  "len": 9,
+  "text": "are born.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 179,
+  "off": 5770,
+  "len": 35,
+  "text": "New Seru are born only in Uru Mais,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 180,
+  "off": 5807,
+  "len": 32,
+  "text": "which is in the Karisto Kingdom.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 181,
+  "off": 5842,
+  "len": 31,
+  "text": "All the Seru around here can be",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 182,
+  "off": 5875,
+  "len": 24,
+  "text": "traced back to Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 183,
+  "off": 5901,
+  "len": 32,
+  "text": "We breed the Seru from Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 184,
+  "off": 5936,
+  "len": 26,
+  "text": "But don't even think about",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 185,
+  "off": 5964,
+  "len": 24,
+  "text": "sightseeing in Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 186,
+  "off": 5991,
+  "len": 29,
+  "text": "Uru Mais is a forbidden zone.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 187,
+  "off": 6022,
+  "len": 32,
+  "text": "You can't get in without special",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 188,
+  "off": 6056,
+  "len": 11,
+  "text": "permission.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 189,
+  "off": 6070,
+  "len": 22,
+  "text": "Well, that's about it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 190,
+  "off": 6095,
+  "len": 30,
+  "text": "Of course, now that Karisto is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 191,
+  "off": 6127,
+  "len": 32,
+  "text": "enveloped in the Mist, who knows",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 192,
+  "off": 6161,
+  "len": 32,
+  "text": "what's happened to Uru Mais now.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 193,
+  "off": 6196,
+  "len": 28,
+  "text": "But if you're going to go to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 194,
+  "off": 6226,
+  "len": 23,
+  "text": "Karisto, I do recommend",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 195,
+  "off": 6251,
+  "len": 10,
+  "text": "Sol Tower.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 196,
+  "off": 6264,
+  "len": 29,
+  "text": "It's a fun town. Once you get",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 197,
+  "off": 6295,
+  "len": 31,
+  "text": "there, you won't want to leave.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 198,
+  "off": 6331,
+  "len": 24,
+  "text": "Hey, don't think you can",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 199,
+  "off": 6357,
+  "len": 25,
+  "text": "hear my stories for free!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 200,
+  "off": 6385,
+  "len": 30,
+  "text": "I'm a professional tour guide!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 201,
+  "off": 6417,
+  "len": 30,
+  "text": "Giving free tours goes against",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 202,
+  "off": 6449,
+  "len": 23,
+  "text": "my professional ethics.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 203,
+  "off": 6477,
+  "len": 22,
+  "text": "You don't want to hear",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 204,
+  "off": 6501,
+  "len": 9,
+  "text": "any more?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 205,
+  "off": 6512,
+  "len": 19,
+  "text": "Ah, that's too bad!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 206,
+  "off": 6536,
+  "len": 19,
+  "text": "Hey, just a minute!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 207,
+  "off": 6557,
+  "len": 27,
+  "text": "You don't have enough cash.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 208,
+  "off": 6586,
+  "len": 24,
+  "text": "Come on, this is my job!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 209,
+  "off": 6615,
+  "len": 22,
+  "text": "Sorry, but I'm all out",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 49,
+  "run": 210,
+  "off": 6639,
+  "len": 11,
+  "text": "of stories.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 0,
+  "off": 90,
+  "len": 19,
+  "text": "Innkeeper: Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 1,
+  "off": 111,
+  "len": 32,
+  "text": "The rate here is 200G per night.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 2,
+  "off": 145,
+  "len": 31,
+  "text": "Do you want to spend the night?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 3,
+  "off": 301,
+  "len": 19,
+  "text": "Innkeeper: Alright.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 4,
+  "off": 322,
+  "len": 22,
+  "text": "Maybe next time, then.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 5,
+  "off": 366,
+  "len": 22,
+  "text": "Innkeeper: 200G even! ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 6,
+  "off": 390,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 7,
+  "off": 403,
+  "len": 34,
+  "text": "Innkeeper: Show these three guests",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 8,
+  "off": 439,
+  "len": 22,
+  "text": "to their room, please!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 9,
+  "off": 703,
+  "len": 27,
+  "text": "Innkeeper: Enjoy your stay!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 10,
+  "off": 741,
+  "len": 31,
+  "text": "Innkeeper: Excuse me, you don't",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 11,
+  "off": 774,
+  "len": 34,
+  "text": "have enough money. Come back again",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 50,
+  "run": 12,
+  "off": 810,
+  "len": 19,
+  "text": "when you have 200G.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 51,
+  "run": 0,
+  "off": 84,
+  "len": 32,
+  "text": "Innkeeper: If you have the time,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 51,
+  "run": 1,
+  "off": 118,
+  "len": 27,
+  "text": "please visit Vidna's famous",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 51,
+  "run": 2,
+  "off": 147,
+  "len": 11,
+  "text": "hot spring.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 51,
+  "run": 3,
+  "off": 163,
+  "len": 33,
+  "text": "Innkeeper: If you want, feel free",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 51,
+  "run": 4,
+  "off": 198,
+  "len": 28,
+  "text": "to use the bath in the back.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 0,
+  "off": 77,
+  "len": 24,
+  "text": "Hey, you guys know about",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 1,
+  "off": 103,
+  "len": 20,
+  "text": "the Gate of Shadows?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 2,
+  "off": 248,
+  "len": 9,
+  "text": "Oh, yeah?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 3,
+  "off": 259,
+  "len": 16,
+  "text": "Nevermind, then.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 4,
+  "off": 280,
+  "len": 33,
+  "text": "The Gate of Shadows is an ancient",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 5,
+  "off": 315,
+  "len": 27,
+  "text": "ruin located east of Octam.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 6,
+  "off": 345,
+  "len": 29,
+  "text": "It's called a gate, but there",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 7,
+  "off": 376,
+  "len": 26,
+  "text": "are no roads there leading",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 8,
+  "off": 404,
+  "len": 9,
+  "text": "anywhere.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 9,
+  "off": 416,
+  "len": 28,
+  "text": "Some say an ancient treasure",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 10,
+  "off": 446,
+  "len": 27,
+  "text": "is hidden there, but nobody",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 11,
+  "off": 475,
+  "len": 15,
+  "text": "knows for sure.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 12,
+  "off": 493,
+  "len": 31,
+  "text": "If only the Mist weren't there,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 13,
+  "off": 526,
+  "len": 31,
+  "text": "I'd go check things out myself.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 14,
+  "off": 562,
+  "len": 33,
+  "text": "I see! So the Gate of Shadows was",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 15,
+  "off": 597,
+  "len": 32,
+  "text": "an entrance to the subterranean ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 52,
+  "run": 16,
+  "off": 631,
+  "len": 15,
+  "text": "parts of Octam.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 0,
+  "off": 77,
+  "len": 32,
+  "text": "If you want to know about Octam,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 1,
+  "off": 111,
+  "len": 24,
+  "text": "I can tell you for free.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 2,
+  "off": 146,
+  "len": 11,
+  "text": "No, thanks.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 3,
+  "off": 268,
+  "len": 25,
+  "text": "There were many things in",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 4,
+  "off": 295,
+  "len": 26,
+  "text": "Octam. What do you want to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 5,
+  "off": 323,
+  "len": 11,
+  "text": "know about?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 6,
+  "off": 345,
+  "len": 24,
+  "text": "About the flying wagons.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 7,
+  "off": 371,
+  "len": 24,
+  "text": "About the Temple of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 8,
+  "off": 397,
+  "len": 15,
+  "text": "Where Octam is.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 9,
+  "off": 414,
+  "len": 16,
+  "text": "Forget about it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 10,
+  "off": 433,
+  "len": 23,
+  "text": "Octam was once a hub of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 11,
+  "off": 458,
+  "len": 30,
+  "text": "transportation, and the flying",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 12,
+  "off": 490,
+  "len": 31,
+  "text": "wagons were used for transport.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 13,
+  "off": 524,
+  "len": 33,
+  "text": "These wagons were moved by large ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 14,
+  "off": 559,
+  "len": 28,
+  "text": "Seru. People would ride them",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 15,
+  "off": 589,
+  "len": 27,
+  "text": "and travel east to Karisto.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 16,
+  "off": 619,
+  "len": 31,
+  "text": "I'm not busy now, so I can tell",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 17,
+  "off": 652,
+  "len": 29,
+  "text": "you more. What do you want to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 18,
+  "off": 683,
+  "len": 11,
+  "text": "hear about?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 19,
+  "off": 705,
+  "len": 23,
+  "text": "About the flying wagons",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 20,
+  "off": 730,
+  "len": 23,
+  "text": "About the Temple of Rem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 21,
+  "off": 755,
+  "len": 14,
+  "text": "Where Octam is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 22,
+  "off": 771,
+  "len": 15,
+  "text": "Forget about it",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 23,
+  "off": 789,
+  "len": 27,
+  "text": "The Temple of Rem is a huge",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 24,
+  "off": 818,
+  "len": 26,
+  "text": "temple located deep inside",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 25,
+  "off": 846,
+  "len": 6,
+  "text": "Octam.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 26,
+  "off": 855,
+  "len": 35,
+  "text": "Now, Rem is the god of time, right?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 27,
+  "off": 893,
+  "len": 29,
+  "text": "Well, this person called Hari",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 28,
+  "off": 924,
+  "len": 23,
+  "text": "would tell everyone the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 29,
+  "off": 949,
+  "len": 18,
+  "text": "prophecies of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 30,
+  "off": 970,
+  "len": 30,
+  "text": "People used to say that if you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 31,
+  "off": 1002,
+  "len": 24,
+  "text": "had a strange dream, you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 32,
+  "off": 1028,
+  "len": 17,
+  "text": "should tell Hari.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 33,
+  "off": 1048,
+  "len": 31,
+  "text": "I'm not busy now, so I can tell",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 34,
+  "off": 1081,
+  "len": 29,
+  "text": "you more. What do you want to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 35,
+  "off": 1112,
+  "len": 11,
+  "text": "hear about?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 36,
+  "off": 1134,
+  "len": 23,
+  "text": "About the flying wagons",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 37,
+  "off": 1159,
+  "len": 23,
+  "text": "About the Temple of Rem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 38,
+  "off": 1184,
+  "len": 14,
+  "text": "Where Octam is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 39,
+  "off": 1200,
+  "len": 15,
+  "text": "Forget about it",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 40,
+  "off": 1218,
+  "len": 31,
+  "text": "You want to know where Octam is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 41,
+  "off": 1251,
+  "len": 32,
+  "text": "even though you can't go outside",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 42,
+  "off": 1285,
+  "len": 31,
+  "text": "because of the Mist? How silly!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 43,
+  "off": 1319,
+  "len": 25,
+  "text": "Oh, well. I'll tell you. ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 44,
+  "off": 1346,
+  "len": 37,
+  "text": "First, go north and cross the bridge,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 45,
+  "off": 1385,
+  "len": 32,
+  "text": "then follow the coast southeast.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 46,
+  "off": 1420,
+  "len": 35,
+  "text": "You'll see a peninsula sticking out",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 47,
+  "off": 1457,
+  "len": 33,
+  "text": "into the sea. Octam is at the tip",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 48,
+  "off": 1492,
+  "len": 18,
+  "text": "of that peninsula.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 49,
+  "off": 1513,
+  "len": 31,
+  "text": "I'm not busy now, so I can tell",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 50,
+  "off": 1546,
+  "len": 29,
+  "text": "you more. What do you want to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 51,
+  "off": 1577,
+  "len": 11,
+  "text": "hear about?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 52,
+  "off": 1599,
+  "len": 23,
+  "text": "About the flying wagons",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 53,
+  "off": 1624,
+  "len": 23,
+  "text": "About the Temple of Rem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 54,
+  "off": 1649,
+  "len": 14,
+  "text": "Where Octam is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 55,
+  "off": 1665,
+  "len": 15,
+  "text": "Forget about it",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 56,
+  "off": 1686,
+  "len": 12,
+  "text": "Oh, alright.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 57,
+  "off": 1700,
+  "len": 20,
+  "text": "That's fine with me.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 58,
+  "off": 1725,
+  "len": 27,
+  "text": "With the Mist gone now, the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 59,
+  "off": 1754,
+  "len": 29,
+  "text": "flying carts of Octam must be",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 53,
+  "run": 60,
+  "off": 1785,
+  "len": 18,
+  "text": "back in operation.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 54,
+  "run": 0,
+  "off": 106,
+  "len": 24,
+  "text": "Welcome! This used to be",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 54,
+  "run": 1,
+  "off": 132,
+  "len": 28,
+  "text": "a souvenir shop, but we have",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 54,
+  "run": 2,
+  "off": 162,
+  "len": 19,
+  "text": "lots of tools, too.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 54,
+  "run": 3,
+  "off": 213,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 55,
+  "run": 0,
+  "off": 78,
+  "len": 8,
+  "text": "Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 55,
+  "run": 1,
+  "off": 88,
+  "len": 32,
+  "text": "Come to the front counter if you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 55,
+  "run": 2,
+  "off": 122,
+  "len": 22,
+  "text": "want to buy something.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 56,
+  "run": 0,
+  "off": 77,
+  "len": 29,
+  "text": "Before the Mist came, I would",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 56,
+  "run": 1,
+  "off": 108,
+  "len": 30,
+  "text": "buy lots of healing leaves and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 56,
+  "run": 2,
+  "off": 140,
+  "len": 21,
+  "text": "travel around myself.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 56,
+  "run": 3,
+  "off": 166,
+  "len": 26,
+  "text": "Now that the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 56,
+  "run": 4,
+  "off": 194,
+  "len": 27,
+  "text": "I bet business will pick up",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 56,
+  "run": 5,
+  "off": 223,
+  "len": 17,
+  "text": "again, eh, sonny?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 57,
+  "run": 0,
+  "off": 92,
+  "len": 32,
+  "text": "Welcome! We have various weapons",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 57,
+  "run": 1,
+  "off": 126,
+  "len": 33,
+  "text": "and armor. What can I get for you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 57,
+  "run": 2,
+  "off": 161,
+  "len": 6,
+  "text": "today?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 57,
+  "run": 3,
+  "off": 194,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 0,
+  "off": 93,
+  "len": 35,
+  "text": "Hello and welcome! You're the first",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 1,
+  "off": 130,
+  "len": 33,
+  "text": "customer I've had in a long time!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 2,
+  "off": 165,
+  "len": 13,
+  "text": "I'm so happy!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 3,
+  "off": 183,
+  "len": 34,
+  "text": "First the windmills stopped all of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 4,
+  "off": 219,
+  "len": 30,
+  "text": "a sudden, right? Then the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 5,
+  "off": 251,
+  "len": 26,
+  "text": "came, and then those Seru!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 6,
+  "off": 282,
+  "len": 32,
+  "text": "Now that things outside town are",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 7,
+  "off": 316,
+  "len": 28,
+  "text": "safe, no one buys my weapons",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 58,
+  "run": 8,
+  "off": 346,
+  "len": 8,
+  "text": "anymore.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 0,
+  "off": 77,
+  "len": 32,
+  "text": "There's no Mist in Vidna, so you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 1,
+  "off": 111,
+  "len": 26,
+  "text": "can wear Seru safely. But,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 2,
+  "off": 139,
+  "len": 31,
+  "text": "there's really no use for them.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 3,
+  "off": 185,
+  "len": 5,
+  "text": "Grrr!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 4,
+  "off": 193,
+  "len": 7,
+  "text": "A Seru!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 5,
+  "off": 202,
+  "len": 15,
+  "text": "I sense sadness",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 6,
+  "off": 219,
+  "len": 22,
+  "text": "somewhere in its eyes.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 7,
+  "off": 246,
+  "len": 26,
+  "text": "This is the skin of a dead",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 59,
+  "run": 8,
+  "off": 274,
+  "len": 28,
+  "text": "Seru. I'm sick of live ones.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 0,
+  "off": 79,
+  "len": 30,
+  "text": "Hey, you guys are wearing nice",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 1,
+  "off": 111,
+  "len": 30,
+  "text": "Seru. Where did you get those?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 2,
+  "off": 144,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 3,
+  "off": 156,
+  "len": 5,
+  "text": "Whew!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 4,
+  "off": 163,
+  "len": 23,
+  "text": "Man, I have had enough!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 5,
+  "off": 201,
+  "len": 11,
+  "text": "Grrr! Grrr!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 6,
+  "off": 215,
+  "len": 12,
+  "text": "It's a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 7,
+  "off": 229,
+  "len": 17,
+  "text": "But it looks kind",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 8,
+  "off": 248,
+  "len": 9,
+  "text": "of happy!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 9,
+  "off": 262,
+  "len": 28,
+  "text": "Your... what do you call it?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 10,
+  "off": 292,
+  "len": 10,
+  "text": "A Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 11,
+  "off": 305,
+  "len": 32,
+  "text": "Someday, I'm going to get a Seru",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 12,
+  "off": 339,
+  "len": 28,
+  "text": "like that, one that the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 60,
+  "run": 13,
+  "off": 369,
+  "len": 13,
+  "text": "can't change!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 0,
+  "off": 75,
+  "len": 34,
+  "text": "The machine room, the heart of the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 1,
+  "off": 111,
+  "len": 33,
+  "text": "windmills that protect Vidna. You",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 2,
+  "off": 146,
+  "len": 26,
+  "text": "can go in, but be careful!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 3,
+  "off": 182,
+  "len": 13,
+  "text": "The machines?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 4,
+  "off": 197,
+  "len": 17,
+  "text": "They all stopped.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 5,
+  "off": 219,
+  "len": 31,
+  "text": "You came just when I was bored.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 6,
+  "off": 252,
+  "len": 30,
+  "text": "Hey, take a picture of me with",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 7,
+  "off": 284,
+  "len": 32,
+  "text": "that Camera Stone, looking cool!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 8,
+  "off": 440,
+  "len": 5,
+  "text": "Hmmf.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 9,
+  "off": 447,
+  "len": 14,
+  "text": "You're no fun.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 10,
+  "off": 667,
+  "len": 21,
+  "text": "{ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 11,
+  "off": 690,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 61,
+  "run": 12,
+  "off": 720,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 0,
+  "off": 77,
+  "len": 26,
+  "text": "Well, well. Don't get many",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 1,
+  "off": 105,
+  "len": 29,
+  "text": "visitors. This is the machine",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 2,
+  "off": 136,
+  "len": 14,
+  "text": "room. Hot, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 3,
+  "off": 275,
+  "len": 34,
+  "text": "Hot water and steam comes shooting",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 4,
+  "off": 311,
+  "len": 35,
+  "text": "up from inside the earth. We use it",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 5,
+  "off": 348,
+  "len": 23,
+  "text": "to power the windmills.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 6,
+  "off": 374,
+  "len": 32,
+  "text": "The windmills were used to cool ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 7,
+  "off": 408,
+  "len": 32,
+  "text": "things off for the tourists.  We",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 8,
+  "off": 442,
+  "len": 31,
+  "text": "also found another use for 'em!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 9,
+  "off": 476,
+  "len": 32,
+  "text": "As you can see, Vidna will never",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 10,
+  "off": 510,
+  "len": 31,
+  "text": "have to worry about the Mist as",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 11,
+  "off": 543,
+  "len": 33,
+  "text": "long as there's hot spring water.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 12,
+  "off": 581,
+  "len": 16,
+  "text": "Oh, yeah? Ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 13,
+  "off": 599,
+  "len": 31,
+  "text": "You don't have to act so tough!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 14,
+  "off": 632,
+  "len": 26,
+  "text": "Besides, it's not healthy!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 15,
+  "off": 663,
+  "len": 22,
+  "text": "So, you're looking for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 16,
+  "off": 687,
+  "len": 23,
+  "text": "someone - or something?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 17,
+  "off": 719,
+  "len": 23,
+  "text": "I'm looking for Danpas.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 18,
+  "off": 744,
+  "len": 25,
+  "text": "I'm looking for treasure.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 19,
+  "off": 771,
+  "len": 26,
+  "text": "No, nothing in particular.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 20,
+  "off": 803,
+  "len": 17,
+  "text": "Hmm, Danpas, huh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 21,
+  "off": 823,
+  "len": 29,
+  "text": "Unfortunately, I have no idea",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 22,
+  "off": 854,
+  "len": 16,
+  "text": "where Danpas is.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 23,
+  "off": 873,
+  "len": 34,
+  "text": "Are you looking for anything else?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 24,
+  "off": 916,
+  "len": 23,
+  "text": "I'm looking for Danpas.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 25,
+  "off": 941,
+  "len": 25,
+  "text": "I'm looking for treasure.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 26,
+  "off": 968,
+  "len": 26,
+  "text": "No, nothing in particular.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 27,
+  "off": 1000,
+  "len": 8,
+  "text": "Wh-What?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 28,
+  "off": 1010,
+  "len": 25,
+  "text": "You're after treasure, at",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 29,
+  "off": 1037,
+  "len": 17,
+  "text": "a time like this?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 30,
+  "off": 1057,
+  "len": 27,
+  "text": "It doesn't make much sense,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 31,
+  "off": 1086,
+  "len": 31,
+  "text": "but it's not for me to say, eh?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 32,
+  "off": 1119,
+  "len": 25,
+  "text": "All right, I'll tell you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 33,
+  "off": 1147,
+  "len": 31,
+  "text": "Go to the machine room, there's",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 34,
+  "off": 1180,
+  "len": 29,
+  "text": "some treasure there. Like the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 35,
+  "off": 1211,
+  "len": 21,
+  "text": "magical Spring Salts.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 36,
+  "off": 1235,
+  "len": 27,
+  "text": "The water's cooled down, so",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 37,
+  "off": 1264,
+  "len": 21,
+  "text": "you should be able to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 38,
+  "off": 1287,
+  "len": 19,
+  "text": "walk around inside.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 39,
+  "off": 1309,
+  "len": 34,
+  "text": "Are you looking for anything else?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 40,
+  "off": 1352,
+  "len": 23,
+  "text": "I'm looking for Danpas.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 41,
+  "off": 1377,
+  "len": 25,
+  "text": "I'm looking for treasure.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 42,
+  "off": 1404,
+  "len": 26,
+  "text": "No, nothing in particular.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 43,
+  "off": 1436,
+  "len": 17,
+  "text": "All righty, then.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 44,
+  "off": 1455,
+  "len": 21,
+  "text": "Take care, youngster.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 45,
+  "off": 1481,
+  "len": 26,
+  "text": "The engines are still now,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 46,
+  "off": 1509,
+  "len": 34,
+  "text": "but for a long time they protected",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 47,
+  "off": 1545,
+  "len": 17,
+  "text": "us from the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 48,
+  "off": 1565,
+  "len": 26,
+  "text": "It makes me sad to see the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 62,
+  "run": 49,
+  "off": 1593,
+  "len": 18,
+  "text": "engines like this.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 0,
+  "off": 81,
+  "len": 35,
+  "text": "Hey, be careful! That water is hot!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 1,
+  "off": 118,
+  "len": 24,
+  "text": "Stick your foot in there",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 2,
+  "off": 144,
+  "len": 31,
+  "text": "and you'll get burned big time!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 3,
+  "off": 180,
+  "len": 34,
+  "text": "First the windmills stopped all of",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 4,
+  "off": 216,
+  "len": 30,
+  "text": "a sudden, right? Then the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 5,
+  "off": 248,
+  "len": 26,
+  "text": "came, and then those Seru!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 6,
+  "off": 279,
+  "len": 16,
+  "text": "See, I told you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 7,
+  "off": 297,
+  "len": 24,
+  "text": "The water's hot, I said!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 8,
+  "off": 326,
+  "len": 34,
+  "text": "The hot spring has cooled down, so",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 63,
+  "run": 9,
+  "off": 362,
+  "len": 27,
+  "text": "you can just walk right in.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 0,
+  "off": 71,
+  "len": 32,
+  "text": "I used to charge people to bathe",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 1,
+  "off": 105,
+  "len": 35,
+  "text": "here, but it's too much of a hassle",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 2,
+  "off": 142,
+  "len": 28,
+  "text": "now, so you can go for free.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 3,
+  "off": 173,
+  "len": 32,
+  "text": "Stay in for as long as you want.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 4,
+  "off": 207,
+  "len": 22,
+  "text": "You'll feel refreshed!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 5,
+  "off": 234,
+  "len": 19,
+  "text": "What a catastrophe!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 6,
+  "off": 256,
+  "len": 34,
+  "text": "But who would think everyone would",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 7,
+  "off": 292,
+  "len": 34,
+  "text": "be saved by Danpas, the one we all",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 8,
+  "off": 328,
+  "len": 12,
+  "text": "made fun of!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 9,
+  "off": 345,
+  "len": 33,
+  "text": "The hot spring isn't hot anymore,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 10,
+  "off": 380,
+  "len": 26,
+  "text": "but if you want to get in,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 64,
+  "run": 11,
+  "off": 408,
+  "len": 24,
+  "text": "go ahead, help yourself!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 66,
+  "run": 0,
+  "off": 75,
+  "len": 34,
+  "text": "Beneath the Sebucus Islands runs a",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 66,
+  "run": 1,
+  "off": 111,
+  "len": 32,
+  "text": "huge volcanic belt. That's where",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 66,
+  "run": 2,
+  "off": 145,
+  "len": 27,
+  "text": "this hot spring comes from.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 66,
+  "run": 3,
+  "off": 177,
+  "len": 34,
+  "text": "I used to come here every day, and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 66,
+  "run": 4,
+  "off": 213,
+  "len": 31,
+  "text": "even though the water's cold, I",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 66,
+  "run": 5,
+  "off": 246,
+  "len": 24,
+  "text": "still come out of habit.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 67,
+  "run": 0,
+  "off": 75,
+  "len": 29,
+  "text": "It's boring not being able to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 67,
+  "run": 1,
+  "off": 106,
+  "len": 35,
+  "text": "leave town, but I'm used to it now.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 67,
+  "run": 2,
+  "off": 146,
+  "len": 26,
+  "text": "I wonder if there's a nice",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 67,
+  "run": 3,
+  "off": 174,
+  "len": 34,
+  "text": "hot spring out there somewhere....",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 0,
+  "off": 85,
+  "len": 9,
+  "text": "Pepe: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 1,
+  "off": 96,
+  "len": 24,
+  "text": "I'm so glad you're safe!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 2,
+  "off": 125,
+  "len": 34,
+  "text": "Pepe: I was born in Jeremi, a town",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 3,
+  "off": 161,
+  "len": 33,
+  "text": "south of here. My father is still",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 4,
+  "off": 196,
+  "len": 24,
+  "text": "there, as far as I know.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 5,
+  "off": 223,
+  "len": 25,
+  "text": "Pepe: My father's name is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 6,
+  "off": 250,
+  "len": 22,
+  "text": "Zalan. He's a jeweler.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 7,
+  "off": 275,
+  "len": 28,
+  "text": "Pepe: Sigh! If only the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 8,
+  "off": 305,
+  "len": 28,
+  "text": "would go away, I could go to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 9,
+  "off": 335,
+  "len": 28,
+  "text": "Jeremi and see my father....",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 10,
+  "off": 374,
+  "len": 30,
+  "text": "Pepe: My mother died loving my",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 11,
+  "off": 406,
+  "len": 28,
+  "text": "father. I hated the Mist for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 68,
+  "run": 12,
+  "off": 436,
+  "len": 20,
+  "text": "taking her from him.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 69,
+  "run": 0,
+  "off": 54,
+  "len": 31,
+  "text": "Oh, if you're looking for Pepe,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 69,
+  "run": 1,
+  "off": 87,
+  "len": 29,
+  "text": "he doesn't live here anymore.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 69,
+  "run": 2,
+  "off": 119,
+  "len": 29,
+  "text": "When the Mist disappeared, he",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 69,
+  "run": 3,
+  "off": 150,
+  "len": 32,
+  "text": "turned this house over to me and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 69,
+  "run": 4,
+  "off": 184,
+  "len": 23,
+  "text": "said he was going home.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 0,
+  "off": 83,
+  "len": 19,
+  "text": "Daddy's at work and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 1,
+  "off": 104,
+  "len": 26,
+  "text": "mommy's at the hot spring.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 2,
+  "off": 135,
+  "len": 27,
+  "text": "Mommy and Daddy aren't here",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 3,
+  "off": 164,
+  "len": 29,
+  "text": "anymore. They're in the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 4,
+  "off": 198,
+  "len": 29,
+  "text": "They say that daddy and mommy",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 5,
+  "off": 229,
+  "len": 12,
+  "text": "are missing.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 6,
+  "off": 244,
+  "len": 25,
+  "text": "What does \"missing\" mean?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 70,
+  "run": 7,
+  "off": 271,
+  "len": 26,
+  "text": "When are they coming home?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 0,
+  "off": 77,
+  "len": 15,
+  "text": "Can I help you?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 1,
+  "off": 94,
+  "len": 27,
+  "text": "Do you wish to hear a song?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 2,
+  "off": 250,
+  "len": 5,
+  "text": "Good.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 3,
+  "off": 257,
+  "len": 26,
+  "text": "Then I shall sing for you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 4,
+  "off": 317,
+  "len": 23,
+  "text": "The stars' silent tears",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 5,
+  "off": 342,
+  "len": 24,
+  "text": "The moon's shining smile",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 6,
+  "off": 369,
+  "len": 16,
+  "text": "A ship of dreams",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 7,
+  "off": 387,
+  "len": 19,
+  "text": "sails the Milky Way",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 8,
+  "off": 409,
+  "len": 22,
+  "text": "Look, now, there it is",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 9,
+  "off": 433,
+  "len": 19,
+  "text": "The Gate of Shadows",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 10,
+  "off": 459,
+  "len": 16,
+  "text": "Hari waits there",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 11,
+  "off": 477,
+  "len": 23,
+  "text": "Hari has one heart, but",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 12,
+  "off": 503,
+  "len": 21,
+  "text": "Hari has three faces.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 13,
+  "off": 526,
+  "len": 22,
+  "text": "Hari has three mouths.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 14,
+  "off": 550,
+  "len": 25,
+  "text": "Hari dreams three dreams.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 15,
+  "off": 609,
+  "len": 12,
+  "text": "That is all.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 16,
+  "off": 626,
+  "len": 5,
+  "text": "Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 17,
+  "off": 633,
+  "len": 32,
+  "text": "Just when I was getting into it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 18,
+  "off": 670,
+  "len": 35,
+  "text": "Did you guys come from the outside?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 19,
+  "off": 707,
+  "len": 30,
+  "text": "What's it like on the outside?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 20,
+  "off": 744,
+  "len": 32,
+  "text": "Thick Mist, monsters everywhere.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 21,
+  "off": 778,
+  "len": 28,
+  "text": "It's impossible to describe.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 22,
+  "off": 812,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 23,
+  "off": 824,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 24,
+  "off": 853,
+  "len": 19,
+  "text": "I'm scared! Please!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 25,
+  "off": 874,
+  "len": 22,
+  "text": "Make the Mist go away!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 26,
+  "off": 899,
+  "len": 26,
+  "text": "Make the Mist go away now!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 27,
+  "off": 927,
+  "len": 7,
+  "text": "Please!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 28,
+  "off": 942,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 29,
+  "off": 956,
+  "len": 26,
+  "text": "Mommy and Daddy are in the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 71,
+  "run": 30,
+  "off": 984,
+  "len": 27,
+  "text": "Mist. I just know they are.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 0,
+  "off": 83,
+  "len": 20,
+  "text": "Mrs. Danpas: Oh, my.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 1,
+  "off": 105,
+  "len": 22,
+  "text": "You're strangers here.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 2,
+  "off": 129,
+  "len": 27,
+  "text": "Did you come to see Danpas?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 3,
+  "off": 281,
+  "len": 30,
+  "text": "Mrs. Danpas: If you're looking",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 4,
+  "off": 313,
+  "len": 33,
+  "text": "for my husband, he's underground.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 5,
+  "off": 348,
+  "len": 26,
+  "text": "Just go down those stairs.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 6,
+  "off": 379,
+  "len": 35,
+  "text": "Mrs. Danpas: Oh. While you're here,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 7,
+  "off": 416,
+  "len": 26,
+  "text": "though, take a look at the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 8,
+  "off": 444,
+  "len": 20,
+  "text": "underground shelter.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 9,
+  "off": 469,
+  "len": 31,
+  "text": "Mrs. Danpas: This shelter saved",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 10,
+  "off": 502,
+  "len": 24,
+  "text": "a lot of people in Vidna",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 11,
+  "off": 528,
+  "len": 14,
+  "text": "from the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 12,
+  "off": 545,
+  "len": 24,
+  "text": "Mrs. Danpas: My husband,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 13,
+  "off": 571,
+  "len": 29,
+  "text": "Danpas, he built the shelter,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 14,
+  "off": 602,
+  "len": 15,
+  "text": "but later on...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 15,
+  "off": 620,
+  "len": 31,
+  "text": "Mrs. Danpas: he went outside to",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 16,
+  "off": 653,
+  "len": 35,
+  "text": "look for people who didn't make it,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 17,
+  "off": 690,
+  "len": 20,
+  "text": "and never came back!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 18,
+  "off": 713,
+  "len": 32,
+  "text": "Mrs. Danpas: It's just not fair.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 19,
+  "off": 750,
+  "len": 26,
+  "text": "Mrs. Danpas: To be honest,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 20,
+  "off": 778,
+  "len": 28,
+  "text": "I thought my husband worried",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 21,
+  "off": 808,
+  "len": 9,
+  "text": "too much.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 22,
+  "off": 820,
+  "len": 29,
+  "text": "Mrs. Danpas: But building the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 23,
+  "off": 851,
+  "len": 32,
+  "text": "shelter was so important to him,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 24,
+  "off": 885,
+  "len": 19,
+  "text": "I didn't interfere.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 25,
+  "off": 914,
+  "len": 33,
+  "text": "Mrs. Danpas: But Danpas is alive!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 26,
+  "off": 949,
+  "len": 22,
+  "text": "Please go and see him.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 27,
+  "off": 981,
+  "len": 24,
+  "text": "Mrs. Danpas: He may seem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 28,
+  "off": 1007,
+  "len": 26,
+  "text": "eccentric, but he's really",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 29,
+  "off": 1035,
+  "len": 22,
+  "text": "just a bashful person.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 30,
+  "off": 1062,
+  "len": 32,
+  "text": "Mrs. Danpas: Oh, a Camera Stone.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 31,
+  "off": 1096,
+  "len": 30,
+  "text": "Do you want to take my picture",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 32,
+  "off": 1128,
+  "len": 10,
+  "text": "with that?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 33,
+  "off": 1263,
+  "len": 27,
+  "text": "Mrs. Danpas: Oh, you don't?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 34,
+  "off": 1292,
+  "len": 21,
+  "text": "Well, that's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 35,
+  "off": 1600,
+  "len": 21,
+  "text": "{ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 36,
+  "off": 1623,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 72,
+  "run": 37,
+  "off": 1653,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 73,
+  "run": 0,
+  "off": 86,
+  "len": 22,
+  "text": "Mr. Danpas is strange,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 73,
+  "run": 1,
+  "off": 110,
+  "len": 25,
+  "text": "but he's a very rich man.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 74,
+  "run": 0,
+  "off": 79,
+  "len": 23,
+  "text": "The shelter's completed",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 74,
+  "run": 1,
+  "off": 104,
+  "len": 18,
+  "text": "and ready anytime.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 76,
+  "run": 0,
+  "off": 79,
+  "len": 23,
+  "text": "The windmills stopping?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 76,
+  "run": 1,
+  "off": 104,
+  "len": 33,
+  "text": "That could never happen. Besides,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 76,
+  "run": 2,
+  "off": 139,
+  "len": 22,
+  "text": "the food here is good.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 0,
+  "off": 79,
+  "len": 26,
+  "text": "Danpas: Do you realize how",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 1,
+  "off": 107,
+  "len": 25,
+  "text": "serious the situation is?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 2,
+  "off": 257,
+  "len": 34,
+  "text": "Danpas: The townspeople here don't",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 3,
+  "off": 293,
+  "len": 33,
+  "text": "realize how horrible the Mist is.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 4,
+  "off": 328,
+  "len": 24,
+  "text": "Don't you fellows agree?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 5,
+  "off": 479,
+  "len": 26,
+  "text": "Danpas: You know, you seem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 6,
+  "off": 507,
+  "len": 13,
+  "text": "pretty smart.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 7,
+  "off": 523,
+  "len": 32,
+  "text": "Danpas: What would happen if for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 8,
+  "off": 557,
+  "len": 34,
+  "text": "some reason the windmills stopped?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 9,
+  "off": 593,
+  "len": 30,
+  "text": "The Mist would swallow us all.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 10,
+  "off": 626,
+  "len": 32,
+  "text": "Danpas: We'd all be eaten by the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 11,
+  "off": 660,
+  "len": 27,
+  "text": "Seru, or possessed by them.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 12,
+  "off": 690,
+  "len": 32,
+  "text": "Danpas: That's why I'm preparing",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 13,
+  "off": 724,
+  "len": 22,
+  "text": "for when that happens.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 14,
+  "off": 748,
+  "len": 31,
+  "text": "I built an underground shelter.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 15,
+  "off": 782,
+  "len": 35,
+  "text": "Danpas: And what do the townspeople",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 16,
+  "off": 819,
+  "len": 33,
+  "text": "do? They treat me like a lunatic.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 17,
+  "off": 854,
+  "len": 32,
+  "text": "Fools. Fools! They're all fools!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 18,
+  "off": 889,
+  "len": 31,
+  "text": "Danpas: You seem to know what's",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 19,
+  "off": 922,
+  "len": 29,
+  "text": "going on, so if the Mist ever",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 20,
+  "off": 953,
+  "len": 28,
+  "text": "comes, you can hide in here.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 21,
+  "off": 984,
+  "len": 34,
+  "text": "Danpas: For you fellows, I'll have",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 22,
+  "off": 1020,
+  "len": 32,
+  "text": "an especially good hiding place.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 23,
+  "off": 1057,
+  "len": 31,
+  "text": "Danpas: Oh, this is ridiculous!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 24,
+  "off": 1090,
+  "len": 35,
+  "text": "You don't realize what's happening!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 25,
+  "off": 1127,
+  "len": 32,
+  "text": "Fools, fools, fools, all of you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 26,
+  "off": 1164,
+  "len": 31,
+  "text": "Danpas: Oh, this is ridiculous!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 27,
+  "off": 1197,
+  "len": 35,
+  "text": "You don't realize what's happening!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 28,
+  "off": 1234,
+  "len": 32,
+  "text": "Fools, fools, fools, all of you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 29,
+  "off": 1273,
+  "len": 29,
+  "text": "Danpas: I'm a complete idiot!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 30,
+  "off": 1305,
+  "len": 29,
+  "text": "Danpas: I built a shelter but",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 31,
+  "off": 1336,
+  "len": 16,
+  "text": "can't get to it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 32,
+  "off": 1355,
+  "len": 17,
+  "text": "Danpas: Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 33,
+  "off": 1374,
+  "len": 28,
+  "text": "This shelter is always ready",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 34,
+  "off": 1404,
+  "len": 8,
+  "text": "for use!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 35,
+  "off": 1415,
+  "len": 28,
+  "text": "Danpas: When I go into town,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 36,
+  "off": 1445,
+  "len": 28,
+  "text": "they can't praise me enough,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 37,
+  "off": 1475,
+  "len": 18,
+  "text": "saying I'm a hero!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 38,
+  "off": 1496,
+  "len": 32,
+  "text": "Danpas: That's why I stay hidden",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 39,
+  "off": 1530,
+  "len": 25,
+  "text": "in the shelter like this.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 40,
+  "off": 1558,
+  "len": 17,
+  "text": "Oh, that's right.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 41,
+  "off": 1577,
+  "len": 25,
+  "text": "I have something for you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 42,
+  "off": 1617,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 43,
+  "off": 1629,
+  "len": 7,
+  "text": "the {ITEM:F4}.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 44,
+  "off": 1639,
+  "len": 30,
+  "text": "Danpas: When the Mist cleared,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 45,
+  "off": 1671,
+  "len": 25,
+  "text": "I found this stuck to me.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 46,
+  "off": 1699,
+  "len": 24,
+  "text": "Danpas: Well, take care,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 47,
+  "off": 1725,
+  "len": 11,
+  "text": "all of you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 48,
+  "off": 1741,
+  "len": 31,
+  "text": "Danpas: Better safe than sorry,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 49,
+  "off": 1774,
+  "len": 17,
+  "text": "that's my policy!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 50,
+  "off": 1801,
+  "len": 31,
+  "text": "Danpas: Better safe than sorry.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 51,
+  "off": 1834,
+  "len": 30,
+  "text": "This is the smart thing to do.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 52,
+  "off": 1869,
+  "len": 22,
+  "text": "Danpas: Just a moment!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 53,
+  "off": 1893,
+  "len": 32,
+  "text": "Are you going to take my picture",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 54,
+  "off": 1927,
+  "len": 23,
+  "text": "with that Camera Stone?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 55,
+  "off": 2075,
+  "len": 30,
+  "text": "Absolutely right. Don't take a",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 56,
+  "off": 2107,
+  "len": 30,
+  "text": "picture of an old man like me,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 57,
+  "off": 2139,
+  "len": 26,
+  "text": "take one of a pretty girl!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 58,
+  "off": 2371,
+  "len": 21,
+  "text": "{ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 59,
+  "off": 2394,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 79,
+  "run": 60,
+  "off": 2424,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 0,
+  "off": 69,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 1,
+  "off": 76,
+  "len": 28,
+  "text": "We were traveling the world,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 2,
+  "off": 106,
+  "len": 23,
+  "text": "spreading the teachings",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 3,
+  "off": 131,
+  "len": 9,
+  "text": "of Biron.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 4,
+  "off": 143,
+  "len": 33,
+  "text": "When the Mist came, this is where",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 5,
+  "off": 178,
+  "len": 33,
+  "text": "we were. We barely escaped death!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 6,
+  "off": 216,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 7,
+  "off": 223,
+  "len": 19,
+  "text": "I learned firsthand",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 80,
+  "run": 8,
+  "off": 244,
+  "len": 25,
+  "text": "how dreadful the Mist is.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 0,
+  "off": 69,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 1,
+  "off": 76,
+  "len": 33,
+  "text": "Is Master Zopu of Biron Monastery",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 2,
+  "off": 111,
+  "len": 5,
+  "text": "well?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 3,
+  "off": 241,
+  "len": 12,
+  "text": "That's good.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 4,
+  "off": 255,
+  "len": 27,
+  "text": "I am relieved to hear that.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 5,
+  "off": 287,
+  "len": 26,
+  "text": "Oh, is that what happened?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 6,
+  "off": 315,
+  "len": 30,
+  "text": "So Master Zopu also faces many",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 7,
+  "off": 347,
+  "len": 24,
+  "text": "trials and tribulations.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 8,
+  "off": 376,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 9,
+  "off": 383,
+  "len": 26,
+  "text": "Now that the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 10,
+  "off": 411,
+  "len": 35,
+  "text": "I plan to return to Biron Monastery",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 81,
+  "run": 11,
+  "off": 448,
+  "len": 5,
+  "text": "soon.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 0,
+  "off": 69,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 1,
+  "off": 76,
+  "len": 31,
+  "text": "Sashia has been waiting for you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 2,
+  "off": 109,
+  "len": 23,
+  "text": "for more than 10 years.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 3,
+  "off": 137,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 4,
+  "off": 144,
+  "len": 22,
+  "text": "I wish Sashia the best",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 5,
+  "off": 168,
+  "len": 8,
+  "text": "of luck.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 6,
+  "off": 181,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 82,
+  "run": 7,
+  "off": 188,
+  "len": 30,
+  "text": "I wish I could have seen Hari.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 83,
+  "run": 0,
+  "off": 67,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 83,
+  "run": 1,
+  "off": 74,
+  "len": 30,
+  "text": "I hear Hari is an amazing man.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 83,
+  "run": 2,
+  "off": 106,
+  "len": 35,
+  "text": "I would like to go to Octam myself!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 0,
+  "off": 88,
+  "len": 31,
+  "text": "Sashia: Do you wish to hear The",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 1,
+  "off": 121,
+  "len": 24,
+  "text": "Message from Hari again?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 2,
+  "off": 270,
+  "len": 32,
+  "text": "Sashia: Go to the Temple of Rem!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 3,
+  "off": 304,
+  "len": 31,
+  "text": "See the four Books of Prophecy!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 4,
+  "off": 337,
+  "len": 28,
+  "text": "When you have seen them all,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 5,
+  "off": 368,
+  "len": 33,
+  "text": "Sashia: The secret will be clear!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 6,
+  "off": 403,
+  "len": 30,
+  "text": "A brave Ra-Seru will acquire a",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 7,
+  "off": 435,
+  "len": 26,
+  "text": "great key, the Star Pearl!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 8,
+  "off": 466,
+  "len": 18,
+  "text": "Sashia: Very well.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 9,
+  "off": 486,
+  "len": 21,
+  "text": "Then I wish you luck.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 10,
+  "off": 512,
+  "len": 24,
+  "text": "Sashia: I am from Octam.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 11,
+  "off": 538,
+  "len": 29,
+  "text": "I am worried about my people.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 12,
+  "off": 572,
+  "len": 14,
+  "text": "Sashia: I see.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 13,
+  "off": 588,
+  "len": 27,
+  "text": "The people of Octam escaped",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 14,
+  "off": 617,
+  "len": 25,
+  "text": "to the underground ruins.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 15,
+  "off": 645,
+  "len": 20,
+  "text": "Sashia: That's good.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 16,
+  "off": 667,
+  "len": 31,
+  "text": "I was a priestess at the Temple",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 17,
+  "off": 700,
+  "len": 31,
+  "text": "of Rem, and I was worried about",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 18,
+  "off": 733,
+  "len": 15,
+  "text": "everyone there.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 19,
+  "off": 751,
+  "len": 26,
+  "text": "Sashia: I'm sure that Hari",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 20,
+  "off": 779,
+  "len": 13,
+  "text": "is safe, too.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 21,
+  "off": 797,
+  "len": 27,
+  "text": "Sashia: The Gate of Shadows",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 22,
+  "off": 826,
+  "len": 25,
+  "text": "is an ancient ruin in the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 23,
+  "off": 853,
+  "len": 10,
+  "text": "northeast.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 24,
+  "off": 866,
+  "len": 34,
+  "text": "Sashia: There you'll find a statue",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 25,
+  "off": 902,
+  "len": 32,
+  "text": "just like the one at the Temple.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 26,
+  "off": 936,
+  "len": 26,
+  "text": "It may reveal some secret.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 27,
+  "off": 967,
+  "len": 27,
+  "text": "Sashia: I can't believe it.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 28,
+  "off": 996,
+  "len": 7,
+  "text": "Hari...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 29,
+  "off": 1005,
+  "len": 13,
+  "text": "Hari is dead?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 30,
+  "off": 1023,
+  "len": 25,
+  "text": "Sashia: I somehow managed",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 31,
+  "off": 1050,
+  "len": 11,
+  "text": "to survive.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 32,
+  "off": 1068,
+  "len": 12,
+  "text": "That's good.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 33,
+  "off": 1082,
+  "len": 28,
+  "text": "Where is the Mist Generator?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 34,
+  "off": 1113,
+  "len": 25,
+  "text": "Sashia: But Mr. Danpas...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 35,
+  "off": 1143,
+  "len": 24,
+  "text": "Sashia: I don't know....",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 36,
+  "off": 1170,
+  "len": 26,
+  "text": "Sashia: But I do know that",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 37,
+  "off": 1198,
+  "len": 19,
+  "text": "the Mist blows from",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 38,
+  "off": 1219,
+  "len": 14,
+  "text": "the northwest.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 39,
+  "off": 1236,
+  "len": 31,
+  "text": "Sashia: That means you may find",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 40,
+  "off": 1269,
+  "len": 25,
+  "text": "the Mist Generator if you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 41,
+  "off": 1296,
+  "len": 15,
+  "text": "go past Ratayu.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 42,
+  "off": 1321,
+  "len": 31,
+  "text": "Sashia: With the Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 43,
+  "off": 1354,
+  "len": 35,
+  "text": "stopped, I'm sure Octam is bustling",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 44,
+  "off": 1391,
+  "len": 35,
+  "text": "with people and flying carts again.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 45,
+  "off": 1431,
+  "len": 29,
+  "text": "Oh, so that's a Stone Camera.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 46,
+  "off": 1462,
+  "len": 33,
+  "text": "Are you going to take my picture?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 47,
+  "off": 1620,
+  "len": 15,
+  "text": "I'm so ashamed.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 48,
+  "off": 1637,
+  "len": 13,
+  "text": "Hari... Hari!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 49,
+  "off": 2060,
+  "len": 21,
+  "text": "{ITEM:AD} broke into pieces!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 50,
+  "off": 2083,
+  "len": 28,
+  "text": "Those tourist-trap souvenirs",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 84,
+  "run": 51,
+  "off": 2113,
+  "len": 24,
+  "text": "sure are pieces of junk!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 86,
+  "run": 0,
+  "off": 50,
+  "len": 12,
+  "text": "There are {ITEM:B0}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 86,
+  "run": 1,
+  "off": 64,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 86,
+  "run": 2,
+  "off": 94,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 86,
+  "run": 3,
+  "off": 106,
+  "len": 7,
+  "text": "the {ITEM:B0}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 86,
+  "run": 4,
+  "off": 128,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 87,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 87,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 87,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 87,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 87,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 88,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8C}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 88,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 88,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 88,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8C}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 88,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 89,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 89,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:C2}!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 0,
+  "off": 502,
+  "len": 13,
+  "text": "{NAME:01}: The Mist!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 1,
+  "off": 517,
+  "len": 29,
+  "text": "Vidna is covered in the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 2,
+  "off": 548,
+  "len": 16,
+  "text": "What's going on?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 3,
+  "off": 732,
+  "len": 22,
+  "text": "{NAME:02}: Both of you, look!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 4,
+  "off": 831,
+  "len": 27,
+  "text": "{NAME:02}: The windmills that were",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 5,
+  "off": 860,
+  "len": 31,
+  "text": "protecting Vidna from the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 6,
+  "off": 893,
+  "len": 16,
+  "text": "They've stopped.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 7,
+  "off": 1231,
+  "len": 26,
+  "text": "{NAME:02}: Hmm. You don't suppose",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 8,
+  "off": 1259,
+  "len": 30,
+  "text": "it's because the magma cooled?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 9,
+  "off": 1304,
+  "len": 26,
+  "text": "{NAME:02}: The effects could have",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 10,
+  "off": 1332,
+  "len": 28,
+  "text": "spread this far. What irony!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 11,
+  "off": 1484,
+  "len": 21,
+  "text": "let's see if anyone's",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 90,
+  "run": 12,
+  "off": 1507,
+  "len": 12,
+  "text": "still alive.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 0,
+  "off": 437,
+  "len": 16,
+  "text": "See, I told you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 1,
+  "off": 455,
+  "len": 24,
+  "text": "The water's hot, I said!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 2,
+  "off": 541,
+  "len": 18,
+  "text": "{NAME:01}: No you didn't!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 3,
+  "off": 561,
+  "len": 20,
+  "text": "You didn't say that!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 4,
+  "off": 591,
+  "len": 29,
+  "text": "I didn't? Well, it serves you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 5,
+  "off": 622,
+  "len": 27,
+  "text": "right for not asking. Hmmf.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 6,
+  "off": 785,
+  "len": 16,
+  "text": "See, I told you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 7,
+  "off": 803,
+  "len": 24,
+  "text": "The water's hot, I said!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 8,
+  "off": 829,
+  "len": 10,
+  "text": "Even so...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 9,
+  "off": 842,
+  "len": 20,
+  "text": "You should speak up!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 93,
+  "run": 10,
+  "off": 864,
+  "len": 25,
+  "text": "If it's hot, then say so!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 0,
+  "off": 72,
+  "len": 17,
+  "text": "{NAME} and the others",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 1,
+  "off": 91,
+  "len": 28,
+  "text": "pressed the elevator button!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 2,
+  "off": 128,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 3,
+  "off": 140,
+  "len": 15,
+  "text": "Who..who is it?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 4,
+  "off": 157,
+  "len": 18,
+  "text": "Are y-y-you human?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 5,
+  "off": 309,
+  "len": 19,
+  "text": "Oh, thank goodness!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 6,
+  "off": 330,
+  "len": 31,
+  "text": "So there are still other humans",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 7,
+  "off": 363,
+  "len": 22,
+  "text": "not possessed by Seru.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 8,
+  "off": 388,
+  "len": 17,
+  "text": "Go ahead, get in.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 9,
+  "off": 407,
+  "len": 24,
+  "text": "I'll start the elevator.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 10,
+  "off": 447,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 11,
+  "off": 461,
+  "len": 17,
+  "text": "{NAME} and the others",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 12,
+  "off": 480,
+  "len": 28,
+  "text": "pressed the elevator button!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 13,
+  "off": 517,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 14,
+  "off": 529,
+  "len": 15,
+  "text": "Who..who is it?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 15,
+  "off": 546,
+  "len": 18,
+  "text": "Are y-y-you human?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 16,
+  "off": 696,
+  "len": 13,
+  "text": "Oh, it's you,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 17,
+  "off": 716,
+  "len": 22,
+  "text": "Wait a minute, please.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 18,
+  "off": 741,
+  "len": 17,
+  "text": "Go ahead, get in.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 19,
+  "off": 760,
+  "len": 24,
+  "text": "I'll start the elevator.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 96,
+  "run": 20,
+  "off": 800,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 0,
+  "off": 116,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 1,
+  "off": 128,
+  "len": 19,
+  "text": "Yes, I am Pepe, but",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 2,
+  "off": 149,
+  "len": 17,
+  "text": "what do you want?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 3,
+  "off": 220,
+  "len": 17,
+  "text": "{NAME:01}: Yeah! Hooray!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 4,
+  "off": 239,
+  "len": 21,
+  "text": "It's Pepe! It's Pepe!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 5,
+  "off": 262,
+  "len": 23,
+  "text": "Oh, Pepe, listen, we...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 6,
+  "off": 396,
+  "len": 27,
+  "text": "{NAME:01}: Pepe's alive... I mean,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 7,
+  "off": 425,
+  "len": 25,
+  "text": "of course you're alive...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 8,
+  "off": 452,
+  "len": 34,
+  "text": "This letter... in Jeremi, Zalan...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 9,
+  "off": 540,
+  "len": 5,
+  "text": "What?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 10,
+  "off": 791,
+  "len": 14,
+  "text": "{NAME:02}: I'm sorry.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 11,
+  "off": 807,
+  "len": 22,
+  "text": "She is very excitable.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 12,
+  "off": 905,
+  "len": 19,
+  "text": "{NAME:01}: Uh-huh! Uh-huh!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 13,
+  "off": 967,
+  "len": 24,
+  "text": "{NAME:02}: We have a letter for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 14,
+  "off": 993,
+  "len": 31,
+  "text": "you from your father in Jeremi.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 15,
+  "off": 1026,
+  "len": 11,
+  "text": "Here it is.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 16,
+  "off": 1043,
+  "len": 10,
+  "text": "{NAME:02} gave {ITEM:6A}",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 17,
+  "off": 1055,
+  "len": 8,
+  "text": "to Pepe.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 18,
+  "off": 1131,
+  "len": 29,
+  "text": "<1F>To my dearest Yuma and Pepe:",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 19,
+  "off": 1162,
+  "len": 30,
+  "text": "If you are reading this letter",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 20,
+  "off": 1194,
+  "len": 29,
+  "text": "then thankfully you are safe.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 21,
+  "off": 1225,
+  "len": 31,
+  "text": "I am writing you out of concern",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 22,
+  "off": 1258,
+  "len": 16,
+  "text": "for your safety.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 23,
+  "off": 1276,
+  "len": 31,
+  "text": "Jeremi was covered in the Mist,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 24,
+  "off": 1309,
+  "len": 29,
+  "text": "but thanks to a brave Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 25,
+  "off": 1340,
+  "len": 20,
+  "text": "we are free at last.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 26,
+  "off": 1362,
+  "len": 30,
+  "text": "I lost my memory when the Mist",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 27,
+  "off": 1394,
+  "len": 24,
+  "text": "first came, but now I am",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 28,
+  "off": 1420,
+  "len": 21,
+  "text": "completely recovered.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 29,
+  "off": 1443,
+  "len": 29,
+  "text": "I suppose Vidna is covered by",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 30,
+  "off": 1474,
+  "len": 17,
+  "text": "the Mist as well.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 31,
+  "off": 1493,
+  "len": 30,
+  "text": "I hope that the madness of the",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 32,
+  "off": 1525,
+  "len": 27,
+  "text": "Seru has not possessed you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 33,
+  "off": 1554,
+  "len": 29,
+  "text": "I have so many things to ask.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 34,
+  "off": 1585,
+  "len": 25,
+  "text": "It has been over 10 years",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 35,
+  "off": 1612,
+  "len": 25,
+  "text": "since you left for Vidna,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 36,
+  "off": 1639,
+  "len": 32,
+  "text": "but it seems like only yesterday",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 37,
+  "off": 1673,
+  "len": 31,
+  "text": "since we bid farewell, smiling.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 38,
+  "off": 1706,
+  "len": 30,
+  "text": "Yuma, does the ring I gave you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 39,
+  "off": 1738,
+  "len": 14,
+  "text": "still sparkle?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 40,
+  "off": 1754,
+  "len": 31,
+  "text": "Pepe, how many gems do you know",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 41,
+  "off": 1787,
+  "len": 16,
+  "text": "the name of now?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 42,
+  "off": 1805,
+  "len": 29,
+  "text": "I want to be with you. I want",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 43,
+  "off": 1836,
+  "len": 32,
+  "text": "to tell you how much I love you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 44,
+  "off": 1870,
+  "len": 24,
+  "text": "Stay healthy and strong.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 45,
+  "off": 1896,
+  "len": 20,
+  "text": "Until we meet again,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 46,
+  "off": 1918,
+  "len": 18,
+  "text": "I won't lose hope.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 47,
+  "off": 1938,
+  "len": 25,
+  "text": "Your father, Fat Fingers,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 48,
+  "off": 1965,
+  "len": 6,
+  "text": "Zalan ",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 49,
+  "off": 2082,
+  "len": 31,
+  "text": "Pepe: When I was small, I asked",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 50,
+  "off": 2115,
+  "len": 25,
+  "text": "Mother what attracted her",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 51,
+  "off": 2142,
+  "len": 10,
+  "text": "to Father.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 52,
+  "off": 2155,
+  "len": 25,
+  "text": "Pepe: She said it was his",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 53,
+  "off": 2182,
+  "len": 23,
+  "text": "fat but nimble fingers.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 54,
+  "off": 2208,
+  "len": 22,
+  "text": "Pepe: Ever since then,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 55,
+  "off": 2232,
+  "len": 29,
+  "text": "his nickname around the house",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 56,
+  "off": 2263,
+  "len": 18,
+  "text": "was \"Fat Fingers.\"",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 57,
+  "off": 2296,
+  "len": 28,
+  "text": "Pepe: To tell you the truth,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 58,
+  "off": 2326,
+  "len": 28,
+  "text": "somewhere in my heart, I had",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 59,
+  "off": 2356,
+  "len": 19,
+  "text": "given up on Father.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 60,
+  "off": 2390,
+  "len": 21,
+  "text": "Pepe: But he's alive!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 61,
+  "off": 2413,
+  "len": 26,
+  "text": "Oh, thank you for bringing",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 62,
+  "off": 2441,
+  "len": 11,
+  "text": "the letter.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 63,
+  "off": 2455,
+  "len": 24,
+  "text": "Pepe: Thank you so much!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 64,
+  "off": 2481,
+  "len": 31,
+  "text": "If only Mother were alive, too!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 65,
+  "off": 2564,
+  "len": 10,
+  "text": "Pepe: Yes.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 66,
+  "off": 2576,
+  "len": 29,
+  "text": "Three years ago, she fell ill",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 67,
+  "off": 2607,
+  "len": 9,
+  "text": "and died.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 68,
+  "off": 2626,
+  "len": 24,
+  "text": "Pepe: Oh, wait a minute!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 69,
+  "off": 3032,
+  "len": 24,
+  "text": "Pepe: This is a keepsake",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 70,
+  "off": 3058,
+  "len": 27,
+  "text": "of my mother. If you would,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 71,
+  "off": 3087,
+  "len": 25,
+  "text": "please give it to Father.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 72,
+  "off": 3122,
+  "len": 17,
+  "text": "{NAME} and the others",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 73,
+  "off": 3141,
+  "len": 21,
+  "text": "now have Yuma's ring!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 74,
+  "off": 3239,
+  "len": 27,
+  "text": "Pepe: Please tell Father...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 75,
+  "off": 3268,
+  "len": 29,
+  "text": "tell Zalan of Jeremi that his",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 99,
+  "run": 76,
+  "off": 3299,
+  "len": 13,
+  "text": "son is alive.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 0,
+  "off": 358,
+  "len": 8,
+  "text": "{NAME:01}: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 1,
+  "off": 368,
+  "len": 28,
+  "text": "{NAME:02}, look! People from Biron!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 2,
+  "off": 398,
+  "len": 27,
+  "text": "It's a lot of Biron people!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 3,
+  "off": 456,
+  "len": 14,
+  "text": "{NAME:02}: (Surprise)",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 4,
+  "off": 512,
+  "len": 21,
+  "text": "{NAME:01}: {NAME:02}, what's wrong?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 5,
+  "off": 535,
+  "len": 26,
+  "text": "I thought the Biron people",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 6,
+  "off": 563,
+  "len": 18,
+  "text": "were your friends.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 7,
+  "off": 644,
+  "len": 23,
+  "text": "{NAME:02}: It's just that I've",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 8,
+  "off": 669,
+  "len": 31,
+  "text": "violated the teachings of Biron",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 9,
+  "off": 702,
+  "len": 16,
+  "text": "by wearing Ozma.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 10,
+  "off": 760,
+  "len": 22,
+  "text": "{NAME:01}: What's the matter,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 11,
+  "off": 784,
+  "len": 21,
+  "text": "{NAME:02}? Zopu forgave you!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 12,
+  "off": 807,
+  "len": 9,
+  "text": "Then why?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 13,
+  "off": 837,
+  "len": 20,
+  "text": "say something to {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 14,
+  "off": 864,
+  "len": 32,
+  "text": "He'll understand if you explain.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 15,
+  "off": 898,
+  "len": 27,
+  "text": "{NAME:02}, don't torment yourself!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 16,
+  "off": 982,
+  "len": 10,
+  "text": "{NAME:02}: But...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 17,
+  "off": 1016,
+  "len": 12,
+  "text": "{NAME} is right!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 18,
+  "off": 1030,
+  "len": 18,
+  "text": "And what's more...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 19,
+  "off": 1087,
+  "len": 29,
+  "text": "{NAME:01}: Ozma isn't a Seru. He's a",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 20,
+  "off": 1118,
+  "len": 25,
+  "text": "Ra-Seru. So you didn't do",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 21,
+  "off": 1145,
+  "len": 15,
+  "text": "anything wrong!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 22,
+  "off": 1240,
+  "len": 8,
+  "text": "Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 23,
+  "off": 1250,
+  "len": 27,
+  "text": "Did you just say \"Ra-Seru\"?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 24,
+  "off": 1346,
+  "len": 17,
+  "text": "{NAME:01}: That's right!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 25,
+  "off": 1365,
+  "len": 24,
+  "text": "A Ra-Seru isn't the same",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 26,
+  "off": 1391,
+  "len": 16,
+  "text": "thing as a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 27,
+  "off": 1463,
+  "len": 9,
+  "text": "Oh, Hari,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 28,
+  "off": 1474,
+  "len": 28,
+  "text": "your prophecy has come true!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 29,
+  "off": 1529,
+  "len": 16,
+  "text": "{NAME:02}: And you are?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 30,
+  "off": 1610,
+  "len": 29,
+  "text": "Allow me to introduce myself.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 31,
+  "off": 1641,
+  "len": 19,
+  "text": "I am called Sashia.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 32,
+  "off": 1708,
+  "len": 11,
+  "text": "{NAME:01}: Sashia,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 33,
+  "off": 1721,
+  "len": 27,
+  "text": "are you a friend of Hari's?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 34,
+  "off": 1754,
+  "len": 30,
+  "text": "Sashia: Not really a friend...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 35,
+  "off": 1786,
+  "len": 30,
+  "text": "I serve Hari. I am a priestess",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 36,
+  "off": 1818,
+  "len": 21,
+  "text": "at the Temple of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 37,
+  "off": 1842,
+  "len": 29,
+  "text": "Sashia: Before the Mist came,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 38,
+  "off": 1873,
+  "len": 24,
+  "text": "Hari instructed me to go",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 39,
+  "off": 1899,
+  "len": 9,
+  "text": "to Vidna.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 40,
+  "off": 1911,
+  "len": 25,
+  "text": "Sashia: I was to wait for",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 41,
+  "off": 1938,
+  "len": 32,
+  "text": "three youths wearing Ra-Seru and",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 42,
+  "off": 1972,
+  "len": 22,
+  "text": "give them The Message.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 43,
+  "off": 2033,
+  "len": 18,
+  "text": "{NAME:02}: Hari knew that",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 44,
+  "off": 2053,
+  "len": 19,
+  "text": "we would come here?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 45,
+  "off": 2123,
+  "len": 8,
+  "text": "{NAME:01}: Wow!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 46,
+  "off": 2133,
+  "len": 34,
+  "text": "That Hari is amazing! Where is he?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 47,
+  "off": 2169,
+  "len": 19,
+  "text": "I want to meet him!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 48,
+  "off": 2200,
+  "len": 27,
+  "text": "Sashia: I am sure that Hari",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 49,
+  "off": 2229,
+  "len": 23,
+  "text": "awaits your visit, too.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 50,
+  "off": 2255,
+  "len": 28,
+  "text": "Sashia: I shall now give you",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 51,
+  "off": 2285,
+  "len": 29,
+  "text": "The Message, as instructed by",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 52,
+  "off": 2316,
+  "len": 5,
+  "text": "Hari.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 53,
+  "off": 2404,
+  "len": 32,
+  "text": "Sashia: Go to the Temple of Rem!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 54,
+  "off": 2438,
+  "len": 31,
+  "text": "See the four Books of Prophecy!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 55,
+  "off": 2471,
+  "len": 28,
+  "text": "When you have seen them all,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 56,
+  "off": 2502,
+  "len": 33,
+  "text": "Sashia: the secret will be clear!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 57,
+  "off": 2537,
+  "len": 30,
+  "text": "A brave Ra-Seru will acquire a",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 58,
+  "off": 2569,
+  "len": 26,
+  "text": "great key, the Star Pearl!",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 59,
+  "off": 2715,
+  "len": 27,
+  "text": "{NAME:02}: Four Books of Prophecy?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 60,
+  "off": 2744,
+  "len": 25,
+  "text": "Star Pearl? What is this,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 61,
+  "off": 2771,
+  "len": 9,
+  "text": "a riddle?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 62,
+  "off": 2792,
+  "len": 33,
+  "text": "Sashia: Hari said that with this,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 63,
+  "off": 2827,
+  "len": 26,
+  "text": "the youths wearing Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 64,
+  "off": 2855,
+  "len": 17,
+  "text": "would find a way.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 65,
+  "off": 2878,
+  "len": 10,
+  "text": "{NAME:02}: Umm...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 66,
+  "off": 2899,
+  "len": 17,
+  "text": "Excuse me, but...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 67,
+  "off": 3038,
+  "len": 20,
+  "text": "I have heard of you.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 68,
+  "off": 3060,
+  "len": 22,
+  "text": "You are of Biron, yes?",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 69,
+  "off": 3157,
+  "len": 29,
+  "text": "{NAME:02}: Actually, not... anymore.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 70,
+  "off": 3192,
+  "len": 30,
+  "text": "Things being the way they are,",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 71,
+  "off": 3224,
+  "len": 24,
+  "text": "I am sure there are very",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 72,
+  "off": 3250,
+  "len": 28,
+  "text": "good reasons. Nonetheless...",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 73,
+  "off": 3281,
+  "len": 32,
+  "text": "You are the visitors that Sashia",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 74,
+  "off": 3315,
+  "len": 29,
+  "text": "has waited for all this time.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 75,
+  "off": 3346,
+  "len": 18,
+  "text": "Please, rest here.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 76,
+  "off": 3685,
+  "len": 25,
+  "text": "Sashia: The Temple of Rem",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 77,
+  "off": 3712,
+  "len": 12,
+  "text": "is in Octam.",
+  "ko": ""
+ },
+ {
+  "map": 185,
+  "script": 105,
+  "run": 78,
+  "off": 3726,
+  "len": 21,
+  "text": "Good luck to you all.",
+  "ko": ""
+ }
+]

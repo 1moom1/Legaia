@@ -1,0 +1,1496 @@
+[
+ {
+  "map": 495,
+  "script": 3,
+  "run": 0,
+  "off": 21,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 3,
+  "run": 1,
+  "off": 40,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 4,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 4,
+  "run": 1,
+  "off": 42,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 5,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 5,
+  "run": 1,
+  "off": 42,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 6,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 6,
+  "run": 1,
+  "off": 42,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 0,
+  "off": 26,
+  "len": 22,
+  "text": "Oh, you must have come",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 1,
+  "off": 50,
+  "len": 29,
+  "text": "from below... Just like Gaza!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 2,
+  "off": 84,
+  "len": 30,
+  "text": "Everyone thought that when the",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 3,
+  "off": 116,
+  "len": 30,
+  "text": "Mist went away, all the people",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 4,
+  "off": 148,
+  "len": 31,
+  "text": "possessed by Seru would return.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 5,
+  "off": 182,
+  "len": 27,
+  "text": "But few actually came back.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 10,
+  "run": 6,
+  "off": 211,
+  "len": 32,
+  "text": "It must be Gaza. He must have...",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 0,
+  "off": 21,
+  "len": 30,
+  "text": "Daddy and Mommy told me not to",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 1,
+  "off": 53,
+  "len": 30,
+  "text": "go below the 3rd floor, 'cause",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 2,
+  "off": 85,
+  "len": 18,
+  "text": "the Mist is there.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 3,
+  "off": 108,
+  "len": 28,
+  "text": "Daddy and Mommy told me it's",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 4,
+  "off": 138,
+  "len": 24,
+  "text": "safe now to go below the",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 5,
+  "off": 164,
+  "len": 10,
+  "text": "3rd floor.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 11,
+  "run": 6,
+  "off": 177,
+  "len": 28,
+  "text": "I want to go there and play!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 0,
+  "off": 18,
+  "len": 29,
+  "text": "Below is Hell. Above, Heaven!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 1,
+  "off": 49,
+  "len": 23,
+  "text": "That's the town of Sol!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 2,
+  "off": 75,
+  "len": 28,
+  "text": "Go upstairs and have a ball!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 3,
+  "off": 105,
+  "len": 19,
+  "text": "This is a fun town!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 4,
+  "off": 129,
+  "len": 29,
+  "text": "A Coliseum arena, dance club,",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 5,
+  "off": 160,
+  "len": 29,
+  "text": "theater -- they're all packed",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 12,
+  "run": 6,
+  "off": 191,
+  "len": 31,
+  "text": "with people having a good time!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 13,
+  "run": 0,
+  "off": 37,
+  "len": 33,
+  "text": "Um, you know, the Mist is heavier",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 13,
+  "run": 1,
+  "off": 72,
+  "len": 33,
+  "text": "than air, so it can't get up this",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 13,
+  "run": 2,
+  "off": 107,
+  "len": 5,
+  "text": "high!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 13,
+  "run": 3,
+  "off": 117,
+  "len": 30,
+  "text": "Now that the Mist is gone, you",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 13,
+  "run": 4,
+  "off": 149,
+  "len": 34,
+  "text": "can see all the way to the bottom!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 0,
+  "off": 23,
+  "len": 29,
+  "text": "To fight at the Coliseum, you",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 1,
+  "off": 54,
+  "len": 32,
+  "text": "have to be either very confident",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 2,
+  "off": 88,
+  "len": 15,
+  "text": "or very stupid.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 3,
+  "off": 106,
+  "len": 31,
+  "text": "You're not thinking of fighting",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 4,
+  "off": 139,
+  "len": 25,
+  "text": "at the Coliseum, are you?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 5,
+  "off": 171,
+  "len": 10,
+  "text": "Yes, I am.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 6,
+  "off": 183,
+  "len": 12,
+  "text": "No, I'm not.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 7,
+  "off": 306,
+  "len": 24,
+  "text": "Ha, ha! Then you must be",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 8,
+  "off": 332,
+  "len": 12,
+  "text": "very stupid!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 9,
+  "off": 349,
+  "len": 28,
+  "text": "Oh, so you're an unconfident",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 10,
+  "off": 379,
+  "len": 17,
+  "text": "coward, are you?!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 11,
+  "off": 401,
+  "len": 28,
+  "text": "Since you defeated Gaza, you",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 12,
+  "off": 431,
+  "len": 28,
+  "text": "would be undefeatable at the",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 14,
+  "run": 13,
+  "off": 461,
+  "len": 9,
+  "text": "Coliseum!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 0,
+  "off": 41,
+  "len": 30,
+  "text": "Be careful when you go to the ",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 1,
+  "off": 73,
+  "len": 5,
+  "text": "cafe!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 2,
+  "off": 80,
+  "len": 35,
+  "text": "I heard a rumor that a crafty thief",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 3,
+  "off": 117,
+  "len": 32,
+  "text": "named Cara goes there sometimes.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 4,
+  "off": 154,
+  "len": 28,
+  "text": "Now that the Mist is gone, I",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 5,
+  "off": 184,
+  "len": 30,
+  "text": "feel like celebrating! I think",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 15,
+  "run": 6,
+  "off": 216,
+  "len": 20,
+  "text": "I'll go to the cafe!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 16,
+  "run": 0,
+  "off": 40,
+  "len": 33,
+  "text": "Oh, the decadence! The depravity!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 16,
+  "run": 1,
+  "off": 75,
+  "len": 31,
+  "text": "Good children should stay clear",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 16,
+  "run": 2,
+  "off": 108,
+  "len": 12,
+  "text": "of the cafe!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 16,
+  "run": 3,
+  "off": 125,
+  "len": 28,
+  "text": "Decadence and depravity are ",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 16,
+  "run": 4,
+  "off": 155,
+  "len": 33,
+  "text": "both good! I'm going to celebrate",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 16,
+  "run": 5,
+  "off": 190,
+  "len": 21,
+  "text": "this joyous occasion!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 0,
+  "off": 23,
+  "len": 31,
+  "text": "I haven't seen you here before.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 1,
+  "off": 56,
+  "len": 31,
+  "text": "Are you from the outside world?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 2,
+  "off": 212,
+  "len": 27,
+  "text": "Then you must have seen the",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 3,
+  "off": 241,
+  "len": 18,
+  "text": "castle in the sky.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 4,
+  "off": 262,
+  "len": 32,
+  "text": "It's called the Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 5,
+  "off": 296,
+  "len": 29,
+  "text": "The Mist covering the Karisto",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 6,
+  "off": 327,
+  "len": 31,
+  "text": "Kingdom comes from that castle.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 7,
+  "off": 363,
+  "len": 28,
+  "text": "Ha, ha! Well, I know this is",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 8,
+  "off": 393,
+  "len": 19,
+  "text": "a dangerous town...",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 9,
+  "off": 415,
+  "len": 31,
+  "text": "But that doesn't mean you don't",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 10,
+  "off": 448,
+  "len": 35,
+  "text": "have to answer a question honestly!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 11,
+  "off": 492,
+  "len": 24,
+  "text": "Hey! You're the ones who",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 12,
+  "off": 518,
+  "len": 31,
+  "text": "resurrected the Genesis Tree in",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 13,
+  "off": 551,
+  "len": 24,
+  "text": "Warrior's Square, right?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 14,
+  "off": 700,
+  "len": 30,
+  "text": "Really! We're all so grateful!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 15,
+  "off": 732,
+  "len": 12,
+  "text": "So grateful!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 16,
+  "off": 747,
+  "len": 33,
+  "text": "Now if you'd destroy the Floating",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 17,
+  "off": 782,
+  "len": 29,
+  "text": "Castle and get rid of all the",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 18,
+  "off": 813,
+  "len": 23,
+  "text": "Mist, we'd be ecstatic!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 19,
+  "off": 841,
+  "len": 27,
+  "text": "Oh. I must have mistook you",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 20,
+  "off": 870,
+  "len": 24,
+  "text": "for someone else. Sorry.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 21,
+  "off": 899,
+  "len": 25,
+  "text": "I wish I could go outside",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 17,
+  "run": 22,
+  "off": 926,
+  "len": 19,
+  "text": "for some fresh air.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 0,
+  "off": 27,
+  "len": 35,
+  "text": "Life is so empty. Each day the same",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 1,
+  "off": 64,
+  "len": 34,
+  "text": "as the one before. The monotony is",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 2,
+  "off": 100,
+  "len": 11,
+  "text": "unbearable!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 3,
+  "off": 114,
+  "len": 32,
+  "text": "Maybe I'll get a Seru somewhere,",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 4,
+  "off": 148,
+  "len": 28,
+  "text": "put it on and go downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 5,
+  "off": 179,
+  "len": 32,
+  "text": "If I turned into a Seru monster,",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 6,
+  "off": 213,
+  "len": 32,
+  "text": "at least the madness wouldn't be",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 7,
+  "off": 247,
+  "len": 7,
+  "text": "boring!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 8,
+  "off": 257,
+  "len": 29,
+  "text": "It might be a lot better than",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 9,
+  "off": 288,
+  "len": 28,
+  "text": "being a lifeless shell here.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 10,
+  "off": 321,
+  "len": 31,
+  "text": "Well yes, the Mist is gone, but",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 11,
+  "off": 354,
+  "len": 31,
+  "text": "I just don't know what I should",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 18,
+  "run": 12,
+  "off": 387,
+  "len": 19,
+  "text": "do with myself now.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 19,
+  "run": 0,
+  "off": 27,
+  "len": 30,
+  "text": "I'm going to go the dance club",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 19,
+  "run": 1,
+  "off": 59,
+  "len": 28,
+  "text": "and enter the Dance Contest!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 19,
+  "run": 2,
+  "off": 98,
+  "len": 23,
+  "text": "You're the Dance Queen,",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 19,
+  "run": 3,
+  "off": 123,
+  "len": 17,
+  "text": "{NAME:01}! I'm a big fan",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 19,
+  "run": 4,
+  "off": 142,
+  "len": 9,
+  "text": "of yours!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 20,
+  "run": 0,
+  "off": 30,
+  "len": 33,
+  "text": "Oh, you've got a cute little girl",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 20,
+  "run": 1,
+  "off": 65,
+  "len": 25,
+  "text": "with you. You should take",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 20,
+  "run": 2,
+  "off": 92,
+  "len": 22,
+  "text": "her to the dance club!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 20,
+  "run": 3,
+  "off": 119,
+  "len": 23,
+  "text": "{NAME:01}, can you teach me to",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 20,
+  "run": 4,
+  "off": 144,
+  "len": 14,
+  "text": "dance someday?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 0,
+  "off": 23,
+  "len": 34,
+  "text": "That's the Sol 3rd Street Theater.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 1,
+  "off": 59,
+  "len": 35,
+  "text": "It used to be called the Capital of",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 2,
+  "off": 96,
+  "len": 9,
+  "text": "Comedy...",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 3,
+  "off": 108,
+  "len": 20,
+  "text": "But now they call it",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 4,
+  "off": 130,
+  "len": 20,
+  "text": "the Palace of Yawns.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 5,
+  "off": 155,
+  "len": 25,
+  "text": "{NAME:02} and Mon are a big hit!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 6,
+  "off": 182,
+  "len": 30,
+  "text": "Thanks to them, the 3rd Street",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 21,
+  "run": 7,
+  "off": 214,
+  "len": 31,
+  "text": "Theater is drawing huge crowds!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 22,
+  "run": 0,
+  "off": 23,
+  "len": 6,
+  "text": "Hey...",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 22,
+  "run": 1,
+  "off": 32,
+  "len": 35,
+  "text": "You, the big fellow there. You look",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 22,
+  "run": 2,
+  "off": 69,
+  "len": 28,
+  "text": "just like Pig, the comedian.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 22,
+  "run": 3,
+  "off": 102,
+  "len": 26,
+  "text": "Hey, it's {NAME:02} the comedian!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 22,
+  "run": 4,
+  "off": 130,
+  "len": 32,
+  "text": "You're the funniest straight man",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 22,
+  "run": 5,
+  "off": 164,
+  "len": 7,
+  "text": "around!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 0,
+  "off": 46,
+  "len": 29,
+  "text": "6th Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 1,
+  "off": 86,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 2,
+  "off": 115,
+  "len": 16,
+  "text": "Cara and Grantes",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 3,
+  "off": 142,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 4,
+  "off": 171,
+  "len": 26,
+  "text": "Cara and Grantes Continued",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 5,
+  "off": 208,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 6,
+  "off": 237,
+  "len": 25,
+  "text": "Winning the Dance Contest",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 7,
+  "off": 273,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 8,
+  "off": 302,
+  "len": 21,
+  "text": "The storm of applause",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 9,
+  "off": 334,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 10,
+  "off": 363,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 11,
+  "off": 413,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 12,
+  "off": 447,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 13,
+  "off": 453,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 14,
+  "off": 464,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 27,
+  "run": 15,
+  "off": 475,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 0,
+  "off": 114,
+  "len": 34,
+  "text": "Cara: Oh, I can't take it anymore!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 1,
+  "off": 151,
+  "len": 30,
+  "text": "Cara: Start acting like a man!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 2,
+  "off": 480,
+  "len": 14,
+  "text": "{NAME:01}: It's Cara!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 3,
+  "off": 496,
+  "len": 24,
+  "text": "{NAME}, that's Cara's voice!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 4,
+  "off": 732,
+  "len": 27,
+  "text": "{NAME:02}: It's coming from there.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 5,
+  "off": 761,
+  "len": 27,
+  "text": "It sounds like an argument.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 6,
+  "off": 879,
+  "len": 17,
+  "text": "{NAME:01}: Let's go see!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 7,
+  "off": 898,
+  "len": 20,
+  "text": "{NAME}, let's go inside!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 8,
+  "off": 1071,
+  "len": 21,
+  "text": "{NAME:02}: That {NAME:01} is always",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 9,
+  "off": 1094,
+  "len": 20,
+  "text": "poking her nose into",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 10,
+  "off": 1116,
+  "len": 11,
+  "text": "everything!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 11,
+  "off": 1139,
+  "len": 16,
+  "text": "{NAME:02}: Come on, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 44,
+  "run": 12,
+  "off": 1157,
+  "len": 9,
+  "text": "Let's go.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 0,
+  "off": 285,
+  "len": 33,
+  "text": "This is adult business. You can't",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 1,
+  "off": 320,
+  "len": 30,
+  "text": "go sticking your nose into it.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 2,
+  "off": 518,
+  "len": 27,
+  "text": "{NAME:01}: Why? Adults are humans,",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 3,
+  "off": 547,
+  "len": 21,
+  "text": "too! And I'm a human!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 4,
+  "off": 774,
+  "len": 29,
+  "text": "{NAME:01}: I'm human just like them!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 5,
+  "off": 805,
+  "len": 23,
+  "text": "Oh, I don't understand!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 6,
+  "off": 830,
+  "len": 16,
+  "text": "{NAME:02}, tell me why!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 7,
+  "off": 888,
+  "len": 16,
+  "text": "{NAME:02}: Oh, brother.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 8,
+  "off": 1465,
+  "len": 22,
+  "text": "{NAME:01}: You're so strange.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 9,
+  "off": 1515,
+  "len": 16,
+  "text": "{NAME:02}: Come on, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 10,
+  "off": 1533,
+  "len": 26,
+  "text": "You want to go to Conkram,",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 11,
+  "off": 1561,
+  "len": 7,
+  "text": "right?!",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 12,
+  "off": 1577,
+  "len": 24,
+  "text": "{NAME:02}: You want to see your",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 13,
+  "off": 1603,
+  "len": 26,
+  "text": "parents in Conkram, right?",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 14,
+  "off": 1662,
+  "len": 17,
+  "text": "{NAME:01}: Y-Yeah, I do.",
+  "ko": ""
+ },
+ {
+  "map": 495,
+  "script": 45,
+  "run": 15,
+  "off": 1793,
+  "len": 32,
+  "text": "I'll take care of Grantes later!",
+  "ko": ""
+ }
+]

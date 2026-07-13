@@ -1,0 +1,2405 @@
+[
+ {
+  "map": 719,
+  "script": 16,
+  "run": 0,
+  "off": 27,
+  "len": 8,
+  "text": "One knee",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 16,
+  "run": 1,
+  "off": 53,
+  "len": 11,
+  "text": "Jumping out",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 16,
+  "run": 2,
+  "off": 82,
+  "len": 14,
+  "text": "Rolling (loop)",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 16,
+  "run": 3,
+  "off": 114,
+  "len": 7,
+  "text": "Slither",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 16,
+  "run": 4,
+  "off": 139,
+  "len": 16,
+  "text": "Spring up (loop)",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 16,
+  "run": 5,
+  "off": 173,
+  "len": 11,
+  "text": "Slap (loop)",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 16,
+  "run": 6,
+  "off": 202,
+  "len": 11,
+  "text": "Slap (loop)",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 21,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:82}",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 21,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 21,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 21,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:82}!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 21,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 22,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:79}",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 22,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 22,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 22,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:79}!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 22,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:87}",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 23,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 23,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:87}!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 23,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 24,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:4A}",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 24,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 24,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 24,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:4A}!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 24,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 25,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 25,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 25,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 25,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 25,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 0,
+  "off": 266,
+  "len": 21,
+  "text": "{NAME:01}: The Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 1,
+  "off": 351,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Look! That's the Great",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 2,
+  "off": 383,
+  "len": 34,
+  "text": "Genesis Tree that the power of the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 3,
+  "off": 419,
+  "len": 31,
+  "text": "Seru-kai and the Ra-Seru flows.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 4,
+  "off": 537,
+  "len": 26,
+  "text": "{NAME:02}: It is indeed a massive",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 5,
+  "off": 565,
+  "len": 34,
+  "text": "Genesis Tree as the name suggests,",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 6,
+  "off": 601,
+  "len": 6,
+  "text": "but...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 7,
+  "off": 661,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Great Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 8,
+  "off": 693,
+  "len": 30,
+  "text": "seems weak. It will die unless",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 9,
+  "off": 725,
+  "len": 16,
+  "text": "we do something.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 10,
+  "off": 747,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: That is a special",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 11,
+  "off": 774,
+  "len": 32,
+  "text": "Sim-Seru. It's robbing the Great",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 12,
+  "off": 808,
+  "len": 31,
+  "text": "Genesis Tree of its life force!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 13,
+  "off": 935,
+  "len": 24,
+  "text": "{NAME:01}: If the Great Genesis",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 14,
+  "off": 961,
+  "len": 29,
+  "text": "Tree dies, will you die, too,",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 15,
+  "off": 992,
+  "len": 6,
+  "text": "Terra?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 16,
+  "off": 1059,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Yes, I suppose... that",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 17,
+  "off": 1091,
+  "len": 20,
+  "text": "is what will happen.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 18,
+  "off": 1204,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 19,
+  "off": 1227,
+  "len": 25,
+  "text": "We can't let that happen!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 20,
+  "off": 1365,
+  "len": 25,
+  "text": "{NAME:02}: Maybe we can save the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 21,
+  "off": 1392,
+  "len": 19,
+  "text": "Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 55,
+  "run": 22,
+  "off": 1413,
+  "len": 24,
+  "text": "Let's get a closer look!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 0,
+  "off": 262,
+  "len": 10,
+  "text": "{NAME:01}: Songi!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 1,
+  "off": 399,
+  "len": 29,
+  "text": "{NAME:02}: Songi! What are you doing",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 2,
+  "off": 430,
+  "len": 26,
+  "text": "to the Great Genesis Tree?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 3,
+  "off": 647,
+  "len": 16,
+  "text": "Songi: Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 4,
+  "off": 665,
+  "len": 30,
+  "text": "The muscle-bound oaf must have",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 5,
+  "off": 697,
+  "len": 14,
+  "text": "a loose screw!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 6,
+  "off": 724,
+  "len": 34,
+  "text": "Songi: It's obvious! I am using my",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 7,
+  "off": 760,
+  "len": 29,
+  "text": "special Sim-Seru to drain the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 8,
+  "off": 791,
+  "len": 33,
+  "text": "powers of the Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 9,
+  "off": 827,
+  "len": 35,
+  "text": "Songi: Once I absorb all its power,",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 10,
+  "off": 864,
+  "len": 24,
+  "text": "the Seru-kai will die...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 11,
+  "off": 958,
+  "len": 33,
+  "text": "Songi: And then I, not Cort, will",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 12,
+  "off": 993,
+  "len": 33,
+  "text": "have the power to rule the world!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 13,
+  "off": 1163,
+  "len": 19,
+  "text": "{NAME:01}: But this is the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 14,
+  "off": 1184,
+  "len": 16,
+  "text": "Seru-kai! And...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 15,
+  "off": 1203,
+  "len": 25,
+  "text": "{NAME:01}: And the Great Genesis",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 16,
+  "off": 1230,
+  "len": 28,
+  "text": "Tree belongs to the Ra-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 17,
+  "off": 1265,
+  "len": 28,
+  "text": "{NAME:01}: So how can you come here",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 18,
+  "off": 1295,
+  "len": 32,
+  "text": "and drain away the Great Genesis",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 19,
+  "off": 1329,
+  "len": 13,
+  "text": "Tree's life?!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 20,
+  "off": 1476,
+  "len": 31,
+  "text": "Songi: Heh heh! A good question",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 21,
+  "off": 1509,
+  "len": 30,
+  "text": "for a barbarian girl like you.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 22,
+  "off": 1541,
+  "len": 28,
+  "text": "Well then, I shall tell you.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 23,
+  "off": 1597,
+  "len": 26,
+  "text": "Songi: My Seru grew from a",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 24,
+  "off": 1625,
+  "len": 33,
+  "text": "Ra-Seru Egg from East Voz Forest.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 25,
+  "off": 1700,
+  "len": 32,
+  "text": "Songi: In other words, this is a",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 26,
+  "off": 1734,
+  "len": 8,
+  "text": "Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 27,
+  "off": 1829,
+  "len": 15,
+  "text": "{NAME:02}: Impossible!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 28,
+  "off": 1869,
+  "len": 29,
+  "text": "Songi: It was Cort who took a",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 29,
+  "off": 1900,
+  "len": 35,
+  "text": "Ra-Seru Egg that lost its strength,",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 30,
+  "off": 1937,
+  "len": 30,
+  "text": "and turned it into a Sim-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 31,
+  "off": 1970,
+  "len": 30,
+  "text": "Songi: By fusing myself with a",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 32,
+  "off": 2002,
+  "len": 29,
+  "text": "Sim-Seru born of a Ra-Seru, I",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 33,
+  "off": 2033,
+  "len": 35,
+  "text": "have become the ultimate life form.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 34,
+  "off": 2149,
+  "len": 28,
+  "text": "Songi: Ha ha ha! I am a god!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 35,
+  "off": 2179,
+  "len": 26,
+  "text": "The second coming of Tieg!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 36,
+  "off": 2338,
+  "len": 26,
+  "text": "{NAME:01}: You're Tieg? You can't",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 37,
+  "off": 2366,
+  "len": 8,
+  "text": "be Tieg!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 38,
+  "off": 2451,
+  "len": 27,
+  "text": "{NAME:02}: Don't be a fool, Songi!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 39,
+  "off": 2480,
+  "len": 32,
+  "text": "Cort's evil ambitions have taken",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 40,
+  "off": 2514,
+  "len": 18,
+  "text": "hold of your soul!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 41,
+  "off": 2708,
+  "len": 24,
+  "text": "Songi: You are the fool!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 42,
+  "off": 2735,
+  "len": 23,
+  "text": "Songi: And you, {NAME:02}! You",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 43,
+  "off": 2760,
+  "len": 27,
+  "text": "and the rest are also being",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 44,
+  "off": 2789,
+  "len": 28,
+  "text": "controlled by those Ra-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 45,
+  "off": 2820,
+  "len": 30,
+  "text": "Songi: Ha ha ha! So we are all",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 46,
+  "off": 2852,
+  "len": 34,
+  "text": "heretics who have strayed from the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 47,
+  "off": 2888,
+  "len": 30,
+  "text": "path of Biron! We're comrades!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 48,
+  "off": 3056,
+  "len": 23,
+  "text": "Songi: So let us settle",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 49,
+  "off": 3081,
+  "len": 24,
+  "text": "things once and for all.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 56,
+  "run": 50,
+  "off": 3107,
+  "len": 29,
+  "text": "Come at me! All three of you!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 0,
+  "off": 218,
+  "len": 25,
+  "text": "Songi: No! The Ra-Seru is",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 1,
+  "off": 245,
+  "len": 24,
+  "text": "separating from my body!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 2,
+  "off": 381,
+  "len": 28,
+  "text": "Songi: Ha ha ha! Look at me,",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 3,
+  "off": 411,
+  "len": 21,
+  "text": "{NAME:02}! How pitiful I am!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 4,
+  "off": 435,
+  "len": 29,
+  "text": "Songi: Even with the power of",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 5,
+  "off": 466,
+  "len": 26,
+  "text": "the Ra-Seru, I couldn't...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 6,
+  "off": 494,
+  "len": 18,
+  "text": "couldn't defeat...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 7,
+  "off": 539,
+  "len": 11,
+  "text": "Songi: Ooh!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 8,
+  "off": 708,
+  "len": 24,
+  "text": "{NAME:02}: Songi, what's wrong!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 9,
+  "off": 872,
+  "len": 13,
+  "text": "Songi: Arrgh!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 10,
+  "off": 887,
+  "len": 20,
+  "text": "My whole body hurts!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 11,
+  "off": 909,
+  "len": 16,
+  "text": "I can't take it!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 12,
+  "off": 982,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: The Seru-kai is a world",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 13,
+  "off": 1015,
+  "len": 29,
+  "text": "intolerant of the presence of",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 14,
+  "off": 1046,
+  "len": 22,
+  "text": "ordinary human beings.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 15,
+  "off": 1190,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now that he has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 16,
+  "off": 1215,
+  "len": 25,
+  "text": "lost his Seru, Songi will",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 17,
+  "off": 1242,
+  "len": 22,
+  "text": "return to nothingness.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 18,
+  "off": 1350,
+  "len": 14,
+  "text": "Songi: {NAME:02}! {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 19,
+  "off": 1366,
+  "len": 30,
+  "text": "The pain is unbearable! You're",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 20,
+  "off": 1398,
+  "len": 21,
+  "text": "my friend... Help me!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 21,
+  "off": 1437,
+  "len": 21,
+  "text": "{NAME:02}: Ozma, can't we do",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 22,
+  "off": 1460,
+  "len": 18,
+  "text": "something for him?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 23,
+  "off": 1535,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: I'm sorry, but he can",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 24,
+  "off": 1566,
+  "len": 32,
+  "text": "no longer exist in the Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 25,
+  "off": 1787,
+  "len": 14,
+  "text": "Songi: Arrggh!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 26,
+  "off": 2159,
+  "len": 26,
+  "text": "Songi: Curse all you Seru!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 27,
+  "off": 2187,
+  "len": 23,
+  "text": "Is this all your powers",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 28,
+  "off": 2212,
+  "len": 8,
+  "text": "can do?!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 29,
+  "off": 2226,
+  "len": 12,
+  "text": "Songi: {NAME:02}...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 30,
+  "off": 2240,
+  "len": 19,
+  "text": "You... you're next!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 31,
+  "off": 2351,
+  "len": 24,
+  "text": "Songi: Seru and Ra-Seru,",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 32,
+  "off": 2377,
+  "len": 29,
+  "text": "they're all the same! They're",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 33,
+  "off": 2408,
+  "len": 12,
+  "text": "all useless!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 34,
+  "off": 2530,
+  "len": 23,
+  "text": "Songi: Good-for-nothing",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 35,
+  "off": 2555,
+  "len": 5,
+  "text": "Seru!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 36,
+  "off": 2562,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 37,
+  "off": 3091,
+  "len": 10,
+  "text": "{NAME:02}: Songi!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 38,
+  "off": 3305,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 39,
+  "off": 3317,
+  "len": 28,
+  "text": "Let's give life to the Great",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 40,
+  "off": 3347,
+  "len": 13,
+  "text": "Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 41,
+  "off": 3534,
+  "len": 24,
+  "text": "{NAME:01}: Terra, what's wrong?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 42,
+  "off": 3669,
+  "len": 34,
+  "text": "The Great Genesis Tree is too weak",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 43,
+  "off": 3705,
+  "len": 14,
+  "text": "to be revived!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 44,
+  "off": 3852,
+  "len": 9,
+  "text": "{NAME:02}: What?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 45,
+  "off": 3966,
+  "len": 16,
+  "text": "{NAME:02}: You mean the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 46,
+  "off": 3984,
+  "len": 18,
+  "text": "Great Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 47,
+  "off": 4004,
+  "len": 17,
+  "text": "is going to die?!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 48,
+  "off": 4516,
+  "len": 9,
+  "text": "{NAME:01}: Look!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 49,
+  "off": 4527,
+  "len": 19,
+  "text": "The Seru-kai's sky!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 50,
+  "off": 4548,
+  "len": 14,
+  "text": "It's changing!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 51,
+  "off": 4795,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 52,
+  "off": 4880,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 53,
+  "off": 4892,
+  "len": 9,
+  "text": "TERRAAAA!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 54,
+  "off": 5006,
+  "len": 27,
+  "text": "{NAME:02}: The Ra-Seru are growing",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 55,
+  "off": 5035,
+  "len": 30,
+  "text": "weaker, too! The Great Genesis",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 56,
+  "off": 5067,
+  "len": 20,
+  "text": "Tree is almost dead!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 57,
+  "off": 5154,
+  "len": 22,
+  "text": "{NAME:02}: No! Are our lives ",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 58,
+  "off": 5178,
+  "len": 29,
+  "text": "to expire with the Seru-kai?!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 59,
+  "off": 5318,
+  "len": 11,
+  "text": "Let's pray!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 60,
+  "off": 5332,
+  "len": 21,
+  "text": "{NAME:01}: Let's pray to the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 61,
+  "off": 5355,
+  "len": 19,
+  "text": "Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 62,
+  "off": 5508,
+  "len": 20,
+  "text": "{NAME:02}: Our faith is all",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 63,
+  "off": 5530,
+  "len": 17,
+  "text": "we have left! {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 64,
+  "off": 5549,
+  "len": 10,
+  "text": "let's try!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 65,
+  "off": 5711,
+  "len": 23,
+  "text": "{NAME:01}: Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 66,
+  "off": 5736,
+  "len": 29,
+  "text": "If you die, the Seru-kai will",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 67,
+  "off": 5767,
+  "len": 9,
+  "text": "also die!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 68,
+  "off": 5800,
+  "len": 23,
+  "text": "{NAME:01}: So will the Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 69,
+  "off": 5825,
+  "len": 23,
+  "text": "Terra and Ozma and Meta",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 70,
+  "off": 5850,
+  "len": 12,
+  "text": "and us, too!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 71,
+  "off": 5865,
+  "len": 26,
+  "text": "{NAME:01}: We'll all die! Please!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 72,
+  "off": 5893,
+  "len": 18,
+  "text": "Come back to life!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 73,
+  "off": 6096,
+  "len": 23,
+  "text": "{NAME:02}: Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 74,
+  "off": 6121,
+  "len": 18,
+  "text": "Show us a miracle!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 75,
+  "off": 6142,
+  "len": 25,
+  "text": "{NAME:02}: Give life back to the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 76,
+  "off": 6169,
+  "len": 25,
+  "text": "bodies ruined by the evil",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 77,
+  "off": 6196,
+  "len": 9,
+  "text": "Sim-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 78,
+  "off": 6337,
+  "len": 22,
+  "text": "You must pray as well!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 79,
+  "off": 6406,
+  "len": 26,
+  "text": "We must all pray together!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 80,
+  "off": 6574,
+  "len": 22,
+  "text": "{NAME:01}: Come back to life!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 81,
+  "off": 6653,
+  "len": 23,
+  "text": "{NAME:02}: Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 82,
+  "off": 6678,
+  "len": 17,
+  "text": "Hear our prayers!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 83,
+  "off": 7559,
+  "len": 11,
+  "text": "{NAME:01}: L-Look!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 84,
+  "off": 7682,
+  "len": 30,
+  "text": "The three faces of the past...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 85,
+  "off": 7714,
+  "len": 35,
+  "text": "the present... and the future shall",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 86,
+  "off": 7751,
+  "len": 33,
+  "text": "now teach you...the flow of time.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 87,
+  "off": 7882,
+  "len": 24,
+  "text": "Hari: Didn't I tell you?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 88,
+  "off": 7908,
+  "len": 30,
+  "text": "That some day we would meet at",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 89,
+  "off": 7940,
+  "len": 18,
+  "text": "an unlikely place?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 90,
+  "off": 8069,
+  "len": 9,
+  "text": "{NAME:01}: Hari!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 91,
+  "off": 8282,
+  "len": 17,
+  "text": "{NAME:02}: Hari! But you",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 92,
+  "off": 8301,
+  "len": 26,
+  "text": "disappeared into the earth",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 93,
+  "off": 8329,
+  "len": 12,
+  "text": "below Octam!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 94,
+  "off": 8480,
+  "len": 29,
+  "text": "Hari: The god of time, Rem...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 95,
+  "off": 8511,
+  "len": 21,
+  "text": "known also as Tieg...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 96,
+  "off": 8556,
+  "len": 28,
+  "text": "Hari: The prophecies of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 97,
+  "off": 8586,
+  "len": 27,
+  "text": "They are the words of Tieg!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 98,
+  "off": 8637,
+  "len": 29,
+  "text": "Hari: The spirit of Tieg that",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 99,
+  "off": 8668,
+  "len": 33,
+  "text": "resides in this body has given us",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 100,
+  "off": 8703,
+  "len": 26,
+  "text": "words that transcend time.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 101,
+  "off": 8753,
+  "len": 35,
+  "text": "Hari: Our bodies have died. But the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 102,
+  "off": 8790,
+  "len": 33,
+  "text": "death of our bodies has given our",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 103,
+  "off": 8825,
+  "len": 18,
+  "text": "souls immortality.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 104,
+  "off": 8867,
+  "len": 32,
+  "text": "Hari: Like Tieg, our spirits are",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 105,
+  "off": 8901,
+  "len": 31,
+  "text": "now beings that transcend time.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 106,
+  "off": 8956,
+  "len": 29,
+  "text": "Hari: Brave Ra-Seru! The will",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 107,
+  "off": 8987,
+  "len": 30,
+  "text": "of Tieg will show you the path",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 108,
+  "off": 9019,
+  "len": 14,
+  "text": "you must take!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 109,
+  "off": 9057,
+  "len": 32,
+  "text": "Hari: It is our mission to carry",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 110,
+  "off": 9091,
+  "len": 21,
+  "text": "out the will of Tieg.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 111,
+  "off": 9275,
+  "len": 29,
+  "text": "{NAME:01}: Is Hari going to give the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 112,
+  "off": 9306,
+  "len": 24,
+  "text": "Great Genesis Tree life?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 113,
+  "off": 9437,
+  "len": 31,
+  "text": "Hari: The Great Genesis Tree is",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 114,
+  "off": 9470,
+  "len": 35,
+  "text": "fated to die, and we cannot reverse",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 115,
+  "off": 9507,
+  "len": 5,
+  "text": "that.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 116,
+  "off": 9664,
+  "len": 24,
+  "text": "{NAME:02}: But... the Seru-kai!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 117,
+  "off": 9850,
+  "len": 31,
+  "text": "Hari: All we can do is give the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 118,
+  "off": 9883,
+  "len": 32,
+  "text": "last of shining power to nurture",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 119,
+  "off": 9917,
+  "len": 35,
+  "text": "the life of the Great Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 120,
+  "off": 11602,
+  "len": 26,
+  "text": "Hari: All our power... has",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 121,
+  "off": 11630,
+  "len": 34,
+  "text": "entered... the Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 122,
+  "off": 11667,
+  "len": 31,
+  "text": "Hari: Now... we shall attain...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 123,
+  "off": 11700,
+  "len": 21,
+  "text": "complete nothingness!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 124,
+  "off": 11724,
+  "len": 17,
+  "text": "Hari: But fate...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 125,
+  "off": 11743,
+  "len": 28,
+  "text": "and your will... are one and",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 126,
+  "off": 11773,
+  "len": 9,
+  "text": "the same.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 127,
+  "off": 11806,
+  "len": 35,
+  "text": "Hari: Make... your own fate... with",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 128,
+  "off": 11843,
+  "len": 15,
+  "text": "your own hands!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 129,
+  "off": 11860,
+  "len": 24,
+  "text": "Goodbye, Ra-Seru heroes!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 130,
+  "off": 13337,
+  "len": 17,
+  "text": "{NAME:01}: Terra! Terra!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 131,
+  "off": 13356,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 132,
+  "off": 13454,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You don't have to worry",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 133,
+  "off": 13487,
+  "len": 13,
+  "text": "about me, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 134,
+  "off": 13503,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Worry about the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 135,
+  "off": 13528,
+  "len": 21,
+  "text": "Great Genesis Tree...",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 136,
+  "off": 13634,
+  "len": 26,
+  "text": "Let's give the Ra-Seru the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 137,
+  "off": 13662,
+  "len": 32,
+  "text": "power of the Great Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 138,
+  "off": 14685,
+  "len": 20,
+  "text": "We have received the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 139,
+  "off": 14707,
+  "len": 15,
+  "text": "ultimate power.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 140,
+  "off": 14814,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now we can do something",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 141,
+  "off": 14847,
+  "len": 17,
+  "text": "about Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 142,
+  "off": 14966,
+  "len": 26,
+  "text": "{PAL:5}{M7:02}{PAL:7}: But we must hurry!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 143,
+  "off": 14995,
+  "len": 35,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Hari gave the Great Genesis",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 144,
+  "off": 15032,
+  "len": 32,
+  "text": "Tree life, but I do not know how",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 145,
+  "off": 15066,
+  "len": 31,
+  "text": "long that life force will last.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 146,
+  "off": 15189,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The Genesis Trees in the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 147,
+  "off": 15223,
+  "len": 29,
+  "text": "human world are linked to the",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 57,
+  "run": 148,
+  "off": 15254,
+  "len": 32,
+  "text": "Seru-kai! We must go to Rim Elm!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 0,
+  "off": 30,
+  "len": 22,
+  "text": "Discover Great Genesis",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 1,
+  "off": 54,
+  "len": 15,
+  "text": "Tree once more?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 2,
+  "off": 78,
+  "len": 9,
+  "text": "Yes, yes!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 3,
+  "off": 89,
+  "len": 31,
+  "text": "Not really. What else is there?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 4,
+  "off": 122,
+  "len": 10,
+  "text": "Forget it.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 5,
+  "off": 137,
+  "len": 29,
+  "text": "Have final battle with Songi?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 6,
+  "off": 175,
+  "len": 9,
+  "text": "Yes, yes!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 7,
+  "off": 186,
+  "len": 7,
+  "text": "No, no!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 8,
+  "off": 195,
+  "len": 11,
+  "text": "Either way.",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 9,
+  "off": 218,
+  "len": 24,
+  "text": "Do you want to warp now?",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 10,
+  "off": 249,
+  "len": 7,
+  "text": "No way!",
+  "ko": ""
+ },
+ {
+  "map": 719,
+  "script": 58,
+  "run": 11,
+  "off": 258,
+  "len": 18,
+  "text": "Yeah! Let's do it!",
+  "ko": ""
+ }
+]

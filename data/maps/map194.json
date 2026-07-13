@@ -1,0 +1,3080 @@
+[
+ {
+  "map": 194,
+  "script": 2,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 2,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 3,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 3,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 4,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 4,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 5,
+  "run": 0,
+  "off": 35,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 5,
+  "run": 1,
+  "off": 57,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 6,
+  "run": 0,
+  "off": 35,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 6,
+  "run": 1,
+  "off": 57,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 7,
+  "run": 0,
+  "off": 35,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 7,
+  "run": 1,
+  "off": 57,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 8,
+  "run": 0,
+  "off": 35,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 8,
+  "run": 1,
+  "off": 57,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 9,
+  "run": 0,
+  "off": 26,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 9,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 37,
+  "run": 0,
+  "off": 222,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.t!<05>",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 40,
+  "run": 0,
+  "off": 47,
+  "len": 22,
+  "text": "Hooray! Oh, happy day!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 40,
+  "run": 1,
+  "off": 71,
+  "len": 33,
+  "text": "Once this new weapon is complete,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 40,
+  "run": 2,
+  "off": 106,
+  "len": 28,
+  "text": "it'll be lights out for Sol!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 40,
+  "run": 3,
+  "off": 139,
+  "len": 26,
+  "text": "I hear you're the ones who",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 40,
+  "run": 4,
+  "off": 167,
+  "len": 17,
+  "text": "stopped the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 40,
+  "run": 5,
+  "off": 186,
+  "len": 30,
+  "text": "You guys are really something!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 41,
+  "run": 0,
+  "off": 41,
+  "len": 23,
+  "text": "I hear they're going to",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 41,
+  "run": 1,
+  "off": 66,
+  "len": 30,
+  "text": "demonstrate that weird-looking",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 41,
+  "run": 2,
+  "off": 98,
+  "len": 28,
+  "text": "machine over there tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 41,
+  "run": 3,
+  "off": 131,
+  "len": 26,
+  "text": "I'm fed up with that Mist!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 42,
+  "run": 0,
+  "off": 39,
+  "len": 27,
+  "text": "Those Solians have some new",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 42,
+  "run": 1,
+  "off": 68,
+  "len": 26,
+  "text": "Seru weapon from Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 42,
+  "run": 2,
+  "off": 96,
+  "len": 30,
+  "text": "They're a tough enemy to beat!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 43,
+  "run": 0,
+  "off": 33,
+  "len": 20,
+  "text": "Ah! You, young girl.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 43,
+  "run": 1,
+  "off": 55,
+  "len": 28,
+  "text": "You look just like the Queen",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 43,
+  "run": 2,
+  "off": 85,
+  "len": 19,
+  "text": "when she was young.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 43,
+  "run": 3,
+  "off": 109,
+  "len": 24,
+  "text": "I'm so glad the King and",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 43,
+  "run": 4,
+  "off": 135,
+  "len": 15,
+  "text": "Queen are safe.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 44,
+  "run": 0,
+  "off": 25,
+  "len": 23,
+  "text": "Huh? The Nemesis Gem...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 44,
+  "run": 1,
+  "off": 51,
+  "len": 26,
+  "text": "I have no idea what you're",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 44,
+  "run": 2,
+  "off": 79,
+  "len": 14,
+  "text": "talking about.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 45,
+  "run": 0,
+  "off": 41,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 45,
+  "run": 1,
+  "off": 68,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 45,
+  "run": 2,
+  "off": 87,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 45,
+  "run": 3,
+  "off": 114,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 0,
+  "off": 35,
+  "len": 33,
+  "text": "Innkeeper: Well, well. You want a",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 1,
+  "off": 70,
+  "len": 33,
+  "text": "room at this hour? A room usually",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 2,
+  "off": 105,
+  "len": 26,
+  "text": "costs 10,000G per night...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 3,
+  "off": 134,
+  "len": 31,
+  "text": "Innkeeper: But since tomorrow's",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 4,
+  "off": 167,
+  "len": 34,
+  "text": "a special day, I'll tell you what.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 5,
+  "off": 203,
+  "len": 29,
+  "text": "All of you can stay for free!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 6,
+  "off": 235,
+  "len": 31,
+  "text": "Innkeeper: Do you want to stay?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 7,
+  "off": 392,
+  "len": 34,
+  "text": "Innkeeper: By morning, the display",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 8,
+  "off": 428,
+  "len": 32,
+  "text": "of the new weapon will start. Is",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 9,
+  "off": 462,
+  "len": 27,
+  "text": "all your business finished?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 10,
+  "off": 615,
+  "len": 16,
+  "text": "Innkeeper: Good.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 11,
+  "off": 633,
+  "len": 31,
+  "text": "Show these three to their room!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 12,
+  "off": 724,
+  "len": 32,
+  "text": "Innkeeper: Oh. Well, I guess you",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 13,
+  "off": 758,
+  "len": 30,
+  "text": "want to enjoy the festivities.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 14,
+  "off": 790,
+  "len": 28,
+  "text": "Come back when you're tired.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 15,
+  "off": 823,
+  "len": 32,
+  "text": "Innkeeper: Oh, you're the heroes",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 16,
+  "off": 857,
+  "len": 29,
+  "text": "of Conkram! You can stay here",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 17,
+  "off": 888,
+  "len": 29,
+  "text": "for free. Do you want a room?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 18,
+  "off": 1042,
+  "len": 27,
+  "text": "Innkeeper: Show these three",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 19,
+  "off": 1071,
+  "len": 14,
+  "text": "to their room!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 20,
+  "off": 1154,
+  "len": 25,
+  "text": "Innkeeper: Oh, that's OK.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 21,
+  "off": 1181,
+  "len": 30,
+  "text": "You are all so strong, I guess",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 22,
+  "off": 1213,
+  "len": 20,
+  "text": "you never get tired!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 23,
+  "off": 1238,
+  "len": 33,
+  "text": "Innkeeper: You've been through so",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 24,
+  "off": 1273,
+  "len": 30,
+  "text": "much. You can stay here if you",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 25,
+  "off": 1305,
+  "len": 21,
+  "text": "want. Do you want to?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 26,
+  "off": 1451,
+  "len": 8,
+  "text": "Alright.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 27,
+  "off": 1461,
+  "len": 11,
+  "text": "Good night.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 28,
+  "off": 1541,
+  "len": 31,
+  "text": "Oh. I suppose you have too much",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 46,
+  "run": 29,
+  "off": 1574,
+  "len": 10,
+  "text": "to do now.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 0,
+  "off": 37,
+  "len": 14,
+  "text": "Dr. Usha: Hmm.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 1,
+  "off": 53,
+  "len": 30,
+  "text": "Those Seru you have are indeed",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 2,
+  "off": 85,
+  "len": 13,
+  "text": "strange ones.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 3,
+  "off": 101,
+  "len": 19,
+  "text": "Dr. Usha: I'm Usha,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 4,
+  "off": 122,
+  "len": 31,
+  "text": "the roving brilliant scientist.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 5,
+  "off": 155,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 6,
+  "off": 169,
+  "len": 33,
+  "text": "Dr. Usha: I'd like to ask you all",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 7,
+  "off": 204,
+  "len": 19,
+  "text": "about those Seru...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 8,
+  "off": 226,
+  "len": 32,
+  "text": "Dr. Usha: but it's getting late.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 9,
+  "off": 260,
+  "len": 31,
+  "text": "Let's talk about them tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 10,
+  "off": 296,
+  "len": 21,
+  "text": "Dr. Usha: The Mist...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 11,
+  "off": 319,
+  "len": 32,
+  "text": "What a frightful experience I've",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 12,
+  "off": 353,
+  "len": 14,
+  "text": "had with that!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 13,
+  "off": 370,
+  "len": 33,
+  "text": "Dr. Usha: After our conversation,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 14,
+  "off": 405,
+  "len": 28,
+  "text": "I'll return to my laboratory",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 15,
+  "off": 435,
+  "len": 21,
+  "text": "and do some research.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 16,
+  "off": 461,
+  "len": 24,
+  "text": "Dr. Usha: The Mist makes",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 17,
+  "off": 487,
+  "len": 25,
+  "text": "Seru turn violent? I must",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 18,
+  "off": 514,
+  "len": 24,
+  "text": "investigate this matter.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 19,
+  "off": 541,
+  "len": 32,
+  "text": "Dr. Usha: I must investigate the",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 20,
+  "off": 575,
+  "len": 30,
+  "text": "source of the Mist, behind the",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 47,
+  "run": 21,
+  "off": 607,
+  "len": 7,
+  "text": "castle.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 0,
+  "off": 25,
+  "len": 32,
+  "text": "The Doctor and I came because we",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 1,
+  "off": 59,
+  "len": 32,
+  "text": "heard that a new weapon is being",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 2,
+  "off": 93,
+  "len": 21,
+  "text": "developed in Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 3,
+  "off": 119,
+  "len": 28,
+  "text": "The Doctor says he now knows",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 4,
+  "off": 149,
+  "len": 24,
+  "text": "firsthand the horrors of",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 5,
+  "off": 175,
+  "len": 9,
+  "text": "the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 6,
+  "off": 189,
+  "len": 33,
+  "text": "He kept saying he wanted to go to",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 7,
+  "off": 224,
+  "len": 26,
+  "text": "the castle to investigate.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 48,
+  "run": 8,
+  "off": 252,
+  "len": 22,
+  "text": "He won't listen to me!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 49,
+  "run": 0,
+  "off": 23,
+  "len": 31,
+  "text": "Welcome! We have many different",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 49,
+  "run": 1,
+  "off": 56,
+  "len": 29,
+  "text": "weapons and armor. What can I",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 49,
+  "run": 2,
+  "off": 87,
+  "len": 18,
+  "text": "get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 49,
+  "run": 3,
+  "off": 134,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 50,
+  "run": 0,
+  "off": 33,
+  "len": 32,
+  "text": "Rumor has it that the new weapon",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 50,
+  "run": 1,
+  "off": 67,
+  "len": 29,
+  "text": "will make the Seru many times",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 50,
+  "run": 2,
+  "off": 98,
+  "len": 21,
+  "text": "stronger than before.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 50,
+  "run": 3,
+  "off": 124,
+  "len": 9,
+  "text": "(Shaking)",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 0,
+  "off": 37,
+  "len": 31,
+  "text": "The new weapon isn't a new type",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 1,
+  "off": 70,
+  "len": 27,
+  "text": "of Seru, but something that",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 2,
+  "off": 99,
+  "len": 27,
+  "text": "makes them stronger, right?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 3,
+  "off": 131,
+  "len": 13,
+  "text": "Don't ask me!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 4,
+  "off": 146,
+  "len": 18,
+  "text": "How should I know?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 5,
+  "off": 169,
+  "len": 30,
+  "text": "There's no way I'm getting rid",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 51,
+  "run": 6,
+  "off": 201,
+  "len": 15,
+  "text": "of my Seru now.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 52,
+  "run": 0,
+  "off": 43,
+  "len": 28,
+  "text": "Hey, you guys have some nice",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 52,
+  "run": 1,
+  "off": 73,
+  "len": 11,
+  "text": "Seru there.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 52,
+  "run": 2,
+  "off": 86,
+  "len": 16,
+  "text": "Sell them to me!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 52,
+  "run": 3,
+  "off": 105,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 52,
+  "run": 4,
+  "off": 118,
+  "len": 13,
+  "text": "Just kidding!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 52,
+  "run": 5,
+  "off": 136,
+  "len": 7,
+  "text": "H-help!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 53,
+  "run": 0,
+  "off": 43,
+  "len": 28,
+  "text": "Hey, you guys have some nice",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 53,
+  "run": 1,
+  "off": 73,
+  "len": 11,
+  "text": "Seru there.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 53,
+  "run": 2,
+  "off": 86,
+  "len": 16,
+  "text": "Sell them to me!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 53,
+  "run": 3,
+  "off": 105,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 53,
+  "run": 4,
+  "off": 118,
+  "len": 13,
+  "text": "Just kidding!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 53,
+  "run": 5,
+  "off": 136,
+  "len": 7,
+  "text": "H-help!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 54,
+  "run": 0,
+  "off": 23,
+  "len": 27,
+  "text": "Welcome! If you want items,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 54,
+  "run": 1,
+  "off": 52,
+  "len": 18,
+  "text": "this is the place!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 54,
+  "run": 2,
+  "off": 72,
+  "len": 29,
+  "text": "What can I get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 54,
+  "run": 3,
+  "off": 132,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 0,
+  "off": 29,
+  "len": 28,
+  "text": "Just between you and me, I'm",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 1,
+  "off": 59,
+  "len": 34,
+  "text": "worried about the unveiling of the",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 2,
+  "off": 95,
+  "len": 20,
+  "text": "new weapon tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 3,
+  "off": 118,
+  "len": 30,
+  "text": "I have a bad feeling about it.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 4,
+  "off": 150,
+  "len": 31,
+  "text": "That's why I came for medicine.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 5,
+  "off": 183,
+  "len": 30,
+  "text": "You guys better buy some, too!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 6,
+  "off": 218,
+  "len": 16,
+  "text": "See? I told you.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 7,
+  "off": 236,
+  "len": 24,
+  "text": "I knew something bad was",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 8,
+  "off": 262,
+  "len": 16,
+  "text": "going to happen.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 9,
+  "off": 281,
+  "len": 29,
+  "text": "The only way to stop the Mist",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 10,
+  "off": 312,
+  "len": 28,
+  "text": "is to do something about the",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 11,
+  "off": 342,
+  "len": 25,
+  "text": "castle's underground lab.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 12,
+  "off": 372,
+  "len": 18,
+  "text": "You guys destroyed",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 13,
+  "off": 392,
+  "len": 21,
+  "text": "Rogue's Tower, right?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 14,
+  "off": 538,
+  "len": 22,
+  "text": "Well then, we're safe.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 15,
+  "off": 562,
+  "len": 24,
+  "text": "That means the source of",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 16,
+  "off": 588,
+  "len": 21,
+  "text": "the Mist is gone now.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 17,
+  "off": 612,
+  "len": 21,
+  "text": "No more Mist forever.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 18,
+  "off": 638,
+  "len": 32,
+  "text": "So Rogue's Tower is still there?",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 19,
+  "off": 672,
+  "len": 21,
+  "text": "That means more Mist!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 55,
+  "run": 20,
+  "off": 695,
+  "len": 27,
+  "text": "What a frightening thought!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 0,
+  "off": 31,
+  "len": 28,
+  "text": "Yes, I am a florist, but all",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 1,
+  "off": 61,
+  "len": 29,
+  "text": "the flowers are sold. I can't",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 2,
+  "off": 92,
+  "len": 15,
+  "text": "sell you these.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 3,
+  "off": 110,
+  "len": 22,
+  "text": "They're for tomorrow's",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 4,
+  "off": 134,
+  "len": 12,
+  "text": "celebration.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 5,
+  "off": 151,
+  "len": 28,
+  "text": "I heard that the festivities",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 6,
+  "off": 181,
+  "len": 23,
+  "text": "for the new weapon were",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 56,
+  "run": 7,
+  "off": 206,
+  "len": 21,
+  "text": "cancelled, of course.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 57,
+  "run": 0,
+  "off": 23,
+  "len": 27,
+  "text": "The lady said she'd give me",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 57,
+  "run": 1,
+  "off": 52,
+  "len": 25,
+  "text": "a Seru if I helped out at",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 57,
+  "run": 2,
+  "off": 79,
+  "len": 10,
+  "text": "the store.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 57,
+  "run": 3,
+  "off": 94,
+  "len": 24,
+  "text": "But I don't want a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 57,
+  "run": 4,
+  "off": 120,
+  "len": 19,
+  "text": "I'm scared of them!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 58,
+  "run": 0,
+  "off": 33,
+  "len": 22,
+  "text": "If there were no Seru,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 58,
+  "run": 1,
+  "off": 57,
+  "len": 27,
+  "text": "then there would be no war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 58,
+  "run": 2,
+  "off": 87,
+  "len": 27,
+  "text": "Don't you mind me! I'm just",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 58,
+  "run": 3,
+  "off": 116,
+  "len": 25,
+  "text": "a foolish old man talking",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 58,
+  "run": 4,
+  "off": 143,
+  "len": 10,
+  "text": "to myself!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 59,
+  "run": 0,
+  "off": 27,
+  "len": 24,
+  "text": "All my sons went to war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 59,
+  "run": 1,
+  "off": 53,
+  "len": 23,
+  "text": "I'm so lonely here now.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 59,
+  "run": 2,
+  "off": 81,
+  "len": 28,
+  "text": "Grandpa didn't run away fast",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 59,
+  "run": 3,
+  "off": 111,
+  "len": 29,
+  "text": "enough, and died in the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 0,
+  "off": 25,
+  "len": 30,
+  "text": "If I'm reincarnated, I want to",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 1,
+  "off": 57,
+  "len": 20,
+  "text": "be one of the Soren.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 2,
+  "off": 80,
+  "len": 34,
+  "text": "I envy their permanent neutrality,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 3,
+  "off": 116,
+  "len": 33,
+  "text": "and how they fly through the sky,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 4,
+  "off": 151,
+  "len": 31,
+  "text": "never getting involved in wars.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 5,
+  "off": 187,
+  "len": 16,
+  "text": "My father-in-law",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 60,
+  "run": 6,
+  "off": 205,
+  "len": 23,
+  "text": "was a very good person.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 61,
+  "run": 0,
+  "off": 25,
+  "len": 31,
+  "text": "The device outside that you saw",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 61,
+  "run": 1,
+  "off": 58,
+  "len": 26,
+  "text": "connects to the laboratory",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 61,
+  "run": 2,
+  "off": 86,
+  "len": 17,
+  "text": "under the castle.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 61,
+  "run": 3,
+  "off": 108,
+  "len": 23,
+  "text": "My wife was killed by a",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 61,
+  "run": 4,
+  "off": 133,
+  "len": 13,
+  "text": "Seru monster.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 62,
+  "run": 0,
+  "off": 31,
+  "len": 30,
+  "text": "The King and Queen will attend",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 62,
+  "run": 1,
+  "off": 63,
+  "len": 23,
+  "text": "the unveiling tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 62,
+  "run": 2,
+  "off": 89,
+  "len": 26,
+  "text": "The Queen is pregnant, and",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 62,
+  "run": 3,
+  "off": 117,
+  "len": 25,
+  "text": "hasn't appeared in public",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 62,
+  "run": 4,
+  "off": 144,
+  "len": 20,
+  "text": "for quite some time.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 63,
+  "run": 0,
+  "off": 23,
+  "len": 26,
+  "text": "I can't wait for tomorrow!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 63,
+  "run": 1,
+  "off": 54,
+  "len": 8,
+  "text": "Mommy...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 64,
+  "run": 0,
+  "off": 33,
+  "len": 19,
+  "text": "Oh, hello! Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 64,
+  "run": 1,
+  "off": 54,
+  "len": 23,
+  "text": "Tomorrow's a happy day,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 64,
+  "run": 2,
+  "off": 79,
+  "len": 27,
+  "text": "so there's no need to rush.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 64,
+  "run": 3,
+  "off": 111,
+  "len": 14,
+  "text": "Oh, I'm sorry.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 64,
+  "run": 4,
+  "off": 127,
+  "len": 33,
+  "text": "With everything that's happening,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 64,
+  "run": 5,
+  "off": 162,
+  "len": 19,
+  "text": "we're closed today.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 65,
+  "run": 0,
+  "off": 38,
+  "len": 32,
+  "text": "I'm tellin' ya... Prince Cort...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 65,
+  "run": 1,
+  "off": 72,
+  "len": 34,
+  "text": "You listening? Prince Cort... He's",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 65,
+  "run": 2,
+  "off": 108,
+  "len": 31,
+  "text": "young, but by gosh, he's great!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 66,
+  "run": 0,
+  "off": 38,
+  "len": 25,
+  "text": "After we win the war, I'm",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 66,
+  "run": 1,
+  "off": 65,
+  "len": 28,
+  "text": "marching into Sol and having",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 66,
+  "run": 2,
+  "off": 95,
+  "len": 24,
+  "text": "myself a grand ol' time!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 67,
+  "run": 0,
+  "off": 29,
+  "len": 31,
+  "text": "Nobody knows much about the new",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 67,
+  "run": 1,
+  "off": 62,
+  "len": 33,
+  "text": "weapon. We're all waiting to find",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 67,
+  "run": 2,
+  "off": 97,
+  "len": 13,
+  "text": "out tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 68,
+  "run": 0,
+  "off": 29,
+  "len": 27,
+  "text": "Zeto is Secretary of State.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 68,
+  "run": 1,
+  "off": 58,
+  "len": 34,
+  "text": "Dohati, Secretary of the Interior.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 68,
+  "run": 2,
+  "off": 94,
+  "len": 22,
+  "text": "Zora, the High Priest.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 68,
+  "run": 3,
+  "off": 119,
+  "len": 33,
+  "text": "And Jette is the Court Scientist.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 68,
+  "run": 4,
+  "off": 154,
+  "len": 27,
+  "text": "Together they're called the",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 68,
+  "run": 5,
+  "off": 183,
+  "len": 25,
+  "text": "Four Wise Men of Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 69,
+  "run": 0,
+  "off": 38,
+  "len": 17,
+  "text": "Aaah, what a day!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 70,
+  "run": 0,
+  "off": 48,
+  "len": 21,
+  "text": "You guys must be from",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 70,
+  "run": 1,
+  "off": 71,
+  "len": 12,
+  "text": "the country.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 70,
+  "run": 2,
+  "off": 86,
+  "len": 30,
+  "text": "'Cause you're all wearing some",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 70,
+  "run": 3,
+  "off": 118,
+  "len": 20,
+  "text": "pretty strange Seru.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 70,
+  "run": 4,
+  "off": 140,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 71,
+  "run": 0,
+  "off": 48,
+  "len": 31,
+  "text": "This is only a rumor, but, hey,",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 71,
+  "run": 1,
+  "off": 81,
+  "len": 32,
+  "text": "I heard that the King is nervous",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 71,
+  "run": 2,
+  "off": 115,
+  "len": 21,
+  "text": "about the new weapon.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 71,
+  "run": 3,
+  "off": 139,
+  "len": 32,
+  "text": "I hear that he and the Four Wise",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 71,
+  "run": 4,
+  "off": 173,
+  "len": 22,
+  "text": "Men disagree about it.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 72,
+  "run": 0,
+  "off": 29,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 72,
+  "run": 1,
+  "off": 36,
+  "len": 24,
+  "text": "This is the Conkram Dojo",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 72,
+  "run": 2,
+  "off": 62,
+  "len": 27,
+  "text": "of the Biron Warrior Monks.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 72,
+  "run": 3,
+  "off": 94,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 72,
+  "run": 4,
+  "off": 101,
+  "len": 27,
+  "text": "A lot of people are joining",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 72,
+  "run": 5,
+  "off": 130,
+  "len": 27,
+  "text": "us out of fear of the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 0,
+  "off": 31,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 1,
+  "off": 38,
+  "len": 26,
+  "text": "Biron's rule is neutrality",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 2,
+  "off": 66,
+  "len": 26,
+  "text": "at all times, even in war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 3,
+  "off": 95,
+  "len": 23,
+  "text": "That's why we also have",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 4,
+  "off": 120,
+  "len": 14,
+  "text": "a dojo in Sol.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 5,
+  "off": 139,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 6,
+  "off": 146,
+  "len": 35,
+  "text": "The teachings of Biron were correct",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 73,
+  "run": 7,
+  "off": 183,
+  "len": 30,
+  "text": "in forbidding the use of Seru.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 0,
+  "off": 31,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 1,
+  "off": 38,
+  "len": 22,
+  "text": "The teachings of Biron",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 2,
+  "off": 62,
+  "len": 14,
+  "text": "prohibit Seru.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 3,
+  "off": 79,
+  "len": 25,
+  "text": "But they do not turn away",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 4,
+  "off": 106,
+  "len": 22,
+  "text": "those who come seeking",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 5,
+  "off": 130,
+  "len": 14,
+  "text": "the teachings.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 6,
+  "off": 149,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 7,
+  "off": 156,
+  "len": 27,
+  "text": "Now put your backs into it!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 74,
+  "run": 8,
+  "off": 185,
+  "len": 18,
+  "text": "One, two, three...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 0,
+  "off": 31,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 1,
+  "off": 38,
+  "len": 28,
+  "text": "There is something nostalgic",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 2,
+  "off": 68,
+  "len": 26,
+  "text": "about that large gentleman",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 3,
+  "off": 96,
+  "len": 11,
+  "text": "over there.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 4,
+  "off": 112,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 5,
+  "off": 119,
+  "len": 25,
+  "text": "When the war ends, I hope",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 6,
+  "off": 146,
+  "len": 27,
+  "text": "to visit the head monastery",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 75,
+  "run": 7,
+  "off": 175,
+  "len": 9,
+  "text": "of Biron.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 76,
+  "run": 0,
+  "off": 35,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 77,
+  "run": 0,
+  "off": 35,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 78,
+  "run": 0,
+  "off": 35,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 79,
+  "run": 0,
+  "off": 35,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 1,
+  "off": 34,
+  "len": 14,
+  "text": "Award ceremony",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 2,
+  "off": 66,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 3,
+  "off": 84,
+  "len": 23,
+  "text": "The horrible new weapon",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 4,
+  "off": 125,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 5,
+  "off": 143,
+  "len": 9,
+  "text": "Dream = 3",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 6,
+  "off": 170,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 7,
+  "off": 188,
+  "len": 20,
+  "text": "The strange Uru Mais",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 8,
+  "off": 226,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 9,
+  "off": 243,
+  "len": 17,
+  "text": "End of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 10,
+  "off": 278,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 11,
+  "off": 295,
+  "len": 17,
+  "text": "End of {NAME:01}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 12,
+  "off": 330,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 13,
+  "off": 347,
+  "len": 17,
+  "text": "End of {NAME:02}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 14,
+  "off": 382,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 15,
+  "off": 399,
+  "len": 21,
+  "text": "Elevator installation",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 16,
+  "off": 438,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 17,
+  "off": 455,
+  "len": 26,
+  "text": "Mrs. Usha's conversation 1",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 18,
+  "off": 499,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 19,
+  "off": 516,
+  "len": 12,
+  "text": "Test 1 clear",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 20,
+  "off": 546,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 21,
+  "off": 563,
+  "len": 12,
+  "text": "Test 2 clear",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 22,
+  "off": 593,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 23,
+  "off": 610,
+  "len": 14,
+  "text": "Defeat of Koru",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 24,
+  "off": 642,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 25,
+  "off": 659,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 26,
+  "off": 698,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 27,
+  "off": 715,
+  "len": 33,
+  "text": "Destruction of <Mist Generator> 3",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 28,
+  "off": 766,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 29,
+  "off": 783,
+  "len": 12,
+  "text": "Usha peddler",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 30,
+  "off": 813,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 31,
+  "off": 830,
+  "len": 12,
+  "text": "Code failure",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 32,
+  "off": 860,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 33,
+  "off": 877,
+  "len": 14,
+  "text": "Usha peddler 2",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 34,
+  "off": 909,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 35,
+  "off": 926,
+  "len": 34,
+  "text": "Destruction of the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 36,
+  "off": 978,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 37,
+  "off": 995,
+  "len": 19,
+  "text": "The dreaded Conkram",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 84,
+  "run": 38,
+  "off": 1032,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 88,
+  "run": 0,
+  "off": 26,
+  "len": 8,
+  "text": "Ggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 89,
+  "run": 0,
+  "off": 86,
+  "len": 8,
+  "text": "Ggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 90,
+  "run": 0,
+  "off": 58,
+  "len": 8,
+  "text": "Ggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 91,
+  "run": 0,
+  "off": 58,
+  "len": 8,
+  "text": "Ggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 92,
+  "run": 0,
+  "off": 65,
+  "len": 8,
+  "text": "Ggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 98,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:84}",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 98,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 98,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 98,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:84}!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 98,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 99,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 99,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 99,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 99,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 99,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 100,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:85}",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 100,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 100,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 100,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:85}!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 100,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 101,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:86}",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 101,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 101,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 101,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:86}!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 101,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 114,
+  "run": 0,
+  "off": 96,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 114,
+  "run": 1,
+  "off": 123,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 114,
+  "run": 2,
+  "off": 219,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 114,
+  "run": 3,
+  "off": 246,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 114,
+  "run": 4,
+  "off": 372,
+  "len": 13,
+  "text": "Grrr, Grrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 118,
+  "run": 0,
+  "off": 151,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 118,
+  "run": 1,
+  "off": 178,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 118,
+  "run": 2,
+  "off": 365,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 118,
+  "run": 3,
+  "off": 392,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 118,
+  "run": 4,
+  "off": 594,
+  "len": 13,
+  "text": "Grrr, Grrr...",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 119,
+  "run": 0,
+  "off": 151,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 119,
+  "run": 1,
+  "off": 178,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 119,
+  "run": 2,
+  "off": 365,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 119,
+  "run": 3,
+  "off": 392,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 194,
+  "script": 119,
+  "run": 4,
+  "off": 594,
+  "len": 13,
+  "text": "Grrr, Grrr...",
+  "ko": ""
+ }
+]

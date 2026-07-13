@@ -1,0 +1,686 @@
+[
+ {
+  "map": 428,
+  "script": 1,
+  "run": 0,
+  "off": 35,
+  "len": 11,
+  "text": "Throne Room",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 0,
+  "off": 33,
+  "len": 25,
+  "text": "The lever is pointing up.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 1,
+  "off": 60,
+  "len": 30,
+  "text": "Do you wish to move the lever?",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 2,
+  "off": 107,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 3,
+  "off": 119,
+  "len": 15,
+  "text": "move the lever.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 4,
+  "off": 139,
+  "len": 24,
+  "text": "{NAME} moved the lever down!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 5,
+  "off": 230,
+  "len": 25,
+  "text": "The lever is pointing up.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 6,
+  "off": 257,
+  "len": 30,
+  "text": "Do you wish to move the lever?",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 7,
+  "off": 304,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 8,
+  "off": 316,
+  "len": 15,
+  "text": "move the lever.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 9,
+  "off": 336,
+  "len": 24,
+  "text": "{NAME} moved the lever down!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 10,
+  "off": 404,
+  "len": 27,
+  "text": "The door to the Throne Room",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 2,
+  "run": 11,
+  "off": 433,
+  "len": 7,
+  "text": "opened!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 0,
+  "off": 34,
+  "len": 17,
+  "text": "There is a lever.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 1,
+  "off": 53,
+  "len": 30,
+  "text": "Do you wish to move the lever?",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 2,
+  "off": 100,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 3,
+  "off": 112,
+  "len": 15,
+  "text": "move the lever.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 4,
+  "off": 132,
+  "len": 19,
+  "text": "{NAME} moved the lever!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 5,
+  "off": 320,
+  "len": 30,
+  "text": "Do you wish to move the lever?",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 6,
+  "off": 367,
+  "len": 10,
+  "text": "{NAME} did not",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 7,
+  "off": 379,
+  "len": 15,
+  "text": "move the lever.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 7,
+  "run": 8,
+  "off": 399,
+  "len": 19,
+  "text": "{NAME} moved the lever!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 9,
+  "run": 0,
+  "off": 171,
+  "len": 29,
+  "text": "{NAME:02}: The door must have closed",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 9,
+  "run": 1,
+  "off": 202,
+  "len": 31,
+  "text": "because it sensed our presence.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 9,
+  "run": 2,
+  "off": 236,
+  "len": 20,
+  "text": "{NAME:02}: There might be a",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 9,
+  "run": 3,
+  "off": 258,
+  "len": 32,
+  "text": "mechanism somewhere to open this",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 9,
+  "run": 4,
+  "off": 292,
+  "len": 24,
+  "text": "door. Let's look around.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 31,
+  "run": 0,
+  "off": 50,
+  "len": 20,
+  "text": "e'e(e)e*e+e,e-e.!!&<03>",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 40,
+  "run": 0,
+  "off": 55,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 40,
+  "run": 1,
+  "off": 105,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 40,
+  "run": 2,
+  "off": 139,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 40,
+  "run": 3,
+  "off": 145,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 40,
+  "run": 4,
+  "off": 156,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 40,
+  "run": 5,
+  "off": 167,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 42,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:79}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 42,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 42,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 42,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:79}!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 42,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 43,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C2}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 43,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 43,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 43,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:C2}!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 43,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 44,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:82}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 44,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 44,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 44,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:82}!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 44,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 45,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:D0}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 45,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 45,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 45,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:D0}!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 45,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 46,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:87}",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 46,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 46,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 46,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:87}!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 46,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 0,
+  "off": 329,
+  "len": 25,
+  "text": "Well, well. It looks like",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 1,
+  "off": 356,
+  "len": 20,
+  "text": "the kids revived the",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 2,
+  "off": 378,
+  "len": 20,
+  "text": "Genesis Tree of Sol.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 3,
+  "off": 401,
+  "len": 8,
+  "text": "Not bad.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 4,
+  "off": 459,
+  "len": 30,
+  "text": "Gi Delilas: When you want that",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 5,
+  "off": 491,
+  "len": 31,
+  "text": "blue-headed brat dead, just say",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 6,
+  "off": 524,
+  "len": 30,
+  "text": "the word, Zora, and he's dead.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 7,
+  "off": 572,
+  "len": 26,
+  "text": "Zora: Ha, ha! You're quite",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 8,
+  "off": 600,
+  "len": 29,
+  "text": "confident. But leave them be.",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 9,
+  "off": 671,
+  "len": 29,
+  "text": "Zora: While they're wandering",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 10,
+  "off": 702,
+  "len": 20,
+  "text": "around, Koru will...",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 11,
+  "off": 743,
+  "len": 29,
+  "text": "Lu Delilas: Don't worry about",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 12,
+  "off": 774,
+  "len": 22,
+  "text": "Koru. Leave him to the",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 13,
+  "off": 798,
+  "len": 15,
+  "text": "Delilas family!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 14,
+  "off": 870,
+  "len": 22,
+  "text": "Zora: Ha, ha! Then go!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 15,
+  "off": 894,
+  "len": 20,
+  "text": "I'm counting on you!",
+  "ko": ""
+ },
+ {
+  "map": 428,
+  "script": 47,
+  "run": 16,
+  "off": 985,
+  "len": 24,
+  "text": "Che Delilas: Yes, ma'am!",
+  "ko": ""
+ }
+]

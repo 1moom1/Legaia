@@ -1,0 +1,4295 @@
+[
+ {
+  "map": 564,
+  "script": 38,
+  "run": 0,
+  "off": 43,
+  "len": 18,
+  "text": "Hello and welcome!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 1,
+  "off": 63,
+  "len": 24,
+  "text": "Do you have a Gold Card?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 2,
+  "off": 217,
+  "len": 15,
+  "text": "I'm very sorry,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 3,
+  "off": 234,
+  "len": 25,
+  "text": "but we are a members-only",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 4,
+  "off": 261,
+  "len": 14,
+  "text": "establishment.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 5,
+  "off": 278,
+  "len": 26,
+  "text": "Please acquire a Gold Card",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 6,
+  "off": 306,
+  "len": 15,
+  "text": "and come again.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 7,
+  "off": 330,
+  "len": 35,
+  "text": "Thank you! I'll hold onto your Gold",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 8,
+  "off": 367,
+  "len": 31,
+  "text": "Card while you are here. Please",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 9,
+  "off": 400,
+  "len": 17,
+  "text": "enjoy your visit.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 10,
+  "off": 428,
+  "len": 22,
+  "text": "This is a members-only",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 11,
+  "off": 452,
+  "len": 31,
+  "text": "establishment. Please acquire a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 12,
+  "off": 485,
+  "len": 25,
+  "text": "Gold Card and come again.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 13,
+  "off": 521,
+  "len": 21,
+  "text": "Thank you for coming.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 14,
+  "off": 557,
+  "len": 27,
+  "text": "We've been waiting for you,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 15,
+  "off": 586,
+  "len": 15,
+  "text": "Dance Queen {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 38,
+  "run": 16,
+  "off": 603,
+  "len": 24,
+  "text": "Please enjoy your visit.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 42,
+  "run": 0,
+  "off": 28,
+  "len": 5,
+  "text": "Mist!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 42,
+  "run": 1,
+  "off": 36,
+  "len": 25,
+  "text": "That doesn't matter here.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 42,
+  "run": 2,
+  "off": 63,
+  "len": 26,
+  "text": "Don't even worry about it!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 42,
+  "run": 3,
+  "off": 94,
+  "len": 18,
+  "text": "The Mist is gone?!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 42,
+  "run": 4,
+  "off": 115,
+  "len": 25,
+  "text": "That doesn't matter here.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 42,
+  "run": 5,
+  "off": 142,
+  "len": 26,
+  "text": "Don't even worry about it!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 0,
+  "off": 31,
+  "len": 24,
+  "text": "I really wanted to enter",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 1,
+  "off": 57,
+  "len": 26,
+  "text": "the Dancing Queen Contest,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 2,
+  "off": 85,
+  "len": 6,
+  "text": "but...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 3,
+  "off": 94,
+  "len": 24,
+  "text": "Disco King told me I was",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 4,
+  "off": 120,
+  "len": 15,
+  "text": "a lousy dancer.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 5,
+  "off": 140,
+  "len": 20,
+  "text": "You're so lucky, {NAME:01},",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 6,
+  "off": 162,
+  "len": 24,
+  "text": "because you can dance so",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 46,
+  "run": 7,
+  "off": 188,
+  "len": 5,
+  "text": "well!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 47,
+  "run": 0,
+  "off": 19,
+  "len": 25,
+  "text": "Come on, let's get it on!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 47,
+  "run": 1,
+  "off": 46,
+  "len": 21,
+  "text": "You can't just watch!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 47,
+  "run": 2,
+  "off": 69,
+  "len": 28,
+  "text": "Dance! Dance your shoes off!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 0,
+  "off": 23,
+  "len": 28,
+  "text": "This place used to be packed",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 1,
+  "off": 53,
+  "len": 29,
+  "text": "with young, beautiful people.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 2,
+  "off": 85,
+  "len": 28,
+  "text": "But it's been the same crowd",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 3,
+  "off": 115,
+  "len": 19,
+  "text": "for ten years, man.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 4,
+  "off": 136,
+  "len": 21,
+  "text": "You know what I mean?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 5,
+  "off": 162,
+  "len": 23,
+  "text": "It's great to be alive.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 6,
+  "off": 187,
+  "len": 29,
+  "text": "Look at those people dancing.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 48,
+  "run": 7,
+  "off": 218,
+  "len": 11,
+  "text": "Just great.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 0,
+  "off": 39,
+  "len": 20,
+  "text": "Disco King: Hey, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 1,
+  "off": 61,
+  "len": 28,
+  "text": "There aren't any more dances",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 2,
+  "off": 91,
+  "len": 20,
+  "text": "for me to teach you.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 3,
+  "off": 123,
+  "len": 25,
+  "text": "Disco King: You being the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 4,
+  "off": 150,
+  "len": 32,
+  "text": "Dancing Queen, I'm sure you know",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 5,
+  "off": 184,
+  "len": 22,
+  "text": "all my dances already.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 6,
+  "off": 213,
+  "len": 15,
+  "text": "Disco King: {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 7,
+  "off": 230,
+  "len": 32,
+  "text": "You already know more moves than",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 8,
+  "off": 264,
+  "len": 5,
+  "text": "I do.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 9,
+  "off": 272,
+  "len": 34,
+  "text": "Disco King: This is a present from",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 10,
+  "off": 308,
+  "len": 27,
+  "text": "me to the Dancing Queen and",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 11,
+  "off": 337,
+  "len": 27,
+  "text": "her friends. Here, take it!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 12,
+  "off": 379,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 49,
+  "run": 13,
+  "off": 391,
+  "len": 7,
+  "text": "the {ITEM:D1}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 0,
+  "off": 31,
+  "len": 22,
+  "text": "When I'm dancing here,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 1,
+  "off": 55,
+  "len": 32,
+  "text": "I feel so... so alive, you know?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 2,
+  "off": 90,
+  "len": 30,
+  "text": "I'm just an ordinary girl now,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 3,
+  "off": 122,
+  "len": 27,
+  "text": "but someday I'm going to be",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 4,
+  "off": 151,
+  "len": 18,
+  "text": "the Dancing Queen!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 5,
+  "off": 174,
+  "len": 19,
+  "text": "Oh, wow! You're the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 6,
+  "off": 195,
+  "len": 24,
+  "text": "Dance Queen, {NAME:01}! What do",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 50,
+  "run": 7,
+  "off": 221,
+  "len": 27,
+  "text": "you think about my dancing?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 0,
+  "off": 31,
+  "len": 23,
+  "text": "Mary: That's right! I'm",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 1,
+  "off": 56,
+  "len": 21,
+  "text": "Mary the Dance Queen.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 2,
+  "off": 84,
+  "len": 17,
+  "text": "Mary: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 3,
+  "off": 103,
+  "len": 29,
+  "text": "Don't tell me you're going to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 4,
+  "off": 134,
+  "len": 27,
+  "text": "enter the contest, are you?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 5,
+  "off": 286,
+  "len": 29,
+  "text": "Mary: I hate people who don't",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 6,
+  "off": 317,
+  "len": 32,
+  "text": "know their limitations. Lowlifes",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 7,
+  "off": 351,
+  "len": 32,
+  "text": "like that should just disappear.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 8,
+  "off": 388,
+  "len": 25,
+  "text": "Mary: That way, you know,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 9,
+  "off": 415,
+  "len": 28,
+  "text": "you won't have to be ashamed",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 10,
+  "off": 445,
+  "len": 12,
+  "text": "of yourself.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 11,
+  "off": 462,
+  "len": 29,
+  "text": "Mary: How could a lame dancer",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 12,
+  "off": 493,
+  "len": 28,
+  "text": "like {NAME:01} win. The judges must",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 51,
+  "run": 13,
+  "off": 523,
+  "len": 28,
+  "text": "be nearsighted or something.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 0,
+  "off": 27,
+  "len": 31,
+  "text": "Welcome, everybody! Sign up for",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 1,
+  "off": 60,
+  "len": 28,
+  "text": "the Dance Contest over here!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 2,
+  "off": 91,
+  "len": 24,
+  "text": "The sign-up fee is 500G.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 3,
+  "off": 117,
+  "len": 24,
+  "text": "Do you want to enter the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 4,
+  "off": 143,
+  "len": 8,
+  "text": "contest?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 5,
+  "off": 179,
+  "len": 26,
+  "text": "Very well. This young lady",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 6,
+  "off": 207,
+  "len": 27,
+  "text": "here, Ms. {NAME:01}. I'll go ahead",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 7,
+  "off": 236,
+  "len": 16,
+  "text": "and sign you up.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 8,
+  "off": 270,
+  "len": 29,
+  "text": "I'm very sorry, but you don't",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 9,
+  "off": 301,
+  "len": 28,
+  "text": "seem to have enough money to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 10,
+  "off": 331,
+  "len": 20,
+  "text": "pay the sign-up fee.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 11,
+  "off": 354,
+  "len": 27,
+  "text": "But of course you can dance",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 12,
+  "off": 383,
+  "len": 24,
+  "text": "on the main dance floor.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 13,
+  "off": 412,
+  "len": 23,
+  "text": "You can sign up for the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 14,
+  "off": 437,
+  "len": 16,
+  "text": "Contest anytime.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 15,
+  "off": 455,
+  "len": 16,
+  "text": "Come back again!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 16,
+  "off": 476,
+  "len": 18,
+  "text": "Oh, you're {NAME:01}, the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 17,
+  "off": 496,
+  "len": 12,
+  "text": "Dance Queen!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 18,
+  "off": 511,
+  "len": 34,
+  "text": "I'm sorry, but ever since you won,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 19,
+  "off": 547,
+  "len": 34,
+  "text": "no one wants to enter the Contest.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 20,
+  "off": 584,
+  "len": 26,
+  "text": "But since you're here now,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 21,
+  "off": 612,
+  "len": 23,
+  "text": "would you dance for us?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 22,
+  "off": 676,
+  "len": 28,
+  "text": "You can sign up at any time.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 52,
+  "run": 23,
+  "off": 706,
+  "len": 28,
+  "text": "Please come back again soon.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 0,
+  "off": 35,
+  "len": 28,
+  "text": "Admission is 10G per person.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 1,
+  "off": 65,
+  "len": 29,
+  "text": "There are 3 of you, so that's",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 2,
+  "off": 96,
+  "len": 17,
+  "text": "30G all together.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 3,
+  "off": 116,
+  "len": 22,
+  "text": "Do you want to pay 30G",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 4,
+  "off": 140,
+  "len": 23,
+  "text": "to go into the theater?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 5,
+  "off": 288,
+  "len": 28,
+  "text": "You don't have enough money!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 6,
+  "off": 325,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 7,
+  "off": 358,
+  "len": 9,
+  "text": "Go on in.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 8,
+  "off": 374,
+  "len": 7,
+  "text": "Oh, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 9,
+  "off": 383,
+  "len": 27,
+  "text": "You guys don't have to pay!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 10,
+  "off": 412,
+  "len": 17,
+  "text": "Please, go on in!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 11,
+  "off": 437,
+  "len": 22,
+  "text": "You don't wanna go in?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 59,
+  "run": 12,
+  "off": 461,
+  "len": 22,
+  "text": "Alright. Fine with me.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 0,
+  "off": 27,
+  "len": 11,
+  "text": "You guys...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 1,
+  "off": 41,
+  "len": 25,
+  "text": "Don't tell me you want to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 2,
+  "off": 68,
+  "len": 21,
+  "text": "come in this theater?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 3,
+  "off": 214,
+  "len": 33,
+  "text": "Well, I guess you can do whatever",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 4,
+  "off": 249,
+  "len": 28,
+  "text": "you want. Some people are so",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 5,
+  "off": 279,
+  "len": 10,
+  "text": "different!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 6,
+  "off": 294,
+  "len": 31,
+  "text": "You're right! Who would want to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 7,
+  "off": 327,
+  "len": 30,
+  "text": "waste their money on something",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 8,
+  "off": 359,
+  "len": 14,
+  "text": "like that? Ha!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 9,
+  "off": 378,
+  "len": 5,
+  "text": "A-ha!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 10,
+  "off": 386,
+  "len": 7,
+  "text": "Ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 11,
+  "off": 396,
+  "len": 15,
+  "text": "Ha, ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 12,
+  "off": 414,
+  "len": 33,
+  "text": "I almost laughed myself to death!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 13,
+  "off": 449,
+  "len": 27,
+  "text": "So I was resting here. It's",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 60,
+  "run": 14,
+  "off": 478,
+  "len": 25,
+  "text": "great to laugh, isn't it?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 0,
+  "off": 27,
+  "len": 10,
+  "text": "Zzzzzz....",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 1,
+  "off": 40,
+  "len": 12,
+  "text": "Zzzzzzzz....",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 2,
+  "off": 55,
+  "len": 21,
+  "text": "(Louder) ZZZZZZZZZ...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 3,
+  "off": 85,
+  "len": 20,
+  "text": "Hey, leave me alone!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 4,
+  "off": 107,
+  "len": 15,
+  "text": "I was sleeping!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 5,
+  "off": 124,
+  "len": 17,
+  "text": "Don't wake me up!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 6,
+  "off": 146,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 7,
+  "off": 160,
+  "len": 31,
+  "text": "Shut up! This is the good part!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 61,
+  "run": 8,
+  "off": 193,
+  "len": 20,
+  "text": "Don't bother me now!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 62,
+  "run": 0,
+  "off": 21,
+  "len": 10,
+  "text": "Oh, Pippy!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 62,
+  "run": 1,
+  "off": 33,
+  "len": 28,
+  "text": "The world may be engulfed in",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 62,
+  "run": 2,
+  "off": 63,
+  "len": 32,
+  "text": "Mist, but I'll never let you go!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 62,
+  "run": 3,
+  "off": 100,
+  "len": 30,
+  "text": "Pippy! Whatever happens to the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 62,
+  "run": 4,
+  "off": 132,
+  "len": 35,
+  "text": "world, promise me you'll never lose",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 62,
+  "run": 5,
+  "off": 169,
+  "len": 27,
+  "text": "that lovely smile of yours!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 0,
+  "off": 21,
+  "len": 22,
+  "text": "Oh, darling! Your love",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 1,
+  "off": 45,
+  "len": 20,
+  "text": "is everything to me!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 2,
+  "off": 68,
+  "len": 10,
+  "text": "(Blushing)",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 3,
+  "off": 83,
+  "len": 12,
+  "text": "Oh, Sol-Mar,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 4,
+  "off": 97,
+  "len": 30,
+  "text": "I just love a man who makes me",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 5,
+  "off": 129,
+  "len": 6,
+  "text": "laugh!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 63,
+  "run": 6,
+  "off": 138,
+  "len": 10,
+  "text": "(Blushing)",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 0,
+  "off": 128,
+  "len": 27,
+  "text": "Sol-Mar: Hey, folks, thanks",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 1,
+  "off": 157,
+  "len": 11,
+  "text": "for coming.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 2,
+  "off": 300,
+  "len": 24,
+  "text": "Sol-Far: Hi, I'm Sol-Far",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 3,
+  "off": 326,
+  "len": 20,
+  "text": "and this is Sol-Mar.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 4,
+  "off": 433,
+  "len": 31,
+  "text": "Sol-Mar: And I'd like to say...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 5,
+  "off": 533,
+  "len": 33,
+  "text": "Sol-Far: [Singing] I'm a Sol man!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 6,
+  "off": 568,
+  "len": 26,
+  "text": "Get it? Sol man? Soul man!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 7,
+  "off": 726,
+  "len": 33,
+  "text": "Sol-Mar: Hey, stop joking around,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 8,
+  "off": 761,
+  "len": 10,
+  "text": "you moron!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 9,
+  "off": 853,
+  "len": 27,
+  "text": "Sol-Far: (Grumble, grumble)",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 10,
+  "off": 1019,
+  "len": 33,
+  "text": "Sol-Mar: You know, a person who's",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 11,
+  "off": 1054,
+  "len": 31,
+  "text": "really talked-about nowadays is",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 12,
+  "off": 1087,
+  "len": 10,
+  "text": "Master {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 13,
+  "off": 1142,
+  "len": 33,
+  "text": "Sol-Far: Just between you and me,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 14,
+  "off": 1177,
+  "len": 18,
+  "text": "that {NAME:02}, he may be",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 15,
+  "off": 1197,
+  "len": 17,
+  "text": "big and strong...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 16,
+  "off": 1286,
+  "len": 32,
+  "text": "Sol-Far: But he's a natural-born",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 17,
+  "off": 1320,
+  "len": 25,
+  "text": "comedian! In other words,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 18,
+  "off": 1347,
+  "len": 15,
+  "text": "naturally dumb!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 19,
+  "off": 1415,
+  "len": 18,
+  "text": "Sol-Mar: Hey, hey!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 20,
+  "off": 1435,
+  "len": 19,
+  "text": "You can't say that!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 21,
+  "off": 1514,
+  "len": 21,
+  "text": "Sol-Far: Don't worry!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 22,
+  "off": 1537,
+  "len": 33,
+  "text": "I can say that, 'cause me and him",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 23,
+  "off": 1572,
+  "len": 17,
+  "text": "are good friends.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 24,
+  "off": 1613,
+  "len": 28,
+  "text": "Sol-Far: Just the other day,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 64,
+  "run": 25,
+  "off": 1643,
+  "len": 22,
+  "text": "{NAME:02} was saying to me...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 66,
+  "run": 0,
+  "off": 25,
+  "len": 32,
+  "text": "A long time ago this theater was",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 66,
+  "run": 1,
+  "off": 59,
+  "len": 30,
+  "text": "really popular, and there were",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 66,
+  "run": 2,
+  "off": 91,
+  "len": 25,
+  "text": "girls all over the place.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 66,
+  "run": 3,
+  "off": 121,
+  "len": 28,
+  "text": "Why don't you three go up on",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 66,
+  "run": 4,
+  "off": 151,
+  "len": 23,
+  "text": "stage as a comedy trio?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 67,
+  "run": 0,
+  "off": 25,
+  "len": 35,
+  "text": "I keep doing comedy because I don't",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 67,
+  "run": 1,
+  "off": 62,
+  "len": 29,
+  "text": "have anything else to do, but",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 67,
+  "run": 2,
+  "off": 93,
+  "len": 27,
+  "text": "it's so depressing, really.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 67,
+  "run": 3,
+  "off": 123,
+  "len": 31,
+  "text": "Oh, I want to hear the audience",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 67,
+  "run": 4,
+  "off": 156,
+  "len": 29,
+  "text": "laugh just once before I die!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 67,
+  "run": 5,
+  "off": 190,
+  "len": 29,
+  "text": "I wish I had your talent, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 0,
+  "off": 16,
+  "len": 30,
+  "text": "Owner: Frankly, the way things",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 1,
+  "off": 48,
+  "len": 28,
+  "text": "are, I should just shut this",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 2,
+  "off": 78,
+  "len": 18,
+  "text": "place down, but...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 3,
+  "off": 99,
+  "len": 29,
+  "text": "Owner: If I did that, all the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 4,
+  "off": 130,
+  "len": 30,
+  "text": "people here would have nowhere",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 5,
+  "off": 162,
+  "len": 11,
+  "text": "else to go!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 6,
+  "off": 176,
+  "len": 34,
+  "text": "Owner: That's why I keep the place",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 7,
+  "off": 212,
+  "len": 31,
+  "text": "open and let them perform here.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 8,
+  "off": 246,
+  "len": 32,
+  "text": "Owner: I guess you could call it",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 9,
+  "off": 280,
+  "len": 25,
+  "text": "a kind of volunteer work!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 10,
+  "off": 310,
+  "len": 30,
+  "text": "Owner: Ever since you did your",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 11,
+  "off": 342,
+  "len": 20,
+  "text": "comedy act here, {NAME:02},",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 68,
+  "run": 12,
+  "off": 364,
+  "len": 32,
+  "text": "crowds have been getting bigger!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 0,
+  "off": 42,
+  "len": 8,
+  "text": "Mon: Oh.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 1,
+  "off": 52,
+  "len": 35,
+  "text": "Well, I guess you're not interested",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 2,
+  "off": 89,
+  "len": 16,
+  "text": "in doing comedy.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 3,
+  "off": 108,
+  "len": 26,
+  "text": "Mon: Of course you're not!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 4,
+  "off": 136,
+  "len": 23,
+  "text": "Oh well. Don't mind me.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 5,
+  "off": 161,
+  "len": 25,
+  "text": "I was being unreasonable.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 6,
+  "off": 189,
+  "len": 14,
+  "text": "Mon: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 7,
+  "off": 206,
+  "len": 26,
+  "text": "Mon: It's all over for me!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 8,
+  "off": 237,
+  "len": 29,
+  "text": "Mon: What? You'll go on stage",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 9,
+  "off": 268,
+  "len": 8,
+  "text": "with me?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 10,
+  "off": 279,
+  "len": 34,
+  "text": "Mon: Oh, thank you! All right, the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 11,
+  "off": 315,
+  "len": 28,
+  "text": "stage is this way. Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 12,
+  "off": 346,
+  "len": 25,
+  "text": "Mon: What are you worried",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 13,
+  "off": 373,
+  "len": 31,
+  "text": "about? Just deadpan it up there",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 14,
+  "off": 406,
+  "len": 21,
+  "text": "and I'll do the rest.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 15,
+  "off": 430,
+  "len": 26,
+  "text": "Mon: I heard that you're a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 16,
+  "off": 458,
+  "len": 19,
+  "text": "great straight man!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 17,
+  "off": 479,
+  "len": 25,
+  "text": "So don't worry, let's go!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 18,
+  "off": 528,
+  "len": 17,
+  "text": "Mon: Hey, {NAME:02}! Why",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 19,
+  "off": 547,
+  "len": 26,
+  "text": "don't you team up with me?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 20,
+  "off": 575,
+  "len": 26,
+  "text": "We could be a comedy team!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 21,
+  "off": 725,
+  "len": 13,
+  "text": "Mon: Hey, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 22,
+  "off": 740,
+  "len": 33,
+  "text": "The other day, something terrible",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 23,
+  "off": 775,
+  "len": 15,
+  "text": "happened to me.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 24,
+  "off": 793,
+  "len": 27,
+  "text": "Mon: {NAME:02}! All you have to do",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 25,
+  "off": 822,
+  "len": 32,
+  "text": "is act natural! You'll be great!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 26,
+  "off": 856,
+  "len": 21,
+  "text": "Let's make 'em laugh!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 27,
+  "off": 884,
+  "len": 18,
+  "text": "Okay, let's do it!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 28,
+  "off": 1019,
+  "len": 13,
+  "text": "Mon: Hey, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 29,
+  "off": 1034,
+  "len": 25,
+  "text": "Thanks for helping me out",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 30,
+  "off": 1061,
+  "len": 14,
+  "text": "the other day.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 31,
+  "off": 1078,
+  "len": 24,
+  "text": "Mon: Thanks to you, I've",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 32,
+  "off": 1104,
+  "len": 28,
+  "text": "regained my self-confidence.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 33,
+  "off": 1135,
+  "len": 29,
+  "text": "Mon: I'll never say \"It's all",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 34,
+  "off": 1166,
+  "len": 19,
+  "text": "over for me\" again!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 35,
+  "off": 1188,
+  "len": 29,
+  "text": "Mon: My partner, Pig, saw our",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 36,
+  "off": 1219,
+  "len": 31,
+  "text": "act the other day and agreed to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 37,
+  "off": 1252,
+  "len": 19,
+  "text": "work with me again!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 38,
+  "off": 1274,
+  "len": 28,
+  "text": "Mon: Pig says he's done some",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 39,
+  "off": 1304,
+  "len": 31,
+  "text": "soul-searching, and I know it's",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 40,
+  "off": 1337,
+  "len": 23,
+  "text": "not fair to you, but...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 41,
+  "off": 1363,
+  "len": 30,
+  "text": "Mon: Pig and I have decided to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 42,
+  "off": 1395,
+  "len": 21,
+  "text": "work as a team again.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 43,
+  "off": 1419,
+  "len": 19,
+  "text": "Mon: Thank you, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 44,
+  "off": 1440,
+  "len": 23,
+  "text": "I have you to thank for",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 45,
+  "off": 1465,
+  "len": 11,
+  "text": "everything!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 46,
+  "off": 1481,
+  "len": 27,
+  "text": "Mon: But {NAME:02}, I hope we have",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 47,
+  "off": 1510,
+  "len": 32,
+  "text": "the chance to do comedy together",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 69,
+  "run": 48,
+  "off": 1544,
+  "len": 14,
+  "text": "again someday.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 70,
+  "run": 0,
+  "off": 29,
+  "len": 33,
+  "text": "Pig: I... I hope I can be as good",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 70,
+  "run": 1,
+  "off": 64,
+  "len": 26,
+  "text": "a comedian as you someday,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 70,
+  "run": 2,
+  "off": 92,
+  "len": 26,
+  "text": "{NAME:02}! You're a comic genius!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 71,
+  "run": 0,
+  "off": 19,
+  "len": 23,
+  "text": "!<1F>The show has started.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 71,
+  "run": 1,
+  "off": 44,
+  "len": 30,
+  "text": "I can't let anyone who isn't a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 71,
+  "run": 2,
+  "off": 76,
+  "len": 15,
+  "text": "performer pass.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 72,
+  "run": 0,
+  "off": 30,
+  "len": 29,
+  "text": "I didn't know comedy could be",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 72,
+  "run": 1,
+  "off": 61,
+  "len": 25,
+  "text": "so funny until I saw your",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 72,
+  "run": 2,
+  "off": 88,
+  "len": 8,
+  "text": "act, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 73,
+  "run": 0,
+  "off": 30,
+  "len": 24,
+  "text": "I came to see {NAME:02} and Mon",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 73,
+  "run": 1,
+  "off": 56,
+  "len": 33,
+  "text": "when I heard how funny they were.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 73,
+  "run": 2,
+  "off": 91,
+  "len": 26,
+  "text": "Can't you do another show?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 74,
+  "run": 0,
+  "off": 30,
+  "len": 12,
+  "text": "I wanna be a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 74,
+  "run": 1,
+  "off": 44,
+  "len": 14,
+  "text": "comedian, too!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 0,
+  "off": 46,
+  "len": 24,
+  "text": "6th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 1,
+  "off": 81,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 2,
+  "off": 110,
+  "len": 24,
+  "text": "7th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 3,
+  "off": 145,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 4,
+  "off": 174,
+  "len": 17,
+  "text": "A familiar melody",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 5,
+  "off": 202,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 6,
+  "off": 231,
+  "len": 25,
+  "text": "Winning the Dance Contest",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 7,
+  "off": 267,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 8,
+  "off": 296,
+  "len": 20,
+  "text": "Disco King's present",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 9,
+  "off": 327,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 10,
+  "off": 356,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 11,
+  "off": 406,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 12,
+  "off": 440,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 13,
+  "off": 446,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 14,
+  "off": 457,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 77,
+  "run": 15,
+  "off": 468,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 0,
+  "off": 364,
+  "len": 29,
+  "text": "Mon: My partner, Pig, said he",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 1,
+  "off": 395,
+  "len": 32,
+  "text": "doesn't want to perform anymore,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 2,
+  "off": 429,
+  "len": 31,
+  "text": "and that this is all pointless!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 3,
+  "off": 463,
+  "len": 26,
+  "text": "Mon: Since then, I haven't",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 4,
+  "off": 491,
+  "len": 23,
+  "text": "been able to find a new",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 5,
+  "off": 516,
+  "len": 8,
+  "text": "partner.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 6,
+  "off": 539,
+  "len": 9,
+  "text": "Mon: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 7,
+  "off": 729,
+  "len": 20,
+  "text": "Mon: Hey, you there!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 8,
+  "off": 751,
+  "len": 17,
+  "text": "You, the big one!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 9,
+  "off": 798,
+  "len": 9,
+  "text": "Mon: Eh!?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 10,
+  "off": 809,
+  "len": 16,
+  "text": "Your name is {NAME:02}?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 11,
+  "off": 855,
+  "len": 8,
+  "text": "Mon: {NAME:02},",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 12,
+  "off": 865,
+  "len": 23,
+  "text": "you look just like Pig!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 13,
+  "off": 906,
+  "len": 29,
+  "text": "Mon: Would you go up on stage",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 14,
+  "off": 937,
+  "len": 8,
+  "text": "with me?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 15,
+  "off": 1034,
+  "len": 8,
+  "text": "Mon: Oh.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 16,
+  "off": 1044,
+  "len": 35,
+  "text": "Well, I guess you're not interested",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 17,
+  "off": 1081,
+  "len": 16,
+  "text": "in doing comedy.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 18,
+  "off": 1107,
+  "len": 26,
+  "text": "Mon: Of course you're not!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 19,
+  "off": 1135,
+  "len": 23,
+  "text": "Oh well. Don't mind me.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 20,
+  "off": 1160,
+  "len": 25,
+  "text": "I was being unreasonable.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 21,
+  "off": 1249,
+  "len": 14,
+  "text": "Mon: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 22,
+  "off": 1288,
+  "len": 26,
+  "text": "Mon: It's all over for me!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 23,
+  "off": 1573,
+  "len": 29,
+  "text": "Mon: What? You'll go on stage",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 24,
+  "off": 1604,
+  "len": 8,
+  "text": "with me?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 25,
+  "off": 1684,
+  "len": 32,
+  "text": "Mon: Oh, thank you! Alright, the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 26,
+  "off": 1718,
+  "len": 28,
+  "text": "stage is this way. Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 27,
+  "off": 1807,
+  "len": 25,
+  "text": "Mon: What are you worried",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 28,
+  "off": 1834,
+  "len": 31,
+  "text": "about? Just deadpan it up there",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 29,
+  "off": 1867,
+  "len": 21,
+  "text": "and I'll do the rest.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 30,
+  "off": 1924,
+  "len": 26,
+  "text": "Mon: I heard that you're a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 31,
+  "off": 1952,
+  "len": 19,
+  "text": "great straight man!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 81,
+  "run": 32,
+  "off": 1973,
+  "len": 25,
+  "text": "So don't worry, let's go!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 0,
+  "off": 194,
+  "len": 33,
+  "text": "Disco King: You! That girl there!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 1,
+  "off": 229,
+  "len": 28,
+  "text": "You look like a natural-born",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 2,
+  "off": 259,
+  "len": 7,
+  "text": "dancer.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 3,
+  "off": 269,
+  "len": 31,
+  "text": "Disco King: Do you want to take",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 4,
+  "off": 302,
+  "len": 16,
+  "text": "lessons from me?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 5,
+  "off": 362,
+  "len": 36,
+  "text": "Disco King: Good! That's the spirit!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 6,
+  "off": 400,
+  "len": 32,
+  "text": "Now just do what I do and dance!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 7,
+  "off": 521,
+  "len": 30,
+  "text": "Disco King: What? What a waste",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 83,
+  "run": 8,
+  "off": 553,
+  "len": 26,
+  "text": "of talent. That's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 0,
+  "off": 417,
+  "len": 34,
+  "text": "There are lots of talented dancers",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 1,
+  "off": 453,
+  "len": 31,
+  "text": "here today. Who will be the new",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 2,
+  "off": 486,
+  "len": 19,
+  "text": "Dance Queen of Sol?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 3,
+  "off": 508,
+  "len": 33,
+  "text": "Now let's start the preliminaries",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 4,
+  "off": 543,
+  "len": 20,
+  "text": "for the world-famous",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 5,
+  "off": 565,
+  "len": 18,
+  "text": "Sol Dance Contest!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 6,
+  "off": 641,
+  "len": 34,
+  "text": "Whoever wins the tough preliminary",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 7,
+  "off": 677,
+  "len": 29,
+  "text": "gets to compete against Queen",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 8,
+  "off": 708,
+  "len": 19,
+  "text": "Mary for the title!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 9,
+  "off": 734,
+  "len": 30,
+  "text": "The judges are ready. When the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 10,
+  "off": 766,
+  "len": 27,
+  "text": "music starts, start dancing",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 84,
+  "run": 11,
+  "off": 795,
+  "len": 16,
+  "text": "your hearts out!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 0,
+  "off": 488,
+  "len": 21,
+  "text": "Wow, you're great {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 1,
+  "off": 511,
+  "len": 32,
+  "text": "The audience has never applauded",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 2,
+  "off": 545,
+  "len": 10,
+  "text": "this much!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 3,
+  "off": 621,
+  "len": 33,
+  "text": "Mon: I forgot how wonderful it is",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 4,
+  "off": 656,
+  "len": 35,
+  "text": "to see people smiling and laughing!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 5,
+  "off": 856,
+  "len": 23,
+  "text": "{NAME:02}: N-No! It's not what",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 6,
+  "off": 881,
+  "len": 18,
+  "text": "you think! {NAME}! {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 7,
+  "off": 901,
+  "len": 25,
+  "text": "Don't get the wrong idea!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 8,
+  "off": 929,
+  "len": 23,
+  "text": "{NAME:02}: I-I was just having",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 9,
+  "off": 954,
+  "len": 23,
+  "text": "a serious conversation!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 10,
+  "off": 980,
+  "len": 19,
+  "text": "{NAME:02}: Even if a Biron",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 11,
+  "off": 1001,
+  "len": 27,
+  "text": "warrior-monk did perform in",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 12,
+  "off": 1030,
+  "len": 19,
+  "text": "a... comedy show...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 13,
+  "off": 1088,
+  "len": 17,
+  "text": "{NAME:02}: No, I mean...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 14,
+  "off": 1107,
+  "len": 25,
+  "text": "The rules of Biron forbid",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 15,
+  "off": 1134,
+  "len": 9,
+  "text": "laughter!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 16,
+  "off": 1185,
+  "len": 27,
+  "text": "{NAME:02}: So, even if I, a Master",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 17,
+  "off": 1214,
+  "len": 28,
+  "text": "of Biron, I mean, I would...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 18,
+  "off": 1309,
+  "len": 20,
+  "text": "{NAME:02}: I could never...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 19,
+  "off": 1384,
+  "len": 9,
+  "text": "Mon: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 20,
+  "off": 1441,
+  "len": 22,
+  "text": "Mon: {NAME:02}, what's wrong?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 21,
+  "off": 1465,
+  "len": 24,
+  "text": "Your act was just great,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 22,
+  "off": 1491,
+  "len": 25,
+  "text": "so what's the matter now?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 23,
+  "off": 1546,
+  "len": 26,
+  "text": "Mon: That line wasn't very",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 24,
+  "off": 1574,
+  "len": 6,
+  "text": "funny.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 25,
+  "off": 1622,
+  "len": 22,
+  "text": "{NAME:01}: Wow! You're great,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 26,
+  "off": 1646,
+  "len": 27,
+  "text": "{NAME:02}! You're not just strong,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 27,
+  "off": 1675,
+  "len": 18,
+  "text": "you're funny, too!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 28,
+  "off": 1696,
+  "len": 18,
+  "text": "{NAME:01}: I wanna go see",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 29,
+  "off": 1716,
+  "len": 24,
+  "text": "all the people laughing.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 30,
+  "off": 1742,
+  "len": 25,
+  "text": "I'll be back in a minute.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 31,
+  "off": 2032,
+  "len": 29,
+  "text": "Stop looking at me like that!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 32,
+  "off": 2107,
+  "len": 26,
+  "text": "{NAME:02}: I... It's just that...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 33,
+  "off": 2135,
+  "len": 9,
+  "text": "You know!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 34,
+  "off": 2191,
+  "len": 20,
+  "text": "{NAME:02}: Oh well. That {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 35,
+  "off": 2213,
+  "len": 19,
+  "text": "went on by herself.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 36,
+  "off": 2241,
+  "len": 21,
+  "text": "{NAME:02}: I guess we should",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 85,
+  "run": 37,
+  "off": 2264,
+  "len": 11,
+  "text": "follow her!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 0,
+  "off": 75,
+  "len": 5,
+  "text": "Score",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 1,
+  "off": 91,
+  "len": 9,
+  "text": "Excellent",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 2,
+  "off": 102,
+  "len": 11,
+  "text": "Pretty good",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 3,
+  "off": 115,
+  "len": 4,
+  "text": "Good",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 4,
+  "off": 121,
+  "len": 5,
+  "text": "Other",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 5,
+  "off": 129,
+  "len": 5,
+  "text": "Score",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 6,
+  "off": 143,
+  "len": 7,
+  "text": "Average",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 7,
+  "off": 157,
+  "len": 7,
+  "text": "Go back",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 8,
+  "off": 182,
+  "len": 26,
+  "text": "Disco King: Well, if I had",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 9,
+  "off": 210,
+  "len": 22,
+  "text": "to score that dancing,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 10,
+  "off": 234,
+  "len": 14,
+  "text": "I'd give it...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 11,
+  "off": 284,
+  "len": 22,
+  "text": "Disco King: {CE:11} points!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 12,
+  "off": 363,
+  "len": 28,
+  "text": "Disco King: You're terrible!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 13,
+  "off": 393,
+  "len": 17,
+  "text": "No talent at all!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 14,
+  "off": 412,
+  "len": 25,
+  "text": "That was a waste of time!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 15,
+  "off": 440,
+  "len": 26,
+  "text": "Disco King: Can't you even",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 16,
+  "off": 468,
+  "len": 33,
+  "text": "manage to press the buttons while",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 17,
+  "off": 503,
+  "len": 19,
+  "text": "watching the gauge?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 18,
+  "off": 772,
+  "len": 26,
+  "text": "Disco King: Well, if I had",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 19,
+  "off": 800,
+  "len": 22,
+  "text": "to score that dancing,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 20,
+  "off": 824,
+  "len": 14,
+  "text": "I'd give it...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 21,
+  "off": 870,
+  "len": 22,
+  "text": "Disco King: {CE:11} points!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 22,
+  "off": 968,
+  "len": 33,
+  "text": "Disco King: I admire your effort,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 23,
+  "off": 1003,
+  "len": 30,
+  "text": "but effort isn't enough. Dance",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 24,
+  "off": 1035,
+  "len": 30,
+  "text": "is all about rhythm and style!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 25,
+  "off": 1068,
+  "len": 32,
+  "text": "Disco King: To show style, press",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 26,
+  "off": 1102,
+  "len": 27,
+  "text": "the {CE:3} button. You have to ",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 27,
+  "off": 1131,
+  "len": 11,
+  "text": "work at it!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 28,
+  "off": 1483,
+  "len": 26,
+  "text": "Disco King: Well, if I had",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 29,
+  "off": 1511,
+  "len": 22,
+  "text": "to score that dancing,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 30,
+  "off": 1535,
+  "len": 14,
+  "text": "I'd give it...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 31,
+  "off": 1573,
+  "len": 22,
+  "text": "Disco King: {CE:11} points!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 32,
+  "off": 1686,
+  "len": 33,
+  "text": "Disco King: That was pretty good!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 33,
+  "off": 1721,
+  "len": 29,
+  "text": "Dance is all about rhythm and",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 34,
+  "off": 1752,
+  "len": 6,
+  "text": "style!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 35,
+  "off": 1761,
+  "len": 32,
+  "text": "Disco King: The {CE:3} button is the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 36,
+  "off": 1795,
+  "len": 32,
+  "text": "secret to dancing! Use it as one",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 37,
+  "off": 1829,
+  "len": 14,
+  "text": "of your moves!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 38,
+  "off": 1846,
+  "len": 26,
+  "text": "Disco King: {NAME:01}, I see real",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 39,
+  "off": 1874,
+  "len": 14,
+  "text": "talent in you!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 40,
+  "off": 1890,
+  "len": 25,
+  "text": "Just try a little harder!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 41,
+  "off": 2126,
+  "len": 26,
+  "text": "Disco King: Well, if I had",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 42,
+  "off": 2154,
+  "len": 22,
+  "text": "to score that dancing,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 43,
+  "off": 2178,
+  "len": 14,
+  "text": "I'd give it...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 44,
+  "off": 2309,
+  "len": 22,
+  "text": "Disco King: {CE:11} points!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 45,
+  "off": 2334,
+  "len": 23,
+  "text": "Disco King: Incredible!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 46,
+  "off": 2359,
+  "len": 27,
+  "text": "{NAME:01}, you could be one of the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 47,
+  "off": 2388,
+  "len": 26,
+  "text": "best in the Dance Contest!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 48,
+  "off": 2654,
+  "len": 26,
+  "text": "Disco King: Well, if I had",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 49,
+  "off": 2682,
+  "len": 22,
+  "text": "to score that dancing,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 50,
+  "off": 2706,
+  "len": 14,
+  "text": "I'd give it...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 51,
+  "off": 3018,
+  "len": 22,
+  "text": "Disco King: {CE:11} points!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 52,
+  "off": 3043,
+  "len": 23,
+  "text": "Disco King: {NAME:01}, there's",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 53,
+  "off": 3068,
+  "len": 24,
+  "text": "nothing more I can teach",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 54,
+  "off": 3094,
+  "len": 4,
+  "text": "you.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 55,
+  "off": 3226,
+  "len": 29,
+  "text": "Disco King: As a final prize,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 56,
+  "off": 3257,
+  "len": 17,
+  "text": "I'll give you the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 86,
+  "run": 57,
+  "off": 3294,
+  "len": 14,
+  "text": "{NAME:01} now has the",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 0,
+  "off": 278,
+  "len": 27,
+  "text": "Contestants, you all danced",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 1,
+  "off": 307,
+  "len": 30,
+  "text": "superbly! Thank you, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 2,
+  "off": 376,
+  "len": 29,
+  "text": "Now for the judges' decision.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 3,
+  "off": 407,
+  "len": 32,
+  "text": "The winners of the Dance Contest",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 4,
+  "off": 441,
+  "len": 20,
+  "text": "preliminaries are...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 5,
+  "off": 2605,
+  "len": 27,
+  "text": "Contestants, you all danced",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 6,
+  "off": 2634,
+  "len": 30,
+  "text": "superbly! Thank you, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 7,
+  "off": 2703,
+  "len": 29,
+  "text": "Now for the judges' decision.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 8,
+  "off": 2734,
+  "len": 32,
+  "text": "The winners of the Dance Contest",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 9,
+  "off": 2768,
+  "len": 20,
+  "text": "preliminaries are...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 10,
+  "off": 4506,
+  "len": 31,
+  "text": "Now it's time for the Sol Dance",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 11,
+  "off": 4539,
+  "len": 15,
+  "text": "Contest finals!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 12,
+  "off": 5024,
+  "len": 30,
+  "text": "Introducing the contestants...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 13,
+  "off": 5057,
+  "len": 30,
+  "text": "First, a lovely dancer sure to",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 14,
+  "off": 5089,
+  "len": 30,
+  "text": "dance gracefully tonight. With",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 15,
+  "off": 5121,
+  "len": 25,
+  "text": "pretty green hair, Cathy!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 16,
+  "off": 5149,
+  "len": 32,
+  "text": "Next, in the middle, a dancer of",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 17,
+  "off": 5183,
+  "len": 34,
+  "text": "amazing skill and grace, already a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 18,
+  "off": 5219,
+  "len": 29,
+  "text": "legend, Queen of Dance, Mary!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 19,
+  "off": 5251,
+  "len": 35,
+  "text": "Last, a dark horse. An unknown now,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 20,
+  "off": 5288,
+  "len": 29,
+  "text": "but will that change tonight?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 21,
+  "off": 5319,
+  "len": 8,
+  "text": "It's {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 22,
+  "off": 5330,
+  "len": 32,
+  "text": "Now for that breathtaking moment",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 87,
+  "run": 23,
+  "off": 5364,
+  "len": 33,
+  "text": "-- the start of the dance finals!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 0,
+  "off": 366,
+  "len": 29,
+  "text": "Thank you, everyone. Tonight,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 1,
+  "off": 397,
+  "len": 20,
+  "text": "Dance Queen Mary has",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 2,
+  "off": 419,
+  "len": 32,
+  "text": "successfully defended her crown.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 3,
+  "off": 464,
+  "len": 35,
+  "text": "How long can she remain undefeated?",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 4,
+  "off": 501,
+  "len": 27,
+  "text": "This concludes today's live",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 5,
+  "off": 530,
+  "len": 29,
+  "text": "coverage of a hot, hot event.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 6,
+  "off": 2364,
+  "len": 22,
+  "text": "Oh my... Unbelievable!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 7,
+  "off": 2388,
+  "len": 31,
+  "text": "Mary has been defeated! There's",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 8,
+  "off": 2421,
+  "len": 26,
+  "text": "a new Dance Queen tonight!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 9,
+  "off": 2460,
+  "len": 29,
+  "text": "With an elegant yet energetic",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 10,
+  "off": 2491,
+  "len": 30,
+  "text": "style, {NAME:01} has taken the crown!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 11,
+  "off": 2534,
+  "len": 29,
+  "text": "Tonight is the beginning of a",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 12,
+  "off": 2565,
+  "len": 11,
+  "text": "new legend.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 13,
+  "off": 3071,
+  "len": 20,
+  "text": "The new Dance Queen,",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 14,
+  "off": 3093,
+  "len": 21,
+  "text": "{NAME:01}, now receives from",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 15,
+  "off": 3116,
+  "len": 30,
+  "text": "the Dance Contest Committee...",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 16,
+  "off": 3149,
+  "len": 23,
+  "text": "Prize money of 10,000G ",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 17,
+  "off": 3174,
+  "len": 11,
+  "text": "and the {ITEM:58}!",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 18,
+  "off": 3204,
+  "len": 18,
+  "text": "{NAME:01} now has 10,000G",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 88,
+  "run": 19,
+  "off": 3224,
+  "len": 11,
+  "text": "and the {ITEM:58}.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 89,
+  "run": 0,
+  "off": 35,
+  "len": 28,
+  "text": "You can sign up at any time.",
+  "ko": ""
+ },
+ {
+  "map": 564,
+  "script": 89,
+  "run": 1,
+  "off": 65,
+  "len": 28,
+  "text": "Please come back again soon.",
+  "ko": ""
+ }
+]

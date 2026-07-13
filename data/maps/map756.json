@@ -1,0 +1,101 @@
+[
+ {
+  "map": 756,
+  "script": 22,
+  "run": 0,
+  "off": 34,
+  "len": 8,
+  "text": "Awwoooo!",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 0,
+  "off": 29,
+  "len": 4,
+  "text": "Q@=<06>",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 1,
+  "off": 152,
+  "len": 32,
+  "text": "When not worn by a human, a Seru",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 2,
+  "off": 186,
+  "len": 31,
+  "text": "looks much like a stone figure.",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 3,
+  "off": 219,
+  "len": 10,
+  "text": "However...",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 4,
+  "off": 393,
+  "len": 29,
+  "text": "Upon touching a human, a Seru",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 5,
+  "off": 424,
+  "len": 33,
+  "text": "changes form and gives that human",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 6,
+  "off": 459,
+  "len": 17,
+  "text": "secret abilities.",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 7,
+  "off": 478,
+  "len": 29,
+  "text": "With a Seru, a human can lift",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 8,
+  "off": 509,
+  "len": 31,
+  "text": "objects heavier than itself and",
+  "ko": ""
+ },
+ {
+  "map": 756,
+  "script": 33,
+  "run": 9,
+  "off": 542,
+  "len": 28,
+  "text": "even fly in the air at will.",
+  "ko": ""
+ }
+]

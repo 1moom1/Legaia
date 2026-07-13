@@ -1,0 +1,3314 @@
+[
+ {
+  "map": 554,
+  "script": 41,
+  "run": 0,
+  "off": 45,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.t<03><05>",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 0,
+  "off": 33,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 1,
+  "off": 54,
+  "len": 24,
+  "text": "6th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 2,
+  "off": 89,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 3,
+  "off": 97,
+  "len": 27,
+  "text": "6th Genesis Tree Revival ON",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 4,
+  "off": 126,
+  "len": 28,
+  "text": "6th Genesis Tree Revival OFF",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 5,
+  "off": 156,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 6,
+  "off": 179,
+  "len": 26,
+  "text": "All Sage's Treasure Chests",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 7,
+  "off": 207,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 8,
+  "off": 244,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 9,
+  "off": 252,
+  "len": 29,
+  "text": "All Sage's Treasure Chests ON",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 10,
+  "off": 283,
+  "len": 30,
+  "text": "All Sage's Treasure Chests OFF",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 11,
+  "off": 315,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 42,
+  "run": 12,
+  "off": 362,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:79} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 49,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:82} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 9,
+  "off": 556,
+  "len": 15,
+  "text": "{NAME} put the Soru",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 10,
+  "off": 573,
+  "len": 21,
+  "text": "Bread into the Sage's",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 11,
+  "off": 596,
+  "len": 15,
+  "text": "Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 12,
+  "off": 727,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 13,
+  "off": 762,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 14,
+  "off": 790,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 15,
+  "off": 912,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 16,
+  "off": 937,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 17,
+  "off": 976,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 50,
+  "run": 18,
+  "off": 1008,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:83} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 51,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:84} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 52,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:85} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 53,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:86} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 54,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:87} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 55,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 0,
+  "off": 151,
+  "len": 14,
+  "text": "{NAME} now has the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 1,
+  "off": 167,
+  "len": 7,
+  "text": "{ITEM:8E} from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 2,
+  "off": 176,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 3,
+  "off": 212,
+  "len": 32,
+  "text": "Sage's Treasure Chest: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 4,
+  "off": 273,
+  "len": 30,
+  "text": "Sage's Treasure Chest: I smell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 5,
+  "off": 305,
+  "len": 30,
+  "text": "something good! That smells so",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 6,
+  "off": 337,
+  "len": 24,
+  "text": "good -- it's Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 7,
+  "off": 364,
+  "len": 34,
+  "text": "Do you wish to give the Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 8,
+  "off": 400,
+  "len": 29,
+  "text": "to the Sage's Treasure Chest?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 9,
+  "off": 556,
+  "len": 26,
+  "text": "{NAME} put the Soru Bread into",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 10,
+  "off": 584,
+  "len": 26,
+  "text": "the Sage's Treasure Chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 11,
+  "off": 726,
+  "len": 33,
+  "text": "Sage's Treasure Chest: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 12,
+  "off": 761,
+  "len": 26,
+  "text": "The Sage's hunger has been",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 13,
+  "off": 789,
+  "len": 10,
+  "text": "satisfied!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 14,
+  "off": 911,
+  "len": 22,
+  "text": "{NAME} didn't do anything.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 15,
+  "off": 936,
+  "len": 34,
+  "text": "Sage's Treasure Chest: Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 16,
+  "off": 975,
+  "len": 30,
+  "text": "Sage's Treasure Chest: Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 56,
+  "run": 17,
+  "off": 1007,
+  "len": 31,
+  "text": "I thank you for the Soru Bread!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 57,
+  "run": 0,
+  "off": 66,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 57,
+  "run": 1,
+  "off": 81,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 57,
+  "run": 2,
+  "off": 111,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 57,
+  "run": 3,
+  "off": 123,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 57,
+  "run": 4,
+  "off": 145,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 0,
+  "off": 53,
+  "len": 28,
+  "text": "This is His Imperial Majesty",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 1,
+  "off": 83,
+  "len": 19,
+  "text": "Emperor Etora VIII!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 2,
+  "off": 107,
+  "len": 30,
+  "text": "Now, you never heard this from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 3,
+  "off": 139,
+  "len": 10,
+  "text": "me, but...",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 4,
+  "off": 152,
+  "len": 27,
+  "text": "The commoners took over the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 5,
+  "off": 181,
+  "len": 31,
+  "text": "Imperial Room upstairs, and the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 58,
+  "run": 6,
+  "off": 214,
+  "len": 26,
+  "text": "Emperor has nowhere to go.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 0,
+  "off": 53,
+  "len": 28,
+  "text": "This is His Imperial Majesty",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 1,
+  "off": 83,
+  "len": 19,
+  "text": "Emperor Etora VIII!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 2,
+  "off": 107,
+  "len": 30,
+  "text": "Now, you never heard this from",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 3,
+  "off": 139,
+  "len": 10,
+  "text": "me, but...",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 4,
+  "off": 152,
+  "len": 28,
+  "text": "I think it would be hard for",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 5,
+  "off": 182,
+  "len": 31,
+  "text": "the Emperor to go back upstairs",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 59,
+  "run": 6,
+  "off": 215,
+  "len": 23,
+  "text": "as ruler at this point.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 0,
+  "off": 61,
+  "len": 31,
+  "text": "Emperor Etora: I am Etora Ignao",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 1,
+  "off": 94,
+  "len": 31,
+  "text": "Durk de La Micentus the Eighth,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 2,
+  "off": 127,
+  "len": 15,
+  "text": "Emperor of Sol.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 3,
+  "off": 145,
+  "len": 25,
+  "text": "Emperor Etora: You there.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 4,
+  "off": 172,
+  "len": 26,
+  "text": "Are you the one called {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 5,
+  "off": 323,
+  "len": 32,
+  "text": "Emperor Etora: Has the Mist made",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 6,
+  "off": 357,
+  "len": 30,
+  "text": "your ears deaf? I asked you if",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 7,
+  "off": 389,
+  "len": 26,
+  "text": "you are the one called {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 8,
+  "off": 646,
+  "len": 34,
+  "text": "Emperor Etora: I see. I have heard",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 9,
+  "off": 682,
+  "len": 27,
+  "text": "much of your exploits. I am",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 10,
+  "off": 711,
+  "len": 8,
+  "text": "pleased.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 11,
+  "off": 760,
+  "len": 33,
+  "text": "Emperor Etora: Many citizens fell",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 12,
+  "off": 795,
+  "len": 30,
+  "text": "victim to the Mist in the long",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 13,
+  "off": 827,
+  "len": 25,
+  "text": "years before you arrived.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 14,
+  "off": 855,
+  "len": 33,
+  "text": "Emperor Etora: But you have saved",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 15,
+  "off": 890,
+  "len": 35,
+  "text": "us. I also foresaw the danger posed",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 16,
+  "off": 927,
+  "len": 25,
+  "text": "by the Floating Castle...",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 17,
+  "off": 955,
+  "len": 33,
+  "text": "Emperor Etora: I ordered Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 18,
+  "off": 990,
+  "len": 30,
+  "text": "to seal the Sage's Gate. I was",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 19,
+  "off": 1022,
+  "len": 20,
+  "text": "correct in doing so.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 20,
+  "off": 1061,
+  "len": 33,
+  "text": "Emperor Etora: I have from Usha a",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 21,
+  "off": 1096,
+  "len": 31,
+  "text": "message intended for the heroes",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 22,
+  "off": 1129,
+  "len": 28,
+  "text": "who revive the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 23,
+  "off": 1252,
+  "len": 29,
+  "text": "I know not what it means, but",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 24,
+  "off": 1283,
+  "len": 28,
+  "text": "apparently it is a password.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 25,
+  "off": 1368,
+  "len": 35,
+  "text": "Emperor Etora: That is the message!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 26,
+  "off": 1405,
+  "len": 32,
+  "text": "I now entreat you to destroy the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 27,
+  "off": 1439,
+  "len": 27,
+  "text": "abominable Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 28,
+  "off": 1469,
+  "len": 25,
+  "text": "Emperor Etora: Good work!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 29,
+  "off": 1496,
+  "len": 23,
+  "text": "Give my regards to Usha",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 30,
+  "off": 1521,
+  "len": 17,
+  "text": "when you see him!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 31,
+  "off": 1620,
+  "len": 27,
+  "text": "!&p<03>2<16><1F>Emperor Etora: What?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 32,
+  "off": 1649,
+  "len": 25,
+  "text": "Have you forgotten Usha's",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 33,
+  "off": 1676,
+  "len": 9,
+  "text": "password?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 34,
+  "off": 1810,
+  "len": 18,
+  "text": "Emperor Etora: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 35,
+  "off": 1830,
+  "len": 29,
+  "text": "you are brave and strong, but",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 36,
+  "off": 1861,
+  "len": 27,
+  "text": "somewhat lacking in memory.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 37,
+  "off": 1891,
+  "len": 30,
+  "text": "Emperor Etora: I still clearly",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 38,
+  "off": 1923,
+  "len": 31,
+  "text": "remember it though Usha told me",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 39,
+  "off": 1956,
+  "len": 14,
+  "text": "ten years ago!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 40,
+  "off": 1973,
+  "len": 26,
+  "text": "Emperor Etora: Now, if you",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 41,
+  "off": 2001,
+  "len": 25,
+  "text": "cannot trust your memory,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 42,
+  "off": 2028,
+  "len": 14,
+  "text": "write it down!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 43,
+  "off": 2074,
+  "len": 34,
+  "text": "Emperor Etora: I will say it again",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 44,
+  "off": 2110,
+  "len": 25,
+  "text": "for your weak memory, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 45,
+  "off": 2167,
+  "len": 35,
+  "text": "Emperor Etora: That is the message!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 46,
+  "off": 2204,
+  "len": 32,
+  "text": "I now entreat you to destroy the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 47,
+  "off": 2238,
+  "len": 27,
+  "text": "abominable Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 48,
+  "off": 2268,
+  "len": 25,
+  "text": "Emperor Etora: Good work!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 49,
+  "off": 2295,
+  "len": 23,
+  "text": "Give my regards to Usha",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 50,
+  "off": 2320,
+  "len": 17,
+  "text": "when you see him!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 51,
+  "off": 2342,
+  "len": 25,
+  "text": "Emperor Etora: Good work!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 52,
+  "off": 2369,
+  "len": 23,
+  "text": "Give my regards to Usha",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 53,
+  "off": 2394,
+  "len": 17,
+  "text": "when you see him!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 54,
+  "off": 2416,
+  "len": 26,
+  "text": "Emperor Etora: I intend to",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 55,
+  "off": 2444,
+  "len": 29,
+  "text": "cast off the title of Emperor",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 60,
+  "run": 56,
+  "off": 2475,
+  "len": 23,
+  "text": "and live as a commoner.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 61,
+  "run": 0,
+  "off": 65,
+  "len": 20,
+  "text": "Growl! Growl! Growl!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 61,
+  "run": 1,
+  "off": 88,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 61,
+  "run": 2,
+  "off": 105,
+  "len": 15,
+  "text": "It looks happy!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 62,
+  "run": 0,
+  "off": 69,
+  "len": 31,
+  "text": "Welcome! If you need any tools,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 62,
+  "run": 1,
+  "off": 102,
+  "len": 18,
+  "text": "this is the place!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 62,
+  "run": 2,
+  "off": 122,
+  "len": 29,
+  "text": "What can I get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 62,
+  "run": 3,
+  "off": 181,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 63,
+  "run": 0,
+  "off": 49,
+  "len": 20,
+  "text": "Come on over, folks.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 63,
+  "run": 1,
+  "off": 71,
+  "len": 32,
+  "text": "Come over here, we have a lot of",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 63,
+  "run": 2,
+  "off": 105,
+  "len": 12,
+  "text": "nice things!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 0,
+  "off": 65,
+  "len": 19,
+  "text": "Innkeeper: Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 1,
+  "off": 86,
+  "len": 25,
+  "text": "A room is 200G per night.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 2,
+  "off": 113,
+  "len": 30,
+  "text": "Do you want to stay the night?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 3,
+  "off": 268,
+  "len": 14,
+  "text": "Innkeeper: Oh.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 4,
+  "off": 284,
+  "len": 17,
+  "text": "Well, come again!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 5,
+  "off": 319,
+  "len": 24,
+  "text": "Innkeeper: Thank you for",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 6,
+  "off": 345,
+  "len": 9,
+  "text": "the 200G.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 7,
+  "off": 357,
+  "len": 27,
+  "text": "Innkeeper: Enjoy your stay!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 8,
+  "off": 656,
+  "len": 24,
+  "text": "Innkeeper: Good morning!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 9,
+  "off": 682,
+  "len": 11,
+  "text": "Come again!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 10,
+  "off": 700,
+  "len": 29,
+  "text": "Innkeeper: Oh, you don't have",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 11,
+  "off": 731,
+  "len": 13,
+  "text": "enough money.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 64,
+  "run": 12,
+  "off": 746,
+  "len": 29,
+  "text": "Come back when you have 200G.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 0,
+  "off": 51,
+  "len": 27,
+  "text": "I'm looking for a swordsman",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 1,
+  "off": 80,
+  "len": 28,
+  "text": "named Gaza. Do you know him?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 2,
+  "off": 233,
+  "len": 13,
+  "text": "You know him!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 3,
+  "off": 248,
+  "len": 11,
+  "text": "Is he safe?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 4,
+  "off": 384,
+  "len": 22,
+  "text": "Oh, good! I'm so glad.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 5,
+  "off": 409,
+  "len": 14,
+  "text": "Wait a minute.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 6,
+  "off": 426,
+  "len": 30,
+  "text": "I can tell by the look on your",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 7,
+  "off": 458,
+  "len": 24,
+  "text": "face! Tell me the truth!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 8,
+  "off": 484,
+  "len": 13,
+  "text": "Is Gaza safe?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 9,
+  "off": 624,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 10,
+  "off": 636,
+  "len": 10,
+  "text": "Oh, I see.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 11,
+  "off": 649,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 12,
+  "off": 661,
+  "len": 6,
+  "text": "I see.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 13,
+  "off": 670,
+  "len": 30,
+  "text": "I survived the Mist, but had I",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 14,
+  "off": 702,
+  "len": 35,
+  "text": "been unlucky, maybe Gaza would have",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 15,
+  "off": 739,
+  "len": 28,
+  "text": "killed me as a Seru monster.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 16,
+  "off": 770,
+  "len": 25,
+  "text": "You've seen such terrible",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 17,
+  "off": 797,
+  "len": 11,
+  "text": "fighting...",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 18,
+  "off": 810,
+  "len": 14,
+  "text": "And poor Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 19,
+  "off": 827,
+  "len": 32,
+  "text": "He put down his sword, but after",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 20,
+  "off": 861,
+  "len": 32,
+  "text": "his grandchildren were killed by",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 21,
+  "off": 895,
+  "len": 30,
+  "text": "the Mist, he took it up again.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 22,
+  "off": 928,
+  "len": 29,
+  "text": "Poor, lonely Gaza... his only",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 23,
+  "off": 959,
+  "len": 31,
+  "text": "choice was to live by the sword",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 24,
+  "off": 992,
+  "len": 6,
+  "text": "again.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 25,
+  "off": 1001,
+  "len": 31,
+  "text": "I know you are careful and have",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 26,
+  "off": 1034,
+  "len": 24,
+  "text": "fine Seru, but a Seru is",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 27,
+  "off": 1060,
+  "len": 7,
+  "text": "a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 28,
+  "off": 1070,
+  "len": 33,
+  "text": "It's just a tool! People are more",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 29,
+  "off": 1105,
+  "len": 31,
+  "text": "important than tools! Never let",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 30,
+  "off": 1138,
+  "len": 23,
+  "text": "a tool rule your heart!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 31,
+  "off": 1166,
+  "len": 25,
+  "text": "I wonder where Gaza went.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 32,
+  "off": 1196,
+  "len": 29,
+  "text": "Maybe god created the Mist to",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 33,
+  "off": 1227,
+  "len": 28,
+  "text": "punish us for relying on the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 66,
+  "run": 34,
+  "off": 1257,
+  "len": 14,
+  "text": "Seru too much.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 67,
+  "run": 0,
+  "off": 51,
+  "len": 32,
+  "text": "When I was in the Mist, I dreamt",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 67,
+  "run": 1,
+  "off": 85,
+  "len": 33,
+  "text": "I was devouring Soru Bread like a",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 67,
+  "run": 2,
+  "off": 120,
+  "len": 12,
+  "text": "hungry wolf!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 68,
+  "run": 0,
+  "off": 67,
+  "len": 20,
+  "text": "Growl! Growl! Growl!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 68,
+  "run": 1,
+  "off": 90,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 68,
+  "run": 2,
+  "off": 107,
+  "len": 20,
+  "text": "It almost looks sad!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 69,
+  "run": 0,
+  "off": 75,
+  "len": 29,
+  "text": "Welcome! We have all kinds of",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 69,
+  "run": 1,
+  "off": 106,
+  "len": 28,
+  "text": "weapons here! What can I get",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 69,
+  "run": 2,
+  "off": 136,
+  "len": 14,
+  "text": "for you today?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 69,
+  "run": 3,
+  "off": 178,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 0,
+  "off": 64,
+  "len": 9,
+  "text": "Heh, heh.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 1,
+  "off": 75,
+  "len": 19,
+  "text": "I knew I was right!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 2,
+  "off": 97,
+  "len": 28,
+  "text": "As soon as the Mist cleared,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 3,
+  "off": 127,
+  "len": 28,
+  "text": "I came running to this shop!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 4,
+  "off": 158,
+  "len": 30,
+  "text": "And I got myself some valuable",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 5,
+  "off": 190,
+  "len": 35,
+  "text": "weapons, the kind the shop upstairs",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 6,
+  "off": 227,
+  "len": 19,
+  "text": "just doesn't carry!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 7,
+  "off": 249,
+  "len": 9,
+  "text": "Heh, heh!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 8,
+  "off": 273,
+  "len": 20,
+  "text": "Growl! Growl! Growl!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 9,
+  "off": 296,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 71,
+  "run": 10,
+  "off": 313,
+  "len": 20,
+  "text": "It almost looks sad!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 72,
+  "run": 0,
+  "off": 71,
+  "len": 30,
+  "text": "I'm sorry, we're not open yet.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 72,
+  "run": 1,
+  "off": 103,
+  "len": 24,
+  "text": "We're still cleaning up.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 0,
+  "off": 64,
+  "len": 24,
+  "text": "Man, what a dirty place!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 1,
+  "off": 90,
+  "len": 25,
+  "text": "Was it always this dirty?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 2,
+  "off": 118,
+  "len": 16,
+  "text": "What? What Mist?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 3,
+  "off": 137,
+  "len": 32,
+  "text": "Look, I have no idea what you're",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 4,
+  "off": 171,
+  "len": 27,
+  "text": "talkin' about! Don't try to",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 5,
+  "off": 200,
+  "len": 29,
+  "text": "tease me just 'cause I'm old!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 6,
+  "off": 234,
+  "len": 25,
+  "text": "Get outta here, would ya?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 73,
+  "run": 7,
+  "off": 261,
+  "len": 15,
+  "text": "Leave me alone!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 74,
+  "run": 0,
+  "off": 58,
+  "len": 32,
+  "text": "I remember there was this really",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 74,
+  "run": 1,
+  "off": 92,
+  "len": 31,
+  "text": "beautiful young girl in Buma. I",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 74,
+  "run": 2,
+  "off": 125,
+  "len": 27,
+  "text": "think her name was... Cara.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 75,
+  "run": 0,
+  "off": 90,
+  "len": 23,
+  "text": "Hello! Sorry, but we're",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 75,
+  "run": 1,
+  "off": 115,
+  "len": 20,
+  "text": "still getting ready.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 75,
+  "run": 2,
+  "off": 137,
+  "len": 9,
+  "text": "Good-bye!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 0,
+  "off": 61,
+  "len": 36,
+  "text": "I know who betrayed us to the allies",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 1,
+  "off": 99,
+  "len": 33,
+  "text": "of the Mist. Do you want to know?",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 2,
+  "off": 257,
+  "len": 35,
+  "text": "You're the type who doesn't want to",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 3,
+  "off": 294,
+  "len": 30,
+  "text": "face up to reality. That's not",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 4,
+  "off": 326,
+  "len": 21,
+  "text": "very smart, you know.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 5,
+  "off": 354,
+  "len": 21,
+  "text": "His name is Grantes. ",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 6,
+  "off": 377,
+  "len": 15,
+  "text": "It was Grantes!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 7,
+  "off": 395,
+  "len": 24,
+  "text": "Grantes helped build the",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 8,
+  "off": 421,
+  "len": 16,
+  "text": "Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 9,
+  "off": 442,
+  "len": 25,
+  "text": "Oh, so Grantes helped you",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 10,
+  "off": 469,
+  "len": 29,
+  "text": "destroy the Floating Castle's",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 11,
+  "off": 500,
+  "len": 16,
+  "text": "Mist Generator?!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 76,
+  "run": 12,
+  "off": 519,
+  "len": 25,
+  "text": "Fate is so unpredictable!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 77,
+  "run": 0,
+  "off": 67,
+  "len": 14,
+  "text": "Wah! Wah! Wah!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 77,
+  "run": 1,
+  "off": 84,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 77,
+  "run": 2,
+  "off": 101,
+  "len": 20,
+  "text": "It almost looks sad!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 78,
+  "run": 0,
+  "off": 58,
+  "len": 18,
+  "text": "Superb Piura Steak",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 78,
+  "run": 1,
+  "off": 78,
+  "len": 18,
+  "text": "Warm Lippian Salad",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 78,
+  "run": 2,
+  "off": 98,
+  "len": 25,
+  "text": "Sauteed Barra, Buma Style",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 78,
+  "run": 3,
+  "off": 128,
+  "len": 16,
+  "text": "Today's Specials",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 78,
+  "run": 4,
+  "off": 146,
+  "len": 31,
+  "text": "Austrieg Special Chicken Omelet",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 78,
+  "run": 5,
+  "off": 179,
+  "len": 30,
+  "text": "Quick-fried Blowfish and Worms",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 79,
+  "run": 0,
+  "off": 51,
+  "len": 30,
+  "text": "Uru Mais is where the new type",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 79,
+  "run": 1,
+  "off": 83,
+  "len": 18,
+  "text": "of Seru come from.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 79,
+  "run": 2,
+  "off": 104,
+  "len": 23,
+  "text": "But I hear there's some",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 79,
+  "run": 3,
+  "off": 129,
+  "len": 21,
+  "text": "strange secret there.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 80,
+  "run": 0,
+  "off": 55,
+  "len": 29,
+  "text": "There are ghosts in Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 81,
+  "run": 0,
+  "off": 53,
+  "len": 25,
+  "text": "A long time ago I used to",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 81,
+  "run": 1,
+  "off": 80,
+  "len": 31,
+  "text": "raise Seru here. You could call",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 81,
+  "run": 2,
+  "off": 113,
+  "len": 24,
+  "text": "it a Seru farm, I guess.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 81,
+  "run": 3,
+  "off": 140,
+  "len": 33,
+  "text": "I was really busy during the war,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 81,
+  "run": 4,
+  "off": 175,
+  "len": 30,
+  "text": "when the fighting was intense.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 82,
+  "run": 0,
+  "off": 63,
+  "len": 30,
+  "text": "We used to make ordinary Seru,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 82,
+  "run": 1,
+  "off": 95,
+  "len": 30,
+  "text": "the kind you can mass-produce.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 82,
+  "run": 2,
+  "off": 127,
+  "len": 29,
+  "text": "The new Seru are in Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 83,
+  "run": 0,
+  "off": 53,
+  "len": 26,
+  "text": "The Mist is gone from Sol,",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 83,
+  "run": 1,
+  "off": 81,
+  "len": 33,
+  "text": "but I'm still too scared to start",
+  "ko": ""
+ },
+ {
+  "map": 554,
+  "script": 83,
+  "run": 2,
+  "off": 116,
+  "len": 18,
+  "text": "making Seru again.",
+  "ko": ""
+ }
+]

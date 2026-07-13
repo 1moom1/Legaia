@@ -1,0 +1,1487 @@
+[
+ {
+  "map": 633,
+  "script": 21,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 1,
+  "off": 34,
+  "len": 15,
+  "text": "Farewell, Songi",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 2,
+  "off": 67,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 3,
+  "off": 85,
+  "len": 10,
+  "text": "{NAME}'s grief",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 4,
+  "off": 113,
+  "len": 5,
+  "text": "Exit ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 5,
+  "off": 132,
+  "len": 21,
+  "text": "The ominous Seru gate",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 6,
+  "off": 171,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 7,
+  "off": 189,
+  "len": 28,
+  "text": "Hang in there, Kikuchi-san! ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 8,
+  "off": 219,
+  "len": 15,
+  "text": "-- From Shikimi",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 9,
+  "off": 252,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 10,
+  "off": 269,
+  "len": 15,
+  "text": "On to Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 11,
+  "off": 302,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 12,
+  "off": 319,
+  "len": 17,
+  "text": "Start Songi event",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 13,
+  "off": 354,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 14,
+  "off": 378,
+  "len": 35,
+  "text": "Prepare the ominous Seru gate start",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 15,
+  "off": 422,
+  "len": 5,
+  "text": "Ready",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 16,
+  "off": 434,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 17,
+  "off": 457,
+  "len": 33,
+  "text": "Escape from the Absolute Fortress",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 18,
+  "off": 508,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 19,
+  "off": 525,
+  "len": 31,
+  "text": "Great Escape from Seru-Kai Done",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 20,
+  "off": 574,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 21,
+  "off": 591,
+  "len": 12,
+  "text": "Test 1 clear",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 22,
+  "off": 621,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 23,
+  "off": 638,
+  "len": 12,
+  "text": "Test 2 clear",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 24,
+  "off": 668,
+  "len": 5,
+  "text": "Exit ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 25,
+  "off": 686,
+  "len": 19,
+  "text": "Destruction of Koru",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 26,
+  "off": 723,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 27,
+  "off": 740,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 28,
+  "off": 779,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 29,
+  "off": 796,
+  "len": 34,
+  "text": "Destruction of 3rd Mist Generator>",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 30,
+  "off": 848,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 31,
+  "off": 865,
+  "len": 12,
+  "text": "Usha peddler",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 32,
+  "off": 895,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 33,
+  "off": 912,
+  "len": 12,
+  "text": "Code failure",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 34,
+  "off": 942,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 35,
+  "off": 959,
+  "len": 14,
+  "text": "Usha peddler 2",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 36,
+  "off": 991,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 37,
+  "off": 1008,
+  "len": 30,
+  "text": "Destruction of Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 38,
+  "off": 1056,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 39,
+  "off": 1073,
+  "len": 19,
+  "text": "The dreaded Conkram",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 21,
+  "run": 40,
+  "off": 1110,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 0,
+  "off": 370,
+  "len": 18,
+  "text": "Songi: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 1,
+  "off": 390,
+  "len": 27,
+  "text": "Now Rim Elm is a Seru town,",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 2,
+  "off": 419,
+  "len": 18,
+  "text": "just like Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 3,
+  "off": 474,
+  "len": 23,
+  "text": "Songi: {NAME}! Your friends",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 4,
+  "off": 499,
+  "len": 26,
+  "text": "and family are now part of",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 5,
+  "off": 527,
+  "len": 11,
+  "text": "Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 6,
+  "off": 617,
+  "len": 17,
+  "text": "{NAME:01}: NO! NNOOOOOO!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 7,
+  "off": 899,
+  "len": 13,
+  "text": "Songi: Sorry!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 8,
+  "off": 914,
+  "len": 30,
+  "text": "I can't let all of you inside.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 9,
+  "off": 1322,
+  "len": 26,
+  "text": "{NAME:01}: No! You can't do this!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 10,
+  "off": 1350,
+  "len": 16,
+  "text": "I won't let you!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 11,
+  "off": 1668,
+  "len": 14,
+  "text": "Songi: Ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 12,
+  "off": 1684,
+  "len": 13,
+  "text": "How pathetic.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 13,
+  "off": 1700,
+  "len": 35,
+  "text": "Songi: This is only the beginning! ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 14,
+  "off": 1737,
+  "len": 27,
+  "text": "Juggernaut'll grow until he",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 15,
+  "off": 1766,
+  "len": 31,
+  "text": "swallows the whole human world!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 16,
+  "off": 1937,
+  "len": 10,
+  "text": "{NAME:02}: Songi!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 17,
+  "off": 1949,
+  "len": 20,
+  "text": "How can you do this?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 18,
+  "off": 1971,
+  "len": 24,
+  "text": "You call yourself human?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 19,
+  "off": 2103,
+  "len": 21,
+  "text": "Songi: {NAME:02}, you are as",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 20,
+  "off": 2126,
+  "len": 17,
+  "text": "clueless as ever!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 21,
+  "off": 2145,
+  "len": 23,
+  "text": "I am no ordinary human!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 22,
+  "off": 2207,
+  "len": 28,
+  "text": "Songi: Don't you get it, {NAME:02}?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 23,
+  "off": 2237,
+  "len": 32,
+  "text": "I am the ruler! And as ruler, I ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 24,
+  "off": 2271,
+  "len": 31,
+  "text": "cannot trouble myself with you!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 25,
+  "off": 2305,
+  "len": 28,
+  "text": "Songi: I must go and conquer",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 26,
+  "off": 2335,
+  "len": 14,
+  "text": "another world.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 27,
+  "off": 2394,
+  "len": 18,
+  "text": "{NAME:02}: Another world?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 28,
+  "off": 2415,
+  "len": 9,
+  "text": "{NAME:02}: No...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 29,
+  "off": 2426,
+  "len": 17,
+  "text": "Not the Seru-kai!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 30,
+  "off": 2556,
+  "len": 18,
+  "text": "Songi: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 31,
+  "off": 2576,
+  "len": 13,
+  "text": "That's right!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 32,
+  "off": 2592,
+  "len": 33,
+  "text": "Songi: I'll never have to see you",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 33,
+  "off": 2627,
+  "len": 28,
+  "text": "again! Farewell! Have fun...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 34,
+  "off": 2657,
+  "len": 15,
+  "text": "dying, that is!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 35,
+  "off": 2878,
+  "len": 11,
+  "text": "{NAME:02}: W-Wait!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 36,
+  "off": 2891,
+  "len": 12,
+  "text": "Songi, wait!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 37,
+  "off": 3163,
+  "len": 23,
+  "text": "{NAME:01}: Why? Why won't the ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 38,
+  "off": 3188,
+  "len": 24,
+  "text": "Genesis Tree protect us?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 39,
+  "off": 3284,
+  "len": 32,
+  "text": "The Genesis Tree lost its powers",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 40,
+  "off": 3318,
+  "len": 24,
+  "text": "because of the Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 41,
+  "off": 3452,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: If Songi conquers the",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 42,
+  "off": 3483,
+  "len": 31,
+  "text": "Seru-kai, my life will end, and",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 43,
+  "off": 3516,
+  "len": 22,
+  "text": "all hope will be lost.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 44,
+  "off": 3615,
+  "len": 26,
+  "text": "{NAME:02}: Tell me, Ozma! How can",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 45,
+  "off": 3643,
+  "len": 30,
+  "text": "we go after Songi? How can we ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 46,
+  "off": 3675,
+  "len": 20,
+  "text": "get to the Seru-kai?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 47,
+  "off": 3752,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: There is only one way",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 48,
+  "off": 3783,
+  "len": 29,
+  "text": "to the Seru-kai, and it's in ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 49,
+  "off": 3814,
+  "len": 9,
+  "text": "Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 50,
+  "off": 3891,
+  "len": 18,
+  "text": "{NAME:02}: So that's why ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 51,
+  "off": 3911,
+  "len": 28,
+  "text": "Juggernaut invaded Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 52,
+  "off": 4023,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The only way to save",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 53,
+  "off": 4053,
+  "len": 33,
+  "text": "Rim Elm and the world is to go to",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 54,
+  "off": 4088,
+  "len": 13,
+  "text": "the Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 55,
+  "off": 4136,
+  "len": 18,
+  "text": "{NAME:01}: {NAME}, we have to",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 56,
+  "off": 4156,
+  "len": 19,
+  "text": "go to Uru Mais now!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 57,
+  "off": 4232,
+  "len": 15,
+  "text": "{NAME:02}: {NAME}, to save",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 58,
+  "off": 4249,
+  "len": 19,
+  "text": "Rim Elm, we have to",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 25,
+  "run": 59,
+  "off": 4270,
+  "len": 15,
+  "text": "go to Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 0,
+  "off": 116,
+  "len": 13,
+  "text": "{NAME}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 1,
+  "off": 343,
+  "len": 16,
+  "text": "are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 2,
+  "off": 401,
+  "len": 31,
+  "text": "{NAME:02}: I understand how you feel. ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 3,
+  "off": 434,
+  "len": 31,
+  "text": "Even if we defeat Juggernaut...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 4,
+  "off": 483,
+  "len": 26,
+  "text": "{NAME:02}: Your family and fellow",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 5,
+  "off": 511,
+  "len": 27,
+  "text": "villagers may not return to",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 6,
+  "off": 540,
+  "len": 9,
+  "text": "normal...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 7,
+  "off": 899,
+  "len": 17,
+  "text": "{NAME:01}: I understand!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 8,
+  "off": 918,
+  "len": 26,
+  "text": "I understand how you feel,",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 9,
+  "off": 988,
+  "len": 25,
+  "text": "{NAME:01}: So I'll wait for you.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 10,
+  "off": 1015,
+  "len": 24,
+  "text": "I'll wait until you feel",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 11,
+  "off": 1041,
+  "len": 22,
+  "text": "you're ready for this.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 12,
+  "off": 1066,
+  "len": 26,
+  "text": "{NAME:01}: I'll wait until you're",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 13,
+  "off": 1094,
+  "len": 26,
+  "text": "ready to fight Juggernaut.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 14,
+  "off": 1157,
+  "len": 19,
+  "text": "You're alright now?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 15,
+  "off": 1178,
+  "len": 27,
+  "text": "You're alright, aren't you!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 16,
+  "off": 1346,
+  "len": 28,
+  "text": "{NAME:02}: {NAME}, I'll wait here, too!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 17,
+  "off": 1376,
+  "len": 30,
+  "text": "I'll wait until your spirit is",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 18,
+  "off": 1408,
+  "len": 15,
+  "text": "ready to fight!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 19,
+  "off": 1426,
+  "len": 24,
+  "text": "{NAME:02}: I'll wait as long as",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 20,
+  "off": 1452,
+  "len": 9,
+  "text": "it takes.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 21,
+  "off": 1547,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 22,
+  "off": 1563,
+  "len": 31,
+  "text": "{NAME:02}: Before our own eyes, we've ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 23,
+  "off": 1596,
+  "len": 28,
+  "text": "seen many towns recover from",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 24,
+  "off": 1626,
+  "len": 24,
+  "text": "the ravages of the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 25,
+  "off": 1653,
+  "len": 22,
+  "text": "{NAME:02}: We have made many ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 26,
+  "off": 1677,
+  "len": 16,
+  "text": "miracles happen!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 27,
+  "off": 1711,
+  "len": 15,
+  "text": "{NAME:02}: So... so...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 28,
+  "off": 1866,
+  "len": 17,
+  "text": "you're not alone!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 29,
+  "off": 1886,
+  "len": 22,
+  "text": "{NAME:01}: Everything we did ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 30,
+  "off": 1910,
+  "len": 27,
+  "text": "together, everything we are",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 31,
+  "off": 1939,
+  "len": 14,
+  "text": "going to do...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 32,
+  "off": 2004,
+  "len": 30,
+  "text": "{NAME:01}: It will never ever, ever, ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 33,
+  "off": 2036,
+  "len": 15,
+  "text": "EVER be undone!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 26,
+  "run": 34,
+  "off": 2069,
+  "len": 17,
+  "text": "{NAME:01}: That's why...",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 0,
+  "off": 367,
+  "len": 30,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now! Now's the time to",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 1,
+  "off": 399,
+  "len": 28,
+  "text": "bring forth the power of the",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 2,
+  "off": 429,
+  "len": 20,
+  "text": "Great Genesis Tree! ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 3,
+  "off": 519,
+  "len": 17,
+  "text": "are you prepared?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 4,
+  "off": 777,
+  "len": 35,
+  "text": "{PAL:9}{M7}{PAL:7}: If you aren't firm in your ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 5,
+  "off": 814,
+  "len": 35,
+  "text": "resolve, then we can't head to the ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 6,
+  "off": 851,
+  "len": 19,
+  "text": "final battleground.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 7,
+  "off": 873,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: Unfortunately, this means",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 8,
+  "off": 908,
+  "len": 31,
+  "text": "entrusting our fate to the Mist",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 9,
+  "off": 941,
+  "len": 15,
+  "text": "and its allies.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 10,
+  "off": 959,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: But if that is your",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 11,
+  "off": 988,
+  "len": 18,
+  "text": "decision, {NAME}, then",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 12,
+  "off": 1008,
+  "len": 26,
+  "text": "there's nothing we can do.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 13,
+  "off": 1330,
+  "len": 24,
+  "text": "{PAL:9}{M7}{PAL:7}: There's no point",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 14,
+  "off": 1356,
+  "len": 24,
+  "text": "fighting Juggernaut from",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 15,
+  "off": 1382,
+  "len": 12,
+  "text": "the outside!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 16,
+  "off": 1397,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: Juggernaut's weak spot is",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 17,
+  "off": 1432,
+  "len": 14,
+  "text": "on the inside!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 18,
+  "off": 1473,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Are you ready, everyone?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 19,
+  "off": 1507,
+  "len": 31,
+  "text": "We've got to cut an opening and",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 20,
+  "off": 1540,
+  "len": 29,
+  "text": "crawl into Juggernaut's body!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 21,
+  "off": 1686,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: We must work together!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 22,
+  "off": 1718,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 23,
+  "off": 2669,
+  "len": 32,
+  "text": "{NAME:01}: So, is that it? Are we going",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 24,
+  "off": 2703,
+  "len": 27,
+  "text": "to enter Juggernaut's body ",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 25,
+  "off": 2732,
+  "len": 18,
+  "text": "through his mouth?",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 26,
+  "off": 2816,
+  "len": 27,
+  "text": "{NAME:02}: It sure seems that way.",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 27,
+  "off": 2845,
+  "len": 17,
+  "text": "Brace yourselves!",
+  "ko": ""
+ },
+ {
+  "map": 633,
+  "script": 27,
+  "run": 28,
+  "off": 2864,
+  "len": 26,
+  "text": "It's gonna be a wild ride!",
+  "ko": ""
+ }
+]

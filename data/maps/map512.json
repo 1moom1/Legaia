@@ -1,0 +1,3935 @@
+[
+ {
+  "map": 512,
+  "script": 0,
+  "run": 0,
+  "off": 9,
+  "len": 4,
+  "text": "L5!6",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 6,
+  "run": 0,
+  "off": 11,
+  "len": 4,
+  "text": "L5!6",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 0,
+  "off": 41,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 1,
+  "off": 48,
+  "len": 28,
+  "text": "The Seru madness can only be",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 2,
+  "off": 78,
+  "len": 26,
+  "text": "defeated through unlimited",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 3,
+  "off": 106,
+  "len": 31,
+  "text": "discipline and mental training.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 4,
+  "off": 142,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 5,
+  "off": 149,
+  "len": 25,
+  "text": "Gaza caught us off guard.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 6,
+  "off": 176,
+  "len": 21,
+  "text": "We must train harder.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 7,
+  "off": 202,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 8,
+  "off": 209,
+  "len": 22,
+  "text": "{NAME:02} is the pride of all",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 9,
+  "run": 9,
+  "off": 233,
+  "len": 20,
+  "text": "Biron warrior-monks.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 0,
+  "off": 39,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 1,
+  "off": 46,
+  "len": 32,
+  "text": "I came to learn the teachings of",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 2,
+  "off": 80,
+  "len": 26,
+  "text": "Biron after losing hope in",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 3,
+  "off": 108,
+  "len": 13,
+  "text": "decadent Sol.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 4,
+  "off": 126,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 5,
+  "off": 133,
+  "len": 33,
+  "text": "Where on earth did Gaza disappear",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 6,
+  "off": 168,
+  "len": 31,
+  "text": "to? I hope nothing bad happens.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 7,
+  "off": 204,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 8,
+  "off": 211,
+  "len": 23,
+  "text": "Our ultimate goal is to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 9,
+  "off": 236,
+  "len": 28,
+  "text": "teach the world hope through",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 10,
+  "off": 266,
+  "len": 9,
+  "text": "action...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 11,
+  "off": 278,
+  "len": 16,
+  "text": "Like you, {NAME:02}, {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 10,
+  "run": 12,
+  "off": 296,
+  "len": 7,
+  "text": "and {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 0,
+  "off": 39,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 1,
+  "off": 46,
+  "len": 31,
+  "text": "We have been training like this",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 2,
+  "off": 79,
+  "len": 19,
+  "text": "for over ten years.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 3,
+  "off": 103,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 4,
+  "off": 110,
+  "len": 31,
+  "text": "To get to Warrior's Square, you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 5,
+  "off": 143,
+  "len": 26,
+  "text": "must open the Sage's Gate!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 6,
+  "off": 174,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 11,
+  "run": 7,
+  "off": 181,
+  "len": 21,
+  "text": "Good luck to you all!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 0,
+  "off": 39,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 1,
+  "off": 46,
+  "len": 28,
+  "text": "That is Biron Temple. Only a",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 2,
+  "off": 76,
+  "len": 21,
+  "text": "Biron monk may enter.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 3,
+  "off": 102,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 4,
+  "off": 109,
+  "len": 29,
+  "text": "The Sage's Gate was sealed by",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 5,
+  "off": 140,
+  "len": 30,
+  "text": "Dr. Usha before the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 6,
+  "off": 175,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 7,
+  "off": 182,
+  "len": 28,
+  "text": "Many people failed to return",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 8,
+  "off": 212,
+  "len": 23,
+  "text": "after the Mist cleared.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 9,
+  "off": 238,
+  "len": 34,
+  "text": "If that is because of Gaza, then I",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 10,
+  "off": 274,
+  "len": 34,
+  "text": "am equally to blame for failing to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 12,
+  "run": 11,
+  "off": 310,
+  "len": 9,
+  "text": "stop him.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 0,
+  "off": 39,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 1,
+  "off": 46,
+  "len": 28,
+  "text": "Please do not interfere with",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 2,
+  "off": 76,
+  "len": 13,
+  "text": "our training.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 3,
+  "off": 94,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 4,
+  "off": 101,
+  "len": 30,
+  "text": "If you succeed in reviving the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 5,
+  "off": 133,
+  "len": 32,
+  "text": "Genesis Tree, we will be able to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 6,
+  "off": 167,
+  "len": 35,
+  "text": "see everything through this atrium.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 7,
+  "off": 207,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 8,
+  "off": 214,
+  "len": 33,
+  "text": "I may have no Ra-Seru, but I will",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 9,
+  "off": 249,
+  "len": 31,
+  "text": "endeavor to change the world by",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 13,
+  "run": 10,
+  "off": 282,
+  "len": 27,
+  "text": "emulating the spirit of {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 0,
+  "off": 31,
+  "len": 33,
+  "text": "Old Deez: Open Sage's Gate and go",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 1,
+  "off": 66,
+  "len": 33,
+  "text": "to Warrior's Square. The Genesis ",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 2,
+  "off": 101,
+  "len": 28,
+  "text": "Tree seedling should revive.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 3,
+  "off": 132,
+  "len": 20,
+  "text": "Old Deez: Good luck.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 4,
+  "off": 154,
+  "len": 26,
+  "text": "And may Tieg smile on Sol.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 5,
+  "off": 185,
+  "len": 17,
+  "text": "Old Deez: Gaza...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 6,
+  "off": 204,
+  "len": 24,
+  "text": "Such an unfortunate man.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 7,
+  "off": 230,
+  "len": 29,
+  "text": "Stay alert on your way there!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 8,
+  "off": 262,
+  "len": 20,
+  "text": "Old Deez: Good luck.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 9,
+  "off": 284,
+  "len": 26,
+  "text": "And may Tieg smile on Sol.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 10,
+  "off": 317,
+  "len": 17,
+  "text": "Old Deez: {NAME:02}! {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 11,
+  "off": 336,
+  "len": 14,
+  "text": "{NAME:01}! Good work!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 12,
+  "off": 353,
+  "len": 32,
+  "text": "Old Deez: Words fail to describe",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 13,
+  "off": 387,
+  "len": 23,
+  "text": "my joy at your success!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 14,
+  "off": 412,
+  "len": 24,
+  "text": "I deeply appreciate you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 15,
+  "off": 439,
+  "len": 30,
+  "text": "Old Deez: Now, I hear there is",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 16,
+  "off": 471,
+  "len": 34,
+  "text": "another Genesis Tree in Karisto --",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 17,
+  "off": 507,
+  "len": 26,
+  "text": "in Buma, far to the north.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 18,
+  "off": 536,
+  "len": 32,
+  "text": "Old Deez: Your power and that of",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 19,
+  "off": 570,
+  "len": 32,
+  "text": "the Ra-Seru should enable you to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 20,
+  "off": 604,
+  "len": 33,
+  "text": "revive it and drive off the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 21,
+  "off": 642,
+  "len": 28,
+  "text": "Old Deez: Good luck. And may",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 22,
+  "off": 672,
+  "len": 30,
+  "text": "Tieg smile on the whole world!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 23,
+  "off": 707,
+  "len": 28,
+  "text": "Old Deez: Give my regards to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 24,
+  "off": 737,
+  "len": 31,
+  "text": "Master Zopu, of the head temple",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 14,
+  "run": 25,
+  "off": 770,
+  "len": 9,
+  "text": "of Biron.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 0,
+  "off": 22,
+  "len": 4,
+  "text": "[%8<87>",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 1,
+  "off": 29,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 2,
+  "off": 36,
+  "len": 32,
+  "text": "If you are tired, do you wish to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 3,
+  "off": 70,
+  "len": 23,
+  "text": "try the secret medicine",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 4,
+  "off": 95,
+  "len": 17,
+  "text": "of Sol and Biron?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 5,
+  "off": 243,
+  "len": 9,
+  "text": "Hee, hee.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 6,
+  "off": 254,
+  "len": 19,
+  "text": "This works wonders!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 7,
+  "off": 295,
+  "len": 20,
+  "text": "Everyone's HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 8,
+  "off": 317,
+  "len": 24,
+  "text": "are completely restored!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 9,
+  "off": 346,
+  "len": 28,
+  "text": "Forgive my presumptuousness!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 16,
+  "run": 10,
+  "off": 379,
+  "len": 28,
+  "text": "I see. Then I wish you luck!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 0,
+  "off": 33,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 1,
+  "off": 40,
+  "len": 27,
+  "text": "Warrior's Square is located",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 2,
+  "off": 69,
+  "len": 16,
+  "text": "under this town.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 3,
+  "off": 88,
+  "len": 30,
+  "text": "However, the only way there is",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 4,
+  "off": 120,
+  "len": 29,
+  "text": "through Sage's Gate, which is",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 5,
+  "off": 151,
+  "len": 15,
+  "text": "tightly sealed!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 6,
+  "off": 171,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 7,
+  "off": 178,
+  "len": 30,
+  "text": "Buma is a town of snow and ice",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 8,
+  "off": 210,
+  "len": 32,
+  "text": "covered ravines. I wish to visit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 17,
+  "run": 9,
+  "off": 244,
+  "len": 18,
+  "text": "it myself someday.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 0,
+  "off": 22,
+  "len": 4,
+  "text": "Y%8<85>",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 1,
+  "off": 33,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 2,
+  "off": 40,
+  "len": 33,
+  "text": "The secret to opening Sage's Gate",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 3,
+  "off": 75,
+  "len": 32,
+  "text": "is in the treasure chests in the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 4,
+  "off": 109,
+  "len": 20,
+  "text": "lower floors of Sol.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 5,
+  "off": 138,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 6,
+  "off": 145,
+  "len": 30,
+  "text": "The Mist may be gone from Sol,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 7,
+  "off": 177,
+  "len": 34,
+  "text": "but true peace will not come until",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 8,
+  "off": 213,
+  "len": 33,
+  "text": "the Floating Castle is destroyed!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 9,
+  "off": 251,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 10,
+  "off": 258,
+  "len": 28,
+  "text": "The Floating Castle is gone,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 18,
+  "run": 11,
+  "off": 288,
+  "len": 30,
+  "text": "but will peace truly come now?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 0,
+  "off": 33,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 1,
+  "off": 40,
+  "len": 29,
+  "text": "To think that there are Biron",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 2,
+  "off": 71,
+  "len": 26,
+  "text": "warrior-monks wearing Seru",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 3,
+  "off": 99,
+  "len": 15,
+  "text": "like {NAME:02} does...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 4,
+  "off": 117,
+  "len": 32,
+  "text": "There must be many things beyond",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 5,
+  "off": 151,
+  "len": 30,
+  "text": "our imagination in the outside",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 6,
+  "off": 183,
+  "len": 32,
+  "text": "world now that the Mist is gone!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 7,
+  "off": 224,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 8,
+  "off": 231,
+  "len": 30,
+  "text": "Once the Mist is gone from the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 9,
+  "off": 263,
+  "len": 30,
+  "text": "world, I hope to visit Biron's",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 10,
+  "off": 295,
+  "len": 32,
+  "text": "head temple and see Master Zopu.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 11,
+  "off": 332,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 12,
+  "off": 339,
+  "len": 29,
+  "text": "I am now practicing the third",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 19,
+  "run": 13,
+  "off": 370,
+  "len": 29,
+  "text": "degree of Biron martial arts.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 0,
+  "off": 37,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 1,
+  "off": 44,
+  "len": 27,
+  "text": "If you drive away the Mist,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 2,
+  "off": 73,
+  "len": 33,
+  "text": "hope will return to the apathetic",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 3,
+  "off": 108,
+  "len": 14,
+  "text": "people of Sol!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 4,
+  "off": 127,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 5,
+  "off": 134,
+  "len": 30,
+  "text": "Although there is still only a",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 6,
+  "off": 166,
+  "len": 30,
+  "text": "small shadow of hope in Sol...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 7,
+  "off": 199,
+  "len": 34,
+  "text": "We want to nurture that faint hope",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 8,
+  "off": 235,
+  "len": 32,
+  "text": "into reality, just as you grew a",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 9,
+  "off": 269,
+  "len": 35,
+  "text": "giant Genesis Tree from a seedling.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 10,
+  "off": 309,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 11,
+  "off": 316,
+  "len": 34,
+  "text": "We want to nurture faint hope into",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 12,
+  "off": 352,
+  "len": 33,
+  "text": "reality, just as you grew a giant",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 20,
+  "run": 13,
+  "off": 387,
+  "len": 29,
+  "text": "Genesis Tree from a seedling.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 1,
+  "off": 34,
+  "len": 16,
+  "text": "Sol warrior-monk",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 2,
+  "off": 68,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 3,
+  "off": 86,
+  "len": 15,
+  "text": "Songi's welcome",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 4,
+  "off": 119,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 5,
+  "off": 137,
+  "len": 24,
+  "text": "The horrible <Seru> gate",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 6,
+  "off": 179,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 7,
+  "off": 197,
+  "len": 20,
+  "text": "The strange Uru Mais",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 8,
+  "off": 235,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 9,
+  "off": 252,
+  "len": 21,
+  "text": "The end of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 10,
+  "off": 291,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 11,
+  "off": 308,
+  "len": 21,
+  "text": "The end of {NAME:01}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 12,
+  "off": 347,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 13,
+  "off": 364,
+  "len": 21,
+  "text": "The end of {NAME:02}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 14,
+  "off": 403,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 15,
+  "off": 420,
+  "len": 21,
+  "text": "Elevator installation",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 16,
+  "off": 459,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 17,
+  "off": 476,
+  "len": 26,
+  "text": "Mrs. Usha's conversation 1",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 18,
+  "off": 520,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 19,
+  "off": 537,
+  "len": 12,
+  "text": "Test 1 clear",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 20,
+  "off": 567,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 21,
+  "off": 584,
+  "len": 12,
+  "text": "Test 2 clear",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 22,
+  "off": 614,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 23,
+  "off": 631,
+  "len": 19,
+  "text": "Destruction of Koru",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 24,
+  "off": 668,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 25,
+  "off": 685,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 26,
+  "off": 724,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 27,
+  "off": 741,
+  "len": 35,
+  "text": "Destruction of 3rd <Mist Generator>",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 28,
+  "off": 794,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 29,
+  "off": 811,
+  "len": 12,
+  "text": "Usha peddler",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 30,
+  "off": 841,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 31,
+  "off": 858,
+  "len": 12,
+  "text": "Code failure",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 32,
+  "off": 888,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 33,
+  "off": 905,
+  "len": 14,
+  "text": "Usha peddler 2",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 34,
+  "off": 937,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 35,
+  "off": 954,
+  "len": 34,
+  "text": "Destruction of the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 36,
+  "off": 1006,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 37,
+  "off": 1023,
+  "len": 19,
+  "text": "The dreaded Conkram",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 29,
+  "run": 38,
+  "off": 1060,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 0,
+  "off": 54,
+  "len": 8,
+  "text": "H-Hello.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 1,
+  "off": 65,
+  "len": 21,
+  "text": "Are you searching for",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 2,
+  "off": 88,
+  "len": 5,
+  "text": "Arts?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 3,
+  "off": 219,
+  "len": 28,
+  "text": "I see. It matters not to me.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 4,
+  "off": 254,
+  "len": 22,
+  "text": "Ah, just as I thought.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 5,
+  "off": 279,
+  "len": 32,
+  "text": "Before the Mist, we wrote a book",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 6,
+  "off": 313,
+  "len": 31,
+  "text": "of the secrets of many powerful",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 7,
+  "off": 346,
+  "len": 5,
+  "text": "Arts.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 8,
+  "off": 354,
+  "len": 26,
+  "text": "But I left it in on one of",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 9,
+  "off": 382,
+  "len": 17,
+  "text": "the lower floors.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 10,
+  "off": 402,
+  "len": 17,
+  "text": "The book's title?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 11,
+  "off": 421,
+  "len": 20,
+  "text": "P-Please, don't ask.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 12,
+  "off": 443,
+  "len": 22,
+  "text": "It's too embarrassing.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 13,
+  "off": 470,
+  "len": 6,
+  "text": "Y-Yes.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 14,
+  "off": 479,
+  "len": 29,
+  "text": "You want to know the title of",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 15,
+  "off": 510,
+  "len": 30,
+  "text": "the book of secrets about Arts",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 16,
+  "off": 542,
+  "len": 35,
+  "text": "that is on one of the lower floors?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 17,
+  "off": 580,
+  "len": 31,
+  "text": "It's t-too embarrassing to say.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 18,
+  "off": 618,
+  "len": 17,
+  "text": "Y-Yes. A-Alright.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 19,
+  "off": 638,
+  "len": 12,
+  "text": "The... book!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 20,
+  "off": 653,
+  "len": 16,
+  "text": "G-Give it to me!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 21,
+  "off": 678,
+  "len": 9,
+  "text": "{NAME} passed",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 22,
+  "off": 693,
+  "len": 20,
+  "text": "to the warrior-monk.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 23,
+  "off": 726,
+  "len": 15,
+  "text": "Ohh, this is...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 24,
+  "off": 743,
+  "len": 16,
+  "text": "so embarrassing!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 25,
+  "off": 762,
+  "len": 28,
+  "text": "Ohh! A warrior-monk of Biron",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 26,
+  "off": 792,
+  "len": 33,
+  "text": "should not gaze upon such a book!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 27,
+  "off": 828,
+  "len": 9,
+  "text": "Oh... my!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 28,
+  "off": 840,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 29,
+  "off": 854,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 30,
+  "off": 873,
+  "len": 6,
+  "text": "Yes...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 31,
+  "off": 882,
+  "len": 13,
+  "text": "Uh, the Arts,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 32,
+  "off": 897,
+  "len": 16,
+  "text": "yes. Understood.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 33,
+  "off": 915,
+  "len": 25,
+  "text": "I will teach them to you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 34,
+  "off": 952,
+  "len": 19,
+  "text": "Teach me {NAME}'s Arts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 35,
+  "off": 973,
+  "len": 19,
+  "text": "Teach me {NAME:01}'s Arts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 36,
+  "off": 994,
+  "len": 19,
+  "text": "Teach me {NAME:02}'s Arts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 37,
+  "off": 1015,
+  "len": 31,
+  "text": "No, I don't want to bother you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 38,
+  "off": 1049,
+  "len": 27,
+  "text": "Does someone else also wish",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 39,
+  "off": 1078,
+  "len": 18,
+  "text": "to learn the Arts?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 40,
+  "off": 1108,
+  "len": 19,
+  "text": "Teach me {NAME}'s Arts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 41,
+  "off": 1129,
+  "len": 19,
+  "text": "Teach me {NAME:01}'s Arts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 42,
+  "off": 1150,
+  "len": 19,
+  "text": "Teach me {NAME:02}'s Arts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 43,
+  "off": 1171,
+  "len": 31,
+  "text": "No, I don't want to bother you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 44,
+  "off": 1205,
+  "len": 22,
+  "text": "Please don't tell Deez",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 45,
+  "off": 1229,
+  "len": 16,
+  "text": "about that book.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 46,
+  "off": 1267,
+  "len": 29,
+  "text": "Understood. I shall teach you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 47,
+  "off": 1298,
+  "len": 13,
+  "text": "the Arts, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 48,
+  "off": 1314,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 49,
+  "off": 1349,
+  "len": 11,
+  "text": "Please! {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 50,
+  "off": 1362,
+  "len": 27,
+  "text": "I already taught it to you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 51,
+  "off": 1395,
+  "len": 21,
+  "text": "Please! You must know",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 52,
+  "off": 1453,
+  "len": 29,
+  "text": "Understood. I shall teach you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 53,
+  "off": 1484,
+  "len": 13,
+  "text": "the Arts, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 54,
+  "off": 1500,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 55,
+  "off": 1535,
+  "len": 11,
+  "text": "Please! {NAME:01},",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 56,
+  "off": 1548,
+  "len": 27,
+  "text": "I already taught it to you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 57,
+  "off": 1581,
+  "len": 25,
+  "text": "Please! You must know the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 58,
+  "off": 1639,
+  "len": 29,
+  "text": "Understood. I shall teach you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 59,
+  "off": 1670,
+  "len": 14,
+  "text": "the Arts,  {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 60,
+  "off": 1687,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 61,
+  "off": 1722,
+  "len": 11,
+  "text": "Please! {NAME:02},",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 62,
+  "off": 1735,
+  "len": 27,
+  "text": "I already taught it to you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 32,
+  "run": 63,
+  "off": 1768,
+  "len": 25,
+  "text": "Please! You must know the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 34,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:6D}",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 34,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 34,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 34,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:6D}!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 34,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 35,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8B}",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 35,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 35,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 35,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8B}!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 35,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 36,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8C}",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 36,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 36,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 36,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8C}!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 36,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 0,
+  "off": 376,
+  "len": 15,
+  "text": "Old Deez: Stop!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 1,
+  "off": 393,
+  "len": 32,
+  "text": "The is the Holy Temple of Biron.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 2,
+  "off": 428,
+  "len": 32,
+  "text": "Old Deez: None but the followers",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 3,
+  "off": 462,
+  "len": 19,
+  "text": "of Biron may enter.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 4,
+  "off": 484,
+  "len": 33,
+  "text": "Old Deez: Let alone those wearing",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 5,
+  "off": 519,
+  "len": 26,
+  "text": "the despised Seru on their",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 6,
+  "off": 547,
+  "len": 7,
+  "text": "person!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 7,
+  "off": 557,
+  "len": 23,
+  "text": "Old Deez: Go away! Now!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 8,
+  "off": 706,
+  "len": 21,
+  "text": "{NAME:02}: Old Master, wait!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 9,
+  "off": 729,
+  "len": 22,
+  "text": "Please, wait a moment!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 10,
+  "off": 810,
+  "len": 28,
+  "text": "I embraced Biron and studied",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 11,
+  "off": 840,
+  "len": 18,
+  "text": "under Master Zopu.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 12,
+  "off": 861,
+  "len": 20,
+  "text": "{NAME:02}: Please listen to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 13,
+  "off": 883,
+  "len": 28,
+  "text": "what we have to say. Please!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 14,
+  "off": 956,
+  "len": 23,
+  "text": "Old Deez: Zopu? So, you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 15,
+  "off": 981,
+  "len": 26,
+  "text": "speak the name of Zopu! He",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 16,
+  "off": 1009,
+  "len": 24,
+  "text": "certainly is of Biron...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 17,
+  "off": 1039,
+  "len": 16,
+  "text": "Old Deez: But...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 18,
+  "off": 1097,
+  "len": 21,
+  "text": "{NAME:02}: Please forgive my",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 19,
+  "off": 1120,
+  "len": 13,
+  "text": "impertinence!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 20,
+  "off": 1826,
+  "len": 8,
+  "text": "{NAME:01}: Wow!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 21,
+  "off": 1915,
+  "len": 23,
+  "text": "{NAME:01}: {NAME:02}, you're so cool!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 22,
+  "off": 1974,
+  "len": 23,
+  "text": "{NAME:02}: Biron Martial Arts,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 23,
+  "off": 1999,
+  "len": 15,
+  "text": "seventh degree.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 24,
+  "off": 2016,
+  "len": 18,
+  "text": "What do you think?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 25,
+  "off": 2128,
+  "len": 30,
+  "text": "Old Deez: Hmm. There indeed is",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 26,
+  "off": 2160,
+  "len": 32,
+  "text": "deft mastery in your techniques.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 27,
+  "off": 2195,
+  "len": 33,
+  "text": "Old Deez: Those could only be the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 28,
+  "off": 2230,
+  "len": 31,
+  "text": "secret arts of Biron, taught by",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 29,
+  "off": 2263,
+  "len": 13,
+  "text": "Zopu himself!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 30,
+  "off": 2300,
+  "len": 34,
+  "text": "Old Deez: Having seen your skills,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 31,
+  "off": 2336,
+  "len": 33,
+  "text": "it would not do to turn you away.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 32,
+  "off": 2371,
+  "len": 13,
+  "text": "Come with me.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 33,
+  "off": 2657,
+  "len": 16,
+  "text": "Old Deez: I see.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 34,
+  "off": 2679,
+  "len": 25,
+  "text": "Old Deez: Your tales, {NAME:02},",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 35,
+  "off": 2725,
+  "len": 25,
+  "text": "Old Deez: The Ra-Seru and",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 36,
+  "off": 2752,
+  "len": 32,
+  "text": "Genesis Trees... To witness such",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 37,
+  "off": 2786,
+  "len": 9,
+  "text": "miracles!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 38,
+  "off": 2822,
+  "len": 32,
+  "text": "Old Deez: I am indeed impressed!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 39,
+  "off": 2856,
+  "len": 27,
+  "text": "I apologize for my rudeness",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 40,
+  "off": 2885,
+  "len": 8,
+  "text": "earlier.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 41,
+  "off": 2899,
+  "len": 25,
+  "text": "Old Deez: Yes, there is a",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 42,
+  "off": 2926,
+  "len": 29,
+  "text": "Genesis Tree here. However...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 43,
+  "off": 3355,
+  "len": 29,
+  "text": "Old Deez: See for yourselves.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 44,
+  "off": 3386,
+  "len": 20,
+  "text": "This is the temple's",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 45,
+  "off": 3408,
+  "len": 13,
+  "text": "Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 46,
+  "off": 3544,
+  "len": 16,
+  "text": "That's only a...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 47,
+  "off": 3636,
+  "len": 13,
+  "text": "{NAME:02}: That's...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 48,
+  "off": 3655,
+  "len": 26,
+  "text": "{NAME:02}: A seedling! This tiny,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 49,
+  "off": 3683,
+  "len": 35,
+  "text": "frail-looking Genesis Tree is going",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 50,
+  "off": 3720,
+  "len": 11,
+  "text": "to help us?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 51,
+  "off": 3804,
+  "len": 28,
+  "text": "Old Deez: Correct! This is a",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 52,
+  "off": 3834,
+  "len": 35,
+  "text": "Genesis Tree seedling. That is what",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 53,
+  "off": 3871,
+  "len": 11,
+  "text": "we call it.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 54,
+  "off": 3909,
+  "len": 32,
+  "text": "Old Deez: One hundred years ago,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 55,
+  "off": 3943,
+  "len": 30,
+  "text": "the wilted Genesis Tree of the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 56,
+  "off": 3975,
+  "len": 31,
+  "text": "underground Warrior's Square...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 57,
+  "off": 4012,
+  "len": 35,
+  "text": "Old Deez: ...was transplanted here.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 58,
+  "off": 4049,
+  "len": 32,
+  "text": "Amazingly, it transformed itself",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 59,
+  "off": 4083,
+  "len": 19,
+  "text": "into this seedling.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 60,
+  "off": 4108,
+  "len": 34,
+  "text": "Old Deez: The prophecy of the Holy",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 61,
+  "off": 4144,
+  "len": 31,
+  "text": "Emperor Etora IV says that when",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 62,
+  "off": 4177,
+  "len": 20,
+  "text": "the time is right...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 63,
+  "off": 4203,
+  "len": 31,
+  "text": "Old Deez:...the Genesis Tree in",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 64,
+  "off": 4236,
+  "len": 32,
+  "text": "Warrior's Square under Sol, will",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 65,
+  "off": 4270,
+  "len": 18,
+  "text": "come back to life.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 66,
+  "off": 4294,
+  "len": 27,
+  "text": "Old Deez: I now entrust you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 67,
+  "off": 4323,
+  "len": 32,
+  "text": "with this Genesis Tree seedling!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 68,
+  "off": 4569,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 69,
+  "off": 4581,
+  "len": 7,
+  "text": "the {ITEM:B7}!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 70,
+  "off": 4627,
+  "len": 17,
+  "text": "{NAME:02}: I am honored,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 71,
+  "off": 4646,
+  "len": 12,
+  "text": "Master Deez.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 72,
+  "off": 4807,
+  "len": 31,
+  "text": "We did it! Now we can drive the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 73,
+  "off": 4840,
+  "len": 14,
+  "text": "Mist from Sol!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 74,
+  "off": 4860,
+  "len": 27,
+  "text": "Old Deez: Good luck to you.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 40,
+  "run": 75,
+  "off": 4889,
+  "len": 26,
+  "text": "And may Tieg smile on Sol.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 0,
+  "off": 455,
+  "len": 33,
+  "text": "Gaza: I, Gaza, will not let thine",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 1,
+  "off": 490,
+  "len": 18,
+  "text": "evil plot succeed!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 2,
+  "off": 514,
+  "len": 29,
+  "text": "Gaza: This I have vowed on my",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 3,
+  "off": 545,
+  "len": 24,
+  "text": "honor, and on the mighty",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 4,
+  "off": 571,
+  "len": 13,
+  "text": "Astral Sword!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 5,
+  "off": 590,
+  "len": 33,
+  "text": "Gaza: No one who would prevent me",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 6,
+  "off": 625,
+  "len": 30,
+  "text": "from keeping that vow shall be",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 7,
+  "off": 657,
+  "len": 7,
+  "text": "spared!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 8,
+  "off": 670,
+  "len": 23,
+  "text": "Gaza: Now put down that",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 9,
+  "off": 695,
+  "len": 29,
+  "text": "Genesis Tree seedling! Do not",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 10,
+  "off": 726,
+  "len": 10,
+  "text": "resist me!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 11,
+  "off": 742,
+  "len": 32,
+  "text": "Gaza: Lest thou die by my blade!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 12,
+  "off": 1159,
+  "len": 16,
+  "text": "Insolent knaves!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 13,
+  "off": 1621,
+  "len": 12,
+  "text": "Gaza: Fools!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 14,
+  "off": 1767,
+  "len": 33,
+  "text": "Gaza: Fear not, that was just the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 15,
+  "off": 1802,
+  "len": 31,
+  "text": "back of my sword! I do not take",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 16,
+  "off": 1835,
+  "len": 31,
+  "text": "life without reason. I am Gaza!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 17,
+  "off": 1900,
+  "len": 34,
+  "text": "Gaza: I bear thee no ill will. Yet",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 18,
+  "off": 1936,
+  "len": 35,
+  "text": "if thou doth seek to drive away the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 19,
+  "off": 1973,
+  "len": 28,
+  "text": "Mist and with it the Seru...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 20,
+  "off": 2007,
+  "len": 31,
+  "text": "Gaza: Then I would be forced to",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 21,
+  "off": 2040,
+  "len": 32,
+  "text": "stop thine evil scheme by taking",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 22,
+  "off": 2074,
+  "len": 12,
+  "text": "thine lives.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 23,
+  "off": 2092,
+  "len": 31,
+  "text": "Gaza: Now, how dost thou reply?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 24,
+  "off": 2356,
+  "len": 25,
+  "text": "{NAME:01}: You're weird! I don't",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 25,
+  "off": 2383,
+  "len": 32,
+  "text": "understand a word you're saying,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 26,
+  "off": 2417,
+  "len": 31,
+  "text": "but I can tell you're a weirdo!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 27,
+  "off": 2515,
+  "len": 25,
+  "text": "{NAME:02}: There's no reason for",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 28,
+  "off": 2542,
+  "len": 32,
+  "text": "us to fight, Gaza! The awakening",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 29,
+  "off": 2576,
+  "len": 35,
+  "text": "of the Genesis Tree and your vow...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 30,
+  "off": 2614,
+  "len": 28,
+  "text": "{NAME:02}: They are the same thing!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 31,
+  "off": 2644,
+  "len": 31,
+  "text": "That means you, old man, and we",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 32,
+  "off": 2677,
+  "len": 20,
+  "text": "share a common goal!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 33,
+  "off": 2700,
+  "len": 29,
+  "text": "{NAME:02}: There is no reason for us",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 34,
+  "off": 2731,
+  "len": 26,
+  "text": "to fight. We are not sworn",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 35,
+  "off": 2759,
+  "len": 8,
+  "text": "enemies!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 36,
+  "off": 2806,
+  "len": 22,
+  "text": "Gaza: Misjudge me not!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 37,
+  "off": 2830,
+  "len": 28,
+  "text": "My vow is to live the way of",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 38,
+  "off": 2860,
+  "len": 28,
+  "text": "the sword! That and no more!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 39,
+  "off": 2894,
+  "len": 32,
+  "text": "Gaza: The grounds where my sword",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 40,
+  "off": 2928,
+  "len": 27,
+  "text": "holds the power of life and",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 41,
+  "off": 2957,
+  "len": 32,
+  "text": "death is the demon's lair below!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 42,
+  "off": 2995,
+  "len": 29,
+  "text": "Gaza: I exist to fight there!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 43,
+  "off": 3026,
+  "len": 31,
+  "text": "My sword was forged to slay the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 44,
+  "off": 3059,
+  "len": 27,
+  "text": "demons! I live for carnage!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 45,
+  "off": 3201,
+  "len": 28,
+  "text": "{NAME:01}: Power of life and death?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 46,
+  "off": 3231,
+  "len": 22,
+  "text": "Demon's lair? Carnage?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 47,
+  "off": 3292,
+  "len": 8,
+  "text": "{NAME:01}: Ooh!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 48,
+  "off": 3303,
+  "len": 22,
+  "text": "{NAME:01}: I don't understand",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 49,
+  "off": 3327,
+  "len": 27,
+  "text": "what that old man is saying",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 50,
+  "off": 3356,
+  "len": 7,
+  "text": "at all!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 51,
+  "off": 3445,
+  "len": 21,
+  "text": "{NAME:02}: {NAME:01}, the gentleman",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 52,
+  "off": 3468,
+  "len": 31,
+  "text": "seems to think if we revive the",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 53,
+  "off": 3501,
+  "len": 33,
+  "text": "Genesis Tree and drive away Mist.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 54,
+  "off": 3537,
+  "len": 28,
+  "text": "{NAME:02}: ...then he won't be able",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 55,
+  "off": 3567,
+  "len": 32,
+  "text": "to practice his swordsmanship on",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 56,
+  "off": 3601,
+  "len": 21,
+  "text": "Seru in Mist anymore.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 57,
+  "off": 3754,
+  "len": 28,
+  "text": "{NAME:01}: That's too weird! That's",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 58,
+  "off": 3784,
+  "len": 33,
+  "text": "just too weird! There's something",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 59,
+  "off": 3819,
+  "len": 24,
+  "text": "wrong with this old guy!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 60,
+  "off": 3863,
+  "len": 22,
+  "text": "{NAME:02}: The Mist can twist",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 61,
+  "off": 3887,
+  "len": 28,
+  "text": "people's minds with its very",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 62,
+  "off": 3917,
+  "len": 10,
+  "text": "existence.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 63,
+  "off": 3954,
+  "len": 23,
+  "text": "Gaza: Enough idle talk!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 41,
+  "run": 64,
+  "off": 3979,
+  "len": 33,
+  "text": "Let thine steel do thine talking!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 0,
+  "off": 240,
+  "len": 22,
+  "text": "{NAME:01}: Oh, the old man...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 1,
+  "off": 289,
+  "len": 27,
+  "text": "{NAME:02}: Such a senseless fight!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 2,
+  "off": 318,
+  "len": 28,
+  "text": "Why must human fight human?!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 3,
+  "off": 373,
+  "len": 30,
+  "text": "the old gentleman still lives.",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 4,
+  "off": 405,
+  "len": 34,
+  "text": "We must treat his wounds, quickly!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 5,
+  "off": 562,
+  "len": 35,
+  "text": "Songi: Have no fear, Songi is here!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 6,
+  "off": 1071,
+  "len": 25,
+  "text": "Songi: My, my. {NAME:02}, do you",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 7,
+  "off": 1098,
+  "len": 25,
+  "text": "realize what you've done?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 8,
+  "off": 1125,
+  "len": 28,
+  "text": "You've killed a human being!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 9,
+  "off": 1180,
+  "len": 34,
+  "text": "Songi: You're all a disgrace! Your",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 10,
+  "off": 1216,
+  "len": 32,
+  "text": "cruelty puts the Mist's henchmen",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 11,
+  "off": 1250,
+  "len": 30,
+  "text": "to shame! Bloodthirsty beasts!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 12,
+  "off": 1286,
+  "len": 32,
+  "text": "Songi: How could you murder this",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 13,
+  "off": 1320,
+  "len": 32,
+  "text": "poor old man just because he was",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 14,
+  "off": 1354,
+  "len": 19,
+  "text": "a little eccentric?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 15,
+  "off": 1439,
+  "len": 22,
+  "text": "Songi: Oh, the horror!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 16,
+  "off": 1463,
+  "len": 29,
+  "text": "Just watching it sent a chill",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 17,
+  "off": 1494,
+  "len": 11,
+  "text": "through me!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 18,
+  "off": 1611,
+  "len": 12,
+  "text": "{NAME:02}: Songi...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 19,
+  "off": 1625,
+  "len": 14,
+  "text": "Y-You bastard!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 20,
+  "off": 1705,
+  "len": 23,
+  "text": "Songi: Hey, wait! Wait,",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 21,
+  "off": 1730,
+  "len": 30,
+  "text": "you simple-minded muscle-bound",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 22,
+  "off": 1762,
+  "len": 4,
+  "text": "oaf!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 23,
+  "off": 1844,
+  "len": 31,
+  "text": "Songi: I will save the old man!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 24,
+  "off": 1877,
+  "len": 31,
+  "text": "After all, I've taken to him...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 25,
+  "off": 1962,
+  "len": 29,
+  "text": "Songi: And unlike you, I am a",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 26,
+  "off": 1993,
+  "len": 28,
+  "text": "merciful person. Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 27,
+  "off": 2060,
+  "len": 30,
+  "text": "Songi: I'll heal him, and help",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 28,
+  "off": 2092,
+  "len": 12,
+  "text": "him recover!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 29,
+  "off": 2149,
+  "len": 32,
+  "text": "Songi: So stay alive long enough",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 30,
+  "off": 2183,
+  "len": 31,
+  "text": "to see him get better! So long!",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 31,
+  "off": 2881,
+  "len": 17,
+  "text": "{NAME:02}: That Songi...",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 32,
+  "off": 2900,
+  "len": 17,
+  "text": "What is he up to?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 33,
+  "off": 3138,
+  "len": 30,
+  "text": "is the old man going to be OK?",
+  "ko": ""
+ },
+ {
+  "map": 512,
+  "script": 42,
+  "run": 34,
+  "off": 3170,
+  "len": 22,
+  "text": "I'm worried about him.",
+  "ko": ""
+ }
+]

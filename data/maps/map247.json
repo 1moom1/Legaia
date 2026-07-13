@@ -1,0 +1,497 @@
+[
+ {
+  "map": 247,
+  "script": 33,
+  "run": 0,
+  "off": 67,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.sk<05>",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 0,
+  "off": 33,
+  "len": 18,
+  "text": "Start flag setting",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 1,
+  "off": 54,
+  "len": 37,
+  "text": "Stop Sebucus Islands <Mist Generator>",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 2,
+  "off": 93,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 3,
+  "off": 130,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 4,
+  "off": 138,
+  "len": 40,
+  "text": "Stop Sebucus Islands <Mist Generator> ON",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 5,
+  "off": 180,
+  "len": 41,
+  "text": "Stop Sebucus Islands <Mist Generator> OFF",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 6,
+  "off": 223,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 7,
+  "off": 242,
+  "len": 14,
+  "text": "Defeat of Xain",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 8,
+  "off": 258,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 9,
+  "off": 295,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 10,
+  "off": 303,
+  "len": 17,
+  "text": "Defeat of Xain ON",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 11,
+  "off": 322,
+  "len": 18,
+  "text": "Defeat of Xain OFF",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 12,
+  "off": 342,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 13,
+  "off": 361,
+  "len": 13,
+  "text": "Zalan's favor",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 14,
+  "off": 376,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 15,
+  "off": 413,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 16,
+  "off": 421,
+  "len": 16,
+  "text": "Zalan's favor ON",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 17,
+  "off": 439,
+  "len": 17,
+  "text": "Zalan's favor OFF",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 18,
+  "off": 458,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 19,
+  "off": 477,
+  "len": 15,
+  "text": "Get Yuma's ring",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 20,
+  "off": 494,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 21,
+  "off": 531,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 22,
+  "off": 539,
+  "len": 18,
+  "text": "Get Yuma's ring ON",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 23,
+  "off": 559,
+  "len": 19,
+  "text": "Get Yuma's ring OFF",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 24,
+  "off": 580,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 25,
+  "off": 599,
+  "len": 22,
+  "text": "Get chance for tracing",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 26,
+  "off": 623,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 27,
+  "off": 660,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 28,
+  "off": 668,
+  "len": 25,
+  "text": "Get chance for tracing ON",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 29,
+  "off": 695,
+  "len": 26,
+  "text": "Get chance for tracing OFF",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 30,
+  "off": 723,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 31,
+  "off": 747,
+  "len": 16,
+  "text": "{NAME:01} gets swimsuit",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 32,
+  "off": 765,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 33,
+  "off": 802,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 34,
+  "off": 810,
+  "len": 19,
+  "text": "{NAME:01} gets swimsuit ON",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 35,
+  "off": 831,
+  "len": 20,
+  "text": "{NAME:01} gets swimsuit OFF",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 36,
+  "off": 853,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 34,
+  "run": 37,
+  "off": 872,
+  "len": 17,
+  "text": "End flag settings",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 35,
+  "run": 0,
+  "off": 113,
+  "len": 10,
+  "text": "Sound Test",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 35,
+  "run": 1,
+  "off": 130,
+  "len": 10,
+  "text": "Event Test",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 35,
+  "run": 2,
+  "off": 151,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 35,
+  "run": 3,
+  "off": 157,
+  "len": 36,
+  "text": "Sky Garden Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 35,
+  "run": 4,
+  "off": 195,
+  "len": 36,
+  "text": "Mt. Letona Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 35,
+  "run": 5,
+  "off": 233,
+  "len": 30,
+  "text": "Destruction of Dohati's Castle",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 39,
+  "run": 0,
+  "off": 37,
+  "len": 17,
+  "text": "East: Shadow Gate",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 39,
+  "run": 1,
+  "off": 56,
+  "len": 12,
+  "text": "West: Ratayu",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 39,
+  "run": 2,
+  "off": 70,
+  "len": 12,
+  "text": "South: Octam",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 0,
+  "off": 37,
+  "len": 24,
+  "text": "There is a fishing spot!",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 1,
+  "off": 64,
+  "len": 18,
+  "text": "But you don't have",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 2,
+  "off": 84,
+  "len": 14,
+  "text": "a fishing rod!",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 3,
+  "off": 118,
+  "len": 24,
+  "text": "There is a fishing spot!",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 4,
+  "off": 145,
+  "len": 26,
+  "text": "But you don't have a lure!",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 5,
+  "off": 176,
+  "len": 24,
+  "text": "There is a fishing spot.",
+  "ko": ""
+ },
+ {
+  "map": 247,
+  "script": 40,
+  "run": 6,
+  "off": 202,
+  "len": 20,
+  "text": "Do you want to fish?",
+  "ko": ""
+ }
+]

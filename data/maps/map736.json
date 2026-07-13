@@ -1,0 +1,2513 @@
+[
+ {
+  "map": 736,
+  "script": 2,
+  "run": 0,
+  "off": 15,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 2,
+  "run": 1,
+  "off": 37,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 3,
+  "run": 0,
+  "off": 15,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 3,
+  "run": 1,
+  "off": 37,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 4,
+  "run": 0,
+  "off": 15,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 4,
+  "run": 1,
+  "off": 37,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 5,
+  "run": 0,
+  "off": 24,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 5,
+  "run": 1,
+  "off": 46,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 6,
+  "run": 0,
+  "off": 24,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 6,
+  "run": 1,
+  "off": 46,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 7,
+  "run": 0,
+  "off": 24,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 7,
+  "run": 1,
+  "off": 46,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 8,
+  "run": 0,
+  "off": 24,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 8,
+  "run": 1,
+  "off": 46,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 9,
+  "run": 0,
+  "off": 15,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 9,
+  "run": 1,
+  "off": 37,
+  "len": 29,
+  "text": "It's blocked from the inside!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 34,
+  "run": 0,
+  "off": 117,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.u<<05>",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 37,
+  "run": 0,
+  "off": 43,
+  "len": 29,
+  "text": "Those Solians are using a new",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 37,
+  "run": 1,
+  "off": 74,
+  "len": 31,
+  "text": "Seru from Uru Mais as a weapon.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 37,
+  "run": 2,
+  "off": 107,
+  "len": 33,
+  "text": "They'll be a tough enemy to beat!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 38,
+  "run": 0,
+  "off": 39,
+  "len": 21,
+  "text": "Hey! You, young girl.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 38,
+  "run": 1,
+  "off": 62,
+  "len": 28,
+  "text": "You look just like the Queen",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 38,
+  "run": 2,
+  "off": 92,
+  "len": 19,
+  "text": "when she was young.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 38,
+  "run": 3,
+  "off": 116,
+  "len": 24,
+  "text": "I'm so glad the King and",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 38,
+  "run": 4,
+  "off": 142,
+  "len": 15,
+  "text": "Queen are safe.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 38,
+  "run": 5,
+  "off": 162,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 39,
+  "run": 0,
+  "off": 25,
+  "len": 23,
+  "text": "Huh? The Nemesis Gem...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 39,
+  "run": 1,
+  "off": 51,
+  "len": 21,
+  "text": "I have no idea at all",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 39,
+  "run": 2,
+  "off": 74,
+  "len": 26,
+  "text": "what you're talking about.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 40,
+  "run": 0,
+  "off": 41,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 40,
+  "run": 1,
+  "off": 68,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 40,
+  "run": 2,
+  "off": 87,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 40,
+  "run": 3,
+  "off": 114,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 0,
+  "off": 35,
+  "len": 33,
+  "text": "Innkeeper: Well, well. You want a",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 1,
+  "off": 70,
+  "len": 33,
+  "text": "room at this hour? A room usually",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 2,
+  "off": 105,
+  "len": 26,
+  "text": "costs 10,000G per night...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 3,
+  "off": 134,
+  "len": 31,
+  "text": "Innkeeper: But since tomorrow's",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 4,
+  "off": 167,
+  "len": 28,
+  "text": "a special day, I'll let all ",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 5,
+  "off": 197,
+  "len": 27,
+  "text": "three of you stay for free!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 6,
+  "off": 227,
+  "len": 31,
+  "text": "Innkeeper: Do you want to stay?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 7,
+  "off": 384,
+  "len": 34,
+  "text": "Innkeeper: By morning, the display",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 8,
+  "off": 420,
+  "len": 32,
+  "text": "of the new weapon will start. Is",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 9,
+  "off": 454,
+  "len": 27,
+  "text": "all your business finished?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 10,
+  "off": 607,
+  "len": 16,
+  "text": "Innkeeper: Good.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 11,
+  "off": 625,
+  "len": 31,
+  "text": "Show these three to their room!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 12,
+  "off": 684,
+  "len": 32,
+  "text": "Innkeeper: Oh. Well, I guess you",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 13,
+  "off": 718,
+  "len": 30,
+  "text": "want to enjoy the festivities.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 14,
+  "off": 750,
+  "len": 28,
+  "text": "Come back when you're tired.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 15,
+  "off": 783,
+  "len": 35,
+  "text": "Innkeeper: Oh, so you're the heroes",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 16,
+  "off": 820,
+  "len": 36,
+  "text": "who saved Conkram! You can stay here",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 17,
+  "off": 858,
+  "len": 29,
+  "text": "for free. Do you want a room?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 18,
+  "off": 1012,
+  "len": 27,
+  "text": "Innkeeper: Show these three",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 19,
+  "off": 1041,
+  "len": 14,
+  "text": "to their room!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 20,
+  "off": 1124,
+  "len": 27,
+  "text": "Innkeeper: Suit yourselves.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 21,
+  "off": 1153,
+  "len": 22,
+  "text": "You are all so strong,",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 22,
+  "off": 1177,
+  "len": 28,
+  "text": "I guess you never get tired!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 23,
+  "off": 1210,
+  "len": 33,
+  "text": "Innkeeper: You've been through so",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 24,
+  "off": 1245,
+  "len": 30,
+  "text": "much. You can stay here if you",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 25,
+  "off": 1277,
+  "len": 21,
+  "text": "want. Do you want to?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 26,
+  "off": 1423,
+  "len": 8,
+  "text": "Alright.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 27,
+  "off": 1433,
+  "len": 10,
+  "text": "Goodnight.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 28,
+  "off": 1509,
+  "len": 31,
+  "text": "Oh. I suppose you have too much",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 41,
+  "run": 29,
+  "off": 1542,
+  "len": 10,
+  "text": "to do now.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 0,
+  "off": 37,
+  "len": 16,
+  "text": "Dr. Usha: Hmm...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 1,
+  "off": 55,
+  "len": 30,
+  "text": "Those Seru you have are indeed",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 2,
+  "off": 87,
+  "len": 13,
+  "text": "strange ones.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 3,
+  "off": 103,
+  "len": 19,
+  "text": "Dr. Usha: I'm Usha,",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 4,
+  "off": 124,
+  "len": 31,
+  "text": "the roving brilliant scientist.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 5,
+  "off": 157,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 6,
+  "off": 171,
+  "len": 33,
+  "text": "Dr. Usha: I'd like to ask you all",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 7,
+  "off": 206,
+  "len": 19,
+  "text": "about those Seru...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 8,
+  "off": 228,
+  "len": 32,
+  "text": "Dr. Usha: but it's getting late.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 9,
+  "off": 262,
+  "len": 31,
+  "text": "Let's talk about them tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 10,
+  "off": 298,
+  "len": 21,
+  "text": "Dr. Usha: The Mist...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 11,
+  "off": 321,
+  "len": 32,
+  "text": "What a frightful experience I've",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 12,
+  "off": 355,
+  "len": 14,
+  "text": "had with that!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 13,
+  "off": 372,
+  "len": 33,
+  "text": "Dr. Usha: After our conversation,",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 14,
+  "off": 407,
+  "len": 28,
+  "text": "I'll return to my laboratory",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 15,
+  "off": 437,
+  "len": 21,
+  "text": "and do some research.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 16,
+  "off": 463,
+  "len": 24,
+  "text": "Dr. Usha: The Mist makes",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 17,
+  "off": 489,
+  "len": 25,
+  "text": "Seru turn violent? I must",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 18,
+  "off": 516,
+  "len": 24,
+  "text": "investigate this matter.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 19,
+  "off": 543,
+  "len": 32,
+  "text": "Dr. Usha: I must investigate the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 20,
+  "off": 577,
+  "len": 30,
+  "text": "source of the Mist, behind the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 42,
+  "run": 21,
+  "off": 609,
+  "len": 7,
+  "text": "castle.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 0,
+  "off": 25,
+  "len": 32,
+  "text": "The Doctor and I came because we",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 1,
+  "off": 59,
+  "len": 32,
+  "text": "heard that a new weapon is being",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 2,
+  "off": 93,
+  "len": 21,
+  "text": "developed in Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 3,
+  "off": 119,
+  "len": 28,
+  "text": "The Doctor says he now knows",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 4,
+  "off": 149,
+  "len": 24,
+  "text": "firsthand the horrors of",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 5,
+  "off": 175,
+  "len": 9,
+  "text": "the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 6,
+  "off": 189,
+  "len": 30,
+  "text": "He keeps saying he wants to go",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 7,
+  "off": 221,
+  "len": 29,
+  "text": "to the castle to investigate.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 43,
+  "run": 8,
+  "off": 252,
+  "len": 22,
+  "text": "He won't listen to me!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 44,
+  "run": 0,
+  "off": 23,
+  "len": 31,
+  "text": "Welcome! We have many different",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 44,
+  "run": 1,
+  "off": 56,
+  "len": 29,
+  "text": "weapons and armor. What can I",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 44,
+  "run": 2,
+  "off": 87,
+  "len": 18,
+  "text": "get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 44,
+  "run": 3,
+  "off": 134,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 45,
+  "run": 0,
+  "off": 23,
+  "len": 27,
+  "text": "Welcome! If you want items,",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 45,
+  "run": 1,
+  "off": 52,
+  "len": 18,
+  "text": "this is the place!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 45,
+  "run": 2,
+  "off": 72,
+  "len": 29,
+  "text": "What can I get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 45,
+  "run": 3,
+  "off": 132,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 0,
+  "off": 29,
+  "len": 28,
+  "text": "Just between you and me, I'm",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 1,
+  "off": 59,
+  "len": 34,
+  "text": "worried about the unveiling of the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 2,
+  "off": 95,
+  "len": 20,
+  "text": "new weapon tomorrow.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 3,
+  "off": 118,
+  "len": 30,
+  "text": "I have a bad feeling about it.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 4,
+  "off": 150,
+  "len": 31,
+  "text": "That's why I came for medicine.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 5,
+  "off": 183,
+  "len": 30,
+  "text": "You guys better buy some, too!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 6,
+  "off": 218,
+  "len": 16,
+  "text": "See? I told you.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 7,
+  "off": 236,
+  "len": 24,
+  "text": "I knew something bad was",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 8,
+  "off": 262,
+  "len": 16,
+  "text": "going to happen.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 9,
+  "off": 281,
+  "len": 29,
+  "text": "The only way to stop the Mist",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 10,
+  "off": 312,
+  "len": 28,
+  "text": "is to do something about the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 11,
+  "off": 342,
+  "len": 25,
+  "text": "castle's underground lab.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 12,
+  "off": 372,
+  "len": 18,
+  "text": "You guys destroyed",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 13,
+  "off": 392,
+  "len": 21,
+  "text": "Rogue's Tower, right?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 14,
+  "off": 538,
+  "len": 23,
+  "text": "Well, then, we're safe.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 15,
+  "off": 563,
+  "len": 33,
+  "text": "That means the source of the Mist",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 16,
+  "off": 598,
+  "len": 12,
+  "text": "is gone now.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 17,
+  "off": 613,
+  "len": 21,
+  "text": "No more Mist forever.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 18,
+  "off": 637,
+  "len": 29,
+  "text": "Rogue's Tower is still there?",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 19,
+  "off": 668,
+  "len": 21,
+  "text": "That means more Mist.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 46,
+  "run": 20,
+  "off": 691,
+  "len": 27,
+  "text": "What a frightening thought!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 47,
+  "run": 0,
+  "off": 23,
+  "len": 27,
+  "text": "The lady said she'd give me",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 47,
+  "run": 1,
+  "off": 52,
+  "len": 26,
+  "text": "a Seru, if I helped out at",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 47,
+  "run": 2,
+  "off": 80,
+  "len": 10,
+  "text": "the store.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 47,
+  "run": 3,
+  "off": 95,
+  "len": 32,
+  "text": "But I don't want a Seru anymore.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 47,
+  "run": 4,
+  "off": 129,
+  "len": 19,
+  "text": "I'm scared of them!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 48,
+  "run": 0,
+  "off": 33,
+  "len": 27,
+  "text": "If only there were no Seru,",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 48,
+  "run": 1,
+  "off": 62,
+  "len": 27,
+  "text": "then there would be no war.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 48,
+  "run": 2,
+  "off": 92,
+  "len": 27,
+  "text": "Don't you mind me! I'm just",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 48,
+  "run": 3,
+  "off": 121,
+  "len": 25,
+  "text": "a foolish old man talking",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 48,
+  "run": 4,
+  "off": 148,
+  "len": 10,
+  "text": "to myself!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 49,
+  "run": 0,
+  "off": 25,
+  "len": 31,
+  "text": "The device outside that you saw",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 49,
+  "run": 1,
+  "off": 58,
+  "len": 26,
+  "text": "connects to the laboratory",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 49,
+  "run": 2,
+  "off": 86,
+  "len": 17,
+  "text": "under the castle.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 49,
+  "run": 3,
+  "off": 108,
+  "len": 23,
+  "text": "My wife was killed by a",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 49,
+  "run": 4,
+  "off": 133,
+  "len": 13,
+  "text": "Seru monster.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 50,
+  "run": 0,
+  "off": 38,
+  "len": 33,
+  "text": "When we win the war, I'm going to",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 50,
+  "run": 1,
+  "off": 73,
+  "len": 33,
+  "text": "go to Sol and have myself a time!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 56,
+  "run": 0,
+  "off": 35,
+  "len": 4,
+  "text": "Sir!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 1,
+  "off": 34,
+  "len": 14,
+  "text": "Award ceremony",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 2,
+  "off": 66,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 3,
+  "off": 84,
+  "len": 23,
+  "text": "The horrible new weapon",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 4,
+  "off": 125,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 5,
+  "off": 143,
+  "len": 9,
+  "text": "Dream = 3",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 6,
+  "off": 170,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 7,
+  "off": 188,
+  "len": 20,
+  "text": "The strange Uru Mais",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 8,
+  "off": 226,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 9,
+  "off": 243,
+  "len": 17,
+  "text": "End of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 10,
+  "off": 278,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 11,
+  "off": 295,
+  "len": 17,
+  "text": "End of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 12,
+  "off": 330,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 13,
+  "off": 347,
+  "len": 17,
+  "text": "End of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 14,
+  "off": 382,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 15,
+  "off": 399,
+  "len": 21,
+  "text": "Elevator installation",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 16,
+  "off": 438,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 17,
+  "off": 455,
+  "len": 26,
+  "text": "Mrs. Usha's conversation 1",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 18,
+  "off": 499,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 19,
+  "off": 516,
+  "len": 12,
+  "text": "Test 1 clear",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 20,
+  "off": 546,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 21,
+  "off": 563,
+  "len": 12,
+  "text": "Test 2 clear",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 22,
+  "off": 593,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 23,
+  "off": 610,
+  "len": 14,
+  "text": "Defeat of Koru",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 24,
+  "off": 642,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 25,
+  "off": 659,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 26,
+  "off": 698,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 27,
+  "off": 715,
+  "len": 31,
+  "text": "Destruction of Mist Generator 3",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 28,
+  "off": 764,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 29,
+  "off": 781,
+  "len": 12,
+  "text": "Usha peddler",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 30,
+  "off": 811,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 31,
+  "off": 828,
+  "len": 12,
+  "text": "Code failure",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 32,
+  "off": 858,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 33,
+  "off": 875,
+  "len": 14,
+  "text": "Usha peddler 2",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 34,
+  "off": 907,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 35,
+  "off": 924,
+  "len": 34,
+  "text": "Destruction of the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 36,
+  "off": 976,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 37,
+  "off": 993,
+  "len": 19,
+  "text": "The dreaded Conkram",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 59,
+  "run": 38,
+  "off": 1030,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 61,
+  "run": 0,
+  "off": 28,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 64,
+  "run": 0,
+  "off": 26,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 65,
+  "run": 0,
+  "off": 58,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 66,
+  "run": 0,
+  "off": 58,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 67,
+  "run": 0,
+  "off": 58,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 68,
+  "run": 0,
+  "off": 65,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 76,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:84}",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 76,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 76,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 76,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:84}!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 76,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 77,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 77,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 77,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 77,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 77,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 78,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:85}",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 78,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 78,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 78,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:85}!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 78,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 79,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:86}",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 79,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 79,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 79,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:86}!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 79,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 89,
+  "run": 0,
+  "off": 219,
+  "len": 22,
+  "text": "{NAME:01}: Wake up, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 89,
+  "run": 1,
+  "off": 243,
+  "len": 35,
+  "text": "The demonstration of the new weapon",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 89,
+  "run": 2,
+  "off": 280,
+  "len": 18,
+  "text": "is about to begin!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 0,
+  "off": 448,
+  "len": 34,
+  "text": "King Nebular: My son, Prince Cort,",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 1,
+  "off": 484,
+  "len": 21,
+  "text": "has at last completed",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 2,
+  "off": 507,
+  "len": 15,
+  "text": "his new weapon.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 3,
+  "off": 525,
+  "len": 27,
+  "text": "King Nebular: Cort calls it",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 4,
+  "off": 554,
+  "len": 9,
+  "text": "the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 5,
+  "off": 566,
+  "len": 30,
+  "text": "King Nebular: I hereby present",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 6,
+  "off": 598,
+  "len": 18,
+  "text": "this new weapon to",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 7,
+  "off": 618,
+  "len": 22,
+  "text": "the people of Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 8,
+  "off": 941,
+  "len": 31,
+  "text": "Zeto: The Mist is a special gas",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 9,
+  "off": 974,
+  "len": 30,
+  "text": "that makes the Seru many times",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 10,
+  "off": 1006,
+  "len": 14,
+  "text": "more powerful.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 11,
+  "off": 1113,
+  "len": 35,
+  "text": "Zeto: Prince Cort and Jette, in the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 12,
+  "off": 1150,
+  "len": 35,
+  "text": "lab under the castle, will now open",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 13,
+  "off": 1187,
+  "len": 27,
+  "text": "the door to the Seru world.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 14,
+  "off": 1220,
+  "len": 35,
+  "text": "Zeto: Using an elixir from the home",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 15,
+  "off": 1257,
+  "len": 28,
+  "text": "of the Seru, we have created",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 16,
+  "off": 1287,
+  "len": 16,
+  "text": "a new substance.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 17,
+  "off": 1309,
+  "len": 33,
+  "text": "Zeto: That substance is the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 18,
+  "off": 1344,
+  "len": 31,
+  "text": "A new weapon that amplifies the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 19,
+  "off": 1377,
+  "len": 18,
+  "text": "power of our Seru.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 20,
+  "off": 1398,
+  "len": 29,
+  "text": "Zeto: When released into this",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 21,
+  "off": 1429,
+  "len": 32,
+  "text": "cylinder, the Mist will turn the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 22,
+  "off": 1463,
+  "len": 30,
+  "text": "soldiers into mighty warriors!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 23,
+  "off": 1719,
+  "len": 25,
+  "text": "Zeto: Gentlemen! From his",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 24,
+  "off": 1746,
+  "len": 28,
+  "text": "laboratory, Prince Cort says",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 25,
+  "off": 1776,
+  "len": 12,
+  "text": "he is ready!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 26,
+  "off": 2242,
+  "len": 28,
+  "text": "Zeto: Look well at the power",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 27,
+  "off": 2272,
+  "len": 28,
+  "text": "of Conkram's new weapon, the",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 28,
+  "off": 2302,
+  "len": 27,
+  "text": "Mist. The pride of Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 29,
+  "off": 2474,
+  "len": 23,
+  "text": "{NAME:02}: I don't believe it!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 30,
+  "off": 2499,
+  "len": 29,
+  "text": "They're going to use the Mist",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 31,
+  "off": 2530,
+  "len": 19,
+  "text": "as a weapon of war!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 32,
+  "off": 2729,
+  "len": 18,
+  "text": "I don't like this!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 33,
+  "off": 2749,
+  "len": 25,
+  "text": "That person has gone mad!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 34,
+  "off": 3025,
+  "len": 26,
+  "text": "Cort: It's out of control!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 35,
+  "off": 3053,
+  "len": 22,
+  "text": "We used too much Mist.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 36,
+  "off": 3077,
+  "len": 25,
+  "text": "Turn it off now! Quickly!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 37,
+  "off": 3266,
+  "len": 28,
+  "text": "Jette: I can't, Prince Cort!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 38,
+  "off": 3296,
+  "len": 28,
+  "text": "The emergency shutoff switch",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 39,
+  "off": 3326,
+  "len": 14,
+  "text": "isn't working.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 40,
+  "off": 3432,
+  "len": 31,
+  "text": "Jette: If we don't do something",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 41,
+  "off": 3465,
+  "len": 14,
+  "text": "it'll explode!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 42,
+  "off": 3984,
+  "len": 7,
+  "text": ".<18>.<19>LI-",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 43,
+  "off": 5518,
+  "len": 30,
+  "text": "{NAME:02}: I knew something like this",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 44,
+  "off": 5550,
+  "len": 13,
+  "text": "would happen.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 45,
+  "off": 5608,
+  "len": 23,
+  "text": "{NAME:02}: The Mist just can't",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 46,
+  "off": 5633,
+  "len": 24,
+  "text": "be controlled by humans!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 47,
+  "off": 5795,
+  "len": 21,
+  "text": "{NAME:01}: Listen, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 48,
+  "off": 5818,
+  "len": 28,
+  "text": "To the underground. Quickly!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 49,
+  "off": 5849,
+  "len": 30,
+  "text": "{NAME:01}: We must turn off the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 50,
+  "off": 5881,
+  "len": 26,
+  "text": "Let's go to the laboratory",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 51,
+  "off": 5909,
+  "len": 22,
+  "text": "and turn off the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 52,
+  "off": 6051,
+  "len": 21,
+  "text": "{NAME:02}: You're right, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 53,
+  "off": 6074,
+  "len": 29,
+  "text": "We can't desert the people of",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 90,
+  "run": 54,
+  "off": 6105,
+  "len": 18,
+  "text": "Conkram like this!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 92,
+  "run": 0,
+  "off": 96,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 92,
+  "run": 1,
+  "off": 123,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 92,
+  "run": 2,
+  "off": 219,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 92,
+  "run": 3,
+  "off": 246,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 92,
+  "run": 4,
+  "off": 372,
+  "len": 11,
+  "text": "Ggrr! Ggrr!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 93,
+  "run": 0,
+  "off": 151,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 93,
+  "run": 1,
+  "off": 178,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 93,
+  "run": 2,
+  "off": 365,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 93,
+  "run": 3,
+  "off": 392,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 93,
+  "run": 4,
+  "off": 594,
+  "len": 11,
+  "text": "Ggrr! Ggrr!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 94,
+  "run": 0,
+  "off": 151,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 94,
+  "run": 1,
+  "off": 178,
+  "len": 14,
+  "text": "late at night!",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 94,
+  "run": 2,
+  "off": 365,
+  "len": 25,
+  "text": "It is forbidden to go out",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 94,
+  "run": 3,
+  "off": 392,
+  "len": 19,
+  "text": "when we are at war.",
+  "ko": ""
+ },
+ {
+  "map": 736,
+  "script": 94,
+  "run": 4,
+  "off": 594,
+  "len": 11,
+  "text": "Ggrr! Ggrr!",
+  "ko": ""
+ }
+]

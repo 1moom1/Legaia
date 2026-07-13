@@ -1,0 +1,542 @@
+[
+ {
+  "map": 275,
+  "script": 4,
+  "run": 0,
+  "off": 56,
+  "len": 28,
+  "text": "e'e(e)e*e+e,e-e.!!!/<19><CD><F8>jHxPt",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 0,
+  "off": 46,
+  "len": 31,
+  "text": "<Stone pillar begins vibrating>",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 1,
+  "off": 88,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 2,
+  "off": 117,
+  "len": 15,
+  "text": "Xain plays dumb",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 3,
+  "off": 143,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 4,
+  "off": 172,
+  "len": 17,
+  "text": "Xain is irritated",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 5,
+  "off": 200,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 6,
+  "off": 229,
+  "len": 11,
+  "text": "Stupid Xain",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 7,
+  "off": 251,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 8,
+  "off": 280,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 9,
+  "off": 330,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 10,
+  "off": 364,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 11,
+  "off": 370,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 12,
+  "off": 381,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 7,
+  "run": 13,
+  "off": 392,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 9,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:86}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 9,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 9,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 9,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:86}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 9,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 10,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 10,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 10,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 10,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 10,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 11,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8D}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 11,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 11,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 11,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8D}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 11,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 12,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 12,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 12,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 12,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 12,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 13,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 13,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 13,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 13,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 13,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 14,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:20}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 14,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 14,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 14,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:20}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 14,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 15,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 15,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 15,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 15,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 15,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 0,
+  "off": 282,
+  "len": 25,
+  "text": "Look at the stone pillar!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 1,
+  "off": 309,
+  "len": 12,
+  "text": "It's moving!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 2,
+  "off": 858,
+  "len": 20,
+  "text": "{NAME:02}: This is bad, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 3,
+  "off": 880,
+  "len": 29,
+  "text": "That pillar is holding up the",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 4,
+  "off": 911,
+  "len": 14,
+  "text": "town of Octam!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 5,
+  "off": 1465,
+  "len": 23,
+  "text": "{NAME:01}: No! I don't want to",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 6,
+  "off": 1490,
+  "len": 32,
+  "text": "see anything sad happen anymore!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 7,
+  "off": 1601,
+  "len": 15,
+  "text": "{NAME:02}: {NAME:01}'s right!",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 8,
+  "off": 1618,
+  "len": 29,
+  "text": "Let's hurry down there! If we",
+  "ko": ""
+ },
+ {
+  "map": 275,
+  "script": 50,
+  "run": 9,
+  "off": 1649,
+  "len": 32,
+  "text": "hurry, it might not be too late!",
+  "ko": ""
+ }
+]

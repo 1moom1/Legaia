@@ -1,0 +1,344 @@
+[
+ {
+  "map": 80,
+  "script": 10,
+  "run": 0,
+  "off": 34,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.qB<09>",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 11,
+  "run": 0,
+  "off": 52,
+  "len": 13,
+  "text": "There is a {ITEM:92}",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 11,
+  "run": 1,
+  "off": 67,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 11,
+  "run": 2,
+  "off": 97,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 11,
+  "run": 3,
+  "off": 109,
+  "len": 7,
+  "text": "the {ITEM:92}!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 11,
+  "run": 4,
+  "off": 131,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 12,
+  "run": 0,
+  "off": 52,
+  "len": 13,
+  "text": "There is a {ITEM:92}",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 12,
+  "run": 1,
+  "off": 67,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 12,
+  "run": 2,
+  "off": 97,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 12,
+  "run": 3,
+  "off": 109,
+  "len": 7,
+  "text": "the {ITEM:92}!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 12,
+  "run": 4,
+  "off": 131,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 0,
+  "off": 56,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 1,
+  "off": 77,
+  "len": 18,
+  "text": "Get Water Gate key",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 2,
+  "off": 106,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 3,
+  "off": 114,
+  "len": 21,
+  "text": "Get Water Gate key ON",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 4,
+  "off": 137,
+  "len": 22,
+  "text": "Get Water Gate key OFF",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 5,
+  "off": 161,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 6,
+  "off": 180,
+  "len": 37,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 7,
+  "off": 219,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 8,
+  "off": 256,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 9,
+  "off": 264,
+  "len": 40,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection ON",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 10,
+  "off": 306,
+  "len": 41,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection OFF",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 11,
+  "off": 349,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 13,
+  "run": 12,
+  "off": 368,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 0,
+  "off": 45,
+  "len": 30,
+  "text": "Written on the machine are the",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 1,
+  "off": 77,
+  "len": 16,
+  "text": "following words:",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 2,
+  "off": 96,
+  "len": 21,
+  "text": "Water Gate Controller",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 3,
+  "off": 119,
+  "len": 28,
+  "text": "Insert Water Key to operate.",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 4,
+  "off": 150,
+  "len": 25,
+  "text": "There is a small hole for",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 5,
+  "off": 177,
+  "len": 16,
+  "text": "inserting a key.",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 6,
+  "off": 198,
+  "len": 34,
+  "text": "This is the Water Gate Controller.",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 7,
+  "off": 234,
+  "len": 29,
+  "text": "Do you wish to insert the key",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 8,
+  "off": 265,
+  "len": 23,
+  "text": "and operate the device?",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 9,
+  "off": 413,
+  "len": 18,
+  "text": "{NAME} did not use the",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 10,
+  "off": 433,
+  "len": 10,
+  "text": "Water Key!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 14,
+  "run": 11,
+  "off": 456,
+  "len": 22,
+  "text": "{NAME} used the Water Key!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 15,
+  "run": 0,
+  "off": 24,
+  "len": 33,
+  "text": "The Water Gate is already closed!",
+  "ko": ""
+ },
+ {
+  "map": 80,
+  "script": 16,
+  "run": 0,
+  "off": 26,
+  "len": 33,
+  "text": "The Water Gate is already closed!",
+  "ko": ""
+ }
+]

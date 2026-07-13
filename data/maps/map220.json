@@ -1,0 +1,1451 @@
+[
+ {
+  "map": 220,
+  "script": 17,
+  "run": 0,
+  "off": 49,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.t<F7><05>",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 17,
+  "run": 1,
+  "off": 76,
+  "len": 10,
+  "text": "d<F7>D4!!!!&<03>",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 26,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8E}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 26,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 26,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 26,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8E}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 26,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 26,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 27,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 27,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 27,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 27,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 27,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 27,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 28,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8B}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 28,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 28,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 28,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8B}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 28,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 29,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 29,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 29,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 29,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 29,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 29,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 30,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 30,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 30,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 30,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 30,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 30,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 31,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7B}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 31,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 31,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 31,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7B}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 31,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 31,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 32,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:82}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 32,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 32,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 32,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:82}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 32,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 32,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 33,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:EC}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 33,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 33,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 33,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:EC}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 33,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 33,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 34,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:81}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 34,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 34,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 34,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 34,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 34,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 35,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:79}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 35,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 35,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 35,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:79}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 35,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 36,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 36,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 36,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 36,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 36,
+  "run": 4,
+  "off": 129,
+  "len": 18,
+  "text": "The treasure chest",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 36,
+  "run": 5,
+  "off": 149,
+  "len": 9,
+  "text": "is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 37,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8C}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 37,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 37,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 37,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8C}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 37,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 38,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:83}",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 38,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 38,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 38,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:83}!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 38,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 0,
+  "off": 119,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: {NAME}! This is the Mist",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 1,
+  "off": 149,
+  "len": 31,
+  "text": "Generator that creates the Mist",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 2,
+  "off": 182,
+  "len": 29,
+  "text": "covering the Sebucus Islands!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 3,
+  "off": 214,
+  "len": 35,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We can destroy this machine",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 4,
+  "off": 251,
+  "len": 23,
+  "text": "by combining our power!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 5,
+  "off": 358,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: But be careful, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 48,
+  "run": 6,
+  "off": 393,
+  "len": 29,
+  "text": "I sense the presence of evil!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 0,
+  "off": 26,
+  "len": 34,
+  "text": "Dohati: What a fool, that Saryu of",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 1,
+  "off": 62,
+  "len": 30,
+  "text": "Ratayu. I give him a Sim-Seru,",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 2,
+  "off": 94,
+  "len": 25,
+  "text": "and look at what he does.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 3,
+  "off": 122,
+  "len": 18,
+  "text": "Dohati: How naive!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 4,
+  "off": 142,
+  "len": 31,
+  "text": "To enlist the powers of Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 5,
+  "off": 175,
+  "len": 25,
+  "text": "in creating Juggernaut...",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 6,
+  "off": 203,
+  "len": 33,
+  "text": "Dohati: No doubt that is the best",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 7,
+  "off": 238,
+  "len": 31,
+  "text": "he can do with that second-rate",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 8,
+  "off": 271,
+  "len": 9,
+  "text": "Sim-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 9,
+  "off": 683,
+  "len": 20,
+  "text": "Dohati: I am Dohati,",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 10,
+  "off": 705,
+  "len": 24,
+  "text": "faithful servant of Cort",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 11,
+  "off": 731,
+  "len": 26,
+  "text": "and true ruler of Sebucus!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 12,
+  "off": 760,
+  "len": 27,
+  "text": "Dohati: It is I who created",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 13,
+  "off": 789,
+  "len": 30,
+  "text": "Juggernaut and ordered Xain to",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 14,
+  "off": 821,
+  "len": 26,
+  "text": "kill that meddlesome Hari.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 15,
+  "off": 850,
+  "len": 28,
+  "text": "Dohati: I, with the superior",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 16,
+  "off": 880,
+  "len": 24,
+  "text": "Sim-Seru I received from",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 17,
+  "off": 906,
+  "len": 12,
+  "text": "Prince Cort!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 18,
+  "off": 948,
+  "len": 28,
+  "text": "Dohati: Fools! You shall all",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 19,
+  "off": 978,
+  "len": 27,
+  "text": "feel the power of my wrath!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 20,
+  "off": 1008,
+  "len": 34,
+  "text": "Dohati: Now I shall show you which",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 21,
+  "off": 1044,
+  "len": 28,
+  "text": "is stronger, your Ra-Seru or",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 49,
+  "run": 22,
+  "off": 1074,
+  "len": 12,
+  "text": "my Sim-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 0,
+  "off": 119,
+  "len": 30,
+  "text": "Dohati: How could my Sim-Seru,",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 1,
+  "off": 151,
+  "len": 30,
+  "text": "infused with the wisdom of the",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 2,
+  "off": 183,
+  "len": 31,
+  "text": "Mist, be defeated by a Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 3,
+  "off": 376,
+  "len": 29,
+  "text": "Dohati: However, my creation,",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 4,
+  "off": 407,
+  "len": 28,
+  "text": "Juggernaut, has already been",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 5,
+  "off": 437,
+  "len": 9,
+  "text": "set free.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 6,
+  "off": 472,
+  "len": 16,
+  "text": "Dohati: Rim Elm.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 7,
+  "off": 490,
+  "len": 19,
+  "text": "That wretched cave.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 8,
+  "off": 511,
+  "len": 20,
+  "text": "The Biron Monastery.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 9,
+  "off": 534,
+  "len": 32,
+  "text": "Dohati: All those foolish humans",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 10,
+  "off": 568,
+  "len": 27,
+  "text": "who think they have escaped",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 11,
+  "off": 597,
+  "len": 9,
+  "text": "the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 12,
+  "off": 609,
+  "len": 32,
+  "text": "Dohati: Juggernaut has unleashed",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 13,
+  "off": 643,
+  "len": 23,
+  "text": "the hand of destruction",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 14,
+  "off": 668,
+  "len": 12,
+  "text": "on them all!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 15,
+  "off": 712,
+  "len": 32,
+  "text": "Dohati: And Juggernaut continues",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 16,
+  "off": 746,
+  "len": 28,
+  "text": "to grow under the protection",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 17,
+  "off": 776,
+  "len": 22,
+  "text": "of mighty Prince Cort.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 18,
+  "off": 801,
+  "len": 25,
+  "text": "Dohati: Though I may die,",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 19,
+  "off": 828,
+  "len": 21,
+  "text": "Juggernaut will live.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 20,
+  "off": 1345,
+  "len": 28,
+  "text": "{NAME:02}! Are you ready to destroy",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 21,
+  "off": 1375,
+  "len": 19,
+  "text": "the Mist Generator?",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 22,
+  "off": 1520,
+  "len": 36,
+  "text": "{PAL:9}{M7}{PAL:7}: It's time to rid the Sebucus",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 23,
+  "off": 1558,
+  "len": 37,
+  "text": "Islands of the Mist that envelops it!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 24,
+  "off": 1597,
+  "len": 14,
+  "text": "Are you ready?",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 25,
+  "off": 1737,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: Listen, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 26,
+  "off": 1764,
+  "len": 22,
+  "text": "We must work together!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 51,
+  "run": 27,
+  "off": 1788,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 0,
+  "off": 1538,
+  "len": 9,
+  "text": "{NAME:02}: Ozma!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 1,
+  "off": 1549,
+  "len": 28,
+  "text": "That thing that disappeared,",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 2,
+  "off": 1579,
+  "len": 22,
+  "text": "wasn't that a Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 3,
+  "off": 1811,
+  "len": 29,
+  "text": "{NAME:01}: Terra, something's wrong!",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 4,
+  "off": 2047,
+  "len": 26,
+  "text": "{NAME:01}: You were talking to it",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 5,
+  "off": 2075,
+  "len": 33,
+  "text": "in a language I don't understand.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 6,
+  "off": 2192,
+  "len": 31,
+  "text": "This is something I still can't",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 7,
+  "off": 2225,
+  "len": 15,
+  "text": "tell you about.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 8,
+  "off": 2354,
+  "len": 31,
+  "text": "someday I'll tell you who I was",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 9,
+  "off": 2387,
+  "len": 11,
+  "text": "talking to.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 10,
+  "off": 2497,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: So please don't ask us",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 11,
+  "off": 2529,
+  "len": 16,
+  "text": "to tell you now.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 12,
+  "off": 2645,
+  "len": 12,
+  "text": "{NAME:01}: (Crying)",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 13,
+  "off": 2690,
+  "len": 22,
+  "text": "{NAME:02}: {NAME:01}, there's no use",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 14,
+  "off": 2714,
+  "len": 31,
+  "text": "crying about it. All you can do",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 15,
+  "off": 2747,
+  "len": 27,
+  "text": "is believe in that promise.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 16,
+  "off": 2928,
+  "len": 27,
+  "text": "{NAME:02}: Well, at least the Mist",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 17,
+  "off": 2957,
+  "len": 29,
+  "text": "is gone from Vidna and Octam.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 18,
+  "off": 3135,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: That's right! By the time",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 19,
+  "off": 3170,
+  "len": 32,
+  "text": "we reach the outside, both towns",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 20,
+  "off": 3204,
+  "len": 25,
+  "text": "should be back to normal.",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 21,
+  "off": 3238,
+  "len": 29,
+  "text": "{NAME:02}: So, the Mist is gone from",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 22,
+  "off": 3269,
+  "len": 21,
+  "text": "Octam and the rest of",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 23,
+  "off": 3292,
+  "len": 27,
+  "text": "the Sebucus Islands, right?",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 24,
+  "off": 3468,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: That's right! By the time",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 25,
+  "off": 3503,
+  "len": 32,
+  "text": "we reach the outside, both towns",
+  "ko": ""
+ },
+ {
+  "map": 220,
+  "script": 52,
+  "run": 26,
+  "off": 3537,
+  "len": 25,
+  "text": "should be back to normal.",
+  "ko": ""
+ }
+]

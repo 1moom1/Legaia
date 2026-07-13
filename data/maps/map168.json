@@ -1,0 +1,7688 @@
+[
+ {
+  "map": 168,
+  "script": 4,
+  "run": 0,
+  "off": 16,
+  "len": 30,
+  "text": "Welcome to Jeremi, Land of the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 4,
+  "run": 1,
+  "off": 48,
+  "len": 20,
+  "text": "Amazing Sky Gardens!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 4,
+  "run": 2,
+  "off": 70,
+  "len": 20,
+  "text": "Jeremi Tourism Board",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 5,
+  "run": 0,
+  "off": 16,
+  "len": 18,
+  "text": "North: Sky Gardens",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 5,
+  "run": 1,
+  "off": 36,
+  "len": 19,
+  "text": "East: General Store",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 5,
+  "run": 2,
+  "off": 57,
+  "len": 31,
+  "text": "Northwest: Jeremi Tourist Hotel",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 0,
+  "off": 13,
+  "len": 34,
+  "text": "There is a letter in the cupboard.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 1,
+  "off": 49,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 2,
+  "off": 200,
+  "len": 13,
+  "text": "{NAME} opened the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 3,
+  "off": 215,
+  "len": 29,
+  "text": "envelope and read the letter.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 4,
+  "off": 261,
+  "len": 12,
+  "text": "Dear Father,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 5,
+  "off": 275,
+  "len": 22,
+  "text": "The town of Vidna is a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 6,
+  "off": 299,
+  "len": 16,
+  "text": "wonderful place.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 7,
+  "off": 318,
+  "len": 26,
+  "text": "There are flying trains, a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 8,
+  "off": 346,
+  "len": 23,
+  "text": "large hot spring, and a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 9,
+  "off": 371,
+  "len": 20,
+  "text": "beautiful sea coast.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 10,
+  "off": 394,
+  "len": 27,
+  "text": "Please come here as soon as",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 11,
+  "off": 423,
+  "len": 18,
+  "text": "your work is done.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 12,
+  "off": 443,
+  "len": 10,
+  "text": "Love, Pepe",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 6,
+  "run": 13,
+  "off": 479,
+  "len": 23,
+  "text": "{NAME} put the letter back.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 0,
+  "off": 17,
+  "len": 29,
+  "text": "There is a pamphlet entitled,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 1,
+  "off": 48,
+  "len": 29,
+  "text": "\"Welcome to the Sky Gardens.\"",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 2,
+  "off": 79,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 3,
+  "off": 241,
+  "len": 34,
+  "text": "Called one of the world's wonders,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 4,
+  "off": 277,
+  "len": 28,
+  "text": "the Sky Gardens was built by",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 5,
+  "off": 307,
+  "len": 32,
+  "text": "Sir Danisaru some 450 years ago.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 6,
+  "off": 342,
+  "len": 31,
+  "text": "Before construction, during the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 7,
+  "off": 375,
+  "len": 29,
+  "text": "First Seru Dynasty, a Genesis",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 8,
+  "off": 406,
+  "len": 28,
+  "text": "Tree flowered in the center.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 9,
+  "off": 437,
+  "len": 35,
+  "text": "Sadly, however, the many subsequent",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 10,
+  "off": 474,
+  "len": 31,
+  "text": "wars caused the Genesis Tree to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 11,
+  "off": 507,
+  "len": 7,
+  "text": "wither.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 12,
+  "off": 517,
+  "len": 34,
+  "text": "Though withered, the Genesis Tree,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 13,
+  "off": 553,
+  "len": 34,
+  "text": "still beautiful, has been loved as",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 14,
+  "off": 589,
+  "len": 28,
+  "text": "a symbol of the Sky Gardens.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 7,
+  "run": 15,
+  "off": 643,
+  "len": 23,
+  "text": "{NAME} closed the pamphlet.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 8,
+  "run": 0,
+  "off": 17,
+  "len": 18,
+  "text": "See the Beautiful,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 8,
+  "run": 1,
+  "off": 37,
+  "len": 17,
+  "text": "Fragrant Flowers!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 8,
+  "run": 2,
+  "off": 56,
+  "len": 18,
+  "text": "Jeremi Sky Gardens",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 9,
+  "run": 0,
+  "off": 17,
+  "len": 27,
+  "text": "The Garden Above the Clouds",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 9,
+  "run": 1,
+  "off": 46,
+  "len": 18,
+  "text": "Jeremi Sky Gardens",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 10,
+  "run": 0,
+  "off": 17,
+  "len": 30,
+  "text": "Featuring High-Speed Elevators",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 10,
+  "run": 1,
+  "off": 49,
+  "len": 18,
+  "text": "Jeremi Sky Gardens",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 11,
+  "run": 0,
+  "off": 17,
+  "len": 34,
+  "text": "Come to the Genesis Tree Festival!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 11,
+  "run": 1,
+  "off": 53,
+  "len": 18,
+  "text": "Jeremi Sky Gardens",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 18,
+  "run": 0,
+  "off": 46,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.q <08>",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 1,
+  "off": 42,
+  "len": 15,
+  "text": "Get Yuma's Ring",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 2,
+  "off": 59,
+  "len": 24,
+  "text": "Zalan and Pepe Reunited!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 3,
+  "off": 85,
+  "len": 20,
+  "text": "A Passionate Welcome",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 4,
+  "off": 107,
+  "len": 4,
+  "text": "Next",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 5,
+  "off": 126,
+  "len": 18,
+  "text": "Have you met Cara?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 6,
+  "off": 158,
+  "len": 7,
+  "text": "Not yet",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 7,
+  "off": 167,
+  "len": 24,
+  "text": "Yes (have Zalan's crown)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 8,
+  "off": 240,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 9,
+  "off": 255,
+  "len": 13,
+  "text": "Set all flags",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 10,
+  "off": 270,
+  "len": 5,
+  "text": "Clear",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 11,
+  "off": 277,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 19,
+  "run": 12,
+  "off": 283,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 22,
+  "run": 0,
+  "off": 43,
+  "len": 7,
+  "text": "Gggrrr!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 22,
+  "run": 1,
+  "off": 53,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 22,
+  "run": 2,
+  "off": 83,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 23,
+  "run": 0,
+  "off": 43,
+  "len": 8,
+  "text": "Growl...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 23,
+  "run": 1,
+  "off": 54,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 23,
+  "run": 2,
+  "off": 84,
+  "len": 27,
+  "text": "It looks like it's in pain.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 24,
+  "run": 0,
+  "off": 43,
+  "len": 24,
+  "text": "Blurg mah-harg eebrum...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 24,
+  "run": 1,
+  "off": 70,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 24,
+  "run": 2,
+  "off": 100,
+  "len": 29,
+  "text": "It's babbling unintelligibly.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 25,
+  "run": 0,
+  "off": 43,
+  "len": 8,
+  "text": "Growl...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 25,
+  "run": 1,
+  "off": 54,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 25,
+  "run": 2,
+  "off": 84,
+  "len": 27,
+  "text": "It looks like it's in pain.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 26,
+  "run": 0,
+  "off": 43,
+  "len": 8,
+  "text": "Growl...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 26,
+  "run": 1,
+  "off": 54,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 26,
+  "run": 2,
+  "off": 84,
+  "len": 27,
+  "text": "It looks like it's in pain.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 27,
+  "run": 0,
+  "off": 43,
+  "len": 24,
+  "text": "Blurg mah-harg eebrum...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 27,
+  "run": 1,
+  "off": 70,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 27,
+  "run": 2,
+  "off": 100,
+  "len": 28,
+  "text": "It's babbling unintelligibly",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 28,
+  "run": 0,
+  "off": 34,
+  "len": 13,
+  "text": "Yeah! Hooray!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 28,
+  "run": 1,
+  "off": 49,
+  "len": 29,
+  "text": "Hooray for the brave Ra-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 0,
+  "off": 34,
+  "len": 16,
+  "text": "Have you been to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 1,
+  "off": 52,
+  "len": 20,
+  "text": "Vidna, to the north?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 2,
+  "off": 203,
+  "len": 30,
+  "text": "It's a beautiful place, famous",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 3,
+  "off": 235,
+  "len": 20,
+  "text": "for its hot springs.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 4,
+  "off": 258,
+  "len": 29,
+  "text": "When the Mist disappears from",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 5,
+  "off": 289,
+  "len": 29,
+  "text": "this area, I want to go there",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 6,
+  "off": 320,
+  "len": 7,
+  "text": "myself!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 7,
+  "off": 332,
+  "len": 31,
+  "text": "I've heard it's the best resort",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 8,
+  "off": 365,
+  "len": 32,
+  "text": "area in the world! I really want",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 9,
+  "off": 399,
+  "len": 21,
+  "text": "to go there some day.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 10,
+  "off": 425,
+  "len": 21,
+  "text": "Do you know about the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 11,
+  "off": 448,
+  "len": 23,
+  "text": "flying trains of Octam?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 12,
+  "off": 596,
+  "len": 28,
+  "text": "Now that the Mist is gone, I",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 13,
+  "off": 626,
+  "len": 29,
+  "text": "bet they're back in operation",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 14,
+  "off": 657,
+  "len": 9,
+  "text": "in Octam.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 15,
+  "off": 671,
+  "len": 26,
+  "text": "The flying trains use Seru",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 16,
+  "off": 699,
+  "len": 20,
+  "text": "to ferry passengers.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 17,
+  "off": 722,
+  "len": 30,
+  "text": "Everyone uses them to get from",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 18,
+  "off": 754,
+  "len": 31,
+  "text": "Octam to the Karisto Kingdom in",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 29,
+  "run": 19,
+  "off": 787,
+  "len": 9,
+  "text": "the east.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 30,
+  "run": 0,
+  "off": 30,
+  "len": 31,
+  "text": "Being possessed by the Seru was",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 30,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "like a long nightmare.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 30,
+  "run": 2,
+  "off": 87,
+  "len": 30,
+  "text": "Thank you so much, all of you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 0,
+  "off": 40,
+  "len": 31,
+  "text": "Here on the Sebucus Islands, in",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 1,
+  "off": 73,
+  "len": 28,
+  "text": "addition to the Sky Gardens,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 2,
+  "off": 103,
+  "len": 28,
+  "text": "there's also a Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 3,
+  "off": 134,
+  "len": 26,
+  "text": "I think it's on a mountain",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 4,
+  "off": 162,
+  "len": 17,
+  "text": "far to the north.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 5,
+  "off": 184,
+  "len": 29,
+  "text": "Oh, so the Genesis Tree is at",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 6,
+  "off": 215,
+  "len": 11,
+  "text": "Mt. Letona.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 7,
+  "off": 231,
+  "len": 27,
+  "text": "I'd like to get on a flying",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 31,
+  "run": 8,
+  "off": 260,
+  "len": 28,
+  "text": "train and do some traveling.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 32,
+  "run": 0,
+  "off": 40,
+  "len": 31,
+  "text": "The Mist came on the day before",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 32,
+  "run": 1,
+  "off": 73,
+  "len": 27,
+  "text": "our wedding! Who could have",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 32,
+  "run": 2,
+  "off": 102,
+  "len": 30,
+  "text": "imagined anything like this...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 32,
+  "run": 3,
+  "off": 167,
+  "len": 25,
+  "text": "But now I'm just so happy",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 32,
+  "run": 4,
+  "off": 194,
+  "len": 16,
+  "text": "that she's safe.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 33,
+  "run": 0,
+  "off": 54,
+  "len": 31,
+  "text": "Once things settle down, I want",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 33,
+  "run": 1,
+  "off": 87,
+  "len": 28,
+  "text": "us to have a proper wedding.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 33,
+  "run": 2,
+  "off": 122,
+  "len": 29,
+  "text": "I hope that you brave Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 33,
+  "run": 3,
+  "off": 153,
+  "len": 23,
+  "text": "can make that possible!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 34,
+  "run": 0,
+  "off": 30,
+  "len": 27,
+  "text": "We survived somehow, but...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 34,
+  "run": 1,
+  "off": 60,
+  "len": 30,
+  "text": "Some people disappeared during",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 34,
+  "run": 2,
+  "off": 92,
+  "len": 24,
+  "text": "the ten years we were in",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 34,
+  "run": 3,
+  "off": 118,
+  "len": 9,
+  "text": "the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 34,
+  "run": 4,
+  "off": 130,
+  "len": 32,
+  "text": "They must have been killed while",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 34,
+  "run": 5,
+  "off": 164,
+  "len": 22,
+  "text": "possessed by the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 0,
+  "off": 36,
+  "len": 30,
+  "text": "If Hari were here in Jeremi...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 1,
+  "off": 69,
+  "len": 20,
+  "text": "Hey, you do know who",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 2,
+  "off": 91,
+  "len": 15,
+  "text": "Hari is, right?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 3,
+  "off": 232,
+  "len": 31,
+  "text": "Maybe we could have escaped the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 4,
+  "off": 265,
+  "len": 32,
+  "text": "Mist, if Hari had prophesied our",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 5,
+  "off": 299,
+  "len": 7,
+  "text": "future.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 6,
+  "off": 311,
+  "len": 33,
+  "text": "Hari is a living legend! He lives",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 7,
+  "off": 346,
+  "len": 35,
+  "text": "in the world of dreams and tells of",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 8,
+  "off": 383,
+  "len": 30,
+  "text": "the past, present, and future.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 9,
+  "off": 418,
+  "len": 24,
+  "text": "We heard from a traveler",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 35,
+  "run": 10,
+  "off": 444,
+  "len": 15,
+  "text": "that Hari died.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 0,
+  "off": 37,
+  "len": 19,
+  "text": "Did you meet Zalan?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 1,
+  "off": 181,
+  "len": 29,
+  "text": "Zalan must be beside himself.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 2,
+  "off": 215,
+  "len": 32,
+  "text": "Zalan is a jeweler in this town.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 3,
+  "off": 249,
+  "len": 35,
+  "text": "He's been through a lot. You should",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 4,
+  "off": 286,
+  "len": 27,
+  "text": "go and try to cheer him up.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 5,
+  "off": 318,
+  "len": 31,
+  "text": "Zalan must be so happy now that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 6,
+  "off": 351,
+  "len": 27,
+  "text": "his son has come home. It's",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 36,
+  "run": 7,
+  "off": 380,
+  "len": 10,
+  "text": "a miracle!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 37,
+  "run": 0,
+  "off": 49,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 37,
+  "run": 1,
+  "off": 61,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 37,
+  "run": 2,
+  "off": 91,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 38,
+  "run": 0,
+  "off": 49,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 38,
+  "run": 1,
+  "off": 61,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 38,
+  "run": 2,
+  "off": 91,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 0,
+  "off": 26,
+  "len": 24,
+  "text": "Mayor: Well, well. Thank",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 1,
+  "off": 52,
+  "len": 28,
+  "text": "you so much for stopping by.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 2,
+  "off": 83,
+  "len": 30,
+  "text": "Mayor: Now I'm sure my limited",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 3,
+  "off": 115,
+  "len": 31,
+  "text": "knowledge is probably of no use",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 4,
+  "off": 148,
+  "len": 27,
+  "text": "to someone like you, but...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 5,
+  "off": 178,
+  "len": 26,
+  "text": "Mayor: If you need to know",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 6,
+  "off": 206,
+  "len": 29,
+  "text": "something, then just look for",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 7,
+  "off": 237,
+  "len": 5,
+  "text": "Hari.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 8,
+  "off": 245,
+  "len": 26,
+  "text": "Mayor: They say Hari knows",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 9,
+  "off": 273,
+  "len": 22,
+  "text": "just about everything.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 10,
+  "off": 300,
+  "len": 28,
+  "text": "Mayor: Thank you so much for",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 11,
+  "off": 330,
+  "len": 27,
+  "text": "what you did. You saved the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 39,
+  "run": 12,
+  "off": 359,
+  "len": 16,
+  "text": "Sebucus Islands!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 0,
+  "off": 30,
+  "len": 35,
+  "text": "The outside world is still engulfed",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 1,
+  "off": 67,
+  "len": 25,
+  "text": "by the Mist, and the Seru",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 2,
+  "off": 94,
+  "len": 27,
+  "text": "are still out there, right?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 3,
+  "off": 246,
+  "len": 5,
+  "text": "Oh...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 4,
+  "off": 253,
+  "len": 24,
+  "text": "Can't something be done?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 5,
+  "off": 282,
+  "len": 21,
+  "text": "Y-You must be joking.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 6,
+  "off": 305,
+  "len": 19,
+  "text": "That's a mean joke.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 7,
+  "off": 326,
+  "len": 22,
+  "text": "But you won't fool me!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 8,
+  "off": 353,
+  "len": 33,
+  "text": "The Mist is gone from the Sebucus",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 9,
+  "off": 388,
+  "len": 33,
+  "text": "Islands, right? That's wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 40,
+  "run": 10,
+  "off": 423,
+  "len": 15,
+  "text": "Just marvelous!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 0,
+  "off": 44,
+  "len": 19,
+  "text": "Innkeeper: Welcome,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "brave Ra-Seru wearers.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 2,
+  "off": 89,
+  "len": 31,
+  "text": "Do you wish to spend the night?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 3,
+  "off": 246,
+  "len": 32,
+  "text": "Innkeeper: Oh, I can't take your",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 4,
+  "off": 280,
+  "len": 31,
+  "text": "money! Please, enjoy your stay!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 5,
+  "off": 554,
+  "len": 30,
+  "text": "Innkeeper: Oh, that's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 6,
+  "off": 586,
+  "len": 30,
+  "text": "But come back anytime you feel",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 41,
+  "run": 7,
+  "off": 618,
+  "len": 6,
+  "text": "tired.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 42,
+  "run": 0,
+  "off": 51,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 42,
+  "run": 1,
+  "off": 63,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 42,
+  "run": 2,
+  "off": 93,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 0,
+  "off": 41,
+  "len": 35,
+  "text": "I had the strangest dream. I dreamt",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 1,
+  "off": 78,
+  "len": 33,
+  "text": "that Piura and Gimard proposed to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 2,
+  "off": 113,
+  "len": 35,
+  "text": "me, and I couldn't make up my mind.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 3,
+  "off": 151,
+  "len": 33,
+  "text": "Oh, if I could see Hari, he would",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 4,
+  "off": 186,
+  "len": 30,
+  "text": "tell me what that dream means.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 5,
+  "off": 221,
+  "len": 34,
+  "text": "Speaking of which, Zalan, who's in",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 6,
+  "off": 257,
+  "len": 35,
+  "text": "the southwest part of town, said he",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 7,
+  "off": 294,
+  "len": 30,
+  "text": "had a favor to ask you heroes.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 8,
+  "off": 329,
+  "len": 34,
+  "text": "So I'll never be able to see Hari.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 9,
+  "off": 365,
+  "len": 33,
+  "text": "Now I'll never find out what that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 43,
+  "run": 10,
+  "off": 400,
+  "len": 12,
+  "text": "dream meant.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 44,
+  "run": 0,
+  "off": 51,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 44,
+  "run": 1,
+  "off": 63,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 44,
+  "run": 2,
+  "off": 93,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 45,
+  "run": 0,
+  "off": 38,
+  "len": 31,
+  "text": "Welcome, brave Ra-Seru wearers!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 45,
+  "run": 1,
+  "off": 71,
+  "len": 23,
+  "text": "What can I get for you?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 45,
+  "run": 2,
+  "off": 124,
+  "len": 32,
+  "text": "I'm so sorry. I know you are all",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 45,
+  "run": 3,
+  "off": 158,
+  "len": 35,
+  "text": "heroes, but I am running a business",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 45,
+  "run": 4,
+  "off": 195,
+  "len": 7,
+  "text": "here...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 46,
+  "run": 0,
+  "off": 32,
+  "len": 34,
+  "text": "If we went outside, we'd get eaten",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 46,
+  "run": 1,
+  "off": 68,
+  "len": 29,
+  "text": "by those Seru, no matter what",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 46,
+  "run": 2,
+  "off": 99,
+  "len": 23,
+  "text": "kind of weapons we had.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 46,
+  "run": 3,
+  "off": 127,
+  "len": 29,
+  "text": "So the Seru monsters are gone",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 46,
+  "run": 4,
+  "off": 158,
+  "len": 25,
+  "text": "from the Sebucus Islands.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 47,
+  "run": 0,
+  "off": 55,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 47,
+  "run": 1,
+  "off": 67,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 47,
+  "run": 2,
+  "off": 97,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 48,
+  "run": 0,
+  "off": 26,
+  "len": 30,
+  "text": "My husband says that no matter",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 48,
+  "run": 1,
+  "off": 58,
+  "len": 28,
+  "text": "what happens, you can always",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 48,
+  "run": 2,
+  "off": 88,
+  "len": 15,
+  "text": "count on money.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 48,
+  "run": 3,
+  "off": 106,
+  "len": 33,
+  "text": "I know he just wants our business",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 48,
+  "run": 4,
+  "off": 141,
+  "len": 34,
+  "text": "to succeed, but who's going to buy",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 48,
+  "run": 5,
+  "off": 177,
+  "len": 25,
+  "text": "weapons for fighting now?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 49,
+  "run": 0,
+  "off": 24,
+  "len": 7,
+  "text": "Oh, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 49,
+  "run": 1,
+  "off": 34,
+  "len": 28,
+  "text": "When I grow up, I want to be",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 49,
+  "run": 2,
+  "off": 64,
+  "len": 25,
+  "text": "a brave warrior like you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 50,
+  "run": 0,
+  "off": 51,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 50,
+  "run": 1,
+  "off": 63,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 50,
+  "run": 2,
+  "off": 93,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 0,
+  "off": 46,
+  "len": 29,
+  "text": "Zalan: My wife and son are in",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 1,
+  "off": 77,
+  "len": 28,
+  "text": "Vidna. I hope they are safe.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 2,
+  "off": 108,
+  "len": 32,
+  "text": "Zalan: Hopefully they'll get the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 3,
+  "off": 142,
+  "len": 29,
+  "text": "letter I entrusted you heroes",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 4,
+  "off": 173,
+  "len": 5,
+  "text": "with.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 5,
+  "off": 241,
+  "len": 17,
+  "text": "Zalan: Oh, hello!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 6,
+  "off": 260,
+  "len": 26,
+  "text": "I've been waiting for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 7,
+  "off": 289,
+  "len": 27,
+  "text": "Zalan: Did you give my wife",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 8,
+  "off": 318,
+  "len": 27,
+  "text": "and son the letter I asked ",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 9,
+  "off": 347,
+  "len": 15,
+  "text": "you to deliver?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 10,
+  "off": 493,
+  "len": 26,
+  "text": "Zalan: Oh. My wife and son",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 11,
+  "off": 521,
+  "len": 27,
+  "text": "should still be in Vidna...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 12,
+  "off": 557,
+  "len": 29,
+  "text": "Zalan: If there is anything I",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 13,
+  "off": 588,
+  "len": 27,
+  "text": "can do, please let me know.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 14,
+  "off": 634,
+  "len": 30,
+  "text": "Zalan: If you see my son, tell",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 15,
+  "off": 666,
+  "len": 29,
+  "text": "him that I want to see him as",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 16,
+  "off": 697,
+  "len": 27,
+  "text": "soon as the Mist goes away.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 17,
+  "off": 739,
+  "len": 30,
+  "text": "Zalan: I want to make it up to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 18,
+  "off": 771,
+  "len": 33,
+  "text": "Pepe. I want to make up for those",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 19,
+  "off": 806,
+  "len": 17,
+  "text": "lost ten years...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 20,
+  "off": 826,
+  "len": 25,
+  "text": "Zalan: I want to make new",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 21,
+  "off": 853,
+  "len": 21,
+  "text": "memories! But anyway!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 22,
+  "off": 906,
+  "len": 22,
+  "text": "Zalan: I am a jeweler.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 23,
+  "off": 930,
+  "len": 30,
+  "text": "If you have any precious gems,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 51,
+  "run": 24,
+  "off": 962,
+  "len": 29,
+  "text": "I will appraise them for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 0,
+  "off": 38,
+  "len": 27,
+  "text": "Pepe: Father hasn't changed",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 1,
+  "off": 67,
+  "len": 6,
+  "text": "a bit.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 2,
+  "off": 76,
+  "len": 25,
+  "text": "Pepe: If only my deceased",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 3,
+  "off": 103,
+  "len": 28,
+  "text": "mother could have been here.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 4,
+  "off": 133,
+  "len": 33,
+  "text": "Then everything would be perfect.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 5,
+  "off": 169,
+  "len": 15,
+  "text": "Pepe: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 6,
+  "off": 187,
+  "len": 20,
+  "text": "Pepe: I want to be a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 7,
+  "off": 209,
+  "len": 26,
+  "text": "first-rate jeweler like my",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 8,
+  "off": 237,
+  "len": 7,
+  "text": "father.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 9,
+  "off": 247,
+  "len": 27,
+  "text": "Pepe: I'm going to have him",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 52,
+  "run": 10,
+  "off": 276,
+  "len": 20,
+  "text": "teach me everything!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 0,
+  "off": 40,
+  "len": 30,
+  "text": "On that day, the Mist suddenly",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 1,
+  "off": 72,
+  "len": 25,
+  "text": "flowed into town from the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 2,
+  "off": 99,
+  "len": 10,
+  "text": "northwest.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 3,
+  "off": 112,
+  "len": 22,
+  "text": "The origin of the Mist",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 4,
+  "off": 136,
+  "len": 24,
+  "text": "must lie beyond the sea.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 5,
+  "off": 165,
+  "len": 29,
+  "text": "Hari apparently has died, but",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 6,
+  "off": 196,
+  "len": 27,
+  "text": "if you make a pilgrimage to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 7,
+  "off": 225,
+  "len": 8,
+  "text": "Octam...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 8,
+  "off": 236,
+  "len": 16,
+  "text": "I'm sure it will",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 53,
+  "run": 9,
+  "off": 254,
+  "len": 19,
+  "text": "still do some good.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 0,
+  "off": 40,
+  "len": 32,
+  "text": "I hear that you rid all of Drake",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 1,
+  "off": 74,
+  "len": 27,
+  "text": "Kingdom of the Mist. What a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 2,
+  "off": 103,
+  "len": 29,
+  "text": "wonderful deed you have done.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 3,
+  "off": 135,
+  "len": 31,
+  "text": "Please! Drive the Mist from the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 4,
+  "off": 168,
+  "len": 32,
+  "text": "Sebucus Islands in the same way!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 5,
+  "off": 205,
+  "len": 33,
+  "text": "We were all saying that we should",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 6,
+  "off": 240,
+  "len": 32,
+  "text": "make a pilgrimage to Tieg Shrine",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 54,
+  "run": 7,
+  "off": 274,
+  "len": 26,
+  "text": "now that the Mist is gone.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 0,
+  "off": 40,
+  "len": 28,
+  "text": "When, um, I was in the Mist,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 1,
+  "off": 70,
+  "len": 26,
+  "text": "I was so lonely, and I was",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 2,
+  "off": 98,
+  "len": 12,
+  "text": "scared, too!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 3,
+  "off": 113,
+  "len": 35,
+  "text": "But when I woke up, Mommy and Daddy",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 4,
+  "off": 150,
+  "len": 33,
+  "text": "were right there next to me, so I",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 5,
+  "off": 185,
+  "len": 17,
+  "text": "was really happy!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 6,
+  "off": 207,
+  "len": 33,
+  "text": "I wanted to go to the hot springs",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 7,
+  "off": 242,
+  "len": 30,
+  "text": "in Vidna, but they say they're",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 55,
+  "run": 8,
+  "off": 274,
+  "len": 13,
+  "text": "all gone now.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 0,
+  "off": 44,
+  "len": 23,
+  "text": "Ah, the Ra-Seru heroes!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 1,
+  "off": 69,
+  "len": 32,
+  "text": "I'm so glad to finally meet you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 2,
+  "off": 103,
+  "len": 34,
+  "text": "We were just having a celebration!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 3,
+  "off": 140,
+  "len": 33,
+  "text": "Everyone is so happy! This is the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 4,
+  "off": 175,
+  "len": 31,
+  "text": "happiest day of my entire life!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 5,
+  "off": 211,
+  "len": 25,
+  "text": "Is the Mist still outside",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 6,
+  "off": 238,
+  "len": 9,
+  "text": "the town?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 7,
+  "off": 372,
+  "len": 28,
+  "text": "Too bad. If the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 8,
+  "off": 402,
+  "len": 29,
+  "text": "were stronger, maybe it could",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 9,
+  "off": 433,
+  "len": 27,
+  "text": "have cleared a larger area.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 10,
+  "off": 465,
+  "len": 13,
+  "text": "That makes {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 11,
+  "off": 480,
+  "len": 13,
+  "text": "a liar, then.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 12,
+  "off": 498,
+  "len": 8,
+  "text": "Hey, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 13,
+  "off": 508,
+  "len": 29,
+  "text": "are the Sebucus Islands still",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 14,
+  "off": 539,
+  "len": 20,
+  "text": "covered by the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 15,
+  "off": 684,
+  "len": 13,
+  "text": "That makes {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 16,
+  "off": 699,
+  "len": 13,
+  "text": "a liar, then.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 17,
+  "off": 717,
+  "len": 28,
+  "text": "I see. So you destroyed that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 56,
+  "run": 18,
+  "off": 747,
+  "len": 20,
+  "text": "Mist Generator, huh?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 0,
+  "off": 30,
+  "len": 25,
+  "text": "The Mist attacked without",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 1,
+  "off": 57,
+  "len": 26,
+  "text": "warning! We had no time to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 2,
+  "off": 85,
+  "len": 15,
+  "text": "prepare at all!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 3,
+  "off": 103,
+  "len": 28,
+  "text": "That's why that nightmare...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 4,
+  "off": 133,
+  "len": 30,
+  "text": "that catastrophe occurred when",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 5,
+  "off": 165,
+  "len": 14,
+  "text": "the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 6,
+  "off": 182,
+  "len": 31,
+  "text": "But thanks to you, we're saved.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 57,
+  "run": 7,
+  "off": 215,
+  "len": 18,
+  "text": "Thank you so much!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 0,
+  "off": 30,
+  "len": 26,
+  "text": "Have you been to the cafe?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 1,
+  "off": 181,
+  "len": 27,
+  "text": "Oh. They may have said some",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 2,
+  "off": 210,
+  "len": 26,
+  "text": "terrible things there, but",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 3,
+  "off": 238,
+  "len": 20,
+  "text": "please forgive them.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 4,
+  "off": 261,
+  "len": 32,
+  "text": "They're bitter because they lost",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 5,
+  "off": 295,
+  "len": 26,
+  "text": "so many family members and",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 6,
+  "off": 323,
+  "len": 8,
+  "text": "friends.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 7,
+  "off": 336,
+  "len": 34,
+  "text": "You haven't? Well, please go there",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 8,
+  "off": 372,
+  "len": 31,
+  "text": "and try to cheer those guys up,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 58,
+  "run": 9,
+  "off": 405,
+  "len": 9,
+  "text": "will you?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 59,
+  "run": 0,
+  "off": 30,
+  "len": 21,
+  "text": "{NAME:01} is the cutest girl",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 59,
+  "run": 1,
+  "off": 53,
+  "len": 19,
+  "text": "in the whole world!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 60,
+  "run": 0,
+  "off": 39,
+  "len": 12,
+  "text": "{NAME} is tough!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 60,
+  "run": 1,
+  "off": 53,
+  "len": 20,
+  "text": "Not afraid to fight!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 60,
+  "run": 2,
+  "off": 76,
+  "len": 18,
+  "text": "Come on, everyone,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 60,
+  "run": 3,
+  "off": 96,
+  "len": 12,
+  "text": "let's dance!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 61,
+  "run": 0,
+  "off": 39,
+  "len": 14,
+  "text": "{NAME:01} is red-hot!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 61,
+  "run": 1,
+  "off": 55,
+  "len": 20,
+  "text": "Swift like the wind!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 61,
+  "run": 2,
+  "off": 78,
+  "len": 30,
+  "text": "We made up this song and dance",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 61,
+  "run": 3,
+  "off": 110,
+  "len": 25,
+  "text": "to show our appreciation!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 62,
+  "run": 0,
+  "off": 39,
+  "len": 18,
+  "text": "The fighting monk!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 62,
+  "run": 1,
+  "off": 59,
+  "len": 21,
+  "text": "Not afraid of anyone!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 62,
+  "run": 2,
+  "off": 83,
+  "len": 22,
+  "text": "Oh, the fighting monk.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 62,
+  "run": 3,
+  "off": 107,
+  "len": 19,
+  "text": "He is just so cool!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 63,
+  "run": 0,
+  "off": 30,
+  "len": 29,
+  "text": "The Sky Gardens were a famous",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 63,
+  "run": 1,
+  "off": 61,
+  "len": 33,
+  "text": "tourist attraction. When the Mist",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 63,
+  "run": 2,
+  "off": 96,
+  "len": 33,
+  "text": "is finally gone from the earth...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 63,
+  "run": 3,
+  "off": 132,
+  "len": 32,
+  "text": "I'm sure many tourists will come",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 63,
+  "run": 4,
+  "off": 166,
+  "len": 28,
+  "text": "to see the Genesis Tree that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 63,
+  "run": 5,
+  "off": 196,
+  "len": 19,
+  "text": "you revived for us.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 64,
+  "run": 0,
+  "off": 49,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 64,
+  "run": 1,
+  "off": 61,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 64,
+  "run": 2,
+  "off": 91,
+  "len": 16,
+  "text": "It looks afraid.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 65,
+  "run": 0,
+  "off": 49,
+  "len": 6,
+  "text": "Growl!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 65,
+  "run": 1,
+  "off": 58,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 65,
+  "run": 2,
+  "off": 88,
+  "len": 27,
+  "text": "It looks like it's in pain.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 66,
+  "run": 0,
+  "off": 49,
+  "len": 6,
+  "text": "Growl!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 66,
+  "run": 1,
+  "off": 58,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 66,
+  "run": 2,
+  "off": 88,
+  "len": 27,
+  "text": "It looks like it's in pain.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 67,
+  "run": 0,
+  "off": 42,
+  "len": 21,
+  "text": "Gow ow ow! Gow ow ow!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 67,
+  "run": 1,
+  "off": 65,
+  "len": 17,
+  "text": "Burunga, burenga!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 67,
+  "run": 2,
+  "off": 84,
+  "len": 15,
+  "text": "Bruhoo! Bruhee!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 67,
+  "run": 3,
+  "off": 102,
+  "len": 29,
+  "text": "A piano player possessed by a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 67,
+  "run": 4,
+  "off": 133,
+  "len": 33,
+  "text": "Seru! And playing a strange song!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 0,
+  "off": 30,
+  "len": 33,
+  "text": "After the Mist came, we were in a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 1,
+  "off": 65,
+  "len": 33,
+  "text": "dreamlike state. It seemed brief,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 2,
+  "off": 100,
+  "len": 33,
+  "text": "yet an eternity at the same time.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 3,
+  "off": 136,
+  "len": 29,
+  "text": "But when we awakened from the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 4,
+  "off": 167,
+  "len": 27,
+  "text": "Mist, so much time had gone",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 5,
+  "off": 202,
+  "len": 31,
+  "text": "Those who didn't lose any loved",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 6,
+  "off": 235,
+  "len": 27,
+  "text": "ones during those years are",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 7,
+  "off": 264,
+  "len": 24,
+  "text": "dancing here now, but...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 8,
+  "off": 291,
+  "len": 29,
+  "text": "Those who lost someone to the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 68,
+  "run": 9,
+  "off": 322,
+  "len": 23,
+  "text": "Mist are here drinking!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 69,
+  "run": 0,
+  "off": 28,
+  "len": 32,
+  "text": "The Mist went away and I'm human",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 69,
+  "run": 1,
+  "off": 62,
+  "len": 31,
+  "text": "again, but my poor son is gone.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 69,
+  "run": 2,
+  "off": 96,
+  "len": 31,
+  "text": "He must have died while we were",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 69,
+  "run": 3,
+  "off": 129,
+  "len": 26,
+  "text": "all possessed by the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 70,
+  "run": 0,
+  "off": 28,
+  "len": 33,
+  "text": "My husband says our son died, but",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 70,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "I don't see how that's",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 70,
+  "run": 2,
+  "off": 87,
+  "len": 9,
+  "text": "possible.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 70,
+  "run": 3,
+  "off": 99,
+  "len": 31,
+  "text": "I mean, before the Mist invaded",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 70,
+  "run": 4,
+  "off": 132,
+  "len": 28,
+  "text": "our town, he was so vibrant!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 70,
+  "run": 5,
+  "off": 162,
+  "len": 21,
+  "text": "How could he be dead?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 71,
+  "run": 0,
+  "off": 28,
+  "len": 22,
+  "text": "Hmmf! This tastes bad.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 71,
+  "run": 1,
+  "off": 52,
+  "len": 22,
+  "text": "None of it's any good!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 72,
+  "run": 0,
+  "off": 28,
+  "len": 29,
+  "text": "When the Mist went away and I",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 72,
+  "run": 1,
+  "off": 59,
+  "len": 29,
+  "text": "woke up, my wife and children",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 72,
+  "run": 2,
+  "off": 90,
+  "len": 10,
+  "text": "were gone.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 72,
+  "run": 3,
+  "off": 103,
+  "len": 28,
+  "text": "I would have been better off",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 72,
+  "run": 4,
+  "off": 133,
+  "len": 30,
+  "text": "spending eternity in the Mist,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 72,
+  "run": 5,
+  "off": 165,
+  "len": 24,
+  "text": "possessed by those Seru!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 73,
+  "run": 0,
+  "off": 28,
+  "len": 18,
+  "text": "Do you know Zalan?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 73,
+  "run": 1,
+  "off": 171,
+  "len": 31,
+  "text": "He knows everything there is to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 73,
+  "run": 2,
+  "off": 204,
+  "len": 18,
+  "text": "know about jewels.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 73,
+  "run": 3,
+  "off": 227,
+  "len": 31,
+  "text": "He was a good jeweler. They say",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 73,
+  "run": 4,
+  "off": 260,
+  "len": 33,
+  "text": "he has a lot of different jewels.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 74,
+  "run": 0,
+  "off": 40,
+  "len": 33,
+  "text": "Sorry, but right now I don't feel",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 74,
+  "run": 1,
+  "off": 75,
+  "len": 23,
+  "text": "like talking to anyone.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 75,
+  "run": 0,
+  "off": 35,
+  "len": 29,
+  "text": "He lost his girlfriend to the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 75,
+  "run": 1,
+  "off": 66,
+  "len": 33,
+  "text": "Mist. I'm trying to cheer him up.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 75,
+  "run": 2,
+  "off": 105,
+  "len": 35,
+  "text": "Hey, there is no way you could have",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 75,
+  "run": 3,
+  "off": 142,
+  "len": 31,
+  "text": "killed your girlfriend when you",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 75,
+  "run": 4,
+  "off": 175,
+  "len": 20,
+  "text": "were a Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 75,
+  "run": 5,
+  "off": 198,
+  "len": 17,
+  "text": "So stop brooding!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 0,
+  "off": 50,
+  "len": 44,
+  "text": "<AC>L<07><AC>L<03><AC>L<01>!q{M3:D4}<02><1F>Did you ever come here before",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 1,
+  "off": 96,
+  "len": 17,
+  "text": "the Mist cleared?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 2,
+  "off": 239,
+  "len": 32,
+  "text": "Really? Well then, maybe you can",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 3,
+  "off": 273,
+  "len": 18,
+  "text": "tell me something.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 4,
+  "off": 294,
+  "len": 32,
+  "text": "When I was a Seru monster, did I",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 5,
+  "off": 328,
+  "len": 32,
+  "text": "do something terrible, something",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 6,
+  "off": 362,
+  "len": 12,
+  "text": "unspeakable?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 7,
+  "off": 517,
+  "len": 5,
+  "text": "What?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 8,
+  "off": 524,
+  "len": 26,
+  "text": "I... I did... I did that?!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 9,
+  "off": 568,
+  "len": 23,
+  "text": "Oh no! No! No! Noooooo!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 10,
+  "off": 593,
+  "len": 14,
+  "text": "I can't go on!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 11,
+  "off": 609,
+  "len": 17,
+  "text": "I can't stand it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 12,
+  "off": 634,
+  "len": 40,
+  "text": "<AC>L<07><AC>L<03><AC>L<01>!&<B7><FD><1F>Oh, good! I'm so relieved!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 13,
+  "off": 676,
+  "len": 27,
+  "text": "I thought I might have done",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 14,
+  "off": 705,
+  "len": 27,
+  "text": "something to be ashamed of!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 15,
+  "off": 737,
+  "len": 10,
+  "text": "Oh, I see.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 16,
+  "off": 749,
+  "len": 10,
+  "text": "That's OK.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 17,
+  "off": 761,
+  "len": 21,
+  "text": "Don't worry about it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 18,
+  "off": 787,
+  "len": 8,
+  "text": "Darn it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 19,
+  "off": 797,
+  "len": 30,
+  "text": "Don't you understand! It's all",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 76,
+  "run": 20,
+  "off": 829,
+  "len": 18,
+  "text": "over for me! Over!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 77,
+  "run": 0,
+  "off": 29,
+  "len": 30,
+  "text": "Welcome, brave Ra-Seru heroes.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 77,
+  "run": 1,
+  "off": 61,
+  "len": 23,
+  "text": "What can I get for you?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 77,
+  "run": 2,
+  "off": 115,
+  "len": 32,
+  "text": "I'm so sorry. I know you are all",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 77,
+  "run": 3,
+  "off": 149,
+  "len": 35,
+  "text": "heroes, but I am running a business",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 77,
+  "run": 4,
+  "off": 186,
+  "len": 7,
+  "text": "here...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 0,
+  "off": 14,
+  "len": 7,
+  "text": "1<16>1<1D>LB$",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 1,
+  "off": 65,
+  "len": 5,
+  "text": "Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 2,
+  "off": 72,
+  "len": 29,
+  "text": "I bet you think I'm just some",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 3,
+  "off": 103,
+  "len": 25,
+  "text": "washed up bum, don't you?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 4,
+  "off": 254,
+  "len": 18,
+  "text": "Well you're right!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 5,
+  "off": 274,
+  "len": 11,
+  "text": "I am a bum!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 6,
+  "off": 297,
+  "len": 25,
+  "text": "Ah, so you do understand.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 7,
+  "off": 324,
+  "len": 13,
+  "text": "You're smart.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 8,
+  "off": 340,
+  "len": 29,
+  "text": "You're right. I may look like",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 9,
+  "off": 371,
+  "len": 28,
+  "text": "this now, but once I trained",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 10,
+  "off": 401,
+  "len": 9,
+  "text": "at Biron.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 11,
+  "off": 413,
+  "len": 28,
+  "text": "But then again, I left there",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 12,
+  "off": 443,
+  "len": 27,
+  "text": "because I couldn't take the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 13,
+  "off": 472,
+  "len": 21,
+  "text": "pressure of training.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 14,
+  "off": 496,
+  "len": 24,
+  "text": "If you want, I can teach",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 15,
+  "off": 522,
+  "len": 14,
+  "text": "you some Arts.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 16,
+  "off": 548,
+  "len": 17,
+  "text": "Teach {NAME} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 17,
+  "off": 567,
+  "len": 17,
+  "text": "Teach {NAME:01} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 18,
+  "off": 586,
+  "len": 17,
+  "text": "Teach {NAME:02} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 19,
+  "off": 605,
+  "len": 30,
+  "text": "Who wants to learn from a bum!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 20,
+  "off": 638,
+  "len": 7,
+  "text": "Hiccup!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 21,
+  "off": 648,
+  "len": 20,
+  "text": "Do you want to learn",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 22,
+  "off": 670,
+  "len": 10,
+  "text": "more Arts?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 23,
+  "off": 692,
+  "len": 17,
+  "text": "Teach {NAME} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 24,
+  "off": 711,
+  "len": 17,
+  "text": "Teach {NAME:01} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 25,
+  "off": 730,
+  "len": 17,
+  "text": "Teach {NAME:02} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 26,
+  "off": 749,
+  "len": 30,
+  "text": "Who wants to learn from a bum!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 27,
+  "off": 787,
+  "len": 26,
+  "text": "What? Did you come here to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 28,
+  "off": 815,
+  "len": 22,
+  "text": "learn Arts from a bum?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 29,
+  "off": 849,
+  "len": 17,
+  "text": "Teach {NAME} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 30,
+  "off": 868,
+  "len": 17,
+  "text": "Teach {NAME:01} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 31,
+  "off": 887,
+  "len": 17,
+  "text": "Teach {NAME:02} the Art!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 32,
+  "off": 906,
+  "len": 30,
+  "text": "Who wants to learn from a bum!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 33,
+  "off": 939,
+  "len": 29,
+  "text": "Hey, don't disrespect someone",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 34,
+  "off": 970,
+  "len": 23,
+  "text": "just 'cause he's a bum!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 35,
+  "off": 1005,
+  "len": 27,
+  "text": "I thought I taught you that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 36,
+  "off": 1034,
+  "len": 12,
+  "text": "one already.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 37,
+  "off": 1062,
+  "len": 7,
+  "text": "OK, OK.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 38,
+  "off": 1071,
+  "len": 22,
+  "text": "Now, listen carefully!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 39,
+  "off": 1096,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 40,
+  "off": 1131,
+  "len": 23,
+  "text": "Oh, so you already know",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 41,
+  "off": 1183,
+  "len": 7,
+  "text": "OK, OK.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 42,
+  "off": 1192,
+  "len": 22,
+  "text": "Now, listen carefully!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 43,
+  "off": 1217,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 44,
+  "off": 1252,
+  "len": 23,
+  "text": "Oh, so you already know",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 45,
+  "off": 1304,
+  "len": 7,
+  "text": "OK, OK.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 46,
+  "off": 1313,
+  "len": 22,
+  "text": "Now, listen carefully!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 47,
+  "off": 1338,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 82,
+  "run": 48,
+  "off": 1373,
+  "len": 23,
+  "text": "Oh, so you already know",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 83,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 83,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 83,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 83,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 83,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 84,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:83}",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 84,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 84,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 84,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:83}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 84,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 85,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 85,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 85,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 85,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 85,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 86,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 86,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:D3}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 87,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 87,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:C9}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 0,
+  "off": 367,
+  "len": 18,
+  "text": "{NAME:01}: {NAME}! It's Mist!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 1,
+  "off": 387,
+  "len": 22,
+  "text": "Everyone's turned into",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 2,
+  "off": 411,
+  "len": 21,
+  "text": "monsters in the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 3,
+  "off": 520,
+  "len": 20,
+  "text": "it's a Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 4,
+  "off": 542,
+  "len": 23,
+  "text": "I sense a Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 5,
+  "off": 597,
+  "len": 26,
+  "text": "{NAME:02}: That means we can save",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 6,
+  "off": 625,
+  "len": 27,
+  "text": "this town if we revive that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 7,
+  "off": 654,
+  "len": 13,
+  "text": "Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 8,
+  "off": 727,
+  "len": 24,
+  "text": "{PAL:5}{M7:02}{PAL:7}: I sense that the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 9,
+  "off": 753,
+  "len": 28,
+  "text": "Genesis Tree is somewhere in",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 10,
+  "off": 783,
+  "len": 26,
+  "text": "town... someplace high up.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 11,
+  "off": 892,
+  "len": 17,
+  "text": "{NAME:01}: How exciting!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 12,
+  "off": 911,
+  "len": 29,
+  "text": "I want to go! I want to go to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 13,
+  "off": 942,
+  "len": 15,
+  "text": "the high place!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 88,
+  "run": 14,
+  "off": 1002,
+  "len": 16,
+  "text": "{NAME:02}: Oh, brother.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 0,
+  "off": 232,
+  "len": 28,
+  "text": "Mayor: Ladies and gentlemen!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 1,
+  "off": 262,
+  "len": 28,
+  "text": "Thank you for your patience.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 2,
+  "off": 293,
+  "len": 29,
+  "text": "Mayor: Wearing Ra-Seru, these",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 3,
+  "off": 324,
+  "len": 26,
+  "text": "heroes braved the Mist and",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 4,
+  "off": 352,
+  "len": 25,
+  "text": "revived the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 5,
+  "off": 380,
+  "len": 32,
+  "text": "Mayor: Here they are, the heroes",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 6,
+  "off": 414,
+  "len": 21,
+  "text": "who saved Jeremi: {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 7,
+  "off": 544,
+  "len": 32,
+  "text": "Thank you, brave Ra-Seru heroes!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 8,
+  "off": 690,
+  "len": 21,
+  "text": "{NAME}! I just adore you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 9,
+  "off": 730,
+  "len": 19,
+  "text": "{NAME:01}, you're so cute!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 10,
+  "off": 848,
+  "len": 22,
+  "text": "Oh I don't believe it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 11,
+  "off": 872,
+  "len": 8,
+  "text": "It's {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 12,
+  "off": 1095,
+  "len": 28,
+  "text": "Mayor: Don't push! Everyone,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 13,
+  "off": 1125,
+  "len": 17,
+  "text": "please calm down!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 14,
+  "off": 1494,
+  "len": 31,
+  "text": "Mayor: Ooof! I'm being crushed!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 15,
+  "off": 1527,
+  "len": 5,
+  "text": "Mmff!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 16,
+  "off": 1867,
+  "len": 27,
+  "text": "Mayor: Ah, I see you're all",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 17,
+  "off": 1896,
+  "len": 6,
+  "text": "awake!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 18,
+  "off": 1915,
+  "len": 25,
+  "text": "Mayor: I'm so sorry about",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 19,
+  "off": 1942,
+  "len": 31,
+  "text": "yesterday. I never thought that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 20,
+  "off": 1975,
+  "len": 13,
+  "text": "would happen!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 21,
+  "off": 1991,
+  "len": 31,
+  "text": "Mayor: I have firmly instructed",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 22,
+  "off": 2024,
+  "len": 25,
+  "text": "everyone not to cause any",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 23,
+  "off": 2051,
+  "len": 17,
+  "text": "ruckus this time.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 24,
+  "off": 2071,
+  "len": 28,
+  "text": "Mayor: Well then, good luck.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 89,
+  "run": 25,
+  "off": 2101,
+  "len": 9,
+  "text": "Good day.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 0,
+  "off": 99,
+  "len": 23,
+  "text": "Zalan: Hello, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 1,
+  "off": 124,
+  "len": 27,
+  "text": "It's good to see you again!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 2,
+  "off": 153,
+  "len": 24,
+  "text": "I heard of your success!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 3,
+  "off": 180,
+  "len": 28,
+  "text": "Zalan: So you drove the Mist",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 4,
+  "off": 210,
+  "len": 25,
+  "text": "from the Sebucus Islands.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 5,
+  "off": 237,
+  "len": 21,
+  "text": "Now I can see Pepe...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 6,
+  "off": 282,
+  "len": 8,
+  "text": "Zalan: !",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 7,
+  "off": 325,
+  "len": 13,
+  "text": "Pepe: Father!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 8,
+  "off": 395,
+  "len": 12,
+  "text": "Zalan: Pepe!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 9,
+  "off": 409,
+  "len": 15,
+  "text": "Pepe, it's you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 10,
+  "off": 426,
+  "len": 9,
+  "text": "Oh, Pepe!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 11,
+  "off": 482,
+  "len": 13,
+  "text": "Pepe: Father!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 12,
+  "off": 497,
+  "len": 23,
+  "text": "I'm so glad to see you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 13,
+  "off": 522,
+  "len": 21,
+  "text": "Father! I'm so happy!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 14,
+  "off": 729,
+  "len": 12,
+  "text": "Zalan: Pepe!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 15,
+  "off": 743,
+  "len": 9,
+  "text": "Oh, Pepe!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 16,
+  "off": 847,
+  "len": 25,
+  "text": "This is such a happy day.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 17,
+  "off": 1111,
+  "len": 10,
+  "text": "Zalan: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 18,
+  "off": 1132,
+  "len": 23,
+  "text": "It's all thanks to you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 19,
+  "off": 1158,
+  "len": 25,
+  "text": "Zalan: Thank you so much!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 20,
+  "off": 1195,
+  "len": 25,
+  "text": "Zalan: I spent the entire",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 21,
+  "off": 1222,
+  "len": 24,
+  "text": "night talking with Pepe.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 22,
+  "off": 1255,
+  "len": 32,
+  "text": "Zalan: My poor wife is gone, but",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 23,
+  "off": 1289,
+  "len": 31,
+  "text": "I'm so happy you've reunited me",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 24,
+  "off": 1322,
+  "len": 12,
+  "text": "with my son!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 25,
+  "off": 1368,
+  "len": 25,
+  "text": "Pepe: Thanks to you we're",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 26,
+  "off": 1395,
+  "len": 15,
+  "text": "together again!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 27,
+  "off": 1413,
+  "len": 24,
+  "text": "Pepe: Please, take this.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 28,
+  "off": 1439,
+  "len": 27,
+  "text": "I found it during the trip.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 29,
+  "off": 1468,
+  "len": 22,
+  "text": "I hope you can use it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 30,
+  "off": 1702,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 31,
+  "off": 1714,
+  "len": 7,
+  "text": "the {ITEM:6D}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 32,
+  "off": 1728,
+  "len": 32,
+  "text": "Pepe: I hear the Karisto Kingdom",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 33,
+  "off": 1762,
+  "len": 31,
+  "text": "to the east is still covered by",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 34,
+  "off": 1795,
+  "len": 21,
+  "text": "the Mist. Be careful!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 35,
+  "off": 1822,
+  "len": 26,
+  "text": "Pepe: I'll always be proud",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 36,
+  "off": 1850,
+  "len": 15,
+  "text": "that I met you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 37,
+  "off": 1892,
+  "len": 24,
+  "text": "Zalan: I will be praying",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 90,
+  "run": 38,
+  "off": 1918,
+  "len": 16,
+  "text": "for your safety.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 0,
+  "off": 269,
+  "len": 7,
+  "text": "{NAME} gave",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 1,
+  "off": 278,
+  "len": 21,
+  "text": "Yuma's ring to Zalan.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 2,
+  "off": 306,
+  "len": 14,
+  "text": "Zalan: This...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 3,
+  "off": 322,
+  "len": 26,
+  "text": "This is the ring I gave to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 4,
+  "off": 350,
+  "len": 5,
+  "text": "Yuma!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 5,
+  "off": 358,
+  "len": 16,
+  "text": "Zalan: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 6,
+  "off": 467,
+  "len": 21,
+  "text": "Zalan: I see. So Yuma",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 7,
+  "off": 490,
+  "len": 21,
+  "text": "is no longer with us.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 8,
+  "off": 514,
+  "len": 33,
+  "text": "Zalan: I wish I could have stayed",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 9,
+  "off": 549,
+  "len": 12,
+  "text": "by her side.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 10,
+  "off": 563,
+  "len": 22,
+  "text": "That's my only regret!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 11,
+  "off": 588,
+  "len": 16,
+  "text": "Zalan: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 12,
+  "off": 629,
+  "len": 25,
+  "text": "Zalan: But thank goodness",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 13,
+  "off": 656,
+  "len": 13,
+  "text": "Pepe is safe!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 14,
+  "off": 672,
+  "len": 29,
+  "text": "Zalan: Someday, when the Mist",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 15,
+  "off": 703,
+  "len": 28,
+  "text": "is gone, I will go to Vidna!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 16,
+  "off": 734,
+  "len": 29,
+  "text": "Zalan: I will go to see Pepe!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 17,
+  "off": 765,
+  "len": 29,
+  "text": "I know that you can make that",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 18,
+  "off": 796,
+  "len": 9,
+  "text": "day come!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 19,
+  "off": 849,
+  "len": 28,
+  "text": "Zalan: Please wait a moment.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 20,
+  "off": 1107,
+  "len": 28,
+  "text": "Zalan: This is a token of my",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 21,
+  "off": 1137,
+  "len": 29,
+  "text": "appreciation. Please take it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 22,
+  "off": 1309,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 23,
+  "off": 1331,
+  "len": 33,
+  "text": "Zalan: I'm just a humble jeweler,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 24,
+  "off": 1366,
+  "len": 28,
+  "text": "but if there's ever anything",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 25,
+  "off": 1396,
+  "len": 19,
+  "text": "I can do for you...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 26,
+  "off": 1418,
+  "len": 26,
+  "text": "Zalan: Please let me know.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 27,
+  "off": 1499,
+  "len": 10,
+  "text": "{NAME:01}: Zalan!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 28,
+  "off": 1511,
+  "len": 24,
+  "text": "Can I ask you something?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 29,
+  "off": 1547,
+  "len": 12,
+  "text": "Zalan: What?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 30,
+  "off": 1568,
+  "len": 25,
+  "text": "{NAME:01}: Do you know about the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 31,
+  "off": 1595,
+  "len": 11,
+  "text": "Star Pearl?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 32,
+  "off": 1656,
+  "len": 8,
+  "text": "Zalan: !",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 33,
+  "off": 1682,
+  "len": 25,
+  "text": "You can't just ask out of",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 34,
+  "off": 1709,
+  "len": 19,
+  "text": "the blue like that!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 35,
+  "off": 1740,
+  "len": 18,
+  "text": "Zalan: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 36,
+  "off": 1760,
+  "len": 22,
+  "text": "Yes, {NAME:01}, I know of the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 37,
+  "off": 1784,
+  "len": 22,
+  "text": "Star Pearl. In fact...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 38,
+  "off": 1940,
+  "len": 18,
+  "text": "Zalan: Here it is!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 39,
+  "off": 1999,
+  "len": 8,
+  "text": "{NAME:01}: Wow!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 40,
+  "off": 2009,
+  "len": 26,
+  "text": "Neat! It's the Star Pearl!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 41,
+  "off": 2037,
+  "len": 22,
+  "text": "Can I have it? Please!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 42,
+  "off": 2077,
+  "len": 32,
+  "text": "Zalan: Of course you may. I have",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 43,
+  "off": 2111,
+  "len": 28,
+  "text": "no use for it. Here you are!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 44,
+  "off": 2264,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 45,
+  "off": 2276,
+  "len": 7,
+  "text": "the {ITEM:AE}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 46,
+  "off": 2356,
+  "len": 30,
+  "text": "Zalan: A shifty looking female",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 47,
+  "off": 2388,
+  "len": 33,
+  "text": "thief palmed it off on me. It has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 48,
+  "off": 2423,
+  "len": 27,
+  "text": "no value as a precious gem.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 49,
+  "off": 2459,
+  "len": 31,
+  "text": "Zalan: I would've never thought",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 50,
+  "off": 2492,
+  "len": 30,
+  "text": "something like this would make",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 51,
+  "off": 2524,
+  "len": 17,
+  "text": "someone so happy!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 52,
+  "off": 2544,
+  "len": 35,
+  "text": "Zalan: Thank you so much, everyone.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 104,
+  "run": 53,
+  "off": 2581,
+  "len": 28,
+  "text": "From the bottom of my heart.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 0,
+  "off": 129,
+  "len": 10,
+  "text": "{NAME:01}: Zalan!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 1,
+  "off": 141,
+  "len": 24,
+  "text": "Can I ask you something?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 2,
+  "off": 174,
+  "len": 12,
+  "text": "Zalan: What?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 3,
+  "off": 198,
+  "len": 25,
+  "text": "{NAME:01}: Do you know about the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 4,
+  "off": 225,
+  "len": 11,
+  "text": "Star Pearl?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 5,
+  "off": 286,
+  "len": 8,
+  "text": "Zalan: !",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 6,
+  "off": 312,
+  "len": 25,
+  "text": "You can't just ask out of",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 7,
+  "off": 339,
+  "len": 19,
+  "text": "the blue like that!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 8,
+  "off": 376,
+  "len": 18,
+  "text": "Zalan: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 9,
+  "off": 396,
+  "len": 22,
+  "text": "Yes, {NAME:01}, I know of the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 10,
+  "off": 420,
+  "len": 22,
+  "text": "Star Pearl. In fact...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 11,
+  "off": 491,
+  "len": 18,
+  "text": "Zalan: Here it is!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 12,
+  "off": 527,
+  "len": 8,
+  "text": "{NAME:01}: Wow!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 13,
+  "off": 537,
+  "len": 26,
+  "text": "Neat! It's the Star Pearl!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 14,
+  "off": 565,
+  "len": 22,
+  "text": "Can I have it? Please!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 15,
+  "off": 605,
+  "len": 32,
+  "text": "Zalan: Of course you may. I have",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 16,
+  "off": 639,
+  "len": 28,
+  "text": "no use for it. Here you are!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 17,
+  "off": 841,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 18,
+  "off": 853,
+  "len": 7,
+  "text": "the {ITEM:AE}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 19,
+  "off": 889,
+  "len": 30,
+  "text": "Zalan: A shifty looking female",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 20,
+  "off": 921,
+  "len": 33,
+  "text": "thief palmed it off on me. It has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 21,
+  "off": 956,
+  "len": 27,
+  "text": "no value as a precious gem.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 22,
+  "off": 1013,
+  "len": 31,
+  "text": "Zalan: I would've never thought",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 23,
+  "off": 1046,
+  "len": 30,
+  "text": "something like this would make",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 24,
+  "off": 1078,
+  "len": 17,
+  "text": "someone so happy!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 25,
+  "off": 1098,
+  "len": 35,
+  "text": "Zalan: Thank you so much, everyone.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 105,
+  "run": 26,
+  "off": 1135,
+  "len": 28,
+  "text": "From the bottom of my heart.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 0,
+  "off": 122,
+  "len": 24,
+  "text": "Zalan: Well, if it isn't",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 1,
+  "off": 148,
+  "len": 19,
+  "text": "the Ra-Seru heroes!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 2,
+  "off": 170,
+  "len": 24,
+  "text": "Zalan: I have a favor to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 3,
+  "off": 196,
+  "len": 28,
+  "text": "ask of you. Will you listen?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 4,
+  "off": 352,
+  "len": 21,
+  "text": "Zalan: Oh, thank you!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 5,
+  "off": 375,
+  "len": 21,
+  "text": "I have a wife and son",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 6,
+  "off": 398,
+  "len": 9,
+  "text": "in Vidna.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 7,
+  "off": 422,
+  "len": 30,
+  "text": "Zalan: I don't know how things",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 8,
+  "off": 454,
+  "len": 20,
+  "text": "are in Vidna, but...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 9,
+  "off": 489,
+  "len": 32,
+  "text": "Zalan: If they are alive, I want",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 10,
+  "off": 523,
+  "len": 34,
+  "text": "them to know I am safe. That's why",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 11,
+  "off": 559,
+  "len": 20,
+  "text": "I wrote this letter.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 12,
+  "off": 624,
+  "len": 30,
+  "text": "Zalan: But I can't deliver the",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 13,
+  "off": 656,
+  "len": 26,
+  "text": "letter because of the Mist",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 14,
+  "off": 684,
+  "len": 13,
+  "text": "outside town.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 15,
+  "off": 712,
+  "len": 34,
+  "text": "Zalan: I heard that you can travel",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 16,
+  "off": 748,
+  "len": 27,
+  "text": "through the Mist. All I ask",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 17,
+  "off": 777,
+  "len": 9,
+  "text": "of you...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 18,
+  "off": 789,
+  "len": 29,
+  "text": "Zalan: ...is that you deliver",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 19,
+  "off": 820,
+  "len": 30,
+  "text": "this letter to my wife and son",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 20,
+  "off": 852,
+  "len": 9,
+  "text": "in Vidna.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 21,
+  "off": 1043,
+  "len": 14,
+  "text": "{NAME} now has {ITEM:6A}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 22,
+  "off": 1063,
+  "len": 30,
+  "text": "Zalan: My wife's name is Yuma.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 23,
+  "off": 1095,
+  "len": 29,
+  "text": "My son is called Pepe. I hope",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 24,
+  "off": 1126,
+  "len": 14,
+  "text": "they are safe.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 25,
+  "off": 1157,
+  "len": 17,
+  "text": "Zalan: Oh, I see.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 106,
+  "run": 26,
+  "off": 1176,
+  "len": 13,
+  "text": "I understand.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 0,
+  "off": 41,
+  "len": 22,
+  "text": "Zalan: I am a jeweler.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 1,
+  "off": 65,
+  "len": 30,
+  "text": "If you have any precious gems,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 2,
+  "off": 97,
+  "len": 22,
+  "text": "I will appraise... Oh!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 3,
+  "off": 122,
+  "len": 18,
+  "text": "Zalan: Well, well!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 4,
+  "off": 143,
+  "len": 26,
+  "text": "Zalan: That is a very rare",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 5,
+  "off": 171,
+  "len": 25,
+  "text": "gem indeed. May I see it?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 6,
+  "off": 202,
+  "len": 24,
+  "text": "Do you wish to let Zalan",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 7,
+  "off": 228,
+  "len": 11,
+  "text": "see the {ITEM:6E}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 8,
+  "off": 371,
+  "len": 22,
+  "text": "Zalan: I am a jeweler.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 9,
+  "off": 395,
+  "len": 30,
+  "text": "If you have any precious gems,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 10,
+  "off": 427,
+  "len": 22,
+  "text": "I will appraise... Oh!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 11,
+  "off": 452,
+  "len": 18,
+  "text": "Zalan: Well, well!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 12,
+  "off": 473,
+  "len": 26,
+  "text": "Zalan: That is a very rare",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 13,
+  "off": 501,
+  "len": 25,
+  "text": "gem indeed. May I see it?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 14,
+  "off": 532,
+  "len": 24,
+  "text": "Do you wish to let Zalan",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 15,
+  "off": 558,
+  "len": 11,
+  "text": "see the {ITEM:6F}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 16,
+  "off": 701,
+  "len": 22,
+  "text": "Zalan: I am a jeweler.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 17,
+  "off": 725,
+  "len": 30,
+  "text": "If you have any precious gems,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 18,
+  "off": 757,
+  "len": 22,
+  "text": "I will appraise... Oh!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 19,
+  "off": 782,
+  "len": 18,
+  "text": "Zalan: Well, well!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 20,
+  "off": 803,
+  "len": 26,
+  "text": "Zalan: That is a very rare",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 21,
+  "off": 831,
+  "len": 25,
+  "text": "gem indeed. May I see it?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 22,
+  "off": 862,
+  "len": 24,
+  "text": "Do you wish to let Zalan",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 23,
+  "off": 888,
+  "len": 11,
+  "text": "see the {ITEM:70}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 24,
+  "off": 1031,
+  "len": 22,
+  "text": "Zalan: I am a jeweler.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 25,
+  "off": 1055,
+  "len": 30,
+  "text": "If you have any precious gems,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 26,
+  "off": 1087,
+  "len": 22,
+  "text": "I will appraise... Oh!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 27,
+  "off": 1112,
+  "len": 18,
+  "text": "Zalan: Well, well!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 28,
+  "off": 1133,
+  "len": 26,
+  "text": "Zalan: That is a very rare",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 29,
+  "off": 1161,
+  "len": 25,
+  "text": "gem indeed. May I see it?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 30,
+  "off": 1192,
+  "len": 24,
+  "text": "Do you wish to let Zalan",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 31,
+  "off": 1218,
+  "len": 11,
+  "text": "see the {ITEM:71}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 32,
+  "off": 1355,
+  "len": 14,
+  "text": "Zalan: This...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 33,
+  "off": 1371,
+  "len": 11,
+  "text": "is amazing!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 34,
+  "off": 1385,
+  "len": 26,
+  "text": "Zalan: It is not exactly a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 35,
+  "off": 1413,
+  "len": 32,
+  "text": "gem, but it is quite a treasure!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 36,
+  "off": 1448,
+  "len": 29,
+  "text": "Zalan: And I sense an amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 37,
+  "off": 1479,
+  "len": 16,
+  "text": "power inside it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 38,
+  "off": 1498,
+  "len": 26,
+  "text": "Zalan: If you wish, I will",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 39,
+  "off": 1526,
+  "len": 21,
+  "text": "work on this for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 40,
+  "off": 1550,
+  "len": 30,
+  "text": "Zalan: Making an accessory out",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 41,
+  "off": 1582,
+  "len": 31,
+  "text": "of it may bring out its amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 42,
+  "off": 1615,
+  "len": 6,
+  "text": "power.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 43,
+  "off": 1624,
+  "len": 20,
+  "text": "Do you want Zalan to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 44,
+  "off": 1646,
+  "len": 14,
+  "text": "rework the {ITEM:6E}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 45,
+  "off": 1786,
+  "len": 14,
+  "text": "Zalan: This...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 46,
+  "off": 1802,
+  "len": 11,
+  "text": "is amazing!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 47,
+  "off": 1816,
+  "len": 26,
+  "text": "Zalan: It is not exactly a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 48,
+  "off": 1844,
+  "len": 32,
+  "text": "gem, but it is quite a treasure!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 49,
+  "off": 1879,
+  "len": 29,
+  "text": "Zalan: And I sense an amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 50,
+  "off": 1910,
+  "len": 16,
+  "text": "power inside it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 51,
+  "off": 1929,
+  "len": 26,
+  "text": "Zalan: If you wish, I will",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 52,
+  "off": 1957,
+  "len": 21,
+  "text": "work on this for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 53,
+  "off": 1981,
+  "len": 30,
+  "text": "Zalan: Making an accessory out",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 54,
+  "off": 2013,
+  "len": 31,
+  "text": "of it may bring out its amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 55,
+  "off": 2046,
+  "len": 6,
+  "text": "power.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 56,
+  "off": 2055,
+  "len": 20,
+  "text": "Do you want Zalan to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 57,
+  "off": 2077,
+  "len": 14,
+  "text": "rework the {ITEM:6F}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 58,
+  "off": 2217,
+  "len": 14,
+  "text": "Zalan: This...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 59,
+  "off": 2233,
+  "len": 11,
+  "text": "is amazing!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 60,
+  "off": 2247,
+  "len": 26,
+  "text": "Zalan: It is not exactly a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 61,
+  "off": 2275,
+  "len": 32,
+  "text": "gem, but it is quite a treasure!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 62,
+  "off": 2310,
+  "len": 29,
+  "text": "Zalan: And I sense an amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 63,
+  "off": 2341,
+  "len": 16,
+  "text": "power inside it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 64,
+  "off": 2360,
+  "len": 26,
+  "text": "Zalan: If you wish, I will",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 65,
+  "off": 2388,
+  "len": 21,
+  "text": "work on this for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 66,
+  "off": 2412,
+  "len": 30,
+  "text": "Zalan: Making an accessory out",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 67,
+  "off": 2444,
+  "len": 31,
+  "text": "of it may bring out its amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 68,
+  "off": 2477,
+  "len": 6,
+  "text": "power.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 69,
+  "off": 2486,
+  "len": 20,
+  "text": "Do you want Zalan to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 70,
+  "off": 2508,
+  "len": 14,
+  "text": "rework the {ITEM:70}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 71,
+  "off": 2648,
+  "len": 14,
+  "text": "Zalan: This...",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 72,
+  "off": 2664,
+  "len": 11,
+  "text": "is amazing!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 73,
+  "off": 2678,
+  "len": 26,
+  "text": "Zalan: It is not exactly a",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 74,
+  "off": 2706,
+  "len": 32,
+  "text": "gem, but it is quite a treasure!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 75,
+  "off": 2741,
+  "len": 29,
+  "text": "Zalan: And I sense an amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 76,
+  "off": 2772,
+  "len": 16,
+  "text": "power inside it!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 77,
+  "off": 2791,
+  "len": 26,
+  "text": "Zalan: If you wish, I will",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 78,
+  "off": 2819,
+  "len": 21,
+  "text": "work on this for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 79,
+  "off": 2843,
+  "len": 30,
+  "text": "Zalan: Making an accessory out",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 80,
+  "off": 2875,
+  "len": 31,
+  "text": "of it may bring out its amazing",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 81,
+  "off": 2908,
+  "len": 6,
+  "text": "power.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 82,
+  "off": 2917,
+  "len": 20,
+  "text": "Do you want Zalan to",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 83,
+  "off": 2939,
+  "len": 14,
+  "text": "rework the {ITEM:71}?",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 84,
+  "off": 3079,
+  "len": 29,
+  "text": "Zalan: How unfortunate. I was",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 85,
+  "off": 3110,
+  "len": 26,
+  "text": "just going to appraise it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 86,
+  "off": 3139,
+  "len": 32,
+  "text": "Zalan: Please let me take a look",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 87,
+  "off": 3173,
+  "len": 15,
+  "text": "at it sometime.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 88,
+  "off": 3193,
+  "len": 29,
+  "text": "Zalan: How unfortunate. I was",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 89,
+  "off": 3224,
+  "len": 26,
+  "text": "just going to appraise it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 90,
+  "off": 3253,
+  "len": 32,
+  "text": "Zalan: Please let me take a look",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 91,
+  "off": 3287,
+  "len": 15,
+  "text": "at it sometime.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 92,
+  "off": 3307,
+  "len": 29,
+  "text": "Zalan: How unfortunate. I was",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 93,
+  "off": 3338,
+  "len": 26,
+  "text": "just going to appraise it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 94,
+  "off": 3367,
+  "len": 32,
+  "text": "Zalan: Please let me take a look",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 95,
+  "off": 3401,
+  "len": 15,
+  "text": "at it sometime.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 96,
+  "off": 3421,
+  "len": 29,
+  "text": "Zalan: How unfortunate. I was",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 97,
+  "off": 3452,
+  "len": 26,
+  "text": "just going to appraise it.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 98,
+  "off": 3481,
+  "len": 32,
+  "text": "Zalan: Please let me take a look",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 99,
+  "off": 3515,
+  "len": 15,
+  "text": "at it sometime.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 100,
+  "off": 3535,
+  "len": 33,
+  "text": "Zalan: Oh, I see. That's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 101,
+  "off": 3570,
+  "len": 31,
+  "text": "Well then, I shall return this!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 102,
+  "off": 3607,
+  "len": 12,
+  "text": "{NAME} took back",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 103,
+  "off": 3621,
+  "len": 7,
+  "text": "the {ITEM:6E}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 104,
+  "off": 3635,
+  "len": 25,
+  "text": "Zalan: If you change your",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 105,
+  "off": 3662,
+  "len": 30,
+  "text": "mind, I'll be waiting for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 106,
+  "off": 3697,
+  "len": 33,
+  "text": "Zalan: Oh, I see. That's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 107,
+  "off": 3732,
+  "len": 31,
+  "text": "Well then, I shall return this!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 108,
+  "off": 3769,
+  "len": 12,
+  "text": "{NAME} took back",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 109,
+  "off": 3783,
+  "len": 7,
+  "text": "the {ITEM:6F}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 110,
+  "off": 3797,
+  "len": 25,
+  "text": "Zalan: If you change your",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 111,
+  "off": 3824,
+  "len": 30,
+  "text": "mind, I'll be waiting for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 112,
+  "off": 3859,
+  "len": 33,
+  "text": "Zalan: Oh, I see. That's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 113,
+  "off": 3894,
+  "len": 31,
+  "text": "Well then, I shall return this!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 114,
+  "off": 3931,
+  "len": 12,
+  "text": "{NAME} took back",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 115,
+  "off": 3945,
+  "len": 7,
+  "text": "the {ITEM:70}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 116,
+  "off": 3959,
+  "len": 25,
+  "text": "Zalan: If you change your",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 117,
+  "off": 3986,
+  "len": 30,
+  "text": "mind, I'll be waiting for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 118,
+  "off": 4021,
+  "len": 33,
+  "text": "Zalan: Oh, I see. That's too bad.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 119,
+  "off": 4056,
+  "len": 31,
+  "text": "Well then, I shall return this!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 120,
+  "off": 4093,
+  "len": 12,
+  "text": "{NAME} took back",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 121,
+  "off": 4107,
+  "len": 7,
+  "text": "the {ITEM:71}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 122,
+  "off": 4121,
+  "len": 25,
+  "text": "Zalan: If you change your",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 123,
+  "off": 4148,
+  "len": 30,
+  "text": "mind, I'll be waiting for you.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 124,
+  "off": 4188,
+  "len": 7,
+  "text": "{NAME} gave",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 125,
+  "off": 4197,
+  "len": 13,
+  "text": "Zalan the {ITEM:6E}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 126,
+  "off": 4220,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 127,
+  "off": 4248,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 128,
+  "off": 4276,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 129,
+  "off": 4304,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 130,
+  "off": 4332,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 131,
+  "off": 4366,
+  "len": 24,
+  "text": "Zalan: Finished at last!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 132,
+  "off": 4406,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 133,
+  "off": 4418,
+  "len": 7,
+  "text": "the {ITEM:72}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 134,
+  "off": 4428,
+  "len": 35,
+  "text": "Zalan: It's quite good workmanship,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 135,
+  "off": 4465,
+  "len": 23,
+  "text": "if I may say so myself.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 136,
+  "off": 4504,
+  "len": 7,
+  "text": "{NAME} gave",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 137,
+  "off": 4513,
+  "len": 13,
+  "text": "Zalan the {ITEM:6F}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 138,
+  "off": 4536,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 139,
+  "off": 4564,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 140,
+  "off": 4592,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 141,
+  "off": 4620,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 142,
+  "off": 4648,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 143,
+  "off": 4682,
+  "len": 24,
+  "text": "Zalan: Finished at last!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 144,
+  "off": 4722,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 145,
+  "off": 4734,
+  "len": 7,
+  "text": "the {ITEM:73}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 146,
+  "off": 4744,
+  "len": 35,
+  "text": "Zalan: It's quite good workmanship,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 147,
+  "off": 4781,
+  "len": 23,
+  "text": "if I may say so myself.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 148,
+  "off": 4820,
+  "len": 7,
+  "text": "{NAME} gave",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 149,
+  "off": 4829,
+  "len": 12,
+  "text": "Zalan the {ITEM:70}",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 150,
+  "off": 4851,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 151,
+  "off": 4879,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 152,
+  "off": 4907,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 153,
+  "off": 4935,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 154,
+  "off": 4963,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 155,
+  "off": 4997,
+  "len": 24,
+  "text": "Zalan: Finished at last!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 156,
+  "off": 5037,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 157,
+  "off": 5049,
+  "len": 7,
+  "text": "the {ITEM:74}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 158,
+  "off": 5059,
+  "len": 35,
+  "text": "Zalan: It's quite good workmanship,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 159,
+  "off": 5096,
+  "len": 23,
+  "text": "if I may say so myself.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 160,
+  "off": 5135,
+  "len": 7,
+  "text": "{NAME} gave",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 161,
+  "off": 5144,
+  "len": 13,
+  "text": "Zalan the {ITEM:71}.",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 162,
+  "off": 5167,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 163,
+  "off": 5195,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 164,
+  "off": 5223,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 165,
+  "off": 5251,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 166,
+  "off": 5279,
+  "len": 25,
+  "text": "Zalan: (Working intently)",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 167,
+  "off": 5313,
+  "len": 24,
+  "text": "Zalan: Finished at last!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 168,
+  "off": 5353,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 169,
+  "off": 5365,
+  "len": 7,
+  "text": "the {ITEM:75}!",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 170,
+  "off": 5375,
+  "len": 35,
+  "text": "Zalan: It's quite good workmanship,",
+  "ko": ""
+ },
+ {
+  "map": 168,
+  "script": 107,
+  "run": 171,
+  "off": 5412,
+  "len": 23,
+  "text": "if I may say so myself.",
+  "ko": ""
+ }
+]

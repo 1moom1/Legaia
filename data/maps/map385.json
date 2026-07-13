@@ -1,0 +1,1442 @@
+[
+ {
+  "map": 385,
+  "script": 3,
+  "run": 0,
+  "off": 91,
+  "len": 22,
+  "text": "e'e(e)e*e+e,e-e.L<83>a<10>c<12>",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 0,
+  "off": 35,
+  "len": 18,
+  "text": "Start flag setting",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 1,
+  "off": 56,
+  "len": 18,
+  "text": "<Angel of Rebirth>",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 2,
+  "off": 76,
+  "len": 28,
+  "text": "Do you wish to plant a flag?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 3,
+  "off": 115,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 4,
+  "off": 123,
+  "len": 19,
+  "text": "Angel of Rebirth ON",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 5,
+  "off": 144,
+  "len": 20,
+  "text": "Angel of Rebirth OFF",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 6,
+  "off": 166,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 7,
+  "off": 185,
+  "len": 10,
+  "text": "<System F>",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 8,
+  "off": 197,
+  "len": 28,
+  "text": "Do you wish to plant a flag?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 9,
+  "off": 236,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 10,
+  "off": 244,
+  "len": 11,
+  "text": "System F ON",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 11,
+  "off": 257,
+  "len": 12,
+  "text": "System F OFF",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 12,
+  "off": 271,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 4,
+  "run": 13,
+  "off": 290,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 0,
+  "off": 34,
+  "len": 23,
+  "text": "There is writing carved",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 1,
+  "off": 59,
+  "len": 26,
+  "text": "into the door of the gate.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 2,
+  "off": 92,
+  "len": 32,
+  "text": "Mt. Dhini, sacred land of Soren.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 3,
+  "off": 126,
+  "len": 32,
+  "text": "None may climb Mt. Dhini without",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 4,
+  "off": 160,
+  "len": 22,
+  "text": "the mark of the Soren.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 5,
+  "off": 185,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 6,
+  "off": 212,
+  "len": 32,
+  "text": "Mt. Dhini, sacred land of Soren.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 7,
+  "off": 246,
+  "len": 32,
+  "text": "None may climb Mt. Dhini without",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 8,
+  "off": 280,
+  "len": 22,
+  "text": "the mark of the Soren.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 9,
+  "off": 311,
+  "len": 26,
+  "text": "The Soren flute inside the",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 10,
+  "off": 339,
+  "len": 25,
+  "text": "satchel suddenly began to",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 11,
+  "off": 366,
+  "len": 6,
+  "text": "shine.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 12,
+  "off": 375,
+  "len": 19,
+  "text": "I hear a voice from",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 13,
+  "off": 396,
+  "len": 13,
+  "text": "Birdman Gate!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 14,
+  "off": 412,
+  "len": 26,
+  "text": "Mt. Dhini is open to those",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 7,
+  "run": 15,
+  "off": 440,
+  "len": 23,
+  "text": "with the mark of Soren!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 15,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:CE}",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 15,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 15,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 15,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:CE}!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 15,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 16,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 16,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 16,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 16,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 16,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 17,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:DC}",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 17,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 17,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 17,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:DC}!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 17,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 18,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:79}",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 18,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 18,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 18,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:79}!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 18,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 19,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:FC}",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 19,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 19,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 19,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:FC}!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 19,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 0,
+  "off": 160,
+  "len": 17,
+  "text": "Look! The summit!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 1,
+  "off": 243,
+  "len": 18,
+  "text": "{NAME:01}: Play the flute",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 2,
+  "off": 263,
+  "len": 18,
+  "text": "to call the Soren!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 3,
+  "off": 386,
+  "len": 26,
+  "text": "{NAME:02}: There's no Mist at the",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 4,
+  "off": 414,
+  "len": 30,
+  "text": "summit! The Soren can fly here",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 5,
+  "off": 446,
+  "len": 20,
+  "text": "on their Seru Wings!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 6,
+  "off": 492,
+  "len": 17,
+  "text": "{NAME:02}: {NAME}, why don't",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 7,
+  "off": 511,
+  "len": 24,
+  "text": "you play the Soren Flute",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 8,
+  "off": 537,
+  "len": 18,
+  "text": "you have with you?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 9,
+  "off": 618,
+  "len": 28,
+  "text": "{NAME} took out the Soren Flute.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 10,
+  "off": 1024,
+  "len": 15,
+  "text": "It's the Soren!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 11,
+  "off": 1041,
+  "len": 21,
+  "text": "The Soren are coming!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 12,
+  "off": 1845,
+  "len": 24,
+  "text": "Luctes: What's going on?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 13,
+  "off": 1871,
+  "len": 32,
+  "text": "You are not Soren. Where did you",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 14,
+  "off": 1905,
+  "len": 15,
+  "text": "get that flute?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 15,
+  "off": 1960,
+  "len": 17,
+  "text": "{NAME:01}: From Grantes!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 16,
+  "off": 1979,
+  "len": 22,
+  "text": "Grantes gave it to us!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 17,
+  "off": 2045,
+  "len": 32,
+  "text": "Luctes: So, that traitor Grantes",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 18,
+  "off": 2079,
+  "len": 28,
+  "text": "gave it to you. That doesn't",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 19,
+  "off": 2109,
+  "len": 12,
+  "text": "surprise me.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 20,
+  "off": 2124,
+  "len": 27,
+  "text": "Luctes: This is the Soren's",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 21,
+  "off": 2153,
+  "len": 33,
+  "text": "holy place. You earthbound humans",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 22,
+  "off": 2188,
+  "len": 24,
+  "text": "must leave here at once!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 23,
+  "off": 2255,
+  "len": 29,
+  "text": "Luctes: Come! We are leaving!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 24,
+  "off": 2436,
+  "len": 17,
+  "text": "{NAME:02}: What are you,",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 25,
+  "off": 2455,
+  "len": 19,
+  "text": "allies of the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 26,
+  "off": 2476,
+  "len": 28,
+  "text": "Are you protecting the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 27,
+  "off": 2775,
+  "len": 21,
+  "text": "Luctes: How dare you!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 28,
+  "off": 2798,
+  "len": 26,
+  "text": "You can't insult the Soren",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 29,
+  "off": 2826,
+  "len": 10,
+  "text": "like that!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 30,
+  "off": 2861,
+  "len": 25,
+  "text": "{NAME:02}: Then are you prepared",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 31,
+  "off": 2888,
+  "len": 21,
+  "text": "to fight the Mist and",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 32,
+  "off": 2911,
+  "len": 11,
+  "text": "its allies?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 33,
+  "off": 2964,
+  "len": 25,
+  "text": "Luctes: Of course we are!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 34,
+  "off": 2992,
+  "len": 31,
+  "text": "Luctes: That is why we punished",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 35,
+  "off": 3025,
+  "len": 26,
+  "text": "Grantes, for helping build",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 36,
+  "off": 3053,
+  "len": 20,
+  "text": "the Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 37,
+  "off": 3092,
+  "len": 29,
+  "text": "Luctes: Many brave Soren have",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 38,
+  "off": 3123,
+  "len": 26,
+  "text": "died trying to attack the ",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 39,
+  "off": 3151,
+  "len": 16,
+  "text": "Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 40,
+  "off": 3343,
+  "len": 18,
+  "text": "{NAME:01}: Then we should",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 41,
+  "off": 3363,
+  "len": 14,
+  "text": "work together!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 42,
+  "off": 3379,
+  "len": 23,
+  "text": "We're on the same side!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 43,
+  "off": 3427,
+  "len": 26,
+  "text": "{NAME:02}: We revived the Genesis",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 44,
+  "off": 3455,
+  "len": 24,
+  "text": "Tree.  The Mist is gone!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 45,
+  "off": 3497,
+  "len": 14,
+  "text": "Luctes: Hmm...",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 46,
+  "off": 3550,
+  "len": 25,
+  "text": "{NAME:02}: Now we need the power",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 47,
+  "off": 3577,
+  "len": 32,
+  "text": "of the Soren to destroy the Mist",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 48,
+  "off": 3611,
+  "len": 33,
+  "text": "Generator in the Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 49,
+  "off": 3665,
+  "len": 9,
+  "text": "Luctes: !",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 50,
+  "off": 4093,
+  "len": 14,
+  "text": "(Long Silence)",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 51,
+  "off": 4129,
+  "len": 25,
+  "text": "Luctes: Yes, but still...",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 52,
+  "off": 4176,
+  "len": 14,
+  "text": "(Long silence)",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 53,
+  "off": 4223,
+  "len": 16,
+  "text": "Luctes: Alright.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 54,
+  "off": 4494,
+  "len": 26,
+  "text": "Luctes: This is a decision",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 55,
+  "off": 4522,
+  "len": 24,
+  "text": "I cannot make on my own.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 56,
+  "off": 4561,
+  "len": 29,
+  "text": "Luctes: You shall come to our",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 57,
+  "off": 4592,
+  "len": 30,
+  "text": "camp and speak with our Elder!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 58,
+  "off": 4637,
+  "len": 26,
+  "text": "Luctes: Is that agreeable?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 59,
+  "off": 4803,
+  "len": 13,
+  "text": "Luctes: Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 60,
+  "off": 4818,
+  "len": 29,
+  "text": "It makes no difference to me!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 61,
+  "off": 4884,
+  "len": 28,
+  "text": "Luctes: Come! We're leaving!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 62,
+  "off": 4990,
+  "len": 11,
+  "text": "{NAME:02}: W-Wait!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 63,
+  "off": 5003,
+  "len": 17,
+  "text": "{NAME}! Knock it off!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 64,
+  "off": 5022,
+  "len": 26,
+  "text": "This is no time for jokes!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 65,
+  "off": 5070,
+  "len": 35,
+  "text": "Luctes: If you're going to quarrel,",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 66,
+  "off": 5107,
+  "len": 21,
+  "text": "do it somewhere else!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 67,
+  "off": 5131,
+  "len": 29,
+  "text": "Luctes: Will you come with us",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 68,
+  "off": 5162,
+  "len": 12,
+  "text": "to our camp?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 69,
+  "off": 5420,
+  "len": 28,
+  "text": "What's the matter with you?!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 70,
+  "off": 5451,
+  "len": 15,
+  "text": "{NAME:02}: Do you know",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 71,
+  "off": 5468,
+  "len": 19,
+  "text": "what you're saying?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 72,
+  "off": 5490,
+  "len": 26,
+  "text": "{NAME:02}: Stop acting like that!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 73,
+  "off": 5586,
+  "len": 20,
+  "text": "{NAME:02}: Then why did you",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 74,
+  "off": 5608,
+  "len": 24,
+  "text": "revive the Genesis Trees",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 75,
+  "off": 5634,
+  "len": 16,
+  "text": "in Sol and Buma?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 76,
+  "off": 5653,
+  "len": 26,
+  "text": "{NAME:02}: Don't you want to save",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 77,
+  "off": 5681,
+  "len": 24,
+  "text": "the world from the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 78,
+  "off": 5788,
+  "len": 26,
+  "text": "{NAME:02}: Or are you a great big",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 79,
+  "off": 5816,
+  "len": 11,
+  "text": "coward now?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 80,
+  "off": 5858,
+  "len": 31,
+  "text": "{NAME:02}: All this time, we've looked",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 81,
+  "off": 5891,
+  "len": 23,
+  "text": "upon you as the leader.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 82,
+  "off": 5929,
+  "len": 28,
+  "text": "{NAME:02}: But now you're acting as",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 83,
+  "off": 5959,
+  "len": 21,
+  "text": "if you're testing us.",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 84,
+  "off": 5982,
+  "len": 13,
+  "text": "You upset me!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 85,
+  "off": 6113,
+  "len": 20,
+  "text": "{NAME:02}: You shut up, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 86,
+  "off": 6135,
+  "len": 14,
+  "text": "I'm telling {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 87,
+  "off": 6151,
+  "len": 13,
+  "text": "what I think!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 88,
+  "off": 6186,
+  "len": 10,
+  "text": "{NAME:01}: But...",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 89,
+  "off": 6209,
+  "len": 35,
+  "text": "Luctes: I don't have time for this!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 90,
+  "off": 6246,
+  "len": 21,
+  "text": "Argue somewhere else!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 91,
+  "off": 6282,
+  "len": 27,
+  "text": "Luctes: Well, how about it?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 92,
+  "off": 6311,
+  "len": 21,
+  "text": "Will you come with us",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 93,
+  "off": 6334,
+  "len": 12,
+  "text": "to our camp?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 94,
+  "off": 6521,
+  "len": 13,
+  "text": "Luctes: Good!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 95,
+  "off": 6536,
+  "len": 30,
+  "text": "We're going to fly, so hold on",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 96,
+  "off": 6568,
+  "len": 28,
+  "text": "tight! If you fall, you die!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 97,
+  "off": 6793,
+  "len": 26,
+  "text": "Luctes: Carry them gently!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 98,
+  "off": 6821,
+  "len": 20,
+  "text": "Gently, do you hear?",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 99,
+  "off": 6843,
+  "len": 19,
+  "text": "I said G-E-N-T-L-Y!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 100,
+  "off": 7217,
+  "len": 8,
+  "text": "{NAME:01}: Wow!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 101,
+  "off": 7227,
+  "len": 11,
+  "text": "I'm flying!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 102,
+  "off": 7240,
+  "len": 19,
+  "text": "This is incredible!",
+  "ko": ""
+ },
+ {
+  "map": 385,
+  "script": 34,
+  "run": 103,
+  "off": 7426,
+  "len": 16,
+  "text": "{NAME:02}: Woooo! Yeah!",
+  "ko": ""
+ }
+]

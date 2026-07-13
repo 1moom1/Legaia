@@ -1,0 +1,632 @@
+[
+ {
+  "map": 468,
+  "script": 32,
+  "run": 0,
+  "off": 100,
+  "len": 4,
+  "text": ".<18>LI",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 33,
+  "run": 0,
+  "off": 60,
+  "len": 22,
+  "text": "(Silent contemplation)",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 0,
+  "off": 130,
+  "len": 17,
+  "text": "King Nebular: {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 1,
+  "off": 150,
+  "len": 30,
+  "text": "King Nebular: I am thinking of",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 2,
+  "off": 182,
+  "len": 21,
+  "text": "naming this child {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 3,
+  "off": 209,
+  "len": 34,
+  "text": "Queen Minea: That's a lovely name.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 4,
+  "off": 245,
+  "len": 29,
+  "text": "{NAME:01}, the promise of a new era!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 5,
+  "off": 307,
+  "len": 31,
+  "text": "King Nebular: Yes! A new era of",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 6,
+  "off": 340,
+  "len": 35,
+  "text": "prosperity and hope -- that is what",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 7,
+  "off": 377,
+  "len": 22,
+  "text": "this child represents.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 8,
+  "off": 405,
+  "len": 20,
+  "text": "Jette: Your Majesty!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 9,
+  "off": 472,
+  "len": 30,
+  "text": "Jette: Your Majesty! I've come",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 10,
+  "off": 504,
+  "len": 26,
+  "text": "on a most pressing matter!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 11,
+  "off": 536,
+  "len": 27,
+  "text": "King Nebular: Jette, enter.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 12,
+  "off": 809,
+  "len": 29,
+  "text": "Jette: I trust Her Majesty is",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 13,
+  "off": 840,
+  "len": 16,
+  "text": "in good spirits!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 14,
+  "off": 995,
+  "len": 18,
+  "text": "Jette: Actually...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 15,
+  "off": 1015,
+  "len": 23,
+  "text": "(Speaking in low voice)",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 16,
+  "off": 1044,
+  "len": 20,
+  "text": "King Nebular: What?!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 17,
+  "off": 1066,
+  "len": 14,
+  "text": "Cort did that?",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 18,
+  "off": 1086,
+  "len": 31,
+  "text": "Jette: You see, Your Majesty...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 19,
+  "off": 1119,
+  "len": 23,
+  "text": "(Speaking in low voice)",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 20,
+  "off": 1148,
+  "len": 27,
+  "text": "King Nebular: I understand.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 21,
+  "off": 1177,
+  "len": 16,
+  "text": "I'll go at once!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 22,
+  "off": 1632,
+  "len": 33,
+  "text": "Queen Minea: Did something happen",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 23,
+  "off": 1667,
+  "len": 8,
+  "text": "to Cort?",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 24,
+  "off": 1710,
+  "len": 21,
+  "text": "King Nebular: It's...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 25,
+  "off": 1733,
+  "len": 28,
+  "text": "It's nothing to worry about.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 26,
+  "off": 1767,
+  "len": 25,
+  "text": "King Nebular: I'm sure...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 27,
+  "off": 1821,
+  "len": 31,
+  "text": "King Nebular: I can't talk now.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 28,
+  "off": 1854,
+  "len": 30,
+  "text": "I'm going below to investigate",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 29,
+  "off": 1886,
+  "len": 22,
+  "text": "the matter for myself.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 30,
+  "off": 2070,
+  "len": 18,
+  "text": "Queen Minea: {NAME:01}...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 31,
+  "off": 2090,
+  "len": 19,
+  "text": "Conkram's future...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 32,
+  "off": 2111,
+  "len": 14,
+  "text": "Your future...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 33,
+  "off": 2143,
+  "len": 23,
+  "text": "Queen Minea: {NAME:01}, I want",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 34,
+  "off": 2168,
+  "len": 31,
+  "text": "you to have a happy, prosperous",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 35,
+  "off": 2201,
+  "len": 7,
+  "text": "future.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 36,
+  "off": 2275,
+  "len": 15,
+  "text": "<1F>It's the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 37,
+  "off": 2293,
+  "len": 20,
+  "text": "Get rid of the Seru!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 38,
+  "off": 2316,
+  "len": 15,
+  "text": "Lock the doors!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 39,
+  "off": 2958,
+  "len": 4,
+  "text": "4<01>P<",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 40,
+  "off": 3069,
+  "len": 32,
+  "text": "Queen Minea: Courageous soldiers",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 41,
+  "off": 3103,
+  "len": 30,
+  "text": "of Soren, this town of Conkram",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 42,
+  "off": 3135,
+  "len": 14,
+  "text": "will soon die.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 43,
+  "off": 3155,
+  "len": 30,
+  "text": "Queen Minea: I care nothing of",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 44,
+  "off": 3187,
+  "len": 25,
+  "text": "my own life. Let the Mist",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 45,
+  "off": 3214,
+  "len": 8,
+  "text": "take it.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 46,
+  "off": 3251,
+  "len": 32,
+  "text": "Queen Minea: After all, I am the",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 47,
+  "off": 3285,
+  "len": 33,
+  "text": "queen! I must share the same fate",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 48,
+  "off": 3320,
+  "len": 15,
+  "text": "as this nation.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 49,
+  "off": 3341,
+  "len": 27,
+  "text": "Queen Minea: But this newly",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 50,
+  "off": 3370,
+  "len": 17,
+  "text": "born child, {NAME:01}...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 51,
+  "off": 3389,
+  "len": 29,
+  "text": "I want her to see the future!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 52,
+  "off": 3447,
+  "len": 30,
+  "text": "Queen Minea: Please, take this",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 53,
+  "off": 3479,
+  "len": 28,
+  "text": "child to a land untouched by",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 54,
+  "off": 3509,
+  "len": 9,
+  "text": "the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 55,
+  "off": 3524,
+  "len": 26,
+  "text": "Queen Minea: Take her to a",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 56,
+  "off": 3552,
+  "len": 28,
+  "text": "world with a future! Please!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 57,
+  "off": 3609,
+  "len": 26,
+  "text": "Your Majesty, your courage",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 58,
+  "off": 3637,
+  "len": 13,
+  "text": "is inspiring!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 59,
+  "off": 3656,
+  "len": 26,
+  "text": "I will take {NAME:01} as far as I",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 60,
+  "off": 3684,
+  "len": 29,
+  "text": "can, however far that may be.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 61,
+  "off": 3719,
+  "len": 23,
+  "text": "Queen Minea: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 62,
+  "off": 3748,
+  "len": 24,
+  "text": "Queen Minea: Now, hurry!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 63,
+  "off": 3774,
+  "len": 27,
+  "text": "The Mist is getting closer.",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 64,
+  "off": 4014,
+  "len": 15,
+  "text": "Your Majesty...",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 65,
+  "off": 4032,
+  "len": 27,
+  "text": "Queen Minea: Go now! Hurry!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 66,
+  "off": 4061,
+  "len": 20,
+  "text": "The Mist draws near!",
+  "ko": ""
+ },
+ {
+  "map": 468,
+  "script": 55,
+  "run": 67,
+  "off": 4644,
+  "len": 20,
+  "text": "Queen Minea: Oh, {NAME:01}!",
+  "ko": ""
+ }
+]

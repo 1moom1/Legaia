@@ -1,0 +1,1415 @@
+[
+ {
+  "map": 131,
+  "script": 11,
+  "run": 0,
+  "off": 46,
+  "len": 16,
+  "text": "<{NAME:01}'s 1st dream>",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 1,
+  "off": 73,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 2,
+  "off": 102,
+  "len": 16,
+  "text": "<{NAME:01}'s 2nd dream>",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 3,
+  "off": 129,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 4,
+  "off": 158,
+  "len": 16,
+  "text": "<{NAME:01}'s 3rd dream>",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 5,
+  "off": 185,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 6,
+  "off": 214,
+  "len": 15,
+  "text": "<{NAME:01}'s 4th flag>",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 7,
+  "off": 240,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 8,
+  "off": 269,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 9,
+  "off": 291,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 10,
+  "off": 321,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 11,
+  "off": 355,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 12,
+  "off": 361,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 13,
+  "off": 372,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 11,
+  "run": 14,
+  "off": 383,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 0,
+  "off": 190,
+  "len": 14,
+  "text": "Where are you?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 1,
+  "off": 206,
+  "len": 32,
+  "text": "I miss you... I want to see you.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 2,
+  "off": 633,
+  "len": 16,
+  "text": "{NAME:01}: Who's there?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 3,
+  "off": 651,
+  "len": 12,
+  "text": "Who is that?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 4,
+  "off": 665,
+  "len": 20,
+  "text": "Whose voice is that?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 5,
+  "off": 691,
+  "len": 14,
+  "text": "{NAME:01}, my dear...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 6,
+  "off": 707,
+  "len": 32,
+  "text": "Mother can't hear you very well.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 7,
+  "off": 741,
+  "len": 31,
+  "text": "Mother can't see you very well.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 8,
+  "off": 852,
+  "len": 13,
+  "text": "{NAME:01}: M-Mother?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 9,
+  "off": 867,
+  "len": 18,
+  "text": "Are you my mother?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 10,
+  "off": 896,
+  "len": 18,
+  "text": "I want to see you.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 11,
+  "off": 1070,
+  "len": 20,
+  "text": "It's so dark here...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 12,
+  "off": 1092,
+  "len": 16,
+  "text": "Freezing cold...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 13,
+  "off": 1110,
+  "len": 29,
+  "text": "I'm... in the deepest Mist...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 14,
+  "off": 1181,
+  "len": 13,
+  "text": "{NAME:01}: The Mist!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 15,
+  "off": 1196,
+  "len": 27,
+  "text": "You're in the deepest Mist?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 16,
+  "off": 1373,
+  "len": 12,
+  "text": "Mother is...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 17,
+  "off": 1387,
+  "len": 16,
+  "text": "at the source...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 18,
+  "off": 1405,
+  "len": 14,
+  "text": "of the Mist...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 19,
+  "off": 1565,
+  "len": 10,
+  "text": "{NAME:01}: Where?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 20,
+  "off": 1577,
+  "len": 14,
+  "text": "Where are you?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 13,
+  "run": 21,
+  "off": 1593,
+  "len": 23,
+  "text": "Mother! Where are you?!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 0,
+  "off": 183,
+  "len": 7,
+  "text": "Dear...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 1,
+  "off": 219,
+  "len": 23,
+  "text": "Dear...can you feel it?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 2,
+  "off": 244,
+  "len": 8,
+  "text": "It's {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 3,
+  "off": 254,
+  "len": 21,
+  "text": "I feel {NAME:01}'s presence.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 4,
+  "off": 362,
+  "len": 7,
+  "text": "Ah, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 5,
+  "off": 371,
+  "len": 21,
+  "text": "I can sense her, too!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 6,
+  "off": 394,
+  "len": 21,
+  "text": "It's {NAME:01}! My daughter!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 7,
+  "off": 418,
+  "len": 10,
+  "text": "So warm...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 8,
+  "off": 430,
+  "len": 18,
+  "text": "Such a pure heart.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 9,
+  "off": 450,
+  "len": 27,
+  "text": "She's growing up healthily.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 10,
+  "off": 506,
+  "len": 22,
+  "text": "She seems to have made",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 11,
+  "off": 530,
+  "len": 23,
+  "text": "some wonderful friends.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 12,
+  "off": 852,
+  "len": 14,
+  "text": "{NAME:01}: Who is it?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 13,
+  "off": 868,
+  "len": 12,
+  "text": "Who's there?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 14,
+  "off": 893,
+  "len": 16,
+  "text": "Can you hear me?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 15,
+  "off": 911,
+  "len": 10,
+  "text": "It's me...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 16,
+  "off": 927,
+  "len": 14,
+  "text": "Your father...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 17,
+  "off": 1048,
+  "len": 14,
+  "text": "{NAME:01}: My father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 18,
+  "off": 1064,
+  "len": 26,
+  "text": "Father! Is it you, Father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 19,
+  "off": 1092,
+  "len": 21,
+  "text": "Is Mother there, too?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 20,
+  "off": 1134,
+  "len": 19,
+  "text": "Yes. Both of us are",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 21,
+  "off": 1155,
+  "len": 22,
+  "text": "watching over you, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 22,
+  "off": 1256,
+  "len": 8,
+  "text": "{NAME:01}: I...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 23,
+  "off": 1266,
+  "len": 26,
+  "text": "I want to see you, Father!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 24,
+  "off": 1294,
+  "len": 26,
+  "text": "I want to see Mother, too!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 25,
+  "off": 1326,
+  "len": 23,
+  "text": "And we want to see you.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 26,
+  "off": 1351,
+  "len": 6,
+  "text": "But...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 27,
+  "off": 1480,
+  "len": 25,
+  "text": "We are trapped in eternal",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 28,
+  "off": 1507,
+  "len": 9,
+  "text": "darkness.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 29,
+  "off": 1591,
+  "len": 34,
+  "text": "All we... can do... is send you...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 30,
+  "off": 1627,
+  "len": 30,
+  "text": "our words... through your pure",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 31,
+  "off": 1659,
+  "len": 26,
+  "text": "heart... in your dreams...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 32,
+  "off": 1714,
+  "len": 29,
+  "text": "It pains me... to send you...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 33,
+  "off": 1745,
+  "len": 25,
+  "text": "our words... like this...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 34,
+  "off": 1847,
+  "len": 11,
+  "text": "{NAME:01}: Father!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 35,
+  "off": 1913,
+  "len": 34,
+  "text": "Mother... wants to see you, too...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 36,
+  "off": 1956,
+  "len": 27,
+  "text": "We're... waiting for you...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 37,
+  "off": 2216,
+  "len": 17,
+  "text": "{NAME:01}: Just hang on,",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 38,
+  "off": 2235,
+  "len": 18,
+  "text": "Mother and Father.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 39,
+  "off": 2255,
+  "len": 19,
+  "text": "I'll be there soon!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 40,
+  "off": 2294,
+  "len": 26,
+  "text": "{NAME:01}: I'm coming. I'll go to",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 41,
+  "off": 2322,
+  "len": 25,
+  "text": "where the deepest Mist is",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 14,
+  "run": 42,
+  "off": 2349,
+  "len": 11,
+  "text": "to see you!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 0,
+  "off": 303,
+  "len": 11,
+  "text": "{NAME:01}: Father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 1,
+  "off": 316,
+  "len": 20,
+  "text": "Is that you, Father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 2,
+  "off": 413,
+  "len": 18,
+  "text": "There is something",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 3,
+  "off": 433,
+  "len": 16,
+  "text": "I must tell you.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 4,
+  "off": 455,
+  "len": 9,
+  "text": "{NAME:01}: What?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 5,
+  "off": 554,
+  "len": 20,
+  "text": "In the past, we made",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 6,
+  "off": 576,
+  "len": 19,
+  "text": "a horrible mistake.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 7,
+  "off": 601,
+  "len": 11,
+  "text": "{NAME:01}: Mother?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 8,
+  "off": 716,
+  "len": 28,
+  "text": "Something we could not undo.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 9,
+  "off": 746,
+  "len": 24,
+  "text": "That mistake is what has",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 10,
+  "off": 772,
+  "len": 23,
+  "text": "devastated the world...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 11,
+  "off": 801,
+  "len": 28,
+  "text": "It is also what has kept us ",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 12,
+  "off": 831,
+  "len": 22,
+  "text": "separated for so long.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 13,
+  "off": 911,
+  "len": 34,
+  "text": "Now we are paying for that mistake",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 14,
+  "off": 947,
+  "len": 32,
+  "text": "by being trapped in this eternal",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 15,
+  "off": 981,
+  "len": 22,
+  "text": "darkness of deep Mist.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 16,
+  "off": 1043,
+  "len": 26,
+  "text": "You must undo the mistake ",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 17,
+  "off": 1071,
+  "len": 29,
+  "text": "that led to this devastation!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 18,
+  "off": 1106,
+  "len": 25,
+  "text": "We can give you the power",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 19,
+  "off": 1133,
+  "len": 15,
+  "text": "to change fate!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 20,
+  "off": 1183,
+  "len": 15,
+  "text": "{NAME:01}, come to us,",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 21,
+  "off": 1200,
+  "len": 21,
+  "text": "so that we can atone.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 22,
+  "off": 1385,
+  "len": 18,
+  "text": "{NAME:01}: Where are you?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 23,
+  "off": 1405,
+  "len": 18,
+  "text": "Where should I go?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 24,
+  "off": 1452,
+  "len": 10,
+  "text": "In Conk...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 25,
+  "off": 1464,
+  "len": 20,
+  "text": "You can... change...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 26,
+  "off": 1486,
+  "len": 8,
+  "text": "fate...!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 27,
+  "off": 1684,
+  "len": 11,
+  "text": "{NAME:01}: Mother!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 28,
+  "off": 1697,
+  "len": 8,
+  "text": "I'll go!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 15,
+  "run": 29,
+  "off": 1707,
+  "len": 25,
+  "text": "I'll find you! I promise!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 0,
+  "off": 372,
+  "len": 11,
+  "text": "{NAME:01}: Father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 1,
+  "off": 385,
+  "len": 7,
+  "text": "Mother?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 2,
+  "off": 495,
+  "len": 33,
+  "text": "I feel your presence so strongly.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 3,
+  "off": 530,
+  "len": 21,
+  "text": "You're right near us.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 4,
+  "off": 554,
+  "len": 30,
+  "text": "But this will be the last time",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 5,
+  "off": 586,
+  "len": 26,
+  "text": "we can send you our words.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 6,
+  "off": 687,
+  "len": 5,
+  "text": "He...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 7,
+  "off": 694,
+  "len": 20,
+  "text": "He has found us out.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 8,
+  "off": 720,
+  "len": 12,
+  "text": "{NAME:01}: Who has?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 9,
+  "off": 734,
+  "len": 26,
+  "text": "Who are you talking about?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 10,
+  "off": 835,
+  "len": 28,
+  "text": "The man who brought the Mist",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 11,
+  "off": 865,
+  "len": 15,
+  "text": "into the world.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 12,
+  "off": 932,
+  "len": 32,
+  "text": "The man who invaded the realm of",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 13,
+  "off": 966,
+  "len": 29,
+  "text": "the gods by changing the Seru",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 14,
+  "off": 997,
+  "len": 26,
+  "text": "and creating the Sim-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 15,
+  "off": 1029,
+  "len": 11,
+  "text": "His name...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 16,
+  "off": 1046,
+  "len": 12,
+  "text": "He is Cor...",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 17,
+  "off": 1335,
+  "len": 11,
+  "text": "{NAME:01}: Father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 18,
+  "off": 1483,
+  "len": 11,
+  "text": "{NAME:01}: Mother?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 19,
+  "off": 1569,
+  "len": 15,
+  "text": "Ha, ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 20,
+  "off": 1740,
+  "len": 16,
+  "text": "{NAME:01}: Who is that?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 21,
+  "off": 1758,
+  "len": 12,
+  "text": "Who's there?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 22,
+  "off": 1776,
+  "len": 13,
+  "text": "Ha, ha, haaa!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 23,
+  "off": 1818,
+  "len": 22,
+  "text": "How desperate you are!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 24,
+  "off": 1842,
+  "len": 15,
+  "text": "{NAME:01}! Foolish {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 25,
+  "off": 1859,
+  "len": 33,
+  "text": "I don't need to give you my name!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 26,
+  "off": 1903,
+  "len": 26,
+  "text": "You and that idiot Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 27,
+  "off": 1931,
+  "len": 26,
+  "text": "can struggle all you want!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 28,
+  "off": 1963,
+  "len": 22,
+  "text": "The more you struggle,",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 29,
+  "off": 1987,
+  "len": 20,
+  "text": "the more I can taste",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 30,
+  "off": 2009,
+  "len": 13,
+  "text": "your despair!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 31,
+  "off": 2116,
+  "len": 12,
+  "text": "{NAME:01}: Bastard!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 32,
+  "off": 2130,
+  "len": 32,
+  "text": "What have you done to my mother?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 33,
+  "off": 2164,
+  "len": 32,
+  "text": "What have you done to my father?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 34,
+  "off": 2253,
+  "len": 34,
+  "text": "Listen well, and I shall tell you!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 35,
+  "off": 2293,
+  "len": 30,
+  "text": "If you have the power, come to",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 36,
+  "off": 2325,
+  "len": 29,
+  "text": "Conkram for yourself and see.",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 37,
+  "off": 2356,
+  "len": 23,
+  "text": "Your parents are there!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 38,
+  "off": 2385,
+  "len": 12,
+  "text": "{NAME:01}: Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 39,
+  "off": 2638,
+  "len": 16,
+  "text": "{NAME:01}: You bastard!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 40,
+  "off": 2656,
+  "len": 17,
+  "text": "Where did you go?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 41,
+  "off": 2675,
+  "len": 27,
+  "text": "Don't you run away from me!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 42,
+  "off": 2802,
+  "len": 25,
+  "text": "{NAME:01}: Are you afraid of me?",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 43,
+  "off": 2829,
+  "len": 9,
+  "text": "Fight me!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 44,
+  "off": 2840,
+  "len": 20,
+  "text": "I'll kick your butt!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 45,
+  "off": 3002,
+  "len": 18,
+  "text": "{NAME:01}: Faaaatherrr!!!",
+  "ko": ""
+ },
+ {
+  "map": 131,
+  "script": 16,
+  "run": 46,
+  "off": 3044,
+  "len": 17,
+  "text": "{NAME:01}: Oh, Mother!!!",
+  "ko": ""
+ }
+]

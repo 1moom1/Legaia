@@ -1,0 +1,434 @@
+[
+ {
+  "map": 599,
+  "script": 12,
+  "run": 0,
+  "off": 34,
+  "len": 11,
+  "text": "Well, well.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 0,
+  "off": 98,
+  "len": 14,
+  "text": "wait a minute!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 1,
+  "off": 180,
+  "len": 29,
+  "text": "I need to tell you something.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 2,
+  "off": 335,
+  "len": 27,
+  "text": "{NAME:02}. We want to thank you...",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 3,
+  "off": 364,
+  "len": 30,
+  "text": "From the bottom of our hearts!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 4,
+  "off": 397,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: I am so fortunate to",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 5,
+  "off": 427,
+  "len": 32,
+  "text": "have joined up with young people",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 6,
+  "off": 461,
+  "len": 9,
+  "text": "like you!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 7,
+  "off": 550,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: When Tieg divided his",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 8,
+  "off": 581,
+  "len": 28,
+  "text": "body into three, the Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 9,
+  "off": 611,
+  "len": 15,
+  "text": "acquired order.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 10,
+  "off": 629,
+  "len": 34,
+  "text": "{PAL:5}{M7:02}{PAL:7}: To permit humans to decide",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 11,
+  "off": 665,
+  "len": 32,
+  "text": "their own fate, Ra-Seru resolved",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 12,
+  "off": 699,
+  "len": 29,
+  "text": "to stay out of human affairs.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 13,
+  "off": 808,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But we were just a little",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 14,
+  "off": 843,
+  "len": 35,
+  "text": "worried whether humans could really",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 15,
+  "off": 880,
+  "len": 20,
+  "text": "get by on their own.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 16,
+  "off": 903,
+  "len": 36,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That's why Meta, Ozma, and I",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 17,
+  "off": 941,
+  "len": 24,
+  "text": "came to the human world.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 18,
+  "off": 1045,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: Our mission was to ",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 19,
+  "off": 1074,
+  "len": 23,
+  "text": "restore order after the",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 20,
+  "off": 1099,
+  "len": 32,
+  "text": "Mist endangered the human world.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 21,
+  "off": 1134,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: The Genesis Tree was",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 22,
+  "off": 1164,
+  "len": 34,
+  "text": "also a means of maintaining order.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 23,
+  "off": 1278,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: But in the end, as you",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 24,
+  "off": 1310,
+  "len": 11,
+  "text": "all know...",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 25,
+  "off": 1324,
+  "len": 32,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Humans, possessed by the",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 26,
+  "off": 1358,
+  "len": 29,
+  "text": "Mist, took over the Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 27,
+  "off": 1467,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I do not know for certain",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 28,
+  "off": 1502,
+  "len": 32,
+  "text": "what transpires in the Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 29,
+  "off": 1537,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But you can free the human",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 30,
+  "off": 1573,
+  "len": 31,
+  "text": "world! I am sure you can do it!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 31,
+  "off": 1648,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 32,
+  "off": 1660,
+  "len": 20,
+  "text": "Where are you going?",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 33,
+  "off": 1682,
+  "len": 23,
+  "text": "I don't want you to go!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 34,
+  "off": 1783,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, don't be silly.",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 35,
+  "off": 1812,
+  "len": 31,
+  "text": "Long ago, I made you a promise,",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 36,
+  "off": 1845,
+  "len": 20,
+  "text": "right? I promised...",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 37,
+  "off": 1868,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: This old wolf would",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 38,
+  "off": 1897,
+  "len": 29,
+  "text": "stay with you no matter what!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 39,
+  "off": 1928,
+  "len": 29,
+  "text": "That's what we agreed, right?",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 40,
+  "off": 2001,
+  "len": 9,
+  "text": "{NAME:01}: Yeah!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 41,
+  "off": 2013,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 42,
+  "off": 2025,
+  "len": 27,
+  "text": "You promised! You promised,",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 43,
+  "off": 2054,
+  "len": 16,
+  "text": "so don't forget!",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 44,
+  "off": 2124,
+  "len": 22,
+  "text": "{NAME:02}: Alright! It's time",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 45,
+  "off": 2148,
+  "len": 25,
+  "text": "to free the Seru-kai from",
+  "ko": ""
+ },
+ {
+  "map": 599,
+  "script": 28,
+  "run": 46,
+  "off": 2175,
+  "len": 18,
+  "text": "the grasp of Evil!",
+  "ko": ""
+ }
+]

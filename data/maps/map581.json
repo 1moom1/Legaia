@@ -1,0 +1,2090 @@
+[
+ {
+  "map": 581,
+  "script": 8,
+  "run": 0,
+  "off": 37,
+  "len": 16,
+  "text": "Oh, hello there!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 1,
+  "off": 55,
+  "len": 24,
+  "text": "Welcome to Kiddie House!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 2,
+  "off": 82,
+  "len": 32,
+  "text": "We take care of children who are",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 3,
+  "off": 116,
+  "len": 32,
+  "text": "all alone now. Some have parents",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 4,
+  "off": 150,
+  "len": 20,
+  "text": "on the lower floors.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 5,
+  "off": 175,
+  "len": 34,
+  "text": "I thought their parents would come",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 6,
+  "off": 211,
+  "len": 29,
+  "text": "back when the Mist cleared...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 7,
+  "off": 243,
+  "len": 30,
+  "text": "But unfortunately not too many",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 8,
+  "off": 275,
+  "len": 34,
+  "text": "came back. Maybe because they were",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 9,
+  "off": 311,
+  "len": 26,
+  "text": "in the Mist for so long...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 10,
+  "off": 340,
+  "len": 25,
+  "text": "Or maybe because of Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 8,
+  "run": 11,
+  "off": 367,
+  "len": 25,
+  "text": "No one knows for certain.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 0,
+  "off": 37,
+  "len": 31,
+  "text": "The townspeople are complaining",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 1,
+  "off": 70,
+  "len": 31,
+  "text": "about how sad they are or about",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 2,
+  "off": 103,
+  "len": 27,
+  "text": "how empty they feel, but...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 3,
+  "off": 133,
+  "len": 31,
+  "text": "But here with the kids, I'm too",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 4,
+  "off": 166,
+  "len": 30,
+  "text": "busy to complain or feel sorry",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 5,
+  "off": 198,
+  "len": 11,
+  "text": "for myself.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 6,
+  "off": 214,
+  "len": 30,
+  "text": "I'm going to tell the children",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 7,
+  "off": 246,
+  "len": 35,
+  "text": "that you were the legendary Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 9,
+  "run": 8,
+  "off": 283,
+  "len": 17,
+  "text": "and brave heroes!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 0,
+  "off": 41,
+  "len": 17,
+  "text": "Do you know Cara?",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 1,
+  "off": 184,
+  "len": 24,
+  "text": "I know she calls herself",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 2,
+  "off": 210,
+  "len": 15,
+  "text": "a thief, but...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 3,
+  "off": 228,
+  "len": 29,
+  "text": "She's really a gentle person.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 4,
+  "off": 259,
+  "len": 30,
+  "text": "Besides, there are reasons she",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 5,
+  "off": 291,
+  "len": 28,
+  "text": "goes into the Mist to steal.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 6,
+  "off": 322,
+  "len": 25,
+  "text": "One of them is to pay the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 7,
+  "off": 349,
+  "len": 24,
+  "text": "operating expenses here.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 8,
+  "off": 376,
+  "len": 29,
+  "text": "Another reason... Oh, I don't",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 9,
+  "off": 407,
+  "len": 31,
+  "text": "know if I should tell you this,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 10,
+  "off": 440,
+  "len": 6,
+  "text": "but...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 11,
+  "off": 449,
+  "len": 32,
+  "text": "Cara said she steals so that she",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 12,
+  "off": 483,
+  "len": 30,
+  "text": "won't regret the love she had.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 13,
+  "off": 516,
+  "len": 30,
+  "text": "I don't really understand what",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 14,
+  "off": 548,
+  "len": 30,
+  "text": "that means, but it sure sounds",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 15,
+  "off": 580,
+  "len": 21,
+  "text": "complicated and deep.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 16,
+  "off": 606,
+  "len": 10,
+  "text": "Oh, I see.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 17,
+  "off": 618,
+  "len": 30,
+  "text": "Well, Cara is a very wonderful",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 18,
+  "off": 650,
+  "len": 7,
+  "text": "person.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 19,
+  "off": 662,
+  "len": 31,
+  "text": "She hasn't come around here for",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 20,
+  "off": 695,
+  "len": 30,
+  "text": "a while. I wonder if something",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 21,
+  "off": 727,
+  "len": 16,
+  "text": "happened to her.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 22,
+  "off": 748,
+  "len": 29,
+  "text": "For ten years Cara had such a",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 10,
+  "run": 23,
+  "off": 779,
+  "len": 10,
+  "text": "hard time.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 11,
+  "run": 0,
+  "off": 35,
+  "len": 32,
+  "text": "I don't need any father, I don't",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 11,
+  "run": 1,
+  "off": 69,
+  "len": 32,
+  "text": "need any mother. I just need the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 11,
+  "run": 2,
+  "off": 103,
+  "len": 29,
+  "text": "lady who can take care of us!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 11,
+  "run": 3,
+  "off": 137,
+  "len": 18,
+  "text": "Mommy and Daddy...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 11,
+  "run": 4,
+  "off": 158,
+  "len": 22,
+  "text": "They didn't come home.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 0,
+  "off": 35,
+  "len": 28,
+  "text": "I hope Cara comes back soon.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 1,
+  "off": 65,
+  "len": 26,
+  "text": "Cara is really nice to us.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 2,
+  "off": 96,
+  "len": 26,
+  "text": "If I study hard, will I be",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 3,
+  "off": 124,
+  "len": 25,
+  "text": "a brave warrior like you,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 4,
+  "off": 280,
+  "len": 33,
+  "text": "Oh! Then I'm going to study hard!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 5,
+  "off": 318,
+  "len": 10,
+  "text": "I knew it.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 12,
+  "run": 6,
+  "off": 330,
+  "len": 22,
+  "text": "That's what I thought.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 13,
+  "run": 0,
+  "off": 35,
+  "len": 28,
+  "text": "North of Sol is Dr. Usha. He",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 13,
+  "run": 1,
+  "off": 65,
+  "len": 16,
+  "text": "is sooooo smart!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 13,
+  "run": 2,
+  "off": 86,
+  "len": 31,
+  "text": "I want to meet Dr. Usha. I want",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 13,
+  "run": 3,
+  "off": 119,
+  "len": 21,
+  "text": "him to be my teacher!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 0,
+  "off": 39,
+  "len": 31,
+  "text": "You know what? There are people",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 1,
+  "off": 72,
+  "len": 33,
+  "text": "called Soren, and they have Seru,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 2,
+  "off": 107,
+  "len": 17,
+  "text": "and they can fly!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 3,
+  "off": 129,
+  "len": 29,
+  "text": "I bet the Soren could take me",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 4,
+  "off": 160,
+  "len": 25,
+  "text": "to the Mist castle way up",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 5,
+  "off": 187,
+  "len": 11,
+  "text": "in the sky!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 6,
+  "off": 203,
+  "len": 30,
+  "text": "The Mist castle got destroyed?",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 14,
+  "run": 7,
+  "off": 235,
+  "len": 11,
+  "text": "Wow! Neato!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 15,
+  "run": 0,
+  "off": 39,
+  "len": 27,
+  "text": "Um, Cara? She always brings",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 15,
+  "run": 1,
+  "off": 68,
+  "len": 20,
+  "text": "us lots of presents!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 15,
+  "run": 2,
+  "off": 93,
+  "len": 35,
+  "text": "But I don't want any more presents.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 15,
+  "run": 3,
+  "off": 130,
+  "len": 30,
+  "text": "I just want Cara to come back!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 15,
+  "run": 4,
+  "off": 165,
+  "len": 33,
+  "text": "But the lady who takes care of us",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 15,
+  "run": 5,
+  "off": 200,
+  "len": 30,
+  "text": "said that Cara will come back.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 16,
+  "run": 0,
+  "off": 35,
+  "len": 14,
+  "text": "Goo goo ga ga!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 17,
+  "run": 0,
+  "off": 35,
+  "len": 14,
+  "text": "Goo goo ga ga!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 0,
+  "off": 33,
+  "len": 29,
+  "text": "That Gaza, what a sad fellow.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 1,
+  "off": 64,
+  "len": 27,
+  "text": "He used to be so dedicated!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 2,
+  "off": 93,
+  "len": 22,
+  "text": "Now his heart is dead.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 3,
+  "off": 120,
+  "len": 26,
+  "text": "I see. So the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 4,
+  "off": 148,
+  "len": 32,
+  "text": "was revived and Gaza is dead....",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 5,
+  "off": 183,
+  "len": 22,
+  "text": "He was too zealous. He",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 6,
+  "off": 207,
+  "len": 29,
+  "text": "confused his methods with his",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 18,
+  "run": 7,
+  "off": 238,
+  "len": 11,
+  "text": "objectives.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 0,
+  "off": 33,
+  "len": 33,
+  "text": "I told him that the Seru he kills",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 1,
+  "off": 68,
+  "len": 25,
+  "text": "may have been human once.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 2,
+  "off": 96,
+  "len": 30,
+  "text": "That he may be killing his own",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 3,
+  "off": 128,
+  "len": 24,
+  "text": "friends and townspeople.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 4,
+  "off": 154,
+  "len": 23,
+  "text": "But he wouldn't listen.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 5,
+  "off": 182,
+  "len": 34,
+  "text": "The reason that hardly anyone came",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 6,
+  "off": 218,
+  "len": 30,
+  "text": "back after the Mist cleared is",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 7,
+  "off": 250,
+  "len": 29,
+  "text": "because Gaza killed them all!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 8,
+  "off": 282,
+  "len": 32,
+  "text": "That's what some people say. But",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 9,
+  "off": 316,
+  "len": 35,
+  "text": "I can't bring myself to blame Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 10,
+  "off": 354,
+  "len": 32,
+  "text": "After all, if there was no Mist,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 11,
+  "off": 388,
+  "len": 29,
+  "text": "this tragedy never would have",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 12,
+  "off": 419,
+  "len": 9,
+  "text": "happened.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 13,
+  "off": 431,
+  "len": 29,
+  "text": "Gaza is a victim of the Mist,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 19,
+  "run": 14,
+  "off": 462,
+  "len": 4,
+  "text": "too.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 0,
+  "off": 37,
+  "len": 17,
+  "text": "Mar? Is that you?",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 1,
+  "off": 57,
+  "len": 25,
+  "text": "No, of course not. Sorry,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 2,
+  "off": 84,
+  "len": 31,
+  "text": "I thought that young lady there",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 3,
+  "off": 117,
+  "len": 24,
+  "text": "was someone I knew once.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 4,
+  "off": 144,
+  "len": 32,
+  "text": "Mar was one of Gaza's grandkids.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 5,
+  "off": 178,
+  "len": 31,
+  "text": "Do you want to hear that story?",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 6,
+  "off": 335,
+  "len": 24,
+  "text": "Oh, alright. Never mind.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 7,
+  "off": 364,
+  "len": 29,
+  "text": "Gaza had a son named Theodore",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 8,
+  "off": 395,
+  "len": 26,
+  "text": "and two grandkids, Mar and",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 9,
+  "off": 423,
+  "len": 6,
+  "text": "Belde.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 10,
+  "off": 432,
+  "len": 28,
+  "text": "One day, in the Mist, in the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 11,
+  "off": 462,
+  "len": 33,
+  "text": "lower levels of Sol, right before",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 12,
+  "off": 497,
+  "len": 14,
+  "text": "Gaza's eyes...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 13,
+  "off": 514,
+  "len": 31,
+  "text": "The Seru monsters killed Gaza's",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 14,
+  "off": 547,
+  "len": 18,
+  "text": "son and grandkids.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 15,
+  "off": 568,
+  "len": 30,
+  "text": "That's what made Gaza run mad.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 16,
+  "off": 600,
+  "len": 30,
+  "text": "All he had left was his sword.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 17,
+  "off": 635,
+  "len": 30,
+  "text": "His only reason for living was",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 18,
+  "off": 667,
+  "len": 25,
+  "text": "to kill Seru monsters and",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 19,
+  "off": 694,
+  "len": 26,
+  "text": "perfect his swordsmanship.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 20,
+  "off": 725,
+  "len": 30,
+  "text": "Sol's people lost all hope and",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 21,
+  "off": 757,
+  "len": 25,
+  "text": "the ability to envision a",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 22,
+  "off": 784,
+  "len": 27,
+  "text": "bright future without Mist.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 23,
+  "off": 814,
+  "len": 31,
+  "text": "Despair, weakness and apathy...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 24,
+  "off": 847,
+  "len": 30,
+  "text": "That's what turned Gaza into a",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 25,
+  "off": 879,
+  "len": 24,
+  "text": "monster and set it free.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 26,
+  "off": 906,
+  "len": 21,
+  "text": "Maybe Gaza gave up on",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 27,
+  "off": 929,
+  "len": 15,
+  "text": "the human race.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 28,
+  "off": 949,
+  "len": 26,
+  "text": "You're {NAME:01}, right? You look",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 29,
+  "off": 977,
+  "len": 33,
+  "text": "just like Gaza's dead grandchild,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 20,
+  "run": 30,
+  "off": 1012,
+  "len": 4,
+  "text": "Mar.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 0,
+  "off": 33,
+  "len": 29,
+  "text": "The Mist is the real villain.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 1,
+  "off": 65,
+  "len": 29,
+  "text": "Gaza vowed to himself and his",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 2,
+  "off": 96,
+  "len": 30,
+  "text": "sword to kill Seru and perfect",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 3,
+  "off": 128,
+  "len": 18,
+  "text": "his swordsmanship.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 4,
+  "off": 151,
+  "len": 33,
+  "text": "To think that Gaza, who hated the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 5,
+  "off": 186,
+  "len": 31,
+  "text": "Mist more than anyone and hated",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 6,
+  "off": 219,
+  "len": 28,
+  "text": "the Seru more than anyone...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 7,
+  "off": 250,
+  "len": 31,
+  "text": "...would give himself up to the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 8,
+  "off": 283,
+  "len": 18,
+  "text": "Mist and the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 21,
+  "run": 9,
+  "off": 303,
+  "len": 20,
+  "text": "What an ironic fate.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 0,
+  "off": 33,
+  "len": 32,
+  "text": "What'll be really frightening is",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 1,
+  "off": 67,
+  "len": 25,
+  "text": "when the Mist disappears!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 2,
+  "off": 95,
+  "len": 29,
+  "text": "When the Mist disappears from",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 3,
+  "off": 126,
+  "len": 29,
+  "text": "Sol, the Seru will disappear.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 4,
+  "off": 158,
+  "len": 33,
+  "text": "When that happens, Gaza will lose",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 5,
+  "off": 193,
+  "len": 30,
+  "text": "his reason for living, and his",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 6,
+  "off": 225,
+  "len": 15,
+  "text": "spirit may die.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 7,
+  "off": 249,
+  "len": 30,
+  "text": "People wearing Seru aren't the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 8,
+  "off": 281,
+  "len": 29,
+  "text": "only ones the Mist makes mad!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 9,
+  "off": 313,
+  "len": 32,
+  "text": "Even those who survive are eaten",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 10,
+  "off": 347,
+  "len": 30,
+  "text": "away with hatred for the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 11,
+  "off": 379,
+  "len": 19,
+  "text": "That's frightening!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 12,
+  "off": 403,
+  "len": 23,
+  "text": "All of us hope that the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 13,
+  "off": 428,
+  "len": 24,
+  "text": "Mist will disappear from",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 22,
+  "run": 14,
+  "off": 454,
+  "len": 22,
+  "text": "all of Legaia someday.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 23,
+  "run": 0,
+  "off": 29,
+  "len": 31,
+  "text": "Gaza sometimes stops here after",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 23,
+  "run": 1,
+  "off": 62,
+  "len": 33,
+  "text": "he returns from the lower levels.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 23,
+  "run": 2,
+  "off": 100,
+  "len": 34,
+  "text": "In the end, Gaza must have come to",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 23,
+  "run": 3,
+  "off": 136,
+  "len": 11,
+  "text": "his senses.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 0,
+  "off": 31,
+  "len": 27,
+  "text": "I collected Seru samples in",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 1,
+  "off": 60,
+  "len": 26,
+  "text": "Uru Mais under orders from",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 2,
+  "off": 88,
+  "len": 19,
+  "text": "Emperor Etora VIII.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 3,
+  "off": 116,
+  "len": 31,
+  "text": "If you guys can travel outside,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 4,
+  "off": 149,
+  "len": 26,
+  "text": "you should go to Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 5,
+  "off": 180,
+  "len": 31,
+  "text": "There are more than just one or",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 6,
+  "off": 213,
+  "len": 27,
+  "text": "two mysteries waiting to be",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 24,
+  "run": 7,
+  "off": 242,
+  "len": 21,
+  "text": "revealed in Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 25,
+  "run": 0,
+  "off": 31,
+  "len": 29,
+  "text": "Emperor Etora VIII of Sol was",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 25,
+  "run": 1,
+  "off": 62,
+  "len": 26,
+  "text": "engulfed by the Mist while",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 25,
+  "run": 2,
+  "off": 90,
+  "len": 33,
+  "text": "commanding the front-line troops.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 25,
+  "run": 3,
+  "off": 128,
+  "len": 31,
+  "text": "I hear that down there, Emperor",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 25,
+  "run": 4,
+  "off": 161,
+  "len": 33,
+  "text": "Etora was released from the curse",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 25,
+  "run": 5,
+  "off": 196,
+  "len": 21,
+  "text": "of the Mist, as well.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 0,
+  "off": 35,
+  "len": 32,
+  "text": "I heard from a girl who works at",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 1,
+  "off": 69,
+  "len": 11,
+  "text": "the cafe...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 2,
+  "off": 83,
+  "len": 31,
+  "text": "...that a young Soren man had a",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 3,
+  "off": 116,
+  "len": 33,
+  "text": "tragic love affair in Buma before",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 4,
+  "off": 151,
+  "len": 14,
+  "text": "the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 5,
+  "off": 170,
+  "len": 34,
+  "text": "I'm sure you want to hear the rest",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 6,
+  "off": 206,
+  "len": 32,
+  "text": "of the story of the tragedy that",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 7,
+  "off": 240,
+  "len": 19,
+  "text": "took place at Buma.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 8,
+  "off": 264,
+  "len": 33,
+  "text": "That's right -- the Buma story is",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 9,
+  "off": 299,
+  "len": 30,
+  "text": "the story of Cara and Grantes.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 10,
+  "off": 332,
+  "len": 34,
+  "text": "But this story has a happy ending,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 11,
+  "off": 368,
+  "len": 28,
+  "text": "not a sad ending. That's the",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 26,
+  "run": 12,
+  "off": 398,
+  "len": 10,
+  "text": "good part.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 27,
+  "run": 0,
+  "off": 31,
+  "len": 35,
+  "text": "Because of the war, the arms dealer",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 27,
+  "run": 1,
+  "off": 68,
+  "len": 33,
+  "text": "downstairs has a better selection",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 27,
+  "run": 2,
+  "off": 103,
+  "len": 22,
+  "text": "than they do upstairs.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 27,
+  "run": 3,
+  "off": 130,
+  "len": 27,
+  "text": "I hear the arms dealers and",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 27,
+  "run": 4,
+  "off": 159,
+  "len": 30,
+  "text": "accessory shops downstairs are",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 27,
+  "run": 5,
+  "off": 191,
+  "len": 32,
+  "text": "open again. I think I'll go see.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 0,
+  "off": 14,
+  "len": 4,
+  "text": "<B9>%L@",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 1,
+  "off": 31,
+  "len": 23,
+  "text": "Yeah, the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 2,
+  "off": 57,
+  "len": 34,
+  "text": "In the deepest cavern under Sol is",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 3,
+  "off": 93,
+  "len": 29,
+  "text": "Warrior's Square. There was a",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 4,
+  "off": 124,
+  "len": 19,
+  "text": "Genesis Tree there.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 5,
+  "off": 146,
+  "len": 32,
+  "text": "But they say the Genesis Tree is",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 6,
+  "off": 180,
+  "len": 9,
+  "text": "gone now.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 7,
+  "off": 198,
+  "len": 34,
+  "text": "\"When you're in trouble, go to Dr.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 8,
+  "off": 234,
+  "len": 33,
+  "text": "Usha\" -- that's what they used to",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 9,
+  "off": 269,
+  "len": 34,
+  "text": "say. I wonder if Dr. Usha is safe?",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 10,
+  "off": 308,
+  "len": 34,
+  "text": "Dr. Usha's wife is a very refined,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 28,
+  "run": 11,
+  "off": 344,
+  "len": 22,
+  "text": "gentle person, I hear.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 0,
+  "off": 31,
+  "len": 33,
+  "text": "Now I remember. I did hear of it,",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 1,
+  "off": 66,
+  "len": 29,
+  "text": "several years before the Mist",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 2,
+  "off": 97,
+  "len": 32,
+  "text": "came from the Floating Castle...",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 3,
+  "off": 132,
+  "len": 30,
+  "text": "I heard that some strange mist",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 4,
+  "off": 164,
+  "len": 30,
+  "text": "had appeared in Conkram during",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 5,
+  "off": 196,
+  "len": 17,
+  "text": "the war with Sol.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 6,
+  "off": 216,
+  "len": 32,
+  "text": "But thanks to the brave deeds of",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 7,
+  "off": 250,
+  "len": 34,
+  "text": "three strange travelers, that mist",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 8,
+  "off": 286,
+  "len": 12,
+  "text": "disappeared.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 9,
+  "off": 301,
+  "len": 32,
+  "text": "I wonder if that mist in Conkram",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 10,
+  "off": 335,
+  "len": 32,
+  "text": "has anything to do with the Mist",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 11,
+  "off": 369,
+  "len": 6,
+  "text": "today.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 12,
+  "off": 384,
+  "len": 31,
+  "text": "I heard that Emperor Etora VIII",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 13,
+  "off": 417,
+  "len": 27,
+  "text": "escaped and is in the lower",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 14,
+  "off": 446,
+  "len": 7,
+  "text": "levels.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 15,
+  "off": 458,
+  "len": 25,
+  "text": "Everyone's sick and tired",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 29,
+  "run": 16,
+  "off": 485,
+  "len": 30,
+  "text": "of the Mist... and of the war.",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 30,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7B}",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 30,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 30,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 30,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7B}!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 30,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 31,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 31,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 31,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 31,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 581,
+  "script": 31,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ }
+]

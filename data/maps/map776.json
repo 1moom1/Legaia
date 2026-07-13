@@ -1,0 +1,4151 @@
+[
+ {
+  "map": 776,
+  "script": 15,
+  "run": 0,
+  "off": 37,
+  "len": 24,
+  "text": "Want something to drink?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 1,
+  "off": 186,
+  "len": 34,
+  "text": "Sorry, you need to be 21 or older!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 2,
+  "off": 226,
+  "len": 28,
+  "text": "Well then, what do you want?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 3,
+  "off": 265,
+  "len": 23,
+  "text": "Do you know about Gaza?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 4,
+  "off": 290,
+  "len": 30,
+  "text": "Can you tell me about Grantes?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 5,
+  "off": 322,
+  "len": 34,
+  "text": "We got rid of the Mist downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 6,
+  "off": 358,
+  "len": 21,
+  "text": "This is a nice place.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 7,
+  "off": 382,
+  "len": 28,
+  "text": "You watch out for that Gaza!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 8,
+  "off": 412,
+  "len": 26,
+  "text": "He lives only to kill Seru",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 9,
+  "off": 440,
+  "len": 30,
+  "text": "monsters that live downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 10,
+  "off": 473,
+  "len": 33,
+  "text": "Get in his way at the wrong time,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 11,
+  "off": 508,
+  "len": 23,
+  "text": "and he'll mow you down!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 12,
+  "off": 534,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 13,
+  "off": 554,
+  "len": 23,
+  "text": "Do you know about Gaza?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 14,
+  "off": 579,
+  "len": 30,
+  "text": "Can you tell me about Grantes?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 15,
+  "off": 611,
+  "len": 34,
+  "text": "We got rid of the Mist downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 16,
+  "off": 647,
+  "len": 21,
+  "text": "This is a nice place.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 17,
+  "off": 671,
+  "len": 31,
+  "text": "He's one of our newer regulars.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 18,
+  "off": 704,
+  "len": 31,
+  "text": "He's been coming here since the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 19,
+  "off": 737,
+  "len": 33,
+  "text": "Mist invaded the area downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 20,
+  "off": 773,
+  "len": 30,
+  "text": "He's a good customer -- always",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 21,
+  "off": 805,
+  "len": 30,
+  "text": "pays his bill and mostly keeps",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 22,
+  "off": 837,
+  "len": 11,
+  "text": "to himself.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 23,
+  "off": 851,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 24,
+  "off": 871,
+  "len": 23,
+  "text": "Do you know about Gaza?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 25,
+  "off": 896,
+  "len": 30,
+  "text": "Can you tell me about Grantes?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 26,
+  "off": 928,
+  "len": 34,
+  "text": "We got rid of the Mist downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 27,
+  "off": 964,
+  "len": 21,
+  "text": "This is a nice place.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 28,
+  "off": 988,
+  "len": 8,
+  "text": "Oh yeah?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 29,
+  "off": 999,
+  "len": 31,
+  "text": "Stop joking around. Besides, if",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 30,
+  "off": 1032,
+  "len": 34,
+  "text": "that happened, Gaza would lose his",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 31,
+  "off": 1068,
+  "len": 35,
+  "text": "reason for living. He'd be furious!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 32,
+  "off": 1106,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 33,
+  "off": 1126,
+  "len": 23,
+  "text": "Do you know about Gaza?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 34,
+  "off": 1151,
+  "len": 30,
+  "text": "Can you tell me about Grantes?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 35,
+  "off": 1183,
+  "len": 34,
+  "text": "We got rid of the Mist downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 36,
+  "off": 1219,
+  "len": 21,
+  "text": "This is a nice place.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 37,
+  "off": 1243,
+  "len": 7,
+  "text": "Thanks.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 38,
+  "off": 1256,
+  "len": 30,
+  "text": "So, I heard you defeated Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 39,
+  "off": 1289,
+  "len": 34,
+  "text": "It must have been a tough fight...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 15,
+  "run": 40,
+  "off": 1325,
+  "len": 17,
+  "text": "in a lot of ways.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 16,
+  "run": 0,
+  "off": 49,
+  "len": 29,
+  "text": "A good tune, don't you think?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 16,
+  "run": 1,
+  "off": 80,
+  "len": 30,
+  "text": "If you have any requests, just",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 16,
+  "run": 2,
+  "off": 112,
+  "len": 19,
+  "text": "bring me the music!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 16,
+  "run": 3,
+  "off": 142,
+  "len": 27,
+  "text": "I don't know why, but music",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 16,
+  "run": 4,
+  "off": 171,
+  "len": 12,
+  "text": "is so great.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 0,
+  "off": 58,
+  "len": 12,
+  "text": "Love is born",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 1,
+  "off": 72,
+  "len": 20,
+  "text": "and dies too soon...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 2,
+  "off": 94,
+  "len": 26,
+  "text": "But there's no need to cry",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 3,
+  "off": 126,
+  "len": 27,
+  "text": "Crying won't bring her back",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 4,
+  "off": 155,
+  "len": 33,
+  "text": "And forgotten dreams don't return",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 5,
+  "off": 258,
+  "len": 23,
+  "text": "A love that travels far",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 6,
+  "off": 283,
+  "len": 20,
+  "text": "will come back again",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 7,
+  "off": 305,
+  "len": 7,
+  "text": "someday",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 8,
+  "off": 318,
+  "len": 27,
+  "text": "When you believe in someone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 9,
+  "off": 347,
+  "len": 13,
+  "text": "without tears",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 17,
+  "run": 10,
+  "off": 362,
+  "len": 30,
+  "text": "When you wait and never forget",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 0,
+  "off": 66,
+  "len": 18,
+  "text": "Grantes: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 1,
+  "off": 91,
+  "len": 19,
+  "text": "Grantes: (Brooding)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 2,
+  "off": 117,
+  "len": 18,
+  "text": "Grantes: Hey, kid.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 3,
+  "off": 137,
+  "len": 28,
+  "text": "Never bother a man when deep",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 4,
+  "off": 167,
+  "len": 11,
+  "text": "in thought.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 5,
+  "off": 185,
+  "len": 18,
+  "text": "Grantes: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 6,
+  "off": 213,
+  "len": 23,
+  "text": "Grantes: (More silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 7,
+  "off": 243,
+  "len": 16,
+  "text": "Grantes: I know!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 8,
+  "off": 261,
+  "len": 23,
+  "text": "I know the Mist is gone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 9,
+  "off": 286,
+  "len": 16,
+  "text": "from downstairs.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 10,
+  "off": 305,
+  "len": 23,
+  "text": "Grantes: But it doesn't",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 11,
+  "off": 330,
+  "len": 24,
+  "text": "mean a darn thing to me.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 12,
+  "off": 357,
+  "len": 23,
+  "text": "Grantes: So let me be, ",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 13,
+  "off": 382,
+  "len": 9,
+  "text": "will you?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 14,
+  "off": 398,
+  "len": 18,
+  "text": "Grantes: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 15,
+  "off": 440,
+  "len": 18,
+  "text": "Grantes: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 16,
+  "off": 463,
+  "len": 20,
+  "text": "Grantes: What is it?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 17,
+  "off": 485,
+  "len": 25,
+  "text": "What do you want from me?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 18,
+  "off": 517,
+  "len": 27,
+  "text": "Cara waits for you in Buma!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 19,
+  "off": 546,
+  "len": 25,
+  "text": "Look at this sheet music!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 20,
+  "off": 576,
+  "len": 29,
+  "text": "Grantes: That doesn't concern",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 21,
+  "off": 607,
+  "len": 15,
+  "text": "a kid like you.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 22,
+  "off": 629,
+  "len": 21,
+  "text": "Grantes: Sheet music?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 23,
+  "off": 653,
+  "len": 15,
+  "text": "Grantes: Sorry,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 24,
+  "off": 670,
+  "len": 27,
+  "text": "but I'm not a piano player.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 18,
+  "run": 25,
+  "off": 699,
+  "len": 24,
+  "text": "That doesn't concern me.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 0,
+  "off": 39,
+  "len": 33,
+  "text": "All I know is a silly fairy tale,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 1,
+  "off": 74,
+  "len": 29,
+  "text": "but will you keep me company?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 2,
+  "off": 251,
+  "len": 30,
+  "text": "Hey, you don't have any money!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 3,
+  "off": 283,
+  "len": 34,
+  "text": "I'm sorry, but I don't talk unless",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 4,
+  "off": 319,
+  "len": 30,
+  "text": "you buy me something to drink.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 5,
+  "off": 363,
+  "len": 8,
+  "text": "Oh well.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 6,
+  "off": 373,
+  "len": 16,
+  "text": "Too bad for you.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 7,
+  "off": 394,
+  "len": 27,
+  "text": "Oh, good! So you'll keep me",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 8,
+  "off": 423,
+  "len": 29,
+  "text": "company. Why don't you buy me",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 9,
+  "off": 454,
+  "len": 22,
+  "text": "a drink? It costs 30G.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 10,
+  "off": 487,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 11,
+  "off": 633,
+  "len": 17,
+  "text": "Oh, I'm so happy!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 12,
+  "off": 652,
+  "len": 22,
+  "text": "Mmm, this tastes good!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 13,
+  "off": 677,
+  "len": 31,
+  "text": "Now, you know the Soren, right?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 14,
+  "off": 710,
+  "len": 25,
+  "text": "The ones with Seru Wings?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 15,
+  "off": 738,
+  "len": 29,
+  "text": "They fly through the sky, not",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 16,
+  "off": 769,
+  "len": 15,
+  "text": "obeying anyone.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 17,
+  "off": 786,
+  "len": 19,
+  "text": "They're very proud.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 18,
+  "off": 808,
+  "len": 30,
+  "text": "But I heard that a young Soren",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 19,
+  "off": 840,
+  "len": 33,
+  "text": "had risked his life for forbidden",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 20,
+  "off": 875,
+  "len": 29,
+  "text": "love. Hey, I'm thirsty again!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 21,
+  "off": 915,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 22,
+  "off": 1046,
+  "len": 13,
+  "text": "(Gulp! Gulp!)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 23,
+  "off": 1061,
+  "len": 18,
+  "text": "Oh, that was good!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 24,
+  "off": 1082,
+  "len": 30,
+  "text": "Now where was I? That's right!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 25,
+  "off": 1114,
+  "len": 33,
+  "text": "I was talking about the Soren who",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 26,
+  "off": 1149,
+  "len": 35,
+  "text": "risked his life for forbidden love.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 27,
+  "off": 1187,
+  "len": 27,
+  "text": "Soren Law forbids them from",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 28,
+  "off": 1216,
+  "len": 30,
+  "text": "loving anyone who doesn't have",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 29,
+  "off": 1248,
+  "len": 11,
+  "text": "Seru Wings.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 30,
+  "off": 1262,
+  "len": 34,
+  "text": "In other words, they can't fall in",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 31,
+  "off": 1298,
+  "len": 34,
+  "text": "love with surface-dwelling people.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 32,
+  "off": 1334,
+  "len": 20,
+  "text": "Isn't that terrible?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 33,
+  "off": 1357,
+  "len": 33,
+  "text": "There are a lot of nice girls who",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 34,
+  "off": 1392,
+  "len": 33,
+  "text": "don't have Seru Wings... like me,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 35,
+  "off": 1427,
+  "len": 13,
+  "text": "for instance!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 36,
+  "off": 1443,
+  "len": 27,
+  "text": "I feel real bad about this,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 37,
+  "off": 1472,
+  "len": 25,
+  "text": "but could you buy me just",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 38,
+  "off": 1499,
+  "len": 15,
+  "text": "one more drink?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 39,
+  "off": 1653,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 40,
+  "off": 1666,
+  "len": 34,
+  "text": "One day, a young Soren was flying.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 41,
+  "off": 1702,
+  "len": 35,
+  "text": "He had a Soren Flute, which is more",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 42,
+  "off": 1739,
+  "len": 35,
+  "text": "valuable than even their own lives.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 43,
+  "off": 1777,
+  "len": 32,
+  "text": "But he dropped it and it fell to",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 44,
+  "off": 1811,
+  "len": 35,
+  "text": "earth. He looked everywhere for it,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 45,
+  "off": 1848,
+  "len": 21,
+  "text": "but couldn't find it.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 46,
+  "off": 1872,
+  "len": 31,
+  "text": "After searching so long, he was",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 47,
+  "off": 1905,
+  "len": 29,
+  "text": "frantic. Then he heard a song",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 48,
+  "off": 1936,
+  "len": 24,
+  "text": "being played on a flute.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 49,
+  "off": 1963,
+  "len": 30,
+  "text": "He could tell it was his Soren",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 50,
+  "off": 1995,
+  "len": 34,
+  "text": "Flute, but he had never heard that",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 51,
+  "off": 2031,
+  "len": 30,
+  "text": "melody. He followed the sound.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 52,
+  "off": 2064,
+  "len": 32,
+  "text": "Whew, I'm getting thirsty again.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 53,
+  "off": 2098,
+  "len": 15,
+  "text": "Buy me a drink!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 54,
+  "off": 2124,
+  "len": 6,
+  "text": "No way",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 55,
+  "off": 2270,
+  "len": 19,
+  "text": "Oh, you're so nice!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 56,
+  "off": 2291,
+  "len": 31,
+  "text": "Anyhow, the young Soren found a",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 57,
+  "off": 2324,
+  "len": 31,
+  "text": "girl playing the flute in Buma.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 58,
+  "off": 2358,
+  "len": 31,
+  "text": "He watched her for a long time,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 59,
+  "off": 2391,
+  "len": 33,
+  "text": "listening to the melancholy song.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 60,
+  "off": 2427,
+  "len": 35,
+  "text": "Without realizing it, he had walked",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 61,
+  "off": 2464,
+  "len": 33,
+  "text": "right up to her. She saw him, and",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 62,
+  "off": 2499,
+  "len": 32,
+  "text": "the flute fell out of her mouth.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 63,
+  "off": 2534,
+  "len": 35,
+  "text": "They stared at each other. And they",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 64,
+  "off": 2571,
+  "len": 35,
+  "text": "fell in love, right then and there.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 65,
+  "off": 2608,
+  "len": 15,
+  "text": "Just like that!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 66,
+  "off": 2626,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 67,
+  "off": 2642,
+  "len": 29,
+  "text": "Would you like another drink?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 68,
+  "off": 2673,
+  "len": 29,
+  "text": "Why don't we call it a night?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 69,
+  "off": 2719,
+  "len": 32,
+  "text": "OK. I like you, Mister. You seem",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 70,
+  "off": 2753,
+  "len": 20,
+  "text": "to... understand me.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 71,
+  "off": 2776,
+  "len": 32,
+  "text": "The two couldn't hide their love",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 72,
+  "off": 2810,
+  "len": 22,
+  "text": "for each other. But...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 73,
+  "off": 2835,
+  "len": 30,
+  "text": "Soren Law wouldn't allow their",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 74,
+  "off": 2867,
+  "len": 11,
+  "text": "love. Sigh!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 75,
+  "off": 2881,
+  "len": 32,
+  "text": "For love's sake, the young Soren",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 76,
+  "off": 2915,
+  "len": 28,
+  "text": "made a frightening deal with",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 77,
+  "off": 2945,
+  "len": 8,
+  "text": "a demon.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 78,
+  "off": 2956,
+  "len": 15,
+  "text": "The deal was...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 79,
+  "off": 2974,
+  "len": 12,
+  "text": "It was to...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 80,
+  "off": 2989,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 81,
+  "off": 3016,
+  "len": 17,
+  "text": "There's no reply!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 82,
+  "off": 3035,
+  "len": 20,
+  "text": "She's fallen asleep!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 83,
+  "off": 3060,
+  "len": 32,
+  "text": "Who would have thought that good",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 84,
+  "off": 3094,
+  "len": 23,
+  "text": "for nothing Grantes had",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 85,
+  "off": 3119,
+  "len": 21,
+  "text": "been through so much.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 86,
+  "off": 3143,
+  "len": 26,
+  "text": "Appearances are deceiving,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 19,
+  "run": 87,
+  "off": 3171,
+  "len": 12,
+  "text": "aren't they?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 0,
+  "off": 50,
+  "len": 18,
+  "text": "Oh, hello, Mister!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 1,
+  "off": 70,
+  "len": 27,
+  "text": "The drinks are 30G a glass.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 2,
+  "off": 99,
+  "len": 16,
+  "text": "Do you want one?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 3,
+  "off": 254,
+  "len": 33,
+  "text": "Oh. Well, I won't push it on you,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 4,
+  "off": 289,
+  "len": 33,
+  "text": "but you'll never find anything as",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 5,
+  "off": 324,
+  "len": 21,
+  "text": "good for you as this.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 6,
+  "off": 450,
+  "len": 34,
+  "text": "Oh yeah? You act tough, but you're",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 7,
+  "off": 486,
+  "len": 26,
+  "text": "still a minor, aren't you?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 8,
+  "off": 514,
+  "len": 24,
+  "text": "I'll give you some milk.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 9,
+  "off": 577,
+  "len": 30,
+  "text": "Wow, you must've been thirsty!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 10,
+  "off": 610,
+  "len": 34,
+  "text": "Do you want another glass of milk?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 11,
+  "off": 783,
+  "len": 35,
+  "text": "Uh-oh, you don't have enough money.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 12,
+  "off": 820,
+  "len": 31,
+  "text": "Too bad. Come back after you've",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 13,
+  "off": 853,
+  "len": 16,
+  "text": "made some money.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 14,
+  "off": 918,
+  "len": 20,
+  "text": "Oh, your name is {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 15,
+  "off": 940,
+  "len": 31,
+  "text": "You're pretty tough for someone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 16,
+  "off": 973,
+  "len": 9,
+  "text": "so young.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 17,
+  "off": 985,
+  "len": 34,
+  "text": "Do you want another glass of milk?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 18,
+  "off": 1194,
+  "len": 28,
+  "text": "So that thing you're wearing",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 19,
+  "off": 1224,
+  "len": 13,
+  "text": "is a Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 20,
+  "off": 1239,
+  "len": 29,
+  "text": "Wow, that's really something.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 21,
+  "off": 1271,
+  "len": 34,
+  "text": "Do you want another glass of milk?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 22,
+  "off": 1480,
+  "len": 27,
+  "text": "So, you are on a journey to",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 23,
+  "off": 1509,
+  "len": 27,
+  "text": "awaken the Genesis Tree and",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 24,
+  "off": 1538,
+  "len": 20,
+  "text": "get rid of the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 25,
+  "off": 1561,
+  "len": 27,
+  "text": "I know something that might",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 26,
+  "off": 1590,
+  "len": 9,
+  "text": "help you.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 27,
+  "off": 1601,
+  "len": 34,
+  "text": "Do you want another glass of milk?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 28,
+  "off": 1810,
+  "len": 32,
+  "text": "The treasure chests in the lower",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 29,
+  "off": 1844,
+  "len": 24,
+  "text": "levels of Sol are called",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 30,
+  "off": 1870,
+  "len": 27,
+  "text": "the Sage's Treasure Chests.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 31,
+  "off": 1900,
+  "len": 30,
+  "text": "You can make the Sage happy by",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 32,
+  "off": 1932,
+  "len": 35,
+  "text": "giving something he likes in return",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 33,
+  "off": 1969,
+  "len": 33,
+  "text": "for what you take from the chest.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 34,
+  "off": 2005,
+  "len": 32,
+  "text": "There are eight Sage's Treasure ",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 35,
+  "off": 2039,
+  "len": 35,
+  "text": "Chests in all, so you'd better have",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 36,
+  "off": 2076,
+  "len": 30,
+  "text": "enough treats for all of them!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 37,
+  "off": 2109,
+  "len": 34,
+  "text": "Do you want another glass of milk?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 38,
+  "off": 2320,
+  "len": 26,
+  "text": "If the Mist is really gone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 39,
+  "off": 2348,
+  "len": 26,
+  "text": "like you say it is, that's",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 40,
+  "off": 2376,
+  "len": 13,
+  "text": "really great!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 41,
+  "off": 2392,
+  "len": 14,
+  "text": "Good luck, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 42,
+  "off": 2408,
+  "len": 34,
+  "text": "Do you want another glass of milk?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 43,
+  "off": 2581,
+  "len": 31,
+  "text": "Well, well! It's the cute hero!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 44,
+  "off": 2614,
+  "len": 22,
+  "text": "Make yourself at home!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 45,
+  "off": 2641,
+  "len": 20,
+  "text": "Well, well! It's the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 46,
+  "off": 2663,
+  "len": 19,
+  "text": "missionary of love!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 47,
+  "off": 2684,
+  "len": 22,
+  "text": "Make yourself at home!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 48,
+  "off": 2861,
+  "len": 28,
+  "text": "Well, well! There's a pretty",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 49,
+  "off": 2891,
+  "len": 26,
+  "text": "little girl with you, too!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 50,
+  "off": 2919,
+  "len": 26,
+  "text": "I just adore little girls!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 51,
+  "off": 2948,
+  "len": 31,
+  "text": "Since you're so cute, I'll tell",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 21,
+  "run": 52,
+  "off": 2981,
+  "len": 13,
+  "text": "you a secret.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 0,
+  "off": 30,
+  "len": 30,
+  "text": "I see you've been going around",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 1,
+  "off": 62,
+  "len": 36,
+  "text": "asking lots of questions. Well, this",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 2,
+  "off": 100,
+  "len": 31,
+  "text": "is a place for people to relax.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 3,
+  "off": 134,
+  "len": 27,
+  "text": "So kids, don't ask too many",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 4,
+  "off": 163,
+  "len": 19,
+  "text": "personal questions.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 5,
+  "off": 187,
+  "len": 25,
+  "text": "You guys may have rid Sol",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 6,
+  "off": 214,
+  "len": 19,
+  "text": "of the Mist, but...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 7,
+  "off": 236,
+  "len": 30,
+  "text": "You can't just do whatever you",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 8,
+  "off": 268,
+  "len": 22,
+  "text": "want in my restaurant.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 9,
+  "off": 301,
+  "len": 14,
+  "text": "So, Grantes...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 22,
+  "run": 10,
+  "off": 318,
+  "len": 8,
+  "text": "is gone.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 23,
+  "run": 0,
+  "off": 37,
+  "len": 16,
+  "text": "Dreams and hope?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 23,
+  "run": 1,
+  "off": 56,
+  "len": 28,
+  "text": "I barely remember the words.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 23,
+  "run": 2,
+  "off": 89,
+  "len": 6,
+  "text": "Hmmph!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 23,
+  "run": 3,
+  "off": 98,
+  "len": 32,
+  "text": "The drink called \"Hope\"? Yeah, I",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 23,
+  "run": 4,
+  "off": 132,
+  "len": 35,
+  "text": "remember how that tastes. It's like",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 23,
+  "run": 5,
+  "off": 169,
+  "len": 29,
+  "text": "a dreamy future in a glass...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 0,
+  "off": 46,
+  "len": 33,
+  "text": "Now I think... I think you should",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 1,
+  "off": 81,
+  "len": 34,
+  "text": "never -- ever! -- forget dreams or",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 2,
+  "off": 117,
+  "len": 28,
+  "text": "hope no matter what happens!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 3,
+  "off": 148,
+  "len": 25,
+  "text": "People can dream anywhere",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 4,
+  "off": 175,
+  "len": 27,
+  "text": "they want, and find hope in",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 5,
+  "off": 204,
+  "len": 19,
+  "text": "whatever they want.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 6,
+  "off": 226,
+  "len": 24,
+  "text": "I dream here, and I find",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 7,
+  "off": 252,
+  "len": 23,
+  "text": "hope. That's what I do.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 8,
+  "off": 280,
+  "len": 31,
+  "text": "See? I was right. There is hope",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 9,
+  "off": 313,
+  "len": 30,
+  "text": "and dreams in this place, just",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 24,
+  "run": 10,
+  "off": 345,
+  "len": 12,
+  "text": "like I said.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 0,
+  "off": 39,
+  "len": 29,
+  "text": "That foxy lady at the counter",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 1,
+  "off": 70,
+  "len": 35,
+  "text": "knows some pretty important things,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 2,
+  "off": 107,
+  "len": 9,
+  "text": "they say.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 3,
+  "off": 119,
+  "len": 29,
+  "text": "But it takes a lot of cash to",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 4,
+  "off": 150,
+  "len": 30,
+  "text": "find out everything she knows!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 5,
+  "off": 185,
+  "len": 29,
+  "text": "I'm so happy the Mist is gone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 6,
+  "off": 216,
+  "len": 19,
+  "text": "from Sol! So happy!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 7,
+  "off": 238,
+  "len": 25,
+  "text": "I'm happy, that's why I'm",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 26,
+  "run": 8,
+  "off": 265,
+  "len": 17,
+  "text": "celebrating here!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 0,
+  "off": 43,
+  "len": 31,
+  "text": "That guy Grantes over there, he",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 1,
+  "off": 76,
+  "len": 35,
+  "text": "never talks about himself. And he's",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 2,
+  "off": 113,
+  "len": 15,
+  "text": "always sighing.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 3,
+  "off": 131,
+  "len": 31,
+  "text": "About all he does is argue with",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 4,
+  "off": 164,
+  "len": 32,
+  "text": "some girl named Cara, who brings",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 5,
+  "off": 198,
+  "len": 20,
+  "text": "him money sometimes.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 6,
+  "off": 223,
+  "len": 33,
+  "text": "Even though the Mist is gone from",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 7,
+  "off": 258,
+  "len": 28,
+  "text": "downstairs, Grantes keeps on",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 8,
+  "off": 288,
+  "len": 16,
+  "text": "being so gloomy.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 9,
+  "off": 309,
+  "len": 27,
+  "text": "I had no idea! No idea that",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 27,
+  "run": 10,
+  "off": 338,
+  "len": 20,
+  "text": "Grantes was a Soren!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 0,
+  "off": 34,
+  "len": 13,
+  "text": "Genesis Tree?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 1,
+  "off": 49,
+  "len": 25,
+  "text": "Yeah, the Genesis Tree...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 2,
+  "off": 77,
+  "len": 30,
+  "text": "I remember some guys up on the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 3,
+  "off": 109,
+  "len": 25,
+  "text": "roof having one of those.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 4,
+  "off": 139,
+  "len": 33,
+  "text": "You never can tell, eh? I used to",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 5,
+  "off": 174,
+  "len": 35,
+  "text": "think that everyone would come back",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 6,
+  "off": 211,
+  "len": 31,
+  "text": "up here once the Mist was gone.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 7,
+  "off": 245,
+  "len": 33,
+  "text": "But even though the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 8,
+  "off": 280,
+  "len": 29,
+  "text": "almost no one came back! They",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 9,
+  "off": 311,
+  "len": 19,
+  "text": "must have all died.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 10,
+  "off": 333,
+  "len": 34,
+  "text": "When the Genesis Tree was revived,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 11,
+  "off": 369,
+  "len": 28,
+  "text": "I got hit over the head with",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 28,
+  "run": 12,
+  "off": 399,
+  "len": 27,
+  "text": "something called \"Reality\"!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 29,
+  "run": 0,
+  "off": 48,
+  "len": 28,
+  "text": "I'm going to make up for all",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 29,
+  "run": 1,
+  "off": 78,
+  "len": 30,
+  "text": "the partying I didn't do these",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 29,
+  "run": 2,
+  "off": 110,
+  "len": 16,
+  "text": "past ten years! ",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 0,
+  "off": 46,
+  "len": 24,
+  "text": "6th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 1,
+  "off": 81,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 2,
+  "off": 110,
+  "len": 29,
+  "text": "7th Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 3,
+  "off": 150,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 4,
+  "off": 179,
+  "len": 17,
+  "text": "A familiar melody",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 5,
+  "off": 207,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 6,
+  "off": 236,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 7,
+  "off": 286,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 8,
+  "off": 320,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 9,
+  "off": 326,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 10,
+  "off": 337,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 37,
+  "run": 11,
+  "off": 348,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 0,
+  "off": 315,
+  "len": 26,
+  "text": "{NAME:02}: That man next to Cara!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 1,
+  "off": 343,
+  "len": 7,
+  "text": "It's...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 2,
+  "off": 633,
+  "len": 34,
+  "text": "Cara: Grantes! I'm not saying this",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 3,
+  "off": 669,
+  "len": 19,
+  "text": "because I hate you!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 4,
+  "off": 691,
+  "len": 33,
+  "text": "Cara: I just want you to get back",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 5,
+  "off": 726,
+  "len": 35,
+  "text": "on your feet! I want the Grantes of",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 6,
+  "off": 763,
+  "len": 31,
+  "text": "ten years ago, before the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 7,
+  "off": 832,
+  "len": 18,
+  "text": "Grantes: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 8,
+  "off": 994,
+  "len": 34,
+  "text": "Cara: Everything I did, I did them",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 9,
+  "off": 1030,
+  "len": 30,
+  "text": "hoping that someday, you would",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 10,
+  "off": 1062,
+  "len": 22,
+  "text": "get back on your feet.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 11,
+  "off": 1101,
+  "len": 35,
+  "text": "Cara: I was a no-good thief! I used",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 12,
+  "off": 1138,
+  "len": 35,
+  "text": "the confusion to steal from people!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 13,
+  "off": 1211,
+  "len": 34,
+  "text": "Cara: I did things that would make",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 14,
+  "off": 1247,
+  "len": 29,
+  "text": "my parents cry, if they knew.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 15,
+  "off": 1339,
+  "len": 34,
+  "text": "Cara: Me! A woman! I did all those",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 16,
+  "off": 1375,
+  "len": 32,
+  "text": "things. Don't you feel anything?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 17,
+  "off": 1445,
+  "len": 22,
+  "text": "Grantes: I'm grateful.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 18,
+  "off": 1469,
+  "len": 12,
+  "text": "I'm sorry...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 19,
+  "off": 1504,
+  "len": 29,
+  "text": "Cara: Grantes! You're a sorry",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 20,
+  "off": 1535,
+  "len": 17,
+  "text": "excuse for a man!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 21,
+  "off": 1555,
+  "len": 27,
+  "text": "Cara: Living off a woman...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 22,
+  "off": 1584,
+  "len": 29,
+  "text": "You're no better than a pimp!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 23,
+  "off": 1917,
+  "len": 22,
+  "text": "{NAME:01}: {NAME}, what's a pimp?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 24,
+  "off": 2158,
+  "len": 26,
+  "text": "{NAME:01}: If Grantes is a human,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 25,
+  "off": 2186,
+  "len": 21,
+  "text": "how can he be a pimp?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 26,
+  "off": 2214,
+  "len": 34,
+  "text": "I don't really understand, either.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 27,
+  "off": 2250,
+  "len": 33,
+  "text": "He's a man who lives off a woman.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 28,
+  "off": 2465,
+  "len": 7,
+  "text": "{NAME:01}: Oh.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 29,
+  "off": 2530,
+  "len": 18,
+  "text": "{NAME:01}: Well then, {NAME:02},",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 30,
+  "off": 2550,
+  "len": 31,
+  "text": "can you tell me what a pimp is?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 31,
+  "off": 2653,
+  "len": 13,
+  "text": "{NAME:02}: Uh, well,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 32,
+  "off": 2668,
+  "len": 25,
+  "text": "I am a monk, and know not",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 33,
+  "off": 2695,
+  "len": 25,
+  "text": "of such things very well.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 34,
+  "off": 2768,
+  "len": 25,
+  "text": "{NAME:02}: That seems to be what",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 35,
+  "off": 2795,
+  "len": 31,
+  "text": "one calls a bad man who doesn't",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 36,
+  "off": 2828,
+  "len": 33,
+  "text": "work and has a woman support him.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 37,
+  "off": 2988,
+  "len": 24,
+  "text": "{NAME:01}: A pimp is a bad man?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 38,
+  "off": 3181,
+  "len": 21,
+  "text": "{NAME:01}: Wow, {NAME}, you know",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 39,
+  "off": 3204,
+  "len": 11,
+  "text": "everything!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 40,
+  "off": 3284,
+  "len": 17,
+  "text": "{NAME:01}: Now I get it!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 41,
+  "off": 3303,
+  "len": 23,
+  "text": "A pimp is a bad person!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 42,
+  "off": 3476,
+  "len": 21,
+  "text": "{NAME:01}: Uh-huh! I get it!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 43,
+  "off": 3656,
+  "len": 19,
+  "text": "{NAME:01}: Grantes is bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 44,
+  "off": 3677,
+  "len": 26,
+  "text": "I hate people who are bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 45,
+  "off": 3826,
+  "len": 18,
+  "text": "Don't be so hasty!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 46,
+  "off": 3880,
+  "len": 20,
+  "text": "{NAME:01}: I'm going to get",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 47,
+  "off": 3902,
+  "len": 24,
+  "text": "Grantes 'cause he's bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 48,
+  "off": 4495,
+  "len": 19,
+  "text": "{NAME:01}: Grantes is bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 49,
+  "off": 4516,
+  "len": 14,
+  "text": "Pimps are bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 50,
+  "off": 4532,
+  "len": 13,
+  "text": "I hate pimps!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 51,
+  "off": 4711,
+  "len": 26,
+  "text": "{NAME:01}: That's why I won't let",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 52,
+  "off": 4739,
+  "len": 27,
+  "text": "Grantes get away with that.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 53,
+  "off": 4841,
+  "len": 16,
+  "text": "Cara: No, don't.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 54,
+  "off": 4859,
+  "len": 13,
+  "text": "Stop, please.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 55,
+  "off": 5057,
+  "len": 19,
+  "text": "Cara: He's not bad.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 56,
+  "off": 5078,
+  "len": 22,
+  "text": "I'm the one who's bad.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 57,
+  "off": 5102,
+  "len": 18,
+  "text": "It's all my fault.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 58,
+  "off": 5123,
+  "len": 23,
+  "text": "Cara: So, please, don't",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 59,
+  "off": 5148,
+  "len": 28,
+  "text": "hurt him. If you want to hit",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 60,
+  "off": 5178,
+  "len": 16,
+  "text": "someone, hit me.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 61,
+  "off": 5583,
+  "len": 25,
+  "text": "{NAME:01}: Why should I hit you,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 62,
+  "off": 5610,
+  "len": 30,
+  "text": "Cara? Grantes is the one who's",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 63,
+  "off": 5642,
+  "len": 4,
+  "text": "bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 64,
+  "off": 5775,
+  "len": 23,
+  "text": "{NAME:02}: {NAME:01}, don't interfere",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 65,
+  "off": 5800,
+  "len": 18,
+  "text": "in their business.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 66,
+  "off": 5820,
+  "len": 26,
+  "text": "Come on, let's go outside!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 67,
+  "off": 6056,
+  "len": 28,
+  "text": "{NAME:01}: But I didn't do anything",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 68,
+  "off": 6086,
+  "len": 31,
+  "text": "wrong! Grantes is the one who's",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 43,
+  "run": 69,
+  "off": 6119,
+  "len": 4,
+  "text": "bad!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 0,
+  "off": 195,
+  "len": 17,
+  "text": "<1F>A good tune, eh?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 1,
+  "off": 214,
+  "len": 30,
+  "text": "If you have any requests, just",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 2,
+  "off": 246,
+  "len": 25,
+  "text": "bring me the sheet music!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 3,
+  "off": 486,
+  "len": 21,
+  "text": "{NAME:01}: Here! Here's some",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 4,
+  "off": 509,
+  "len": 17,
+  "text": "music! Play this!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 5,
+  "off": 532,
+  "len": 27,
+  "text": "{NAME:01} gave the old sheet music",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 6,
+  "off": 561,
+  "len": 20,
+  "text": "to the piano player!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 7,
+  "off": 644,
+  "len": 18,
+  "text": "Hmm. This is so...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 8,
+  "off": 664,
+  "len": 12,
+  "text": "so simple...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 9,
+  "off": 691,
+  "len": 4,
+  "text": "Hmm.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 10,
+  "off": 804,
+  "len": 26,
+  "text": "{NAME:01}: Well? Are you going to",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 11,
+  "off": 832,
+  "len": 15,
+  "text": "play it or not?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 12,
+  "off": 868,
+  "len": 22,
+  "text": "Alright, I'll play it!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 13,
+  "off": 892,
+  "len": 23,
+  "text": "Jeez, what an impatient",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 14,
+  "off": 917,
+  "len": 11,
+  "text": "young girl!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 15,
+  "off": 953,
+  "len": 5,
+  "text": "Ahem!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 16,
+  "off": 1250,
+  "len": 16,
+  "text": "Grantes: Cara...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 17,
+  "off": 1543,
+  "len": 27,
+  "text": "{NAME:01}: Grantes! You know what?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 18,
+  "off": 1572,
+  "len": 28,
+  "text": "The Mist in Buma is all gone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 19,
+  "off": 1602,
+  "len": 4,
+  "text": "now.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 20,
+  "off": 1730,
+  "len": 28,
+  "text": "Grantes: The Mist at Buma...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 21,
+  "off": 1760,
+  "len": 18,
+  "text": "The Mist is gone?!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 22,
+  "off": 1951,
+  "len": 24,
+  "text": "{NAME:02}: I know I'm young and",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 23,
+  "off": 1977,
+  "len": 31,
+  "text": "inexperienced compared to you, ",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 24,
+  "off": 2010,
+  "len": 23,
+  "text": "but I'll tell you this!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 25,
+  "off": 2147,
+  "len": 25,
+  "text": "{NAME:02}: Now I don't know what",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 26,
+  "off": 2174,
+  "len": 28,
+  "text": "happened to you in the past.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 27,
+  "off": 2205,
+  "len": 28,
+  "text": "{NAME:02}: I don't know whether you",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 28,
+  "off": 2235,
+  "len": 24,
+  "text": "hurt the one you love...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 29,
+  "off": 2338,
+  "len": 25,
+  "text": "{NAME:02}: And you can turn your",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 30,
+  "off": 2365,
+  "len": 32,
+  "text": "back on your past and sit around",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 31,
+  "off": 2399,
+  "len": 30,
+  "text": "despondent about the future...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 32,
+  "off": 2458,
+  "len": 39,
+  "text": "<AC>!<07><AC>!<03><AC>!<01><1F>{NAME:02}: But I have no respect for",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 33,
+  "off": 2499,
+  "len": 29,
+  "text": "someone who tries to kill his",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 34,
+  "off": 2530,
+  "len": 21,
+  "text": "own spirit like that!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 35,
+  "off": 2643,
+  "len": 16,
+  "text": "Grantes: That...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 36,
+  "off": 2661,
+  "len": 25,
+  "text": "That song... Did Cara...?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 37,
+  "off": 2776,
+  "len": 22,
+  "text": "{NAME:01}: That's right! Cara",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 38,
+  "off": 2800,
+  "len": 17,
+  "text": "loves you, and...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 39,
+  "off": 2856,
+  "len": 27,
+  "text": "{NAME:01}: ...and she wants you to",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 40,
+  "off": 2885,
+  "len": 19,
+  "text": "remember that love.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 41,
+  "off": 2963,
+  "len": 18,
+  "text": "{NAME:02}: Cara said that",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 42,
+  "off": 2983,
+  "len": 27,
+  "text": "whatever happens, that love",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 43,
+  "off": 3012,
+  "len": 20,
+  "text": "will always be true.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 44,
+  "off": 3062,
+  "len": 24,
+  "text": "Grantes: Cara said that?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 45,
+  "off": 3123,
+  "len": 35,
+  "text": "Grantes: I remember now. That's the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 46,
+  "off": 3160,
+  "len": 34,
+  "text": "melody she was playing on my flute",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 47,
+  "off": 3196,
+  "len": 25,
+  "text": "the first time I saw her.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 48,
+  "off": 3224,
+  "len": 35,
+  "text": "Grantes: I came down to the surface",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 49,
+  "off": 3261,
+  "len": 34,
+  "text": "following that melody. That's when",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 50,
+  "off": 3297,
+  "len": 13,
+  "text": "I found Cara.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 51,
+  "off": 3313,
+  "len": 35,
+  "text": "Grantes: She was playing the flute!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 52,
+  "off": 3366,
+  "len": 30,
+  "text": "Grantes: I know I'm a horrible",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 53,
+  "off": 3398,
+  "len": 33,
+  "text": "man. I didn't take responsibility",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 54,
+  "off": 3433,
+  "len": 20,
+  "text": "for the love I felt.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 55,
+  "off": 3480,
+  "len": 16,
+  "text": "Grantes: Cara...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 56,
+  "off": 3498,
+  "len": 31,
+  "text": "Do you think she'll forgive me?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 57,
+  "off": 3537,
+  "len": 19,
+  "text": "Of course she will!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 58,
+  "off": 3558,
+  "len": 13,
+  "text": "I don't know.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 59,
+  "off": 3665,
+  "len": 35,
+  "text": "Grantes: Sorry, fellas. I guess I'm",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 60,
+  "off": 3702,
+  "len": 35,
+  "text": "still depending too much on others.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 61,
+  "off": 3739,
+  "len": 19,
+  "text": "Now I realize that!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 62,
+  "off": 3761,
+  "len": 32,
+  "text": "Grantes: You taught me a lesson.",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 63,
+  "off": 3795,
+  "len": 25,
+  "text": "Now that the Mist is gone",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 64,
+  "off": 3822,
+  "len": 12,
+  "text": "from Buma...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 65,
+  "off": 3837,
+  "len": 32,
+  "text": "Grantes: I'm going to go to Buma",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 66,
+  "off": 3871,
+  "len": 33,
+  "text": "on my own two legs and tell Cara!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 67,
+  "off": 3944,
+  "len": 33,
+  "text": "Grantes: Tell her that it's never",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 68,
+  "off": 3979,
+  "len": 33,
+  "text": "too late to change as long as the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 69,
+  "off": 4014,
+  "len": 26,
+  "text": "desire to change is there!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 70,
+  "off": 4043,
+  "len": 28,
+  "text": "Grantes: Maybe if I tell her",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 71,
+  "off": 4073,
+  "len": 30,
+  "text": "that I am grateful -- from the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 72,
+  "off": 4105,
+  "len": 19,
+  "text": "bottom of my heart!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 73,
+  "off": 4308,
+  "len": 25,
+  "text": "Grantes: Maybe she would ",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 74,
+  "off": 4335,
+  "len": 23,
+  "text": "forgive me, and then...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 75,
+  "off": 4361,
+  "len": 34,
+  "text": "Grantes: We'll be waiting for you,",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 76,
+  "off": 4397,
+  "len": 28,
+  "text": "both of us together, will be",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 77,
+  "off": 4427,
+  "len": 16,
+  "text": "waiting in Buma!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 78,
+  "off": 4771,
+  "len": 23,
+  "text": "{NAME:01}: It'll be OK, right?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 79,
+  "off": 4796,
+  "len": 33,
+  "text": "Cara will forgive Grantes, right?",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 80,
+  "off": 4871,
+  "len": 25,
+  "text": "{NAME:02}: Even with Grantes the",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 81,
+  "off": 4898,
+  "len": 32,
+  "text": "way he is, love was still alive!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 82,
+  "off": 4932,
+  "len": 28,
+  "text": "A miracle is sure to happen!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 83,
+  "off": 5116,
+  "len": 22,
+  "text": "{NAME:01}: Wow, you're great!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 84,
+  "off": 5140,
+  "len": 23,
+  "text": "{NAME:02}, you know everything",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 85,
+  "off": 5165,
+  "len": 11,
+  "text": "about love!",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 86,
+  "off": 5241,
+  "len": 21,
+  "text": "{NAME:02}: Uh, ahem, well...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 87,
+  "off": 5360,
+  "len": 28,
+  "text": "{NAME:02}: T-The teachings of Biron",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 88,
+  "off": 5390,
+  "len": 33,
+  "text": "say \"Strength begets love\" and...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 89,
+  "off": 5425,
+  "len": 7,
+  "text": "Well...",
+  "ko": ""
+ },
+ {
+  "map": 776,
+  "script": 44,
+  "run": 90,
+  "off": 5508,
+  "len": 22,
+  "text": "{NAME:01}: Wow! You're great!",
+  "ko": ""
+ }
+]

@@ -1,0 +1,2243 @@
+[
+ {
+  "map": 106,
+  "script": 4,
+  "run": 0,
+  "off": 75,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.q<93><05>",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 0,
+  "off": 24,
+  "len": 7,
+  "text": "H%1<15>LP<F4>",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 1,
+  "off": 70,
+  "len": 12,
+  "text": "There's a {ITEM:AA}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 2,
+  "off": 84,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 3,
+  "off": 109,
+  "len": 18,
+  "text": "{NAME:63} now has the {ITEM:AA}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 4,
+  "off": 384,
+  "len": 21,
+  "text": "what's a Weed Hammer?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 5,
+  "off": 438,
+  "len": 26,
+  "text": "{NAME:02}: It's something used to",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 6,
+  "off": 466,
+  "len": 29,
+  "text": "break Crystal Grass and other",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 7,
+  "off": 497,
+  "len": 20,
+  "text": "types of hard grass.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 8,
+  "off": 535,
+  "len": 7,
+  "text": "{NAME:01}: Oh.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 5,
+  "run": 9,
+  "off": 679,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 6,
+  "run": 0,
+  "off": 33,
+  "len": 11,
+  "text": "{NAME:01}: Yippee!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 6,
+  "run": 1,
+  "off": 58,
+  "len": 13,
+  "text": "what's wrong?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 6,
+  "run": 2,
+  "off": 73,
+  "len": 22,
+  "text": "He won't say anything!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 7,
+  "run": 0,
+  "off": 33,
+  "len": 26,
+  "text": "{NAME:02}: So this tree possesses",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 7,
+  "run": 1,
+  "off": 61,
+  "len": 32,
+  "text": "the power to push back the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 7,
+  "run": 2,
+  "off": 100,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 9,
+  "run": 0,
+  "off": 19,
+  "len": 13,
+  "text": "Oh, oh, Ozma!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 0,
+  "off": 206,
+  "len": 21,
+  "text": "{NAME} reached out gently",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 1,
+  "off": 229,
+  "len": 26,
+  "text": "to touch the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 2,
+  "off": 258,
+  "len": 24,
+  "text": "He feels a gentle warmth",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 3,
+  "off": 284,
+  "len": 24,
+  "text": "in the palm of his hand.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 4,
+  "off": 505,
+  "len": 14,
+  "text": "I'll help you!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 5,
+  "off": 704,
+  "len": 22,
+  "text": "{NAME:01} reached out swiftly",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 6,
+  "off": 728,
+  "len": 26,
+  "text": "to touch the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 7,
+  "off": 766,
+  "len": 24,
+  "text": "She feels a silent power",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 11,
+  "run": 8,
+  "off": 792,
+  "len": 24,
+  "text": "in the palm of her hand.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 16,
+  "run": 0,
+  "off": 20,
+  "len": 14,
+  "text": "Flag operation",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 16,
+  "run": 1,
+  "off": 45,
+  "len": 11,
+  "text": "Enter Songi",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 16,
+  "run": 2,
+  "off": 58,
+  "len": 5,
+  "text": "Dummy",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 16,
+  "run": 3,
+  "off": 65,
+  "len": 5,
+  "text": "Dummy",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 16,
+  "run": 4,
+  "off": 72,
+  "len": 5,
+  "text": "Dummy",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 18,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:84}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 18,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 18,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 18,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:84}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 18,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 19,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 19,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 19,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 19,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 19,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 20,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 20,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 20,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 20,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 20,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 21,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 21,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 21,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 21,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 21,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 22,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C8}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 22,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 22,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 22,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:C8}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 22,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7E}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 23,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 23,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7E}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 23,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 24,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:2E}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 24,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 24,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 24,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:2E}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 24,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 25,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:7F}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 25,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 25,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 25,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:7F}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 25,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 26,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:D6}",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 26,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 26,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 26,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:D6}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 26,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 27,
+  "run": 0,
+  "off": 39,
+  "len": 18,
+  "text": "{NAME:63} now has the {ITEM:DD}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 0,
+  "off": 187,
+  "len": 28,
+  "text": "{NAME:02}: Wait a moment, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 1,
+  "off": 279,
+  "len": 24,
+  "text": "I feel Songi's presence!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 2,
+  "off": 305,
+  "len": 14,
+  "text": "Songi is here!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 3,
+  "off": 353,
+  "len": 17,
+  "text": "I need you two to",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 4,
+  "off": 372,
+  "len": 21,
+  "text": "promise me something!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 5,
+  "off": 396,
+  "len": 25,
+  "text": "{NAME:02}: Even if Songi appears",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 6,
+  "off": 423,
+  "len": 28,
+  "text": "before you, don't fight him.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 7,
+  "off": 482,
+  "len": 25,
+  "text": "{NAME:02}: I know this is asking",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 8,
+  "off": 509,
+  "len": 13,
+  "text": "a lot, but...",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 9,
+  "off": 564,
+  "len": 27,
+  "text": "{NAME:02}: If a Seru possesses his",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 10,
+  "off": 593,
+  "len": 34,
+  "text": "soul as you say, then I want to be",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 11,
+  "off": 629,
+  "len": 28,
+  "text": "the one to take care of him.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 12,
+  "off": 729,
+  "len": 21,
+  "text": "{NAME:02}: I will detain you",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 39,
+  "run": 13,
+  "off": 752,
+  "len": 29,
+  "text": "no longer. Come, let's hurry!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 0,
+  "off": 140,
+  "len": 15,
+  "text": "{NAME:01}: I found it!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 1,
+  "off": 222,
+  "len": 19,
+  "text": "{NAME:01}: Look, everyone!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 2,
+  "off": 243,
+  "len": 22,
+  "text": "It's the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 3,
+  "off": 432,
+  "len": 19,
+  "text": "{NAME:01}: And it's alive!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 4,
+  "off": 615,
+  "len": 9,
+  "text": "{NAME:01}: Yeah!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 5,
+  "off": 827,
+  "len": 17,
+  "text": "It's still alive!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 6,
+  "off": 846,
+  "len": 32,
+  "text": "The Genesis Tree is still alive!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 7,
+  "off": 1105,
+  "len": 26,
+  "text": "{NAME:02}: This Genesis Tree does",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 8,
+  "off": 1133,
+  "len": 27,
+  "text": "seem different from the one",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 9,
+  "off": 1162,
+  "len": 19,
+  "text": "in West Voz Forest.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 10,
+  "off": 1190,
+  "len": 18,
+  "text": "{NAME:02}: Did Songi find",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 11,
+  "off": 1210,
+  "len": 18,
+  "text": "this Genesis Tree?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 12,
+  "off": 1289,
+  "len": 27,
+  "text": "{NAME:02}: Or did the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 13,
+  "off": 1318,
+  "len": 31,
+  "text": "mislead him into taking a wrong",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 14,
+  "off": 1351,
+  "len": 15,
+  "text": "turn somewhere?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 15,
+  "off": 1435,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: {NAME}! An evil presence",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 16,
+  "off": 1465,
+  "len": 31,
+  "text": "draws near! Hurry! Let's revive",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 40,
+  "run": 17,
+  "off": 1498,
+  "len": 17,
+  "text": "the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 0,
+  "off": 48,
+  "len": 30,
+  "text": "Songi: Now wait just a minute!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 1,
+  "off": 191,
+  "len": 31,
+  "text": "Songi: Watch what you're doing,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 2,
+  "off": 224,
+  "len": 26,
+  "text": "or you'll hurt yourselves!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 3,
+  "off": 252,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 4,
+  "off": 414,
+  "len": 10,
+  "text": "Songi: {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 5,
+  "off": 426,
+  "len": 22,
+  "text": "I knew you would come!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 6,
+  "off": 450,
+  "len": 22,
+  "text": "You're so predictable!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 7,
+  "off": 538,
+  "len": 31,
+  "text": "Songi: How thoughtful of you to",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 8,
+  "off": 571,
+  "len": 33,
+  "text": "come all the way here to check up",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 9,
+  "off": 606,
+  "len": 21,
+  "text": "on me! I'm flattered!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 10,
+  "off": 811,
+  "len": 32,
+  "text": "Songi: But don't worry about me!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 11,
+  "off": 845,
+  "len": 28,
+  "text": "I'm the picture of health --",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 12,
+  "off": 875,
+  "len": 24,
+  "text": "physically and mentally!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 13,
+  "off": 902,
+  "len": 31,
+  "text": "Songi: I may be wearing a Seru,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 14,
+  "off": 935,
+  "len": 34,
+  "text": "but I haven't done anything stupid",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 15,
+  "off": 971,
+  "len": 23,
+  "text": "like let it control me!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 16,
+  "off": 1176,
+  "len": 30,
+  "text": "Songi: This is a special Seru!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 17,
+  "off": 1208,
+  "len": 24,
+  "text": "It gives me pure energy,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 18,
+  "off": 1234,
+  "len": 20,
+  "text": "extraordinary power!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 19,
+  "off": 1263,
+  "len": 20,
+  "text": "Songi: {NAME:02}, you're no",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 20,
+  "off": 1285,
+  "len": 17,
+  "text": "match for me now!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 21,
+  "off": 1468,
+  "len": 34,
+  "text": "Songi: Fight me! I'll destroy you,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 22,
+  "off": 1504,
+  "len": 21,
+  "text": "just like I destroyed",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 23,
+  "off": 1527,
+  "len": 16,
+  "text": "Biron Monastery!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 24,
+  "off": 1614,
+  "len": 24,
+  "text": "{NAME:01}: That's it! I'm gonna",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 25,
+  "off": 1640,
+  "len": 28,
+  "text": "knock your block off, Songi!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 26,
+  "off": 1670,
+  "len": 14,
+  "text": "Let me at him!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 27,
+  "off": 1697,
+  "len": 20,
+  "text": "{NAME:02}: {NAME:01}, you promised",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 28,
+  "off": 1719,
+  "len": 26,
+  "text": "to leave him to me, right?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 29,
+  "off": 1855,
+  "len": 22,
+  "text": "{NAME:02}: Songi! You say you",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 30,
+  "off": 1879,
+  "len": 30,
+  "text": "are not possessed by the Seru?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 31,
+  "off": 1912,
+  "len": 22,
+  "text": "{NAME:02}: You... You are not",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 32,
+  "off": 1936,
+  "len": 32,
+  "text": "the Songi I know! You're nothing",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 33,
+  "off": 1970,
+  "len": 25,
+  "text": "but a bloodthirsty beast!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 34,
+  "off": 1998,
+  "len": 21,
+  "text": "{NAME:02}: I don't know what",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 35,
+  "off": 2021,
+  "len": 28,
+  "text": "happened to you, but you are",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 36,
+  "off": 2051,
+  "len": 33,
+  "text": "obviously void of a human spirit.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 37,
+  "off": 2121,
+  "len": 27,
+  "text": "{NAME:02}: If you want to fight me",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 38,
+  "off": 2150,
+  "len": 21,
+  "text": "that badly, then I'll",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 39,
+  "off": 2173,
+  "len": 10,
+  "text": "fight you!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 40,
+  "off": 2236,
+  "len": 22,
+  "text": "{NAME:02}: I'll beat the evil",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 41,
+  "off": 2260,
+  "len": 25,
+  "text": "out of you and return you",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 42,
+  "off": 2287,
+  "len": 24,
+  "text": "to normal! Now fight me!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 43,
+  "off": 2373,
+  "len": 30,
+  "text": "Songi: You hopeless simpleton!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 44,
+  "off": 2405,
+  "len": 26,
+  "text": "You still don't understand",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 45,
+  "off": 2433,
+  "len": 14,
+  "text": "the situation!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 46,
+  "off": 2450,
+  "len": 26,
+  "text": "Songi: Well I'll show you!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 47,
+  "off": 2478,
+  "len": 24,
+  "text": "I'll hammer it into that",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 48,
+  "off": 2504,
+  "len": 21,
+  "text": "thick skull of yours!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 49,
+  "off": 3262,
+  "len": 24,
+  "text": "Songi: {NAME:02}, I thought you",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 50,
+  "off": 3288,
+  "len": 32,
+  "text": "were stronger than that! You're ",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 51,
+  "off": 3322,
+  "len": 27,
+  "text": "not even a worthy opponent!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 52,
+  "off": 3356,
+  "len": 26,
+  "text": "Songi: This is ridiculous!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 53,
+  "off": 3384,
+  "len": 31,
+  "text": "Absurd! You need more practice!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 54,
+  "off": 3512,
+  "len": 28,
+  "text": "Songi: You're not even worth",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 55,
+  "off": 3542,
+  "len": 34,
+  "text": "dirtying my hands over. I'll leave",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 56,
+  "off": 3578,
+  "len": 25,
+  "text": "you to one of my cohorts!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 57,
+  "off": 3606,
+  "len": 30,
+  "text": "Songi: Have a nice, enjoyable,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 41,
+  "run": 58,
+  "off": 3638,
+  "len": 18,
+  "text": "pleasant... death!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 0,
+  "off": 288,
+  "len": 28,
+  "text": "Songi: Stop! Enough already!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 1,
+  "off": 318,
+  "len": 21,
+  "text": "{NAME:02}! You're completely",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 2,
+  "off": 341,
+  "len": 9,
+  "text": "hopeless!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 3,
+  "off": 472,
+  "len": 30,
+  "text": "Songi: You're holding everyone",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 4,
+  "off": 504,
+  "len": 29,
+  "text": "down! As a fellow Biron monk,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 5,
+  "off": 535,
+  "len": 12,
+  "text": "I'm ashamed!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 6,
+  "off": 562,
+  "len": 23,
+  "text": "Songi: You were so bad,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 7,
+  "off": 587,
+  "len": 28,
+  "text": "I was ashamed to even watch!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 8,
+  "off": 668,
+  "len": 27,
+  "text": "Songi: Oh, I've had enough!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 9,
+  "off": 697,
+  "len": 15,
+  "text": "I'm going home!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 10,
+  "off": 784,
+  "len": 32,
+  "text": "Songi: Let's play together again",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 11,
+  "off": 818,
+  "len": 19,
+  "text": "another time, {NAME:02}...",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 12,
+  "off": 844,
+  "len": 30,
+  "text": "Songi: If a wussy like you can",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 13,
+  "off": 876,
+  "len": 30,
+  "text": "manage to stay alive, that is!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 14,
+  "off": 908,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 15,
+  "off": 1290,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: What an insolent man!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 16,
+  "off": 1446,
+  "len": 15,
+  "text": "{NAME:01}: I hate him!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 17,
+  "off": 1524,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: But Songi's Seru,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 18,
+  "off": 1551,
+  "len": 24,
+  "text": "that definitely was a...",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 19,
+  "off": 1581,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: Nevermind! We don't",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 20,
+  "off": 1610,
+  "len": 29,
+  "text": "have time to talk! We have to",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 42,
+  "run": 21,
+  "off": 1641,
+  "len": 32,
+  "text": "revive the  Genesis Tree! Hurry!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 0,
+  "off": 229,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Look! The Genesis Tree's",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 1,
+  "off": 263,
+  "len": 31,
+  "text": "power is making the Ra-Seru Egg",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 2,
+  "off": 296,
+  "len": 6,
+  "text": "hatch!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 3,
+  "off": 512,
+  "len": 19,
+  "text": "{NAME:02}: It's a Ra-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 4,
+  "off": 799,
+  "len": 12,
+  "text": "{NAME:02}: Ra-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 5,
+  "off": 813,
+  "len": 17,
+  "text": "Why are you here,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 6,
+  "off": 832,
+  "len": 15,
+  "text": "in front of me?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 7,
+  "off": 850,
+  "len": 12,
+  "text": "{NAME:02}: Ra-Seru!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 8,
+  "off": 864,
+  "len": 25,
+  "text": "Is it me you have chosen?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 9,
+  "off": 947,
+  "len": 14,
+  "text": "{NAME:02}: Very well!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 10,
+  "off": 963,
+  "len": 23,
+  "text": "I submit myself to you!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 11,
+  "off": 1028,
+  "len": 20,
+  "text": "{NAME:02}: To defeat Songi,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 12,
+  "off": 1050,
+  "len": 24,
+  "text": "the villain who attacked",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 13,
+  "off": 1076,
+  "len": 18,
+  "text": "Biron Monastery...",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 14,
+  "off": 1177,
+  "len": 22,
+  "text": "{NAME:02}: I submit myself to",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 15,
+  "off": 1201,
+  "len": 22,
+  "text": "you, Ra-Seru! Take me!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 16,
+  "off": 1485,
+  "len": 16,
+  "text": "{NAME:02}, I am pleased",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 17,
+  "off": 1503,
+  "len": 12,
+  "text": "to meet you.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 18,
+  "off": 1517,
+  "len": 10,
+  "text": "I am Ozma.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 19,
+  "off": 1529,
+  "len": 15,
+  "text": "I am a Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 20,
+  "off": 1546,
+  "len": 23,
+  "text": "I sense you do not wish",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 21,
+  "off": 1571,
+  "len": 27,
+  "text": "to open up your mind to me.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 22,
+  "off": 1600,
+  "len": 22,
+  "text": "Please do not fear me!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 23,
+  "off": 1624,
+  "len": 21,
+  "text": "We Ra-Seru exist only",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 24,
+  "off": 1647,
+  "len": 23,
+  "text": "to lend our strength to",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 25,
+  "off": 1672,
+  "len": 25,
+  "text": "humans, not control them.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 26,
+  "off": 1699,
+  "len": 21,
+  "text": "Your mind will remain",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 27,
+  "off": 1722,
+  "len": 20,
+  "text": "your own. I will not",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 28,
+  "off": 1744,
+  "len": 15,
+  "text": "tamper with it.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 29,
+  "off": 1761,
+  "len": 12,
+  "text": "And besides,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 30,
+  "off": 1775,
+  "len": 26,
+  "text": "I have chosen you. Just as",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 31,
+  "off": 1803,
+  "len": 26,
+  "text": "you submit yourself to me,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 32,
+  "off": 1831,
+  "len": 26,
+  "text": "I entrust you with my very",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 33,
+  "off": 1859,
+  "len": 8,
+  "text": "destiny.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 34,
+  "off": 1869,
+  "len": 18,
+  "text": "Never forget that!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 35,
+  "off": 1894,
+  "len": 21,
+  "text": "I am counting on you,",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 36,
+  "off": 1917,
+  "len": 19,
+  "text": "and the future that",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 37,
+  "off": 1938,
+  "len": 23,
+  "text": "you will create for us.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 38,
+  "off": 2304,
+  "len": 21,
+  "text": "{NAME:02}: I feel it! I feel",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 39,
+  "off": 2327,
+  "len": 24,
+  "text": "the strength in my arms!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 40,
+  "off": 2353,
+  "len": 23,
+  "text": "The Ra-Seru's strength!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 41,
+  "off": 2464,
+  "len": 34,
+  "text": "We must return to Biron Monastery!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 42,
+  "off": 2500,
+  "len": 32,
+  "text": "I fear for Master Zopu's safety!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 43,
+  "off": 2841,
+  "len": 29,
+  "text": "{NAME:01}: I hope the Genesis Tree's",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 45,
+  "run": 44,
+  "off": 2872,
+  "len": 21,
+  "text": "powers reached Biron.",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 46,
+  "run": 0,
+  "off": 95,
+  "len": 20,
+  "text": "Where are you going?",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 46,
+  "run": 1,
+  "off": 117,
+  "len": 30,
+  "text": "Come back to the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 0,
+  "off": 159,
+  "len": 16,
+  "text": "A voice is heard",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 1,
+  "off": 177,
+  "len": 29,
+  "text": "from beyond the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 2,
+  "off": 209,
+  "len": 15,
+  "text": "Hari: {NAME:02}! Ozma!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 3,
+  "off": 226,
+  "len": 23,
+  "text": "Human and Seru who live",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 4,
+  "off": 251,
+  "len": 15,
+  "text": "in the present!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 5,
+  "off": 269,
+  "len": 29,
+  "text": "Hari: Tieg sends you the last",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 6,
+  "off": 300,
+  "len": 29,
+  "text": "of his powers so that you may",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 7,
+  "off": 331,
+  "len": 20,
+  "text": "correct history now!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 8,
+  "off": 371,
+  "len": 33,
+  "text": "Ozma's true powers have come out!",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 9,
+  "off": 407,
+  "len": 29,
+  "text": "Hari: You have the last of my",
+  "ko": ""
+ },
+ {
+  "map": 106,
+  "script": 47,
+  "run": 10,
+  "off": 438,
+  "len": 24,
+  "text": "power... my very spirit!",
+  "ko": ""
+ }
+]

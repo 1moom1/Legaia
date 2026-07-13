@@ -1,0 +1,1379 @@
+[
+ {
+  "map": 590,
+  "script": 12,
+  "run": 0,
+  "off": 330,
+  "len": 13,
+  "text": "{NAME:01}: Oh! Look!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 1,
+  "off": 560,
+  "len": 13,
+  "text": "look at that!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 2,
+  "off": 863,
+  "len": 28,
+  "text": "{NAME:01}: It's a piece of a Rogue.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 3,
+  "off": 948,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That's right. It's a",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 4,
+  "off": 978,
+  "len": 15,
+  "text": "Rogue Fragment.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 5,
+  "off": 1081,
+  "len": 24,
+  "text": "{NAME:02}: So that has the same",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 6,
+  "off": 1107,
+  "len": 19,
+  "text": "power as a Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 7,
+  "off": 1156,
+  "len": 24,
+  "text": "{NAME:02}: I guess I still have",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 8,
+  "off": 1182,
+  "len": 26,
+  "text": "a lot to learn about Seru.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 9,
+  "off": 1265,
+  "len": 25,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Seru-kai is a",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 10,
+  "off": 1292,
+  "len": 33,
+  "text": "world beyond human comprehension.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 11,
+  "off": 1419,
+  "len": 23,
+  "text": "{NAME:01}: Is Rogue's Tower in",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 12,
+  "off": 1444,
+  "len": 13,
+  "text": "the Seru-kai?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 13,
+  "off": 1459,
+  "len": 25,
+  "text": "What kind of place is it?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 14,
+  "off": 1611,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Rogue's Tower is part of",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 15,
+  "off": 1645,
+  "len": 30,
+  "text": "Seru-kai, but the tower itself",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 16,
+  "off": 1677,
+  "len": 23,
+  "text": "is the body of a Rogue.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 17,
+  "off": 1783,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: The Rogues were once",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 18,
+  "off": 1813,
+  "len": 31,
+  "text": "Ra-Seru, and they can hear what",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 19,
+  "off": 1846,
+  "len": 7,
+  "text": "we say.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 20,
+  "off": 1936,
+  "len": 27,
+  "text": "{PAL:5}{M7:02}{PAL:7}: That's why we can't",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 21,
+  "off": 1965,
+  "len": 18,
+  "text": "say anything more.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 22,
+  "off": 2133,
+  "len": 10,
+  "text": "{NAME:01}: But...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 23,
+  "off": 2205,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Don't worry. Instead",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 24,
+  "off": 2235,
+  "len": 31,
+  "text": "of talking, I'll concentrate on",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 12,
+  "run": 25,
+  "off": 2268,
+  "len": 33,
+  "text": "protecting you from Rogue's evil.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 0,
+  "off": 500,
+  "len": 19,
+  "text": "tell you something.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 1,
+  "off": 741,
+  "len": 27,
+  "text": "{NAME:02}. We want to thank you...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 2,
+  "off": 770,
+  "len": 30,
+  "text": "From the bottom of our hearts!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 3,
+  "off": 918,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: I am so fortunate to",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 4,
+  "off": 948,
+  "len": 32,
+  "text": "have joined up with young people",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 5,
+  "off": 982,
+  "len": 9,
+  "text": "like you!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 6,
+  "off": 1134,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: When Tieg divided his",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 7,
+  "off": 1165,
+  "len": 34,
+  "text": "body into human and Seru, the Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 8,
+  "off": 1201,
+  "len": 26,
+  "text": "were entrusted with order.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 9,
+  "off": 1230,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Tieg had faith in human",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 10,
+  "off": 1263,
+  "len": 31,
+  "text": "potential, and ordered the Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 11,
+  "off": 1296,
+  "len": 34,
+  "text": "not to interfere in human affairs.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 12,
+  "off": 1475,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But a thousand years ago,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 13,
+  "off": 1510,
+  "len": 36,
+  "text": "the Ra-Seru Rogue staged a rebellion",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 14,
+  "off": 1548,
+  "len": 28,
+  "text": "and came to the human world.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 15,
+  "off": 1579,
+  "len": 34,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The rebellion was put down",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 16,
+  "off": 1615,
+  "len": 29,
+  "text": "with Tieg's strength, but the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 17,
+  "off": 1646,
+  "len": 31,
+  "text": "humans had learned of the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 18,
+  "off": 1680,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That's when the Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 19,
+  "off": 1713,
+  "len": 29,
+  "text": "were sent to the human world,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 20,
+  "off": 1744,
+  "len": 29,
+  "text": "along with the Genesis Trees.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 21,
+  "off": 1859,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: Our mission was to restore",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 22,
+  "off": 1895,
+  "len": 30,
+  "text": "order when impending disaster ",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 23,
+  "off": 1927,
+  "len": 27,
+  "text": "threatened the human world.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 24,
+  "off": 1957,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: The Genesis Tree was also",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 25,
+  "off": 1992,
+  "len": 29,
+  "text": "a means of maintaining order.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 26,
+  "off": 2107,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: But in the end, as you",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 27,
+  "off": 2139,
+  "len": 11,
+  "text": "all know...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 28,
+  "off": 2153,
+  "len": 32,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Humans, possessed by the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 29,
+  "off": 2187,
+  "len": 29,
+  "text": "Mist, took over the Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 30,
+  "off": 2302,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I do not know for certain",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 31,
+  "off": 2337,
+  "len": 28,
+  "text": "what transpires in Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 32,
+  "off": 2368,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But you can save the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 33,
+  "off": 2398,
+  "len": 29,
+  "text": "Seru-kai and the human world!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 34,
+  "off": 2429,
+  "len": 24,
+  "text": "I am sure you can do it!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 35,
+  "off": 2610,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 36,
+  "off": 2622,
+  "len": 28,
+  "text": "Where are you going? I don't",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 37,
+  "off": 2652,
+  "len": 15,
+  "text": "want you to go!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 38,
+  "off": 2817,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, don't be silly.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 39,
+  "off": 2846,
+  "len": 31,
+  "text": "Long ago, I made you a promise,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 40,
+  "off": 2879,
+  "len": 20,
+  "text": "right? I promised...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 41,
+  "off": 2902,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: This old wolf would",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 42,
+  "off": 2931,
+  "len": 29,
+  "text": "stay with you no matter what!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 43,
+  "off": 2962,
+  "len": 29,
+  "text": "That's what we agreed, right?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 44,
+  "off": 3106,
+  "len": 9,
+  "text": "{NAME:01}: Yeah!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 45,
+  "off": 3146,
+  "len": 10,
+  "text": "{NAME:01}: Terra!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 46,
+  "off": 3158,
+  "len": 27,
+  "text": "You promised! You promised,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 47,
+  "off": 3187,
+  "len": 16,
+  "text": "so don't forget!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 48,
+  "off": 3289,
+  "len": 22,
+  "text": "{NAME:02}: Alright! It's time",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 49,
+  "off": 3313,
+  "len": 25,
+  "text": "to free the Seru-kai from",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 14,
+  "run": 50,
+  "off": 3340,
+  "len": 14,
+  "text": "Songi's grasp!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 0,
+  "off": 330,
+  "len": 22,
+  "text": "{NAME:01}: Hey! What is this?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 1,
+  "off": 354,
+  "len": 16,
+  "text": "What's going on?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 2,
+  "off": 597,
+  "len": 5,
+  "text": "Wait!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 3,
+  "off": 664,
+  "len": 22,
+  "text": "{NAME:02}: What's the matter,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 4,
+  "off": 688,
+  "len": 5,
+  "text": "Ozma?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 5,
+  "off": 756,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Ahead is Rogue's Tower.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 6,
+  "off": 789,
+  "len": 35,
+  "text": "It's part of the Seru-kai, but it's",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 7,
+  "off": 826,
+  "len": 35,
+  "text": "a prison that holds the evil Rogue.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 8,
+  "off": 864,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Rogues are... Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 9,
+  "off": 899,
+  "len": 29,
+  "text": "who invaded the human world a",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 10,
+  "off": 930,
+  "len": 19,
+  "text": "thousand years ago.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 11,
+  "off": 952,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Rogue's Tower was built",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 12,
+  "off": 985,
+  "len": 31,
+  "text": "to neutralize the Rogues' power",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 13,
+  "off": 1018,
+  "len": 11,
+  "text": "as Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 14,
+  "off": 1129,
+  "len": 21,
+  "text": "{NAME:02}: What? But that...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 15,
+  "off": 1380,
+  "len": 17,
+  "text": "{NAME:01}: That means...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 16,
+  "off": 1454,
+  "len": 21,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That's right.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 17,
+  "off": 1477,
+  "len": 18,
+  "text": "We still have some",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 18,
+  "off": 1497,
+  "len": 16,
+  "text": "strength, but...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 19,
+  "off": 1611,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: I want to save that",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 20,
+  "off": 1640,
+  "len": 32,
+  "text": "strength to protect you from the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 21,
+  "off": 1674,
+  "len": 26,
+  "text": "effects of the thick Mist.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 22,
+  "off": 1831,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: So from this point on,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 23,
+  "off": 1863,
+  "len": 32,
+  "text": "remember that you can't use Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 24,
+  "off": 1897,
+  "len": 29,
+  "text": "healing or attack techniques.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 25,
+  "off": 2120,
+  "len": 22,
+  "text": "{NAME:01}: No! That can't be!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 26,
+  "off": 2238,
+  "len": 29,
+  "text": "but there's nothing I can do.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 27,
+  "off": 2415,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: Now we'll give you the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 28,
+  "off": 2447,
+  "len": 33,
+  "text": "last of our energy for you to use",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 29,
+  "off": 2482,
+  "len": 21,
+  "text": "in the coming battle.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 30,
+  "off": 2834,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 31,
+  "off": 2845,
+  "len": 24,
+  "text": "are completely restored.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 32,
+  "off": 2989,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now show us your true",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 33,
+  "off": 3020,
+  "len": 9,
+  "text": "strength!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 34,
+  "off": 3115,
+  "len": 28,
+  "text": "{PAL:4}{M7}{PAL:7}: Show us that you can",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 35,
+  "off": 3145,
+  "len": 28,
+  "text": "defeat the enemy without us!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 36,
+  "off": 3259,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Defeat the Rogue locked",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 15,
+  "run": 37,
+  "off": 3292,
+  "len": 13,
+  "text": "in the tower!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 0,
+  "off": 332,
+  "len": 22,
+  "text": "{NAME:01}: Hey! What is this?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 1,
+  "off": 356,
+  "len": 16,
+  "text": "What's going on?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 2,
+  "off": 599,
+  "len": 5,
+  "text": "Wait!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 3,
+  "off": 666,
+  "len": 22,
+  "text": "{NAME:02}: What's the matter,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 4,
+  "off": 690,
+  "len": 5,
+  "text": "Ozma?",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 5,
+  "off": 758,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Ahead is Rogue's Tower.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 6,
+  "off": 791,
+  "len": 35,
+  "text": "It's part of the Seru-kai, but it's",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 7,
+  "off": 828,
+  "len": 35,
+  "text": "a prison that holds the evil Rogue.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 8,
+  "off": 866,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Rogues are... Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 9,
+  "off": 901,
+  "len": 29,
+  "text": "who invaded the human world a",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 10,
+  "off": 932,
+  "len": 19,
+  "text": "thousand years ago.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 11,
+  "off": 954,
+  "len": 31,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Rogue's Tower was built",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 12,
+  "off": 987,
+  "len": 31,
+  "text": "to neutralize the Rogues' power",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 13,
+  "off": 1020,
+  "len": 11,
+  "text": "as Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 14,
+  "off": 1131,
+  "len": 21,
+  "text": "{NAME:02}: What? But that...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 15,
+  "off": 1382,
+  "len": 17,
+  "text": "{NAME:01}: That means...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 16,
+  "off": 1456,
+  "len": 21,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That's right.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 17,
+  "off": 1479,
+  "len": 28,
+  "text": "We still have some strength,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 18,
+  "off": 1509,
+  "len": 6,
+  "text": "but...",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 19,
+  "off": 1613,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: I want to save that",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 20,
+  "off": 1642,
+  "len": 32,
+  "text": "strength to protect you from the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 21,
+  "off": 1676,
+  "len": 26,
+  "text": "effects of the thick Mist.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 22,
+  "off": 1833,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: So from this point on,",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 23,
+  "off": 1865,
+  "len": 32,
+  "text": "remember that you can't use Seru",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 24,
+  "off": 1899,
+  "len": 29,
+  "text": "healing or attack techniques.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 25,
+  "off": 2122,
+  "len": 22,
+  "text": "{NAME:01}: No! That can't be!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 26,
+  "off": 2240,
+  "len": 29,
+  "text": "but there's nothing I can do.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 27,
+  "off": 2417,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: Now we'll give you the",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 28,
+  "off": 2449,
+  "len": 33,
+  "text": "last of our energy for you to use",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 29,
+  "off": 2484,
+  "len": 21,
+  "text": "in the coming battle.",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 30,
+  "off": 2836,
+  "len": 9,
+  "text": "HP and MP",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 31,
+  "off": 2847,
+  "len": 24,
+  "text": "are completely restored!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 32,
+  "off": 2991,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now show us your true",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 33,
+  "off": 3022,
+  "len": 9,
+  "text": "strength!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 34,
+  "off": 3117,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: Show us that you can",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 35,
+  "off": 3147,
+  "len": 28,
+  "text": "defeat the enemy without us!",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 36,
+  "off": 3261,
+  "len": 24,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Defeat the Rogue",
+  "ko": ""
+ },
+ {
+  "map": 590,
+  "script": 16,
+  "run": 37,
+  "off": 3287,
+  "len": 20,
+  "text": "locked in the tower!",
+  "ko": ""
+ }
+]

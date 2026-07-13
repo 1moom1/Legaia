@@ -1,0 +1,1163 @@
+[
+ {
+  "map": 675,
+  "script": 44,
+  "run": 0,
+  "off": 31,
+  "len": 4,
+  "text": "Hmm?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 1,
+  "off": 43,
+  "len": 10,
+  "text": "Is that...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 2,
+  "off": 55,
+  "len": 19,
+  "text": "Is that... you, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 3,
+  "off": 202,
+  "len": 14,
+  "text": "I mean it, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 4,
+  "off": 218,
+  "len": 25,
+  "text": "You must get out of here.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 5,
+  "off": 245,
+  "len": 24,
+  "text": "This is a hellish place!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 6,
+  "off": 279,
+  "len": 21,
+  "text": "Is it my imagination?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 7,
+  "off": 302,
+  "len": 27,
+  "text": "A nightmare... is that what",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 44,
+  "run": 8,
+  "off": 331,
+  "len": 12,
+  "text": "tortures me?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 45,
+  "run": 0,
+  "off": 19,
+  "len": 7,
+  "text": "Oh, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 45,
+  "run": 1,
+  "off": 28,
+  "len": 16,
+  "text": "Please help us! ",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 45,
+  "run": 2,
+  "off": 46,
+  "len": 23,
+  "text": "Save me from this pain!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 46,
+  "run": 0,
+  "off": 19,
+  "len": 13,
+  "text": "{NAME}, it hurts!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 46,
+  "run": 1,
+  "off": 34,
+  "len": 20,
+  "text": "My whole body hurts!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 0,
+  "off": 36,
+  "len": 26,
+  "text": "Val: Don't worry about me.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 1,
+  "off": 64,
+  "len": 12,
+  "text": "I'm alive...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 2,
+  "off": 79,
+  "len": 32,
+  "text": "Val: What's more important is...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 3,
+  "off": 113,
+  "len": 25,
+  "text": "What are you going to do?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 4,
+  "off": 146,
+  "len": 19,
+  "text": "Destroy Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 5,
+  "off": 167,
+  "len": 35,
+  "text": "Head deep into the Creature Castle!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 6,
+  "off": 205,
+  "len": 24,
+  "text": "Val: I see. I'm sure you",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 7,
+  "off": 231,
+  "len": 10,
+  "text": "can do it.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 8,
+  "off": 247,
+  "len": 24,
+  "text": "Val: Take this with you.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 9,
+  "off": 284,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 10,
+  "off": 296,
+  "len": 7,
+  "text": "the {ITEM:6D}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 11,
+  "off": 308,
+  "len": 8,
+  "text": "Val: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 47,
+  "run": 12,
+  "off": 318,
+  "len": 20,
+  "text": "I'm so proud of you.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "Nene: I'm scared!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 1,
+  "off": 42,
+  "len": 14,
+  "text": "I'm so scared!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 2,
+  "off": 59,
+  "len": 24,
+  "text": "Nene: Am I going to die?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 3,
+  "off": 85,
+  "len": 22,
+  "text": "Tell me! Am I going to",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 4,
+  "off": 109,
+  "len": 14,
+  "text": "die like this?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 5,
+  "off": 130,
+  "len": 18,
+  "text": "No! Of course not!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 6,
+  "off": 150,
+  "len": 25,
+  "text": "I'll save you... somehow!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 7,
+  "off": 178,
+  "len": 23,
+  "text": "Nene: Oh, thank you for",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 8,
+  "off": 203,
+  "len": 30,
+  "text": "trying to make me feel better.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 9,
+  "off": 243,
+  "len": 28,
+  "text": "Nene: OK. I'll wait for you.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 10,
+  "off": 273,
+  "len": 16,
+  "text": "I believe you...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 11,
+  "off": 299,
+  "len": 17,
+  "text": "Nene: Be careful.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 48,
+  "run": 12,
+  "off": 318,
+  "len": 18,
+  "text": "Don't be reckless!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 49,
+  "run": 0,
+  "off": 17,
+  "len": 23,
+  "text": "Village Elder: Why, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 49,
+  "run": 1,
+  "off": 42,
+  "len": 24,
+  "text": "I thought... the Mist...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 49,
+  "run": 2,
+  "off": 68,
+  "len": 15,
+  "text": "was all gone...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 50,
+  "run": 0,
+  "off": 21,
+  "len": 19,
+  "text": "I c-can't move, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 50,
+  "run": 1,
+  "off": 42,
+  "len": 24,
+  "text": "My body is... paralyzed.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 0,
+  "off": 324,
+  "len": 21,
+  "text": "Maya: {NAME}, it's you...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 1,
+  "off": 347,
+  "len": 9,
+  "text": "and {NAME:02}...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 2,
+  "off": 539,
+  "len": 9,
+  "text": "{NAME:01}: Maya!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 3,
+  "off": 550,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 4,
+  "off": 568,
+  "len": 16,
+  "text": "Are you in pain?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 5,
+  "off": 593,
+  "len": 21,
+  "text": "Maya: Don't... worry.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 6,
+  "off": 616,
+  "len": 25,
+  "text": "I've still... got some...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 7,
+  "off": 643,
+  "len": 17,
+  "text": "fight left in me!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 8,
+  "off": 754,
+  "len": 23,
+  "text": "{NAME:02}: Just hang in there!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 9,
+  "off": 779,
+  "len": 26,
+  "text": "We'll save you! I promise!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 10,
+  "off": 874,
+  "len": 11,
+  "text": "Maya: OK...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 11,
+  "off": 887,
+  "len": 26,
+  "text": "Oh, I'm sorry... I'm so...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 12,
+  "off": 915,
+  "len": 8,
+  "text": "tired...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 13,
+  "off": 929,
+  "len": 15,
+  "text": "Maya: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 14,
+  "off": 1094,
+  "len": 9,
+  "text": "{NAME:01}: Maya?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 15,
+  "off": 1190,
+  "len": 22,
+  "text": "{NAME:02}: Come on, let's go!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 16,
+  "off": 1214,
+  "len": 32,
+  "text": "It's time to take out Juggernaut",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 17,
+  "off": 1248,
+  "len": 9,
+  "text": "for good!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 18,
+  "off": 1432,
+  "len": 24,
+  "text": "{NAME:01}: Hang in there, Maya.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 19,
+  "off": 1458,
+  "len": 21,
+  "text": "We'll get Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 51,
+  "run": 20,
+  "off": 1610,
+  "len": 15,
+  "text": "Maya: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 0,
+  "off": 319,
+  "len": 8,
+  "text": "Mei: {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 1,
+  "off": 329,
+  "len": 22,
+  "text": "Is that you there, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 2,
+  "off": 358,
+  "len": 21,
+  "text": "Are you alright, Mei?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 3,
+  "off": 381,
+  "len": 31,
+  "text": "I've been looking for you, Mei.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 4,
+  "off": 421,
+  "len": 24,
+  "text": "Mei: Yes, I'm alright...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 5,
+  "off": 457,
+  "len": 19,
+  "text": "Mei: Oh, thank you.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 6,
+  "off": 478,
+  "len": 26,
+  "text": "I knew you would come, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 7,
+  "off": 516,
+  "len": 21,
+  "text": "Mei: But... please...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 8,
+  "off": 539,
+  "len": 17,
+  "text": "don't look at me.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 9,
+  "off": 590,
+  "len": 26,
+  "text": "Mei: I must look horrible.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 10,
+  "off": 618,
+  "len": 20,
+  "text": "Don't... look at me!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 11,
+  "off": 640,
+  "len": 15,
+  "text": "I look awful...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 12,
+  "off": 724,
+  "len": 20,
+  "text": "{NAME:01}: That's not true!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 13,
+  "off": 746,
+  "len": 23,
+  "text": "You look the same, Mei!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 14,
+  "off": 771,
+  "len": 23,
+  "text": "Just as pretty as ever!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 15,
+  "off": 821,
+  "len": 25,
+  "text": "Mei: You're so sweet, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 16,
+  "off": 848,
+  "len": 18,
+  "text": "Thank you so much.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 17,
+  "off": 872,
+  "len": 25,
+  "text": "Mei: And I told myself...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 18,
+  "off": 899,
+  "len": 22,
+  "text": "that I wouldn't cry...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 19,
+  "off": 927,
+  "len": 24,
+  "text": "Mei: ...I told myself...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 20,
+  "off": 953,
+  "len": 17,
+  "text": "I'd be strong!...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 21,
+  "off": 1067,
+  "len": 23,
+  "text": "{NAME:02}: Hang in there, Mei!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 22,
+  "off": 1092,
+  "len": 28,
+  "text": "We'll finish off Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 23,
+  "off": 1122,
+  "len": 27,
+  "text": "Then we'll rescue everyone!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 24,
+  "off": 1246,
+  "len": 14,
+  "text": "Mei: Wait, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 25,
+  "off": 1262,
+  "len": 25,
+  "text": "Take... this... with you.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 26,
+  "off": 1466,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 27,
+  "off": 1502,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 28,
+  "off": 1514,
+  "len": 7,
+  "text": "the {ITEM:C1}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 29,
+  "off": 1529,
+  "len": 20,
+  "text": "Mei: Promise me, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 30,
+  "off": 1551,
+  "len": 15,
+  "text": "Promise that...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 31,
+  "off": 1568,
+  "len": 25,
+  "text": "you'll come back...alive!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 32,
+  "off": 1752,
+  "len": 20,
+  "text": "Mei: Promise me, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 33,
+  "off": 1774,
+  "len": 15,
+  "text": "Promise that...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 52,
+  "run": 34,
+  "off": 1791,
+  "len": 25,
+  "text": "you'll come back...alive!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 53,
+  "run": 0,
+  "off": 21,
+  "len": 11,
+  "text": "Ixis: {NAME}...",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 53,
+  "run": 1,
+  "off": 34,
+  "len": 32,
+  "text": "I thought you said that the Mist",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 53,
+  "run": 2,
+  "off": 68,
+  "len": 9,
+  "text": "was gone!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 53,
+  "run": 3,
+  "off": 80,
+  "len": 27,
+  "text": "Ixis: So what's this, then?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 53,
+  "run": 4,
+  "off": 109,
+  "len": 16,
+  "text": "What's going on?",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 53,
+  "run": 5,
+  "off": 127,
+  "len": 30,
+  "text": "What's going to happen to me?!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 56,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:E7}",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 56,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 56,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 56,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:E7}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 56,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 57,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:5F}",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 57,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 57,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 57,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:5F}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 57,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 58,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:64}",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 58,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 58,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 58,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:64}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 58,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 59,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:69}",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 59,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 59,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 59,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:69}!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 59,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 60,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 675,
+  "script": 60,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:EA}!",
+  "ko": ""
+ }
+]

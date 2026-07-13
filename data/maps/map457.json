@@ -1,0 +1,695 @@
+[
+ {
+  "map": 457,
+  "script": 30,
+  "run": 0,
+  "off": 22,
+  "len": 34,
+  "text": "Val: If only we had Drake Water...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 1,
+  "off": 58,
+  "len": 29,
+  "text": "If only there were no Mist...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 2,
+  "off": 89,
+  "len": 10,
+  "text": "No Mist...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 3,
+  "off": 102,
+  "len": 14,
+  "text": "Val: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 4,
+  "off": 119,
+  "len": 21,
+  "text": "Val: Don't worry, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 5,
+  "off": 142,
+  "len": 29,
+  "text": "I was just talking to myself.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 6,
+  "off": 173,
+  "len": 28,
+  "text": "Your mother will get better.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 7,
+  "off": 206,
+  "len": 20,
+  "text": "Val: {NAME}, your mother",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 8,
+  "off": 228,
+  "len": 13,
+  "text": "will be fine!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 30,
+  "run": 9,
+  "off": 244,
+  "len": 28,
+  "text": "Val: I'm sure... She just...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 31,
+  "run": 0,
+  "off": 14,
+  "len": 23,
+  "text": "<16>!<1F>Nene: Goo-goo ga-ga.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 0,
+  "off": 39,
+  "len": 15,
+  "text": "Nora: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 1,
+  "off": 57,
+  "len": 11,
+  "text": "Nora: {NAME}...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 2,
+  "off": 70,
+  "len": 24,
+  "text": "You're so... grown up...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 3,
+  "off": 96,
+  "len": 6,
+  "text": "now...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 4,
+  "off": 105,
+  "len": 19,
+  "text": "Nora: So, please...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 5,
+  "off": 126,
+  "len": 21,
+  "text": "Look after... Nene...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 32,
+  "run": 6,
+  "off": 152,
+  "len": 15,
+  "text": "Nora: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 0,
+  "off": 99,
+  "len": 22,
+  "text": "(Silent contemplation)",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 1,
+  "off": 127,
+  "len": 32,
+  "text": "Village Elder: When the baby was",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 2,
+  "off": 161,
+  "len": 24,
+  "text": "born, there was too much",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 3,
+  "off": 187,
+  "len": 13,
+  "text": "hemorrhaging.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 4,
+  "off": 206,
+  "len": 29,
+  "text": "Village Elder: If only we had",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 5,
+  "off": 237,
+  "len": 31,
+  "text": "Drake Water, then Nora would be",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 6,
+  "off": 270,
+  "len": 8,
+  "text": "alright.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 7,
+  "off": 284,
+  "len": 30,
+  "text": "Village Elder: With this Mist,",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 8,
+  "off": 316,
+  "len": 33,
+  "text": "it would be next to impossible to",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 9,
+  "off": 351,
+  "len": 19,
+  "text": "reach Drake Castle.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 10,
+  "off": 436,
+  "len": 23,
+  "text": "{NAME}! What are you doing?",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 11,
+  "off": 461,
+  "len": 26,
+  "text": "Don't eavesdrop like that!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 12,
+  "off": 699,
+  "len": 22,
+  "text": "Val: Welcome home, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 13,
+  "off": 723,
+  "len": 28,
+  "text": "Village Elder is here, so go",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 14,
+  "off": 753,
+  "len": 18,
+  "text": "pay your respects!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 15,
+  "off": 839,
+  "len": 22,
+  "text": "Village Elder: Ah, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 16,
+  "off": 863,
+  "len": 25,
+  "text": "You're such a good child!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 17,
+  "off": 894,
+  "len": 33,
+  "text": "Village Elder: I'll be going now.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 18,
+  "off": 929,
+  "len": 26,
+  "text": "{NAME}, take good care of your",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 41,
+  "run": 19,
+  "off": 957,
+  "len": 7,
+  "text": "mother!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 0,
+  "off": 178,
+  "len": 26,
+  "text": "Val: {NAME}! It's almost dark!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 1,
+  "off": 206,
+  "len": 30,
+  "text": "Don't go outside the Wall now!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 2,
+  "off": 370,
+  "len": 9,
+  "text": "Val! Val!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 3,
+  "off": 473,
+  "len": 26,
+  "text": "Val, I looked all over the",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 4,
+  "off": 501,
+  "len": 33,
+  "text": "village, but I couldn't find him!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 5,
+  "off": 537,
+  "len": 19,
+  "text": "I couldn't find {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 6,
+  "off": 585,
+  "len": 26,
+  "text": "Just as I thought. {NAME} must",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 7,
+  "off": 613,
+  "len": 29,
+  "text": "have sneaked outside the Wall",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 8,
+  "off": 644,
+  "len": 24,
+  "text": "when we weren't looking.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 9,
+  "off": 747,
+  "len": 32,
+  "text": "Val: Oh, no! He must be going to",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 10,
+  "off": 781,
+  "len": 32,
+  "text": "Drake Castle! He must have heard",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 11,
+  "off": 815,
+  "len": 28,
+  "text": "me talking to Village Elder!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 12,
+  "off": 861,
+  "len": 22,
+  "text": "Val: He's going to get",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 13,
+  "off": 885,
+  "len": 12,
+  "text": "Drake Water!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 14,
+  "off": 1273,
+  "len": 29,
+  "text": "Village Elder: Val, can't you",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 15,
+  "off": 1304,
+  "len": 27,
+  "text": "wait until the wind changes",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 16,
+  "off": 1333,
+  "len": 27,
+  "text": "direction in the morning...",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 17,
+  "off": 1434,
+  "len": 26,
+  "text": "Village Elder: If I cannot",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 18,
+  "off": 1462,
+  "len": 28,
+  "text": "convince you otherwise, then",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 19,
+  "off": 1492,
+  "len": 9,
+  "text": "so be it!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 20,
+  "off": 1514,
+  "len": 35,
+  "text": "Village Elder: I give my permission",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 21,
+  "off": 1551,
+  "len": 17,
+  "text": "to open the gate!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 22,
+  "off": 1981,
+  "len": 9,
+  "text": "Oh, dear!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 23,
+  "off": 1996,
+  "len": 27,
+  "text": "{NAME} managed to return safely",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 24,
+  "off": 2025,
+  "len": 26,
+  "text": "from Drake Castle, but Val",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 25,
+  "off": 2053,
+  "len": 23,
+  "text": "was attacked by a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 26,
+  "off": 2082,
+  "len": 25,
+  "text": "He survived, but they say",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 27,
+  "off": 2109,
+  "len": 25,
+  "text": "his leg will never be the",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 28,
+  "off": 2136,
+  "len": 11,
+  "text": "same again!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 29,
+  "off": 2157,
+  "len": 9,
+  "text": "And Nora!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 42,
+  "run": 30,
+  "off": 2168,
+  "len": 23,
+  "text": "Oh, what a poor family!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 0,
+  "off": 439,
+  "len": 35,
+  "text": "Do not blame yourself for the past.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 1,
+  "off": 476,
+  "len": 19,
+  "text": "Do not feel guilty.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 2,
+  "off": 497,
+  "len": 27,
+  "text": "The past cannot be changed.",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 3,
+  "off": 526,
+  "len": 26,
+  "text": "Instead, you must be brave",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 4,
+  "off": 554,
+  "len": 30,
+  "text": "and work to create the future!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 5,
+  "off": 586,
+  "len": 34,
+  "text": "That is what it means to be human!",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 6,
+  "off": 625,
+  "len": 34,
+  "text": "For humans are those who are brave",
+  "ko": ""
+ },
+ {
+  "map": 457,
+  "script": 43,
+  "run": 7,
+  "off": 661,
+  "len": 34,
+  "text": "enough to create their own future.",
+  "ko": ""
+ }
+]

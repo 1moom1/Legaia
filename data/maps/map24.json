@@ -1,0 +1,6428 @@
+[
+ {
+  "map": 24,
+  "script": 12,
+  "run": 0,
+  "off": 49,
+  "len": 12,
+  "text": "There's a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 12,
+  "run": 1,
+  "off": 82,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 12,
+  "run": 2,
+  "off": 94,
+  "len": 7,
+  "text": "the {ITEM:77}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 13,
+  "run": 0,
+  "off": 49,
+  "len": 12,
+  "text": "There's a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 13,
+  "run": 1,
+  "off": 82,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 13,
+  "run": 2,
+  "off": 94,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 14,
+  "run": 0,
+  "off": 49,
+  "len": 12,
+  "text": "There's a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 14,
+  "run": 1,
+  "off": 82,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 14,
+  "run": 2,
+  "off": 94,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 17,
+  "run": 0,
+  "off": 45,
+  "len": 12,
+  "text": "There's a {ITEM:FE}",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 17,
+  "run": 1,
+  "off": 59,
+  "len": 14,
+  "text": "in the drawer!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 17,
+  "run": 2,
+  "off": 76,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 17,
+  "run": 3,
+  "off": 88,
+  "len": 7,
+  "text": "the {ITEM:FE}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 17,
+  "run": 4,
+  "off": 101,
+  "len": 20,
+  "text": "The drawer is empty!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 27,
+  "run": 0,
+  "off": 49,
+  "len": 12,
+  "text": "There's a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 27,
+  "run": 1,
+  "off": 82,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 27,
+  "run": 2,
+  "off": 94,
+  "len": 7,
+  "text": "the {ITEM:77}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 0,
+  "off": 37,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 1,
+  "off": 70,
+  "len": 28,
+  "text": "First visit to Biron Temple>",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 2,
+  "off": 100,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 3,
+  "off": 137,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 4,
+  "off": 145,
+  "len": 32,
+  "text": "<First visit to Biron Temple> ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 5,
+  "off": 179,
+  "len": 33,
+  "text": "<First visit to Biron Temple> OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 6,
+  "off": 214,
+  "len": 44,
+  "text": "Go right to Genesis Tree Resurrection event!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 7,
+  "off": 271,
+  "len": 13,
+  "text": "Zeto's defeat",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 8,
+  "off": 286,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 9,
+  "off": 323,
+  "len": 5,
+  "text": "Next=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 10,
+  "off": 330,
+  "len": 16,
+  "text": "Zeto's defeat ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 11,
+  "off": 348,
+  "len": 17,
+  "text": "Zeto's defeat OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 12,
+  "off": 367,
+  "len": 5,
+  "text": "Back=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 13,
+  "off": 385,
+  "len": 37,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 14,
+  "off": 424,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 15,
+  "off": 461,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 16,
+  "off": 469,
+  "len": 40,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 17,
+  "off": 511,
+  "len": 41,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 18,
+  "off": 554,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 19,
+  "off": 573,
+  "len": 28,
+  "text": "Do you wish to plant a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 20,
+  "off": 610,
+  "len": 8,
+  "text": "<FF><1F>=Next=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 21,
+  "off": 620,
+  "len": 5,
+  "text": "<> ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 22,
+  "off": 627,
+  "len": 6,
+  "text": "<> OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 23,
+  "off": 635,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 24,
+  "off": 650,
+  "len": 19,
+  "text": "{NAME} merges with Seru",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 25,
+  "off": 671,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 26,
+  "off": 708,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 27,
+  "off": 716,
+  "len": 22,
+  "text": "{NAME} merges with Seru ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 28,
+  "off": 740,
+  "len": 23,
+  "text": "{NAME} merges with Seru OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 29,
+  "off": 765,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 30,
+  "off": 784,
+  "len": 24,
+  "text": "<The villagers assemble>",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 31,
+  "off": 810,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 32,
+  "off": 847,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 33,
+  "off": 855,
+  "len": 27,
+  "text": "<The villagers assemble> ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 34,
+  "off": 884,
+  "len": 28,
+  "text": "<The villagers assemble> OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 35,
+  "off": 914,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 36,
+  "off": 933,
+  "len": 35,
+  "text": "<Rim Elm Genesis Tree Resurrection>",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 37,
+  "off": 970,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 38,
+  "off": 1007,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 39,
+  "off": 1015,
+  "len": 38,
+  "text": "<Rim Elm Genesis Tree Resurrection> ON",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 40,
+  "off": 1055,
+  "len": 39,
+  "text": "<Rim Elm Genesis Tree Resurrection> OFF",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 41,
+  "off": 1096,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 37,
+  "run": 42,
+  "off": 1115,
+  "len": 17,
+  "text": "End flag settings",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 0,
+  "off": 127,
+  "len": 29,
+  "text": "Tetsu: As a follower of Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 1,
+  "off": 158,
+  "len": 28,
+  "text": "I have renounced the Seru...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 2,
+  "off": 189,
+  "len": 31,
+  "text": "Tetsu: And so I cannot say what",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 3,
+  "off": 222,
+  "len": 29,
+  "text": "manner of thing a Ra-Seru is.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 4,
+  "off": 253,
+  "len": 10,
+  "text": "However...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 5,
+  "off": 266,
+  "len": 26,
+  "text": "Tetsu: You, {NAME}, I do know!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 6,
+  "off": 294,
+  "len": 31,
+  "text": "You, hearty youth, I know well!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 7,
+  "off": 328,
+  "len": 33,
+  "text": "Tetsu: Village Elder says you are",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 8,
+  "off": 363,
+  "len": 32,
+  "text": "going to Biron Monastery to look",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 9,
+  "off": 397,
+  "len": 17,
+  "text": "for Mei's mother.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 10,
+  "off": 417,
+  "len": 31,
+  "text": "Tetsu: Biron Monastery is where",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 11,
+  "off": 450,
+  "len": 30,
+  "text": "I grew up. If it still stands,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 12,
+  "off": 482,
+  "len": 21,
+  "text": "give my best to them.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 13,
+  "off": 558,
+  "len": 14,
+  "text": "Tetsu: Ah, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 14,
+  "off": 574,
+  "len": 35,
+  "text": "What a darling little girl you have",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 15,
+  "off": 611,
+  "len": 9,
+  "text": "with you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 16,
+  "off": 784,
+  "len": 17,
+  "text": "Nice to meet you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 17,
+  "off": 835,
+  "len": 15,
+  "text": "Tetsu: {NAME:01}, huh?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 18,
+  "off": 852,
+  "len": 28,
+  "text": "And this child, too, wears a",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 19,
+  "off": 882,
+  "len": 15,
+  "text": "Ra-Seru, I see.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 20,
+  "off": 900,
+  "len": 28,
+  "text": "Tetsu: {NAME:01}, shall I teach you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 21,
+  "off": 930,
+  "len": 26,
+  "text": "a Biron Art to use on your",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 22,
+  "off": 958,
+  "len": 8,
+  "text": "mission?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 23,
+  "off": 973,
+  "len": 12,
+  "text": "Yes, please.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 24,
+  "off": 987,
+  "len": 35,
+  "text": "I wish to rely on my own abilities.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 25,
+  "off": 1063,
+  "len": 28,
+  "text": "Tetsu: I see. True, one must",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 26,
+  "off": 1093,
+  "len": 24,
+  "text": "combine various commands",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 27,
+  "off": 1119,
+  "len": 15,
+  "text": "during a fight.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 28,
+  "off": 1137,
+  "len": 32,
+  "text": "Tetsu: And one can also discover",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 29,
+  "off": 1171,
+  "len": 32,
+  "text": "new lethal techniques by chance.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 30,
+  "off": 1205,
+  "len": 22,
+  "text": "May Biron be with you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 31,
+  "off": 1323,
+  "len": 31,
+  "text": "Tetsu: Good! That's the spirit!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 32,
+  "off": 1356,
+  "len": 8,
+  "text": "Now, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 33,
+  "off": 1366,
+  "len": 17,
+  "text": "Listen carefully!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 34,
+  "off": 1386,
+  "len": 19,
+  "text": "Tetsu: (Explaining)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 35,
+  "off": 1429,
+  "len": 22,
+  "text": "Tetsu: That is all the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 36,
+  "off": 1453,
+  "len": 21,
+  "text": "Arts I can teach you,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 37,
+  "off": 1485,
+  "len": 33,
+  "text": "Tetsu: Besides, I see you already",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 38,
+  "off": 1542,
+  "len": 29,
+  "text": "Tetsu: You will also no doubt",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 39,
+  "off": 1573,
+  "len": 25,
+  "text": "learn new Arts from Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 40,
+  "off": 1600,
+  "len": 24,
+  "text": "warrior-monks out there.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 41,
+  "off": 1627,
+  "len": 31,
+  "text": "Tetsu: Always strive to perfect",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 42,
+  "off": 1660,
+  "len": 16,
+  "text": "your techniques!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 43,
+  "off": 1678,
+  "len": 22,
+  "text": "May Biron be with you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 44,
+  "off": 1777,
+  "len": 27,
+  "text": "Tetsu: {NAME}, you have been to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 45,
+  "off": 1806,
+  "len": 16,
+  "text": "Biron Monastery!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 46,
+  "off": 1824,
+  "len": 18,
+  "text": "Was everyone well?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 47,
+  "off": 1969,
+  "len": 34,
+  "text": "Tetsu: So they are still alive and",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 48,
+  "off": 2005,
+  "len": 26,
+  "text": "well. Good. I am relieved.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 49,
+  "off": 2034,
+  "len": 34,
+  "text": "Tetsu: The Biron warrior-monks are",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 50,
+  "off": 2070,
+  "len": 20,
+  "text": "all expert fighters.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 51,
+  "off": 2092,
+  "len": 33,
+  "text": "You should study their teachings.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 52,
+  "off": 2140,
+  "len": 35,
+  "text": "Tetsu: So some disturbance occurred",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 53,
+  "off": 2177,
+  "len": 22,
+  "text": "without my knowing it.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 54,
+  "off": 2202,
+  "len": 31,
+  "text": "Tetsu: I wish it were not true,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 55,
+  "off": 2235,
+  "len": 25,
+  "text": "but if you say it is, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 56,
+  "off": 2262,
+  "len": 24,
+  "text": "then I must believe you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 57,
+  "off": 2289,
+  "len": 16,
+  "text": "Tetsu: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 58,
+  "off": 2330,
+  "len": 34,
+  "text": "Tetsu: The Biron warrior-monks are",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 59,
+  "off": 2366,
+  "len": 20,
+  "text": "all expert fighters.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 60,
+  "off": 2388,
+  "len": 33,
+  "text": "You should study their teachings.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 61,
+  "off": 2438,
+  "len": 16,
+  "text": "Tetsu: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 62,
+  "off": 2478,
+  "len": 33,
+  "text": "Tetsu: For the teachings of Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 63,
+  "off": 2513,
+  "len": 28,
+  "text": "apply to every era and every",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 64,
+  "off": 2543,
+  "len": 35,
+  "text": "situation, even a crisis like this.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 65,
+  "off": 2581,
+  "len": 33,
+  "text": "Tetsu: That's what I believe, and",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 66,
+  "off": 2616,
+  "len": 21,
+  "text": "I want you {NAME}, {NAME:01} and",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 67,
+  "off": 2639,
+  "len": 25,
+  "text": "{NAME:02}, to believe that, too.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 68,
+  "off": 2721,
+  "len": 27,
+  "text": "Tetsu: Ah, and you there...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 69,
+  "off": 2872,
+  "len": 8,
+  "text": "{NAME:02}: Sir!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 70,
+  "off": 2883,
+  "len": 17,
+  "text": "{NAME:02}: Master Tetsu,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 71,
+  "off": 2902,
+  "len": 15,
+  "text": "I am called {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 72,
+  "off": 2920,
+  "len": 21,
+  "text": "Tetsu: {NAME:02}? I remember",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 73,
+  "off": 2943,
+  "len": 25,
+  "text": "you being a mere child...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 74,
+  "off": 3008,
+  "len": 28,
+  "text": "Tetsu: You have grown strong",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 75,
+  "off": 3038,
+  "len": 28,
+  "text": "so quickly! That reminds me.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 76,
+  "off": 3068,
+  "len": 23,
+  "text": "What happened to Songi?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 77,
+  "off": 3100,
+  "len": 28,
+  "text": "Tetsu: You have grown strong",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 78,
+  "off": 3130,
+  "len": 28,
+  "text": "so quickly! But you are with",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 79,
+  "off": 3160,
+  "len": 19,
+  "text": "{NAME}... That means...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 80,
+  "off": 3241,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 81,
+  "off": 3331,
+  "len": 33,
+  "text": "Tetsu: There must be some reason.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 82,
+  "off": 3366,
+  "len": 35,
+  "text": "But it matters not! I won't trouble",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 83,
+  "off": 3403,
+  "len": 15,
+  "text": "you to explain.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 84,
+  "off": 3428,
+  "len": 28,
+  "text": "Tetsu: {NAME:02}, as a fellow Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 85,
+  "off": 3458,
+  "len": 27,
+  "text": "disciple, please look after",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 86,
+  "off": 3487,
+  "len": 17,
+  "text": "{NAME} and {NAME:01} for me!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 87,
+  "off": 3513,
+  "len": 19,
+  "text": "Tetsu: {NAME}'s Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 88,
+  "off": 3534,
+  "len": 17,
+  "text": "seems displeased.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 89,
+  "off": 3561,
+  "len": 26,
+  "text": "Tetsu: But {NAME:02}, as a fellow",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 90,
+  "off": 3589,
+  "len": 33,
+  "text": "Biron disciple, please look after",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 91,
+  "off": 3624,
+  "len": 17,
+  "text": "{NAME} and {NAME:01} for me!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 92,
+  "off": 3779,
+  "len": 30,
+  "text": "Tetsu: All I can do for you is",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 93,
+  "off": 3811,
+  "len": 33,
+  "text": "teach you a new lethal technique.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 94,
+  "off": 3847,
+  "len": 29,
+  "text": "Tetsu: Which of you wishes to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 95,
+  "off": 3878,
+  "len": 15,
+  "text": "learn the Arts?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 96,
+  "off": 3916,
+  "len": 24,
+  "text": "We'll manage on our own.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 97,
+  "off": 3943,
+  "len": 10,
+  "text": "Tetsu: {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 98,
+  "off": 3955,
+  "len": 22,
+  "text": "I already taught you a",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 99,
+  "off": 3979,
+  "len": 17,
+  "text": "lethal technique!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 100,
+  "off": 3999,
+  "len": 28,
+  "text": "Tetsu: Regrettably, there is",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 101,
+  "off": 4029,
+  "len": 29,
+  "text": "nothing I can teach you. Does",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 102,
+  "off": 4060,
+  "len": 29,
+  "text": "anyone else wish to learn it?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 103,
+  "off": 4101,
+  "len": 31,
+  "text": "Tetsu: Good! That's the spirit!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 104,
+  "off": 4134,
+  "len": 12,
+  "text": "Alright, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 105,
+  "off": 4148,
+  "len": 12,
+  "text": "Listen well!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 106,
+  "off": 4163,
+  "len": 19,
+  "text": "Tetsu: (Explaining)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 107,
+  "off": 4206,
+  "len": 22,
+  "text": "Tetsu: That is all the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 108,
+  "off": 4230,
+  "len": 21,
+  "text": "Arts I can teach you,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 109,
+  "off": 4262,
+  "len": 33,
+  "text": "Tetsu: Besides, I see you already",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 110,
+  "off": 4319,
+  "len": 29,
+  "text": "Tetsu: You will also no doubt",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 111,
+  "off": 4350,
+  "len": 25,
+  "text": "learn new Arts from Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 112,
+  "off": 4377,
+  "len": 24,
+  "text": "warrior-monks out there.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 113,
+  "off": 4416,
+  "len": 24,
+  "text": "Tetsu: {NAME:01}, don't tell me",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 114,
+  "off": 4442,
+  "len": 23,
+  "text": "you already forgot the ",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 115,
+  "off": 4477,
+  "len": 27,
+  "text": "Tetsu: I have no other Arts",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 116,
+  "off": 4506,
+  "len": 33,
+  "text": "I can teach you. Does anyone else",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 117,
+  "off": 4541,
+  "len": 18,
+  "text": "wish to learn one?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 118,
+  "off": 4571,
+  "len": 31,
+  "text": "Tetsu: Good! That's the spirit!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 119,
+  "off": 4604,
+  "len": 25,
+  "text": "Alright, {NAME:02}! Listen well!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 120,
+  "off": 4632,
+  "len": 19,
+  "text": "Tetsu: (Explaining)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 121,
+  "off": 4675,
+  "len": 22,
+  "text": "Tetsu: That is all the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 122,
+  "off": 4699,
+  "len": 21,
+  "text": "Arts I can teach you,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 123,
+  "off": 4731,
+  "len": 33,
+  "text": "Tetsu: Besides, I see you already",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 124,
+  "off": 4788,
+  "len": 29,
+  "text": "Tetsu: You will also no doubt",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 125,
+  "off": 4819,
+  "len": 25,
+  "text": "learn new Arts from Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 126,
+  "off": 4846,
+  "len": 24,
+  "text": "warrior-monks out there.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 127,
+  "off": 4885,
+  "len": 24,
+  "text": "Tetsu: {NAME:02}, don't tell me",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 128,
+  "off": 4911,
+  "len": 22,
+  "text": "you already forgot the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 129,
+  "off": 4945,
+  "len": 27,
+  "text": "Tetsu: I have no other Arts",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 130,
+  "off": 4974,
+  "len": 33,
+  "text": "I can teach you. Does anyone else",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 131,
+  "off": 5009,
+  "len": 18,
+  "text": "wish to learn one?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 132,
+  "off": 5033,
+  "len": 22,
+  "text": "Tetsu: How reassuring!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 133,
+  "off": 5057,
+  "len": 29,
+  "text": "But still, you must strive to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 134,
+  "off": 5088,
+  "len": 24,
+  "text": "perfect your techniques!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 135,
+  "off": 5115,
+  "len": 26,
+  "text": "Tetsu: Come back any time.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 136,
+  "off": 5146,
+  "len": 35,
+  "text": "Tetsu: Always strive to polish your",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 137,
+  "off": 5183,
+  "len": 11,
+  "text": "techniques!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 40,
+  "run": 138,
+  "off": 5196,
+  "len": 22,
+  "text": "May Biron be with you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 41,
+  "run": 0,
+  "off": 127,
+  "len": 27,
+  "text": "There are Statues of Memory",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 41,
+  "run": 1,
+  "off": 156,
+  "len": 27,
+  "text": "to be found the world over.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 41,
+  "run": 2,
+  "off": 186,
+  "len": 19,
+  "text": "{NAME}, be sure to tell",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 41,
+  "run": 3,
+  "off": 207,
+  "len": 23,
+  "text": "the Statue any memories",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 41,
+  "run": 4,
+  "off": 232,
+  "len": 17,
+  "text": "you wish to save.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 0,
+  "off": 121,
+  "len": 22,
+  "text": "Someday, when the Mist",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 1,
+  "off": 145,
+  "len": 32,
+  "text": "disappears from the earth, let's",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 2,
+  "off": 179,
+  "len": 31,
+  "text": "travel the seas together, O.K.?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 3,
+  "off": 215,
+  "len": 15,
+  "text": "A bird told me:",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 4,
+  "off": 233,
+  "len": 22,
+  "text": "The Mist still engulfs",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 5,
+  "off": 257,
+  "len": 20,
+  "text": "the world around us.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 6,
+  "off": 280,
+  "len": 27,
+  "text": "{NAME}, I sense the presence of",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 7,
+  "off": 309,
+  "len": 32,
+  "text": "a horrible evil inside the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 8,
+  "off": 344,
+  "len": 29,
+  "text": "So stay sharp until the world",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 42,
+  "run": 9,
+  "off": 375,
+  "len": 31,
+  "text": "is completely free of the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 0,
+  "off": 125,
+  "len": 21,
+  "text": "I want a Ra-Seru like",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 1,
+  "off": 148,
+  "len": 8,
+  "text": "you, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 2,
+  "off": 161,
+  "len": 4,
+  "text": "Hey!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 3,
+  "off": 168,
+  "len": 22,
+  "text": "She has a Ra-Seru just",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 4,
+  "off": 192,
+  "len": 15,
+  "text": "like yours, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 5,
+  "off": 212,
+  "len": 17,
+  "text": "Tetsu is going to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 6,
+  "off": 231,
+  "len": 17,
+  "text": "teach me a lot of",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 7,
+  "off": 250,
+  "len": 20,
+  "text": "fighting techniques!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 8,
+  "off": 273,
+  "len": 32,
+  "text": "I want to grow up big and strong",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 43,
+  "run": 9,
+  "off": 307,
+  "len": 13,
+  "text": "like you, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 0,
+  "off": 125,
+  "len": 29,
+  "text": "Even though the Wall has been",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 1,
+  "off": 156,
+  "len": 33,
+  "text": "destroyed, we don't have to worry",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 2,
+  "off": 191,
+  "len": 23,
+  "text": "about the Mist anymore.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 3,
+  "off": 219,
+  "len": 27,
+  "text": "Mei is always talking about",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 4,
+  "off": 248,
+  "len": 24,
+  "text": "{NAME}! She's always worried",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 5,
+  "off": 274,
+  "len": 14,
+  "text": "about {NAME}, too!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 6,
+  "off": 293,
+  "len": 4,
+  "text": "Hey!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 7,
+  "off": 300,
+  "len": 18,
+  "text": "{NAME}... {NAME} came back",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 8,
+  "off": 320,
+  "len": 26,
+  "text": "with a stranger -- a girl!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 9,
+  "off": 349,
+  "len": 12,
+  "text": "(Explaining)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 10,
+  "off": 366,
+  "len": 25,
+  "text": "{NAME}, be nice to Mei, O.K.?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 11,
+  "off": 396,
+  "len": 17,
+  "text": "{NAME}, you're great!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 12,
+  "off": 415,
+  "len": 22,
+  "text": "You brought Maya back,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 44,
+  "run": 13,
+  "off": 439,
+  "len": 20,
+  "text": "and Mei is so happy!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 45,
+  "run": 0,
+  "off": 123,
+  "len": 31,
+  "text": "It was horrible! It's a miracle",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 45,
+  "run": 1,
+  "off": 156,
+  "len": 34,
+  "text": "that we managed to survive at all!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 45,
+  "run": 2,
+  "off": 195,
+  "len": 28,
+  "text": "Hey, {NAME}! So you came back to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 45,
+  "run": 3,
+  "off": 225,
+  "len": 25,
+  "text": "Rim Elm. You should rest!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 0,
+  "off": 123,
+  "len": 25,
+  "text": "Oh, {NAME}! If you're looking",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 1,
+  "off": 150,
+  "len": 25,
+  "text": "for the adults, they went",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 2,
+  "off": 177,
+  "len": 12,
+  "text": "out hunting.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 3,
+  "off": 192,
+  "len": 28,
+  "text": "The Genesis Tree pushed back",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 4,
+  "off": 222,
+  "len": 25,
+  "text": "the Mist and kept us safe",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 5,
+  "off": 249,
+  "len": 20,
+  "text": "throughout the hunt.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 6,
+  "off": 274,
+  "len": 7,
+  "text": "So, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 7,
+  "off": 283,
+  "len": 27,
+  "text": "did you go to Drake Castle?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 8,
+  "off": 435,
+  "len": 33,
+  "text": "Really? Drake Castle used to have",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 9,
+  "off": 470,
+  "len": 28,
+  "text": "a bustling marketplace once.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 10,
+  "off": 501,
+  "len": 25,
+  "text": "Back then, Drake Castle's",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 11,
+  "off": 528,
+  "len": 35,
+  "text": "marketplace was the liveliest place",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 12,
+  "off": 565,
+  "len": 28,
+  "text": "in the entire Drake Kingdom!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 13,
+  "off": 598,
+  "len": 21,
+  "text": "Hey, what's this? {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 14,
+  "off": 621,
+  "len": 33,
+  "text": "you brought a woman with you, eh?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 15,
+  "off": 657,
+  "len": 28,
+  "text": "Where'd you find a cute girl",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 16,
+  "off": 687,
+  "len": 10,
+  "text": "like that?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 17,
+  "off": 702,
+  "len": 27,
+  "text": "Thanks to you, {NAME}, Maya has",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 18,
+  "off": 731,
+  "len": 29,
+  "text": "finally come home to us. It's",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 47,
+  "run": 19,
+  "off": 762,
+  "len": 16,
+  "text": "truly wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 0,
+  "off": 131,
+  "len": 31,
+  "text": "Our hunting is a lot easier now",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 1,
+  "off": 164,
+  "len": 22,
+  "text": "that the Mist is gone!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 2,
+  "off": 195,
+  "len": 30,
+  "text": "Sebucus Islands, to the north,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 3,
+  "off": 227,
+  "len": 34,
+  "text": "have a lot of hot springs, I hear.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 4,
+  "off": 263,
+  "len": 29,
+  "text": "I'd like to go there someday.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 5,
+  "off": 297,
+  "len": 30,
+  "text": "The Karisto Kingdom has a town",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 6,
+  "off": 329,
+  "len": 19,
+  "text": "called Sol, I hear.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 48,
+  "run": 7,
+  "off": 350,
+  "len": 29,
+  "text": "I'd like to go there someday.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 49,
+  "run": 0,
+  "off": 131,
+  "len": 35,
+  "text": "We've been catching a lot more game",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 49,
+  "run": 1,
+  "off": 168,
+  "len": 32,
+  "text": "than before, so we don't have to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 49,
+  "run": 2,
+  "off": 202,
+  "len": 24,
+  "text": "go out hunting as often.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 49,
+  "run": 3,
+  "off": 231,
+  "len": 32,
+  "text": "Maya is a good person, energetic",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 49,
+  "run": 4,
+  "off": 265,
+  "len": 29,
+  "text": "and warm. She brings vitality",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 49,
+  "run": 5,
+  "off": 296,
+  "len": 22,
+  "text": "to the entire village.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 52,
+  "run": 0,
+  "off": 34,
+  "len": 9,
+  "text": "Caw, caw.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 53,
+  "run": 0,
+  "off": 34,
+  "len": 9,
+  "text": "Caw, caw.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 54,
+  "run": 0,
+  "off": 34,
+  "len": 9,
+  "text": "Caw, caw.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 55,
+  "run": 0,
+  "off": 109,
+  "len": 13,
+  "text": "I am a dummy.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 57,
+  "run": 0,
+  "off": 125,
+  "len": 27,
+  "text": "Nene: Look! In that tree...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 57,
+  "run": 1,
+  "off": 154,
+  "len": 17,
+  "text": "Bees! Be careful!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 58,
+  "run": 0,
+  "off": 121,
+  "len": 14,
+  "text": "Val: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 58,
+  "run": 1,
+  "off": 138,
+  "len": 23,
+  "text": "Val: {NAME}, you don't have",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 58,
+  "run": 2,
+  "off": 163,
+  "len": 16,
+  "text": "to say anything.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 58,
+  "run": 3,
+  "off": 182,
+  "len": 30,
+  "text": "Val: I'm just glad that you've",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 58,
+  "run": 4,
+  "off": 214,
+  "len": 21,
+  "text": "returned home safely.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 0,
+  "off": 346,
+  "len": 19,
+  "text": "Nene: Welcome home!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 1,
+  "off": 368,
+  "len": 24,
+  "text": "Nene: You must be tired.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 2,
+  "off": 394,
+  "len": 34,
+  "text": "Do you want to rest before you go?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 3,
+  "off": 561,
+  "len": 29,
+  "text": "Nene: Good. The bed is ready,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 4,
+  "off": 592,
+  "len": 26,
+  "text": "so have a nice, long rest.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 5,
+  "off": 627,
+  "len": 10,
+  "text": "Nene: O.K.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 6,
+  "off": 639,
+  "len": 24,
+  "text": "Sleep soundly, everyone.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 7,
+  "off": 666,
+  "len": 17,
+  "text": "Nene: Good night!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 8,
+  "off": 692,
+  "len": 33,
+  "text": "Nene: Oh, alright. But just don't",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 9,
+  "off": 727,
+  "len": 23,
+  "text": "push yourself too hard.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 10,
+  "off": 825,
+  "len": 19,
+  "text": "Nene: Good morning!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 11,
+  "off": 847,
+  "len": 33,
+  "text": "Nene: When you have time, tell me",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 12,
+  "off": 882,
+  "len": 28,
+  "text": "about your adventures, O.K.?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 13,
+  "off": 935,
+  "len": 32,
+  "text": "Nene: Hmmf, that Mei always gets",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 14,
+  "off": 969,
+  "len": 25,
+  "text": "all the attention. I want",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 15,
+  "off": 996,
+  "len": 15,
+  "text": "attention, too!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 16,
+  "off": 1026,
+  "len": 30,
+  "text": "Nene: I smell something sweet.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 17,
+  "off": 1059,
+  "len": 21,
+  "text": "Nene: Oh, you brought",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 18,
+  "off": 1082,
+  "len": 6,
+  "text": "me {ITEM:65}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 19,
+  "off": 1091,
+  "len": 16,
+  "text": "{NAME} handed the {ITEM:65}",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 20,
+  "off": 1109,
+  "len": 8,
+  "text": "to Nene!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 21,
+  "off": 1120,
+  "len": 16,
+  "text": "Nene: Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 59,
+  "run": 22,
+  "off": 1138,
+  "len": 27,
+  "text": "Now I can make an Elm Cake!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 0,
+  "off": 186,
+  "len": 25,
+  "text": "Mei: {NAME}, you're so sweet.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 1,
+  "off": 213,
+  "len": 35,
+  "text": "You came to see me because you were",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 2,
+  "off": 250,
+  "len": 24,
+  "text": "worried about me, right?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 3,
+  "off": 399,
+  "len": 24,
+  "text": "Mei: You're so kind, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 4,
+  "off": 425,
+  "len": 29,
+  "text": "But don't worry, I'm alright.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 5,
+  "off": 457,
+  "len": 34,
+  "text": "Mei: Everyone in the village is so",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 6,
+  "off": 493,
+  "len": 34,
+  "text": "kind to me that I don't feel alone",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 7,
+  "off": 529,
+  "len": 8,
+  "text": "anymore.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 8,
+  "off": 540,
+  "len": 31,
+  "text": "Mei: I'm going to be just fine.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 9,
+  "off": 576,
+  "len": 24,
+  "text": "Mei: Oh, so I was wrong.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 10,
+  "off": 602,
+  "len": 26,
+  "text": "{NAME}, sometimes I just don't",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 11,
+  "off": 630,
+  "len": 15,
+  "text": "understand you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 12,
+  "off": 789,
+  "len": 6,
+  "text": "Mei: !",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 13,
+  "off": 847,
+  "len": 27,
+  "text": "Mei: {NAME}, who's that person?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 14,
+  "off": 924,
+  "len": 20,
+  "text": "{NAME:01}: I'm {NAME:01}, a friend",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 15,
+  "off": 946,
+  "len": 8,
+  "text": "of {NAME}'s!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 16,
+  "off": 1022,
+  "len": 19,
+  "text": "Mei: Oh, I see. {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 17,
+  "off": 1043,
+  "len": 22,
+  "text": "So you're {NAME}'s friend.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 18,
+  "off": 1180,
+  "len": 29,
+  "text": "Mei: I'm pleased to meet you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 19,
+  "off": 1211,
+  "len": 25,
+  "text": "I'm Mei. I'm {NAME}'s friend,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 20,
+  "off": 1238,
+  "len": 4,
+  "text": "too.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 21,
+  "off": 1346,
+  "len": 18,
+  "text": "{NAME:01}: If you're {NAME}'s",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 22,
+  "off": 1366,
+  "len": 33,
+  "text": "friend, that makes you my friend,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 23,
+  "off": 1401,
+  "len": 27,
+  "text": "too. Nice to meet you, Mei!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 24,
+  "off": 1458,
+  "len": 19,
+  "text": "{NAME:01}: {NAME}, I like Mei!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 25,
+  "off": 1479,
+  "len": 11,
+  "text": "She's nice!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 26,
+  "off": 1803,
+  "len": 24,
+  "text": "Mei: {NAME}, you have made a",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 27,
+  "off": 1829,
+  "len": 21,
+  "text": "very charming friend!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 28,
+  "off": 1852,
+  "len": 18,
+  "text": "I'm happy for you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 29,
+  "off": 1899,
+  "len": 24,
+  "text": "Mei: {NAME}, you have made a",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 30,
+  "off": 1925,
+  "len": 21,
+  "text": "very charming friend!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 31,
+  "off": 1948,
+  "len": 18,
+  "text": "I'm happy for you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 32,
+  "off": 1989,
+  "len": 18,
+  "text": "Mei: {NAME}, thank you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 33,
+  "off": 2009,
+  "len": 20,
+  "text": "so much for bringing",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 34,
+  "off": 2031,
+  "len": 15,
+  "text": "back my mother.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 35,
+  "off": 2049,
+  "len": 20,
+  "text": "Mei: But, {NAME}, you're",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 36,
+  "off": 2071,
+  "len": 19,
+  "text": "always so reckless!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 37,
+  "off": 2092,
+  "len": 22,
+  "text": "That's why I always...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 38,
+  "off": 2117,
+  "len": 24,
+  "text": "Mei: (Looking regretful)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 39,
+  "off": 2144,
+  "len": 15,
+  "text": "Mei: I'm sorry.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 40,
+  "off": 2161,
+  "len": 27,
+  "text": "I'm sure everything will be",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 41,
+  "off": 2190,
+  "len": 12,
+  "text": "alright, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 42,
+  "off": 2205,
+  "len": 20,
+  "text": "Mei: Be careful, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 43,
+  "off": 2227,
+  "len": 23,
+  "text": "As long as you're safe,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 44,
+  "off": 2252,
+  "len": 30,
+  "text": "that's all that matters to me.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 45,
+  "off": 2289,
+  "len": 19,
+  "text": "Mei: Can I ask, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 46,
+  "off": 2310,
+  "len": 24,
+  "text": "What happened to the {ITEM:43},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 47,
+  "off": 2336,
+  "len": 20,
+  "text": "the ones I made you?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 48,
+  "off": 2367,
+  "len": 23,
+  "text": "Well, actually I, um...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 49,
+  "off": 2392,
+  "len": 20,
+  "text": "I sold it for money.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 50,
+  "off": 2414,
+  "len": 30,
+  "text": "I'm sorry. A monster stole it.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 51,
+  "off": 2446,
+  "len": 35,
+  "text": "I didn't need it and threw it away.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 52,
+  "off": 2484,
+  "len": 6,
+  "text": "Mei: ?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 53,
+  "off": 2493,
+  "len": 14,
+  "text": "Mei: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 54,
+  "off": 2510,
+  "len": 14,
+  "text": "Mei: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 55,
+  "off": 2527,
+  "len": 30,
+  "text": "Mei: Oh. The world outside the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 56,
+  "off": 2559,
+  "len": 28,
+  "text": "village must be so terrible.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 57,
+  "off": 2598,
+  "len": 23,
+  "text": "Mei: {NAME}, you've brought",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 58,
+  "off": 2623,
+  "len": 27,
+  "text": "something unusual with you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 59,
+  "off": 2657,
+  "len": 23,
+  "text": "This is a Camera Stone.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 60,
+  "off": 2682,
+  "len": 27,
+  "text": "It's a souvenir from Vidna.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 61,
+  "off": 2712,
+  "len": 20,
+  "text": "Mei: A Camera Stone!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 62,
+  "off": 2734,
+  "len": 20,
+  "text": "I've heard of those!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 63,
+  "off": 2761,
+  "len": 29,
+  "text": "Can I take your picture, Mei?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 64,
+  "off": 2792,
+  "len": 17,
+  "text": "Pretty cool, huh?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 65,
+  "off": 2812,
+  "len": 8,
+  "text": "Mei: Oh!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 66,
+  "off": 2829,
+  "len": 18,
+  "text": "Mei: Is that so...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 67,
+  "off": 2852,
+  "len": 8,
+  "text": "Mei: Oh!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 68,
+  "off": 2863,
+  "len": 21,
+  "text": "Mei: {NAME}, what are you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 69,
+  "off": 2886,
+  "len": 26,
+  "text": "doing with a Camera Stone?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 70,
+  "off": 2919,
+  "len": 34,
+  "text": "Oh, I wanted to take your picture.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 71,
+  "off": 2955,
+  "len": 16,
+  "text": "Oh, n-nothing...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 72,
+  "off": 2974,
+  "len": 8,
+  "text": "Mei: Oh!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 73,
+  "off": 2985,
+  "len": 21,
+  "text": "Mei: I guess it's OK.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 74,
+  "off": 3008,
+  "len": 21,
+  "text": "if you want to, {NAME}...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 75,
+  "off": 3038,
+  "len": 21,
+  "text": "Mei: You're so funny,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 76,
+  "off": 3384,
+  "len": 32,
+  "text": "Mei: I hope it comes out good...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 77,
+  "off": 3731,
+  "len": 32,
+  "text": "Mei: I hope it comes out good...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 78,
+  "off": 4789,
+  "len": 32,
+  "text": "Mei: I hope it comes out good...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 79,
+  "off": 4999,
+  "len": 17,
+  "text": "The {ITEM:AD} broke into",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 80,
+  "off": 5018,
+  "len": 26,
+  "text": "pieces! Those tourist-trap",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 81,
+  "off": 5046,
+  "len": 24,
+  "text": "souvenirs sure are junk!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 82,
+  "off": 5076,
+  "len": 32,
+  "text": "Mei: The Camera Stone broke! I'm",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 83,
+  "off": 5110,
+  "len": 35,
+  "text": "so sorry I made you break something",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 84,
+  "off": 5147,
+  "len": 22,
+  "text": "so important to you...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 85,
+  "off": 5176,
+  "len": 29,
+  "text": "I can always buy another one.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 86,
+  "off": 5207,
+  "len": 28,
+  "text": "I wish I hadn't done that...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 87,
+  "off": 5238,
+  "len": 19,
+  "text": "Mei: Thank you, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 88,
+  "off": 5259,
+  "len": 27,
+  "text": "I hope it comes out good...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 89,
+  "off": 5291,
+  "len": 12,
+  "text": "Mei: Oh, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 60,
+  "run": 90,
+  "off": 5306,
+  "len": 20,
+  "text": "Mei: You're so mean!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 61,
+  "run": 0,
+  "off": 42,
+  "len": 20,
+  "text": "Mei: {NAME}, be careful!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 0,
+  "off": 129,
+  "len": 29,
+  "text": "Maya: I'm so happy to be back",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 1,
+  "off": 160,
+  "len": 28,
+  "text": "here! Thank you all so much.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 2,
+  "off": 190,
+  "len": 28,
+  "text": "But something troubles me...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 3,
+  "off": 221,
+  "len": 25,
+  "text": "Maya: Songi! I can't stop",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 4,
+  "off": 248,
+  "len": 20,
+  "text": "wondering how he is.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 5,
+  "off": 271,
+  "len": 25,
+  "text": "Maya: Songi is proud, but",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 6,
+  "off": 298,
+  "len": 21,
+  "text": "he's not a bad child.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 7,
+  "off": 322,
+  "len": 30,
+  "text": "Maya: If you find out anything",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 62,
+  "run": 8,
+  "off": 354,
+  "len": 32,
+  "text": "about Songi, please let me know!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 0,
+  "off": 129,
+  "len": 29,
+  "text": "Biron Monastery is beyond the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 1,
+  "off": 160,
+  "len": 30,
+  "text": "river to the north of Rim Elm.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 2,
+  "off": 193,
+  "len": 22,
+  "text": "The teachings of Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 3,
+  "off": 217,
+  "len": 17,
+  "text": "disavow the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 4,
+  "off": 237,
+  "len": 22,
+  "text": "That's why I think the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 5,
+  "off": 261,
+  "len": 25,
+  "text": "Monastery still survives.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 6,
+  "off": 291,
+  "len": 24,
+  "text": "Hey, I heard you reached",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 7,
+  "off": 317,
+  "len": 16,
+  "text": "Biron Monastery!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 8,
+  "off": 335,
+  "len": 16,
+  "text": "Very impressive!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 9,
+  "off": 356,
+  "len": 25,
+  "text": "Little lady, your name is",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 10,
+  "off": 383,
+  "len": 16,
+  "text": "{NAME:01}, right? {NAME:01} is",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 11,
+  "off": 401,
+  "len": 15,
+  "text": "a Karisto name.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 12,
+  "off": 419,
+  "len": 24,
+  "text": "She might have family in",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 13,
+  "off": 445,
+  "len": 32,
+  "text": "Karisto Kingdom, in the northern",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 63,
+  "run": 14,
+  "off": 479,
+  "len": 9,
+  "text": "frontier.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 0,
+  "off": 127,
+  "len": 28,
+  "text": "The scouts say that the Mist",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 1,
+  "off": 157,
+  "len": 26,
+  "text": "is only gone from the area",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 2,
+  "off": 185,
+  "len": 19,
+  "text": "around the village.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 3,
+  "off": 207,
+  "len": 30,
+  "text": "It looks like the power of the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 4,
+  "off": 239,
+  "len": 27,
+  "text": "Genesis Tree doesn't extend",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 5,
+  "off": 268,
+  "len": 9,
+  "text": "that far.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 6,
+  "off": 280,
+  "len": 28,
+  "text": "{NAME}, if you're going outside,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 7,
+  "off": 310,
+  "len": 23,
+  "text": "watch out for the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 8,
+  "off": 338,
+  "len": 29,
+  "text": "Mt. Rikuroa's Genesis Tree is",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 9,
+  "off": 369,
+  "len": 30,
+  "text": "awake, as well? How wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 10,
+  "off": 404,
+  "len": 28,
+  "text": "I see. So the Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 11,
+  "off": 434,
+  "len": 30,
+  "text": "is what was creating the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 12,
+  "off": 467,
+  "len": 30,
+  "text": "Only a demon would create such",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 64,
+  "run": 13,
+  "off": 499,
+  "len": 11,
+  "text": "a device...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 0,
+  "off": 119,
+  "len": 18,
+  "text": "Village Elder: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 1,
+  "off": 139,
+  "len": 23,
+  "text": "Biron Monastery is far.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 2,
+  "off": 164,
+  "len": 27,
+  "text": "Be careful on your journey.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 3,
+  "off": 194,
+  "len": 32,
+  "text": "Village Elder: I hope that Biron",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 4,
+  "off": 228,
+  "len": 32,
+  "text": "Monastery still stands, and that",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 5,
+  "off": 262,
+  "len": 31,
+  "text": "Mei's mother, Maya, is safe....",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 6,
+  "off": 304,
+  "len": 33,
+  "text": "Village Elder: What?! You made it",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 7,
+  "off": 339,
+  "len": 20,
+  "text": "to Biron Monastery?!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 8,
+  "off": 362,
+  "len": 31,
+  "text": "Village Elder: Then find out if",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 9,
+  "off": 395,
+  "len": 30,
+  "text": "Maya is still safe -- quickly!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 10,
+  "off": 442,
+  "len": 33,
+  "text": "Village Elder: What?! You made it",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 11,
+  "off": 477,
+  "len": 20,
+  "text": "to Biron Monastery?!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 12,
+  "off": 500,
+  "len": 30,
+  "text": "Village Elder: Then what about",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 13,
+  "off": 532,
+  "len": 19,
+  "text": "Mei's mother, Maya?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 14,
+  "off": 558,
+  "len": 21,
+  "text": "She's alive and well.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 15,
+  "off": 581,
+  "len": 25,
+  "text": "Well, it's complicated...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 16,
+  "off": 609,
+  "len": 26,
+  "text": "Village Elder: {NAME}, did you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 17,
+  "off": 637,
+  "len": 19,
+  "text": "see Mei's mother at",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 18,
+  "off": 658,
+  "len": 16,
+  "text": "Biron Monastery?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 19,
+  "off": 677,
+  "len": 22,
+  "text": "Village Elder: Maya...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 20,
+  "off": 701,
+  "len": 23,
+  "text": "Was she alive and well?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 21,
+  "off": 731,
+  "len": 21,
+  "text": "She's alive and well.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 22,
+  "off": 754,
+  "len": 25,
+  "text": "Well, it's complicated...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 23,
+  "off": 784,
+  "len": 33,
+  "text": "Village Elder: Oh, how wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 24,
+  "off": 819,
+  "len": 21,
+  "text": "Mei will be so happy!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 25,
+  "off": 843,
+  "len": 25,
+  "text": "Village Elder: Ahem! Then",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 26,
+  "off": 870,
+  "len": 15,
+  "text": "promise me, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 27,
+  "off": 887,
+  "len": 23,
+  "text": "I want to surprise Mei.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 28,
+  "off": 913,
+  "len": 26,
+  "text": "Village Elder: Keep this a",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 29,
+  "off": 941,
+  "len": 21,
+  "text": "secret from Mei until",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 30,
+  "off": 964,
+  "len": 16,
+  "text": "Maya comes back.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 31,
+  "off": 987,
+  "len": 29,
+  "text": "Village Elder: I don't really",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 32,
+  "off": 1018,
+  "len": 27,
+  "text": "understand such matters too",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 33,
+  "off": 1047,
+  "len": 16,
+  "text": "well. However...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 34,
+  "off": 1066,
+  "len": 34,
+  "text": "Village Elder: For the time being,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 35,
+  "off": 1102,
+  "len": 30,
+  "text": "perhaps we should refrain from",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 36,
+  "off": 1134,
+  "len": 23,
+  "text": "saying anything to Mei.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 37,
+  "off": 1160,
+  "len": 30,
+  "text": "<02>v<A6><B7><01>r8e<01>R8<1F>Village Elder: {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 38,
+  "off": 1192,
+  "len": 11,
+  "text": "You did it!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 39,
+  "off": 1205,
+  "len": 22,
+  "text": "You brought Maya back!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 40,
+  "off": 1230,
+  "len": 28,
+  "text": "Village Elder: Maya says you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 41,
+  "off": 1260,
+  "len": 28,
+  "text": "went through a lot at Biron.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 42,
+  "off": 1291,
+  "len": 28,
+  "text": "Village Elder: My experience",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 43,
+  "off": 1321,
+  "len": 33,
+  "text": "and knowledge don't mean anything",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 44,
+  "off": 1356,
+  "len": 20,
+  "text": "in times like these.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 45,
+  "off": 1379,
+  "len": 34,
+  "text": "Village Elder: But I can say this:",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 46,
+  "off": 1415,
+  "len": 21,
+  "text": "Live a virtuous life.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 47,
+  "off": 1439,
+  "len": 29,
+  "text": "Village Elder: For the honest",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 48,
+  "off": 1470,
+  "len": 31,
+  "text": "dedication of the virtuous will",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 49,
+  "off": 1503,
+  "len": 19,
+  "text": "always be rewarded!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 50,
+  "off": 1534,
+  "len": 23,
+  "text": "Village Elder: {NAME}, I am",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 51,
+  "off": 1559,
+  "len": 26,
+  "text": "proud that you are a child",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 52,
+  "off": 1587,
+  "len": 11,
+  "text": "of Rim Elm!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 53,
+  "off": 1603,
+  "len": 31,
+  "text": "Village Elder: Perhaps the time",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 54,
+  "off": 1636,
+  "len": 30,
+  "text": "has come to tear down the Wall",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 66,
+  "run": 55,
+  "off": 1668,
+  "len": 30,
+  "text": "now that we no longer need it.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 0,
+  "off": 129,
+  "len": 11,
+  "text": "Ixis: Dang!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 1,
+  "off": 142,
+  "len": 33,
+  "text": "I should have gone to the Genesis",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 2,
+  "off": 177,
+  "len": 25,
+  "text": "Tree when the Wall broke.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 3,
+  "off": 205,
+  "len": 33,
+  "text": "Ixis: Then the Ra-Seru would have",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 4,
+  "off": 240,
+  "len": 19,
+  "text": "chosen me, not you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 5,
+  "off": 262,
+  "len": 9,
+  "text": "Ixis: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 6,
+  "off": 273,
+  "len": 32,
+  "text": "they say there are Genesis Trees",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 7,
+  "off": 307,
+  "len": 26,
+  "text": "all over the world, right?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 8,
+  "off": 336,
+  "len": 33,
+  "text": "Ixis: You should use that Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 9,
+  "off": 371,
+  "len": 31,
+  "text": "to awaken all the Genesis Trees",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 10,
+  "off": 404,
+  "len": 11,
+  "text": "everywhere!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 11,
+  "off": 418,
+  "len": 33,
+  "text": "Ixis: Use the Ra-Seru's powers to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 12,
+  "off": 453,
+  "len": 26,
+  "text": "rid the world of the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 13,
+  "off": 481,
+  "len": 29,
+  "text": "Hey, that sounds pretty cool.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 14,
+  "off": 513,
+  "len": 9,
+  "text": "Ixis: {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 15,
+  "off": 524,
+  "len": 22,
+  "text": "you are one lucky guy.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 16,
+  "off": 551,
+  "len": 14,
+  "text": "Ixis: Hey, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 17,
+  "off": 567,
+  "len": 29,
+  "text": "you've got a pretty cute girl",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 18,
+  "off": 598,
+  "len": 15,
+  "text": "with you there!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 19,
+  "off": 616,
+  "len": 28,
+  "text": "Ixis: So every Ra-Seru comes",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 20,
+  "off": 646,
+  "len": 22,
+  "text": "with a cute chick, eh?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 21,
+  "off": 670,
+  "len": 16,
+  "text": "You're so lucky!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 22,
+  "off": 689,
+  "len": 26,
+  "text": "Ixis: I'm just joking, I'm",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 23,
+  "off": 717,
+  "len": 29,
+  "text": "just joking! Don't get upset!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 24,
+  "off": 751,
+  "len": 26,
+  "text": "Ixis: Village Elder said I",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 25,
+  "off": 779,
+  "len": 24,
+  "text": "can go hunting now, too!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 26,
+  "off": 806,
+  "len": 30,
+  "text": "Ixis: So don't worry about Rim",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 27,
+  "off": 838,
+  "len": 16,
+  "text": "Elm anymore, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 69,
+  "run": 28,
+  "off": 856,
+  "len": 28,
+  "text": "Just leave everything to me!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 0,
+  "off": 133,
+  "len": 28,
+  "text": "If the Genesis Tree has such",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 1,
+  "off": 163,
+  "len": 32,
+  "text": "powers, why didn't it get rid of",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 2,
+  "off": 197,
+  "len": 16,
+  "text": "the Mist sooner?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 3,
+  "off": 227,
+  "len": 17,
+  "text": "{NAME}! I didn't know",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 4,
+  "off": 246,
+  "len": 15,
+  "text": "you were there!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 5,
+  "off": 264,
+  "len": 29,
+  "text": "I was just talking to myself,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 6,
+  "off": 295,
+  "len": 33,
+  "text": "so don't tell anyone what I said.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 7,
+  "off": 335,
+  "len": 29,
+  "text": "At any rate, the Mist is gone",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 8,
+  "off": 366,
+  "len": 23,
+  "text": "and we're safe for now.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 9,
+  "off": 394,
+  "len": 30,
+  "text": "Val is so lucky to have such a",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 70,
+  "run": 10,
+  "off": 426,
+  "len": 18,
+  "text": "fine son like you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 0,
+  "off": 127,
+  "len": 22,
+  "text": "Rei, Esto and Juno....",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 1,
+  "off": 151,
+  "len": 31,
+  "text": "I wish you were here so I could",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 2,
+  "off": 184,
+  "len": 31,
+  "text": "tell you that the Mist is gone.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 3,
+  "off": 218,
+  "len": 32,
+  "text": "... and so I could tell you that",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 4,
+  "off": 252,
+  "len": 33,
+  "text": "as long as there's life, there is",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 5,
+  "off": 287,
+  "len": 12,
+  "text": "always hope.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 6,
+  "off": 304,
+  "len": 30,
+  "text": "Now that the Mist is gone from",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 7,
+  "off": 336,
+  "len": 31,
+  "text": "the area, I'd better start some",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 71,
+  "run": 8,
+  "off": 369,
+  "len": 12,
+  "text": "kind of job.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 0,
+  "off": 121,
+  "len": 7,
+  "text": "Oh, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 1,
+  "off": 130,
+  "len": 20,
+  "text": "I'm glad to see you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 2,
+  "off": 153,
+  "len": 26,
+  "text": "Now that the Mist is gone,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 3,
+  "off": 181,
+  "len": 35,
+  "text": "I've decided to open my shop again.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 4,
+  "off": 218,
+  "len": 21,
+  "text": "My son is helping me.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 5,
+  "off": 244,
+  "len": 7,
+  "text": "Oh, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 72,
+  "run": 6,
+  "off": 253,
+  "len": 20,
+  "text": "I'm glad to see you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 0,
+  "off": 121,
+  "len": 26,
+  "text": "{NAME}, the Mist may have left",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 1,
+  "off": 149,
+  "len": 32,
+  "text": "the village, but beasts and Seru",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 2,
+  "off": 183,
+  "len": 26,
+  "text": "lurk just beyond the Wall.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 3,
+  "off": 212,
+  "len": 30,
+  "text": "You'll need weapons and armor.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 4,
+  "off": 244,
+  "len": 31,
+  "text": "Shall I teach you about weapons",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 5,
+  "off": 277,
+  "len": 10,
+  "text": "and armor?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 6,
+  "off": 412,
+  "len": 35,
+  "text": "First of all, there are four places",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 7,
+  "off": 449,
+  "len": 33,
+  "text": "to wear the weapons and armor you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 8,
+  "off": 484,
+  "len": 33,
+  "text": "acquire: head, arms, chest, legs.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 9,
+  "off": 520,
+  "len": 33,
+  "text": "Next, an opponent can strike high",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 10,
+  "off": 555,
+  "len": 33,
+  "text": "or low, so there are two types of",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 11,
+  "off": 590,
+  "len": 30,
+  "text": "defense: upper and lower body.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 12,
+  "off": 623,
+  "len": 34,
+  "text": "Upper-body defensive power depends",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 13,
+  "off": 659,
+  "len": 29,
+  "text": "on the armor on your head and",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 14,
+  "off": 690,
+  "len": 6,
+  "text": "torso.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 15,
+  "off": 699,
+  "len": 34,
+  "text": "Lower-body defensive power depends",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 16,
+  "off": 735,
+  "len": 30,
+  "text": "on the armor on your torso and",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 17,
+  "off": 767,
+  "len": 5,
+  "text": "legs.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 18,
+  "off": 775,
+  "len": 30,
+  "text": "Attacking power depends on the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 19,
+  "off": 807,
+  "len": 30,
+  "text": "weapons on your arms and legs.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 20,
+  "off": 840,
+  "len": 33,
+  "text": "Of course, newly acquired weapons",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 21,
+  "off": 875,
+  "len": 31,
+  "text": "and armor won't do you any good",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 22,
+  "off": 908,
+  "len": 21,
+  "text": "unless you wear them.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 23,
+  "off": 934,
+  "len": 26,
+  "text": "Well, if you already know,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 24,
+  "off": 962,
+  "len": 31,
+  "text": "there is nothing for me to say.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 25,
+  "off": 998,
+  "len": 17,
+  "text": "{NAME}, you're really",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 26,
+  "off": 1017,
+  "len": 25,
+  "text": "something. I'm impressed!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 27,
+  "off": 1045,
+  "len": 32,
+  "text": "I should have you teach me about",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 73,
+  "run": 28,
+  "off": 1079,
+  "len": 28,
+  "text": "weapons and armor! Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 74,
+  "run": 0,
+  "off": 129,
+  "len": 7,
+  "text": "Oh, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 74,
+  "run": 1,
+  "off": 138,
+  "len": 24,
+  "text": "Don't you know anything?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 74,
+  "run": 2,
+  "off": 165,
+  "len": 34,
+  "text": "This is a shop! If you're going to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 74,
+  "run": 3,
+  "off": 201,
+  "len": 30,
+  "text": "buy something, talk to me from",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 74,
+  "run": 4,
+  "off": 233,
+  "len": 12,
+  "text": "the counter!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 75,
+  "run": 0,
+  "off": 129,
+  "len": 35,
+  "text": "The power of this Genesis Tree will",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 75,
+  "run": 1,
+  "off": 166,
+  "len": 29,
+  "text": "protect us all from the Mist,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 75,
+  "run": 2,
+  "off": 197,
+  "len": 6,
+  "text": "right?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 75,
+  "run": 3,
+  "off": 208,
+  "len": 30,
+  "text": "I hear there are Genesis Trees",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 75,
+  "run": 4,
+  "off": 240,
+  "len": 34,
+  "text": "all over the world. I think that's",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 75,
+  "run": 5,
+  "off": 276,
+  "len": 13,
+  "text": "so wonderful.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 78,
+  "run": 0,
+  "off": 42,
+  "len": 8,
+  "text": "Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 78,
+  "run": 1,
+  "off": 52,
+  "len": 20,
+  "text": "What would you like?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 78,
+  "run": 2,
+  "off": 103,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 0,
+  "off": 240,
+  "len": 8,
+  "text": "Mei: {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 1,
+  "off": 497,
+  "len": 14,
+  "text": "Mei: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 2,
+  "off": 550,
+  "len": 23,
+  "text": "Mei: {NAME}, you're a liar!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 3,
+  "off": 614,
+  "len": 41,
+  "text": "<AC><<07><AC><<03><AC><<01><1F>Mei: You're nothing but a liar!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 4,
+  "off": 728,
+  "len": 28,
+  "text": "Mei: Why didn't you tell me?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 5,
+  "off": 904,
+  "len": 23,
+  "text": "Mei: About my mother...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 6,
+  "off": 980,
+  "len": 31,
+  "text": "Mei: Why didn't you tell me you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 7,
+  "off": 1013,
+  "len": 31,
+  "text": "went to Biron Monastery to look",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 8,
+  "off": 1046,
+  "len": 8,
+  "text": "for her?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 9,
+  "off": 1089,
+  "len": 28,
+  "text": "Mei: Why didn't you tell me?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 10,
+  "off": 1243,
+  "len": 31,
+  "text": "<AC><<07><AC><<03><AC><<01><1F>Mei: I was so worried",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 11,
+  "off": 1276,
+  "len": 10,
+  "text": "about you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 12,
+  "off": 1320,
+  "len": 25,
+  "text": "Mei: I never knew you put",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 13,
+  "off": 1347,
+  "len": 31,
+  "text": "yourself in such danger for me.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 14,
+  "off": 1457,
+  "len": 29,
+  "text": "Mei: Why didn't you tell me?!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 15,
+  "off": 1488,
+  "len": 29,
+  "text": "Why? You should have told me!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 16,
+  "off": 1519,
+  "len": 17,
+  "text": "I was so worried!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 17,
+  "off": 1613,
+  "len": 14,
+  "text": "Mei: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 18,
+  "off": 1719,
+  "len": 28,
+  "text": "Maya: Mei, why are you angry",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 19,
+  "off": 1749,
+  "len": 11,
+  "text": "at {NAME}? Why?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 20,
+  "off": 1803,
+  "len": 30,
+  "text": "<AC><<07><AC><<03><AC><<01><1F>Mei: I don't know...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 21,
+  "off": 1835,
+  "len": 29,
+  "text": "I'm so happy to have you back",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 22,
+  "off": 1866,
+  "len": 20,
+  "text": "home, Mother, but...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 23,
+  "off": 2066,
+  "len": 22,
+  "text": "Mei: And it was {NAME} who",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 24,
+  "off": 2090,
+  "len": 24,
+  "text": "brought you back, but...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 25,
+  "off": 2239,
+  "len": 27,
+  "text": "Mei: I'm so grateful to {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 26,
+  "off": 2268,
+  "len": 30,
+  "text": "and at the same time I feel so",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 27,
+  "off": 2300,
+  "len": 9,
+  "text": "guilty...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 28,
+  "off": 2336,
+  "len": 25,
+  "text": "Mei: When I see his face,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 29,
+  "off": 2363,
+  "len": 33,
+  "text": "I get full of emotions... so many",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 30,
+  "off": 2398,
+  "len": 26,
+  "text": "emotions at the same time.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 31,
+  "off": 2442,
+  "len": 28,
+  "text": "Mei: I'm angry at {NAME} for not",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 32,
+  "off": 2472,
+  "len": 31,
+  "text": "telling me, and angry at myself",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 33,
+  "off": 2505,
+  "len": 16,
+  "text": "for not knowing.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 34,
+  "off": 2527,
+  "len": 14,
+  "text": "Mei: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 35,
+  "off": 2610,
+  "len": 14,
+  "text": "Maya: Oh, Mei!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 36,
+  "off": 2626,
+  "len": 22,
+  "text": "You don't have to cry!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 37,
+  "off": 2665,
+  "len": 23,
+  "text": "Maya: There, there now!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 38,
+  "off": 2690,
+  "len": 23,
+  "text": "I don't know what to do",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 39,
+  "off": 2715,
+  "len": 9,
+  "text": "with you!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 40,
+  "off": 2834,
+  "len": 17,
+  "text": "{NAME:01}: Mei? Mei, why",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 41,
+  "off": 2853,
+  "len": 15,
+  "text": "are you crying?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 42,
+  "off": 3017,
+  "len": 8,
+  "text": "Mei: {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 43,
+  "off": 3049,
+  "len": 25,
+  "text": "{NAME:01}: Mei, your mother came",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 44,
+  "off": 3076,
+  "len": 32,
+  "text": "home! You're not lonely anymore!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 45,
+  "off": 3110,
+  "len": 22,
+  "text": "So why are you crying?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 46,
+  "off": 3144,
+  "len": 27,
+  "text": "{NAME:01}: Why are you crying? Did",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 47,
+  "off": 3173,
+  "len": 25,
+  "text": "{NAME} do something that bad?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 48,
+  "off": 3200,
+  "len": 19,
+  "text": "Was he mean to you?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 49,
+  "off": 3243,
+  "len": 20,
+  "text": "{NAME:01}: If {NAME} was bad to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 50,
+  "off": 3265,
+  "len": 29,
+  "text": "you, I'll teach him a lesson!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 51,
+  "off": 3296,
+  "len": 22,
+  "text": "So don't cry, Mei, OK?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 52,
+  "off": 3348,
+  "len": 26,
+  "text": "{NAME:01}: When I see you crying,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 53,
+  "off": 3376,
+  "len": 29,
+  "text": "it makes me want to cry, too!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 54,
+  "off": 3415,
+  "len": 26,
+  "text": "{NAME:01}: I don't have a mother!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 55,
+  "off": 3443,
+  "len": 14,
+  "text": "I'm all alone!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 56,
+  "off": 3494,
+  "len": 9,
+  "text": "{NAME:01}: Uh...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 57,
+  "off": 3644,
+  "len": 10,
+  "text": "{NAME:01}: Ohh...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 58,
+  "off": 3698,
+  "len": 16,
+  "text": "{NAME:01}: Waaa! Waaaa!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 59,
+  "off": 3808,
+  "len": 9,
+  "text": "Maya: {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 60,
+  "off": 3819,
+  "len": 8,
+  "text": "Mei: {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 61,
+  "off": 3833,
+  "len": 8,
+  "text": "{NAME:01}: Wah!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 62,
+  "off": 3844,
+  "len": 20,
+  "text": "{NAME:01}: Waaaaaa! Waaaaa!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 63,
+  "off": 4079,
+  "len": 23,
+  "text": "Mei: Oh, I'm sorry, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 64,
+  "off": 4104,
+  "len": 13,
+  "text": "I'm so sorry!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 65,
+  "off": 4132,
+  "len": 30,
+  "text": "Mei: So many emotions came out",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 66,
+  "off": 4164,
+  "len": 27,
+  "text": "all at once, and I was just",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 67,
+  "off": 4193,
+  "len": 9,
+  "text": "confused.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 68,
+  "off": 4300,
+  "len": 23,
+  "text": "Maya: {NAME:01}, I want you to",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 69,
+  "off": 4325,
+  "len": 27,
+  "text": "think of me as your mother,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 70,
+  "off": 4426,
+  "len": 11,
+  "text": "{NAME:01}: Uh-huh.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 71,
+  "off": 4452,
+  "len": 27,
+  "text": "Maya: {NAME}, I want to ask you",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 72,
+  "off": 4481,
+  "len": 23,
+  "text": "a very important favor.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 73,
+  "off": 4600,
+  "len": 29,
+  "text": "Maya: I want you to find {NAME:01}'s",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 74,
+  "off": 4631,
+  "len": 26,
+  "text": "mother, like you found me.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 75,
+  "off": 4659,
+  "len": 25,
+  "text": "Would you do that for me?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 76,
+  "off": 4699,
+  "len": 22,
+  "text": "Maya: {NAME:01} tells me that",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 77,
+  "off": 4723,
+  "len": 27,
+  "text": "she dreams about her mother",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 78,
+  "off": 4752,
+  "len": 8,
+  "text": "often...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 79,
+  "off": 4763,
+  "len": 22,
+  "text": "Maya: In those dreams,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 80,
+  "off": 4787,
+  "len": 28,
+  "text": "she hears her mother's voice",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 81,
+  "off": 4817,
+  "len": 15,
+  "text": "calling to her.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 82,
+  "off": 4907,
+  "len": 31,
+  "text": "Maya: Well, they say dreams are",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 83,
+  "off": 4940,
+  "len": 29,
+  "text": "the prophecies of Rem, right?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 84,
+  "off": 4971,
+  "len": 21,
+  "text": "So, please! Find her!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 85,
+  "off": 4999,
+  "len": 27,
+  "text": "Of course! That's the plan.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 86,
+  "off": 5028,
+  "len": 26,
+  "text": "I don't know about that...",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 87,
+  "off": 5141,
+  "len": 24,
+  "text": "Maya: That's the {NAME} that",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 88,
+  "off": 5167,
+  "len": 26,
+  "text": "I know! That's the spirit!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 89,
+  "off": 5301,
+  "len": 15,
+  "text": "Maya: Oh... {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 90,
+  "off": 5318,
+  "len": 28,
+  "text": "you're not as kindhearted as",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 91,
+  "off": 5348,
+  "len": 19,
+  "text": "I thought you were.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 92,
+  "off": 5370,
+  "len": 31,
+  "text": "Maya: There is a time and place",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 93,
+  "off": 5403,
+  "len": 29,
+  "text": "for jokes, but this isn't one",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 94,
+  "off": 5434,
+  "len": 8,
+  "text": "of them!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 95,
+  "off": 5445,
+  "len": 28,
+  "text": "Maya: Please, think it over.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 96,
+  "off": 5557,
+  "len": 20,
+  "text": "we should get going.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 97,
+  "off": 5598,
+  "len": 16,
+  "text": "{NAME:01}: (Whimpering)",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 98,
+  "off": 5744,
+  "len": 23,
+  "text": "Maya: {NAME:02}, you take care",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 99,
+  "off": 5769,
+  "len": 17,
+  "text": "of yourself, too!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 100,
+  "off": 5834,
+  "len": 15,
+  "text": "{NAME:02}: Yes, ma'am.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 101,
+  "off": 5851,
+  "len": 20,
+  "text": "Thank you very much!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 102,
+  "off": 5999,
+  "len": 27,
+  "text": "Maya: {NAME}, I believe in you.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 106,
+  "run": 103,
+  "off": 6080,
+  "len": 27,
+  "text": "Mei: {NAME}, thank you so much.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 108,
+  "run": 0,
+  "off": 17,
+  "len": 10,
+  "text": "Greetings.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 109,
+  "run": 0,
+  "off": 17,
+  "len": 10,
+  "text": "Greetings.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 0,
+  "off": 202,
+  "len": 22,
+  "text": "Nene: Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 1,
+  "off": 233,
+  "len": 25,
+  "text": "Nene: If you're so tough,",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 2,
+  "off": 260,
+  "len": 17,
+  "text": "how could you let",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 3,
+  "off": 279,
+  "len": 26,
+  "text": "those bees beat you again?",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 4,
+  "off": 1074,
+  "len": 30,
+  "text": "The bees are gone, and a sweet",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 5,
+  "off": 1106,
+  "len": 33,
+  "text": "smell emanates from a hole in the",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 6,
+  "off": 1141,
+  "len": 25,
+  "text": "tree. {NAME} put his hand in!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 7,
+  "off": 1181,
+  "len": 18,
+  "text": "{NAME} now has the {ITEM:65}!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 8,
+  "off": 1247,
+  "len": 24,
+  "text": "Nene: Wow, you're great!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 9,
+  "off": 1273,
+  "len": 33,
+  "text": "You chased off the bees! Everyone",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 10,
+  "off": 1308,
+  "len": 32,
+  "text": "in the village will be so happy!",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 11,
+  "off": 1379,
+  "len": 25,
+  "text": "Nene: I'm going home now.",
+  "ko": ""
+ },
+ {
+  "map": 24,
+  "script": 110,
+  "run": 12,
+  "off": 1406,
+  "len": 4,
+  "text": "Bye!",
+  "ko": ""
+ }
+]

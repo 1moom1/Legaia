@@ -1,0 +1,1523 @@
+[
+ {
+  "map": 312,
+  "script": 8,
+  "run": 0,
+  "off": 126,
+  "len": 21,
+  "text": "e'e(e)e*e+e,e-e.!!!<CD><F8>",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 0,
+  "off": 128,
+  "len": 35,
+  "text": "Xain: Don't interrupt me! I'm doing",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 1,
+  "off": 165,
+  "len": 30,
+  "text": "something important ordered by",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 2,
+  "off": 197,
+  "len": 7,
+  "text": "Dohati!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 3,
+  "off": 411,
+  "len": 32,
+  "text": "Xain: Didn't you hear me? I said",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 4,
+  "off": 445,
+  "len": 30,
+  "text": "I'm in the middle of something",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 5,
+  "off": 477,
+  "len": 10,
+  "text": "important!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 6,
+  "off": 541,
+  "len": 35,
+  "text": "Xain: We can talk after I push over",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 7,
+  "off": 578,
+  "len": 35,
+  "text": "this stone pillar and kill everyone",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 8,
+  "off": 615,
+  "len": 9,
+  "text": "above us!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 9,
+  "off": 820,
+  "len": 35,
+  "text": "Xain: Hey! You don't take no for an",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 10,
+  "off": 857,
+  "len": 32,
+  "text": "answer, do you? What on earth do",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 11,
+  "off": 891,
+  "len": 9,
+  "text": "you want?",
+  "ko": "무엇을?"
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 12,
+  "off": 951,
+  "len": 29,
+  "text": "Xain: Hey, those Seru on your",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 13,
+  "off": 982,
+  "len": 7,
+  "text": "arms...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 14,
+  "off": 991,
+  "len": 8,
+  "text": "Those...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 15,
+  "off": 1047,
+  "len": 18,
+  "text": "Xain: Those are...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 16,
+  "off": 1067,
+  "len": 21,
+  "text": "Ra-Seru, aren't they?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 17,
+  "off": 1151,
+  "len": 27,
+  "text": "Xain: Oh, no! Just my luck!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 18,
+  "off": 1180,
+  "len": 22,
+  "text": "That means you guys...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 19,
+  "off": 1204,
+  "len": 21,
+  "text": "are the enemy, right?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 20,
+  "off": 1309,
+  "len": 32,
+  "text": "Xain: Whew! I guess I was wrong.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 21,
+  "off": 1343,
+  "len": 17,
+  "text": "Ha ha! Am I glad!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 22,
+  "off": 1405,
+  "len": 27,
+  "text": "Xain: Don't worry about me.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 23,
+  "off": 1434,
+  "len": 30,
+  "text": "I'll be concentrating on this,",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 24,
+  "off": 1466,
+  "len": 33,
+  "text": "so just watch me from over there.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 25,
+  "off": 1568,
+  "len": 32,
+  "text": "Xain: Killing humans who disobey",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 26,
+  "off": 1602,
+  "len": 33,
+  "text": "the Mist is so much fun! Alright,",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 27,
+  "off": 1637,
+  "len": 11,
+  "text": "here we go!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 28,
+  "off": 2313,
+  "len": 23,
+  "text": "Xain: Alright, alright!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 29,
+  "off": 2338,
+  "len": 33,
+  "text": "I'll fight you! All three of you,",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 30,
+  "off": 2373,
+  "len": 19,
+  "text": "come at me at once!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 31,
+  "off": 2462,
+  "len": 27,
+  "text": "Xain: What is it?! You keep",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 32,
+  "off": 2491,
+  "len": 24,
+  "text": "interrupting me. Are you",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 33,
+  "off": 2517,
+  "len": 9,
+  "text": "my enemy?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 34,
+  "off": 2741,
+  "len": 21,
+  "text": "Xain: Uh-oh! Oooohhh!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 35,
+  "off": 2801,
+  "len": 29,
+  "text": "Xain: Oh, this is not my day!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 36,
+  "off": 2832,
+  "len": 35,
+  "text": "You guys are the enemy! Ah, shucks!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 37,
+  "off": 2869,
+  "len": 30,
+  "text": "Why didn't you say so before?!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 38,
+  "off": 2917,
+  "len": 34,
+  "text": "Xain: Dohati will get mad at me if",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 39,
+  "off": 2953,
+  "len": 30,
+  "text": "I don't kill you. So, come on,",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 40,
+  "off": 2985,
+  "len": 11,
+  "text": "come at me!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 41,
+  "off": 3024,
+  "len": 35,
+  "text": "Xain: O.K., O.K. I know you want to",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 42,
+  "off": 3061,
+  "len": 30,
+  "text": "cheer me on, but just be quiet",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 43,
+  "off": 3093,
+  "len": 18,
+  "text": "about it, alright?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 44,
+  "off": 3644,
+  "len": 33,
+  "text": "Xain: You got me! I never thought",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 45,
+  "off": 3679,
+  "len": 26,
+  "text": "you guys were this strong!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 46,
+  "off": 3708,
+  "len": 31,
+  "text": "Xain: I've lost my host body...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 47,
+  "off": 3741,
+  "len": 23,
+  "text": "Now I'm going to die...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 48,
+  "off": 3767,
+  "len": 32,
+  "text": "Xain: I bet you're happy! You're",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 49,
+  "off": 3801,
+  "len": 33,
+  "text": "as happy as can be over defeating",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 50,
+  "off": 3836,
+  "len": 15,
+  "text": "me, aren't you!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 51,
+  "off": 3854,
+  "len": 28,
+  "text": "Xain: I can't stand it! Just",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 52,
+  "off": 3884,
+  "len": 30,
+  "text": "looking at your face makes the",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 53,
+  "off": 3916,
+  "len": 21,
+  "text": "anger swell up in me!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 54,
+  "off": 3940,
+  "len": 27,
+  "text": "Xain: I'm going to use what",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 55,
+  "off": 3969,
+  "len": 30,
+  "text": "strength I have left to bother",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 56,
+  "off": 4001,
+  "len": 4,
+  "text": "you!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 57,
+  "off": 4008,
+  "len": 35,
+  "text": "Xain: Now watch with your own eyes ",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 58,
+  "off": 4045,
+  "len": 27,
+  "text": "and see what will happen...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 59,
+  "off": 4075,
+  "len": 34,
+  "text": "Xain: ...because you defeated me! ",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 60,
+  "off": 4111,
+  "len": 29,
+  "text": "Watch in vexation!  Ha ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 61,
+  "off": 4385,
+  "len": 33,
+  "text": "Xain: This is my curse on you! My",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 62,
+  "off": 4420,
+  "len": 32,
+  "text": "anger! The energy of my revenge!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 63,
+  "off": 4454,
+  "len": 31,
+  "text": "The absolute power of darkness!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 64,
+  "off": 5515,
+  "len": 16,
+  "text": "{NAME:01}: It hardened!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 65,
+  "off": 5533,
+  "len": 24,
+  "text": "Xain made the lava hard!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 66,
+  "off": 5560,
+  "len": 12,
+  "text": "{NAME:01}: Boo-hoo!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 67,
+  "off": 5575,
+  "len": 17,
+  "text": "{NAME:01}: {NAME}, I'm cold!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 68,
+  "off": 5594,
+  "len": 29,
+  "text": "I hate the cold! Hurry! Let's",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 69,
+  "off": 5625,
+  "len": 17,
+  "text": "go back to Octam!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 70,
+  "off": 5833,
+  "len": 25,
+  "text": "{NAME:02}: I never knew the Seru",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 71,
+  "off": 5860,
+  "len": 28,
+  "text": "of the Mist had the power to",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 72,
+  "off": 5890,
+  "len": 19,
+  "text": "freeze molten lava!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 73,
+  "off": 5927,
+  "len": 21,
+  "text": "{NAME:02}: {NAME}, the danger to",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 74,
+  "off": 5950,
+  "len": 30,
+  "text": "the town above is over for the",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 75,
+  "off": 5982,
+  "len": 18,
+  "text": "time being, but...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 76,
+  "off": 6039,
+  "len": 27,
+  "text": "{NAME:02}: What Xain said troubles",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 77,
+  "off": 6068,
+  "len": 24,
+  "text": "me. I have a bad feeling",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 78,
+  "off": 6094,
+  "len": 11,
+  "text": "about this.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 79,
+  "off": 6117,
+  "len": 20,
+  "text": "let's go back up and",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 12,
+  "run": 80,
+  "off": 6139,
+  "len": 24,
+  "text": "check out the situation.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 0,
+  "off": 59,
+  "len": 29,
+  "text": "Stone pillar starts vibrating",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 1,
+  "off": 99,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 2,
+  "off": 128,
+  "len": 15,
+  "text": "Xain plays dumb",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 3,
+  "off": 154,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 4,
+  "off": 183,
+  "len": 17,
+  "text": "Xain is irritated",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 5,
+  "off": 211,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 6,
+  "off": 240,
+  "len": 11,
+  "text": "Stupid Xain",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 7,
+  "off": 262,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 8,
+  "off": 291,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 9,
+  "off": 341,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 10,
+  "off": 375,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 11,
+  "off": 381,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 12,
+  "off": 392,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 17,
+  "run": 13,
+  "off": 403,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 18,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:80}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 18,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 18,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 18,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:80}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 18,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 19,
+  "run": 0,
+  "off": 52,
+  "len": 13,
+  "text": "There is a {ITEM:87}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 19,
+  "run": 1,
+  "off": 67,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 19,
+  "run": 2,
+  "off": 97,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 19,
+  "run": 3,
+  "off": 109,
+  "len": 7,
+  "text": "the {ITEM:87}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 19,
+  "run": 4,
+  "off": 131,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 19,
+  "run": 5,
+  "off": 161,
+  "len": 27,
+  "text": "----- Name '<95><F3><94><A0>2' --------",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 20,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:88}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 20,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 20,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 20,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:88}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 20,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 21,
+  "run": 0,
+  "off": 52,
+  "len": 13,
+  "text": "There is a {ITEM:82}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 21,
+  "run": 1,
+  "off": 67,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 21,
+  "run": 2,
+  "off": 97,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 21,
+  "run": 3,
+  "off": 109,
+  "len": 7,
+  "text": "the {ITEM:82}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 21,
+  "run": 4,
+  "off": 131,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 22,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:83}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 22,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 22,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 22,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:83}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 22,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 23,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 23,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 23,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 24,
+  "run": 0,
+  "off": 50,
+  "len": 11,
+  "text": "There is {ITEM:8A}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 24,
+  "run": 1,
+  "off": 63,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 24,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 24,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:8A}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 24,
+  "run": 4,
+  "off": 127,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 25,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:D5}",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 25,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 25,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 25,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:D5}!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 25,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 0,
+  "off": 875,
+  "len": 30,
+  "text": "it doesn't look like we can go",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 1,
+  "off": 907,
+  "len": 32,
+  "text": "any further. Shall we turn back?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 2,
+  "off": 1403,
+  "len": 21,
+  "text": "how can you say that?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 3,
+  "off": 1426,
+  "len": 35,
+  "text": "The people of Octam are in trouble!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 4,
+  "off": 1560,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, what do you think",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 5,
+  "off": 1591,
+  "len": 27,
+  "text": "you're doing? You're out of",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 6,
+  "off": 1620,
+  "len": 35,
+  "text": "control, and endangering all of us!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 7,
+  "off": 1762,
+  "len": 9,
+  "text": "{NAME:01}: Waaa!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 8,
+  "off": 1773,
+  "len": 9,
+  "text": "But {NAME}...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 9,
+  "off": 1785,
+  "len": 26,
+  "text": "{NAME:01}: I hate waiting around!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 10,
+  "off": 1813,
+  "len": 17,
+  "text": "We have to hurry!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 11,
+  "off": 2967,
+  "len": 31,
+  "text": "Do you wish to go to the right?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 12,
+  "off": 3000,
+  "len": 22,
+  "text": "Or will you turn back?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 13,
+  "off": 3029,
+  "len": 8,
+  "text": "Go right",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 32,
+  "run": 14,
+  "off": 3039,
+  "len": 9,
+  "text": "Turn back",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 35,
+  "run": 0,
+  "off": 135,
+  "len": 21,
+  "text": "Do you wish to go on?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 35,
+  "run": 1,
+  "off": 158,
+  "len": 22,
+  "text": "Or will you turn back?",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 35,
+  "run": 2,
+  "off": 187,
+  "len": 5,
+  "text": "Go on",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 35,
+  "run": 3,
+  "off": 194,
+  "len": 9,
+  "text": "Turn back",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 0,
+  "off": 335,
+  "len": 18,
+  "text": "{NAME:02}: {NAME}, no good...",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 1,
+  "off": 355,
+  "len": 29,
+  "text": "The lava is blocking our way.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 2,
+  "off": 386,
+  "len": 24,
+  "text": "We can't go any further.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 3,
+  "off": 775,
+  "len": 16,
+  "text": "we can use this!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 4,
+  "off": 793,
+  "len": 33,
+  "text": "We can climb this and get across!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 5,
+  "off": 1060,
+  "len": 21,
+  "text": "Don't go by yourself!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 6,
+  "off": 1190,
+  "len": 15,
+  "text": "{NAME:01}: Woah! Weee!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 7,
+  "off": 1216,
+  "len": 16,
+  "text": "This is awesome!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 8,
+  "off": 1440,
+  "len": 21,
+  "text": "{NAME:02}: {NAME}, it looks like",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 9,
+  "off": 1463,
+  "len": 21,
+  "text": "there's no other way.",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 10,
+  "off": 1580,
+  "len": 20,
+  "text": "{NAME:01}: {NAME}, what are you",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 11,
+  "off": 1602,
+  "len": 19,
+  "text": "waiting for? Hurry!",
+  "ko": ""
+ },
+ {
+  "map": 312,
+  "script": 40,
+  "run": 12,
+  "off": 1623,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ }
+]

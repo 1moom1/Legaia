@@ -1,0 +1,3350 @@
+[
+ {
+  "map": 63,
+  "script": 1,
+  "run": 0,
+  "off": 71,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 1,
+  "off": 83,
+  "len": 27,
+  "text": "There is a sense of sadness",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 2,
+  "off": 112,
+  "len": 24,
+  "text": "in the eyes of the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 3,
+  "off": 212,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: Take a good look.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 4,
+  "off": 239,
+  "len": 28,
+  "text": "This is a human possessed by",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 5,
+  "off": 269,
+  "len": 7,
+  "text": "a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 6,
+  "off": 279,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I have looked into this",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 7,
+  "off": 312,
+  "len": 29,
+  "text": "person's mind, the same way I",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 8,
+  "off": 343,
+  "len": 19,
+  "text": "spoke to your mind.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 9,
+  "off": 365,
+  "len": 32,
+  "text": "{PAL:9}{M7}{PAL:7}: But the Seru controlling",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 10,
+  "off": 399,
+  "len": 35,
+  "text": "this person's spirit is too strong,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 11,
+  "off": 436,
+  "len": 34,
+  "text": "and I couldn't make out any words.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 12,
+  "off": 473,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: The only way to return",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 13,
+  "off": 505,
+  "len": 34,
+  "text": "these people to normal is to drive",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 1,
+  "run": 14,
+  "off": 541,
+  "len": 14,
+  "text": "away the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 0,
+  "off": 69,
+  "len": 24,
+  "text": "A slightly soiled diary.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 1,
+  "off": 95,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 2,
+  "off": 248,
+  "len": 33,
+  "text": "Harvest Month, Day 2. The harvest",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 3,
+  "off": 283,
+  "len": 33,
+  "text": "festival isn't far. I can't wait!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 4,
+  "off": 318,
+  "len": 28,
+  "text": "But King Drake seems uneasy.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 5,
+  "off": 354,
+  "len": 33,
+  "text": "Harvest Month, Day 4. A messenger",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 6,
+  "off": 389,
+  "len": 32,
+  "text": "from the north said the Mist has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 7,
+  "off": 423,
+  "len": 35,
+  "text": "covered Jeremi. King Drake is pale.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 8,
+  "off": 466,
+  "len": 31,
+  "text": "Harvest Month, Day 5. A strange",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 9,
+  "off": 499,
+  "len": 30,
+  "text": "building has been built in the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 10,
+  "off": 531,
+  "len": 24,
+  "text": "valley to the northeast.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 11,
+  "off": 558,
+  "len": 27,
+  "text": "Soldiers sent by King Drake",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 12,
+  "off": 587,
+  "len": 32,
+  "text": "to investigate failed to return.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 13,
+  "off": 627,
+  "len": 34,
+  "text": "Harvest Month, Day 7. A curfew has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 14,
+  "off": 663,
+  "len": 35,
+  "text": "been declared. The royal scientists",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 15,
+  "off": 700,
+  "len": 27,
+  "text": "are investigating the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 16,
+  "off": 730,
+  "len": 31,
+  "text": "I hope they find a solution, so",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 17,
+  "off": 763,
+  "len": 33,
+  "text": "my dear King Drake can be free of",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 18,
+  "off": 798,
+  "len": 12,
+  "text": "his anguish.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 19,
+  "off": 818,
+  "len": 31,
+  "text": "Harvest Month, Day 10. The Mist",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 20,
+  "off": 851,
+  "len": 30,
+  "text": "has appeared in Drake Kingdom.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 21,
+  "off": 883,
+  "len": 29,
+  "text": "The eastern plain is covered.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 22,
+  "off": 915,
+  "len": 29,
+  "text": "From the watchtower, the Mist",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 23,
+  "off": 946,
+  "len": 27,
+  "text": "seems to be coming from the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 24,
+  "off": 975,
+  "len": 23,
+  "text": "building in the valley.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 25,
+  "off": 1006,
+  "len": 33,
+  "text": "Harvest Month, Day 13. King Drake",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 26,
+  "off": 1041,
+  "len": 34,
+  "text": "has forbidden the use of the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 27,
+  "off": 1077,
+  "len": 34,
+  "text": "The harvest festival is cancelled.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 28,
+  "off": 1114,
+  "len": 34,
+  "text": "That's understandable, considering",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 29,
+  "off": 1150,
+  "len": 25,
+  "text": "how the Mist is affecting",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 30,
+  "off": 1177,
+  "len": 9,
+  "text": "the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 31,
+  "off": 1194,
+  "len": 30,
+  "text": "Harvest Month, Day 14. I can't",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 32,
+  "off": 1226,
+  "len": 25,
+  "text": "believe the King's order!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 33,
+  "off": 1253,
+  "len": 31,
+  "text": "But we are compelled to obey...",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 34,
+  "off": 1287,
+  "len": 26,
+  "text": "Obeying is my duty, as one",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 35,
+  "off": 1315,
+  "len": 22,
+  "text": "who serves King Drake.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 36,
+  "off": 1345,
+  "len": 23,
+  "text": "The rest is blurred and",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 37,
+  "off": 1370,
+  "len": 10,
+  "text": "illegible.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 38,
+  "off": 1383,
+  "len": 22,
+  "text": "{NAME} returned the diary.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 2,
+  "run": 39,
+  "off": 1435,
+  "len": 22,
+  "text": "{NAME} returned the diary.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 0,
+  "off": 97,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 1,
+  "off": 109,
+  "len": 27,
+  "text": "There is a sense of sadness",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 2,
+  "off": 138,
+  "len": 24,
+  "text": "in the eyes of the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 3,
+  "off": 238,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: Take a good look.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 4,
+  "off": 265,
+  "len": 28,
+  "text": "This is a human possessed by",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 5,
+  "off": 295,
+  "len": 7,
+  "text": "a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 6,
+  "off": 305,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I have looked into this",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 7,
+  "off": 338,
+  "len": 29,
+  "text": "person's mind, the same way I",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 8,
+  "off": 369,
+  "len": 19,
+  "text": "spoke to your mind.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 9,
+  "off": 391,
+  "len": 32,
+  "text": "{PAL:9}{M7}{PAL:7}: But the Seru controlling",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 10,
+  "off": 425,
+  "len": 35,
+  "text": "this person's spirit is too strong,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 11,
+  "off": 462,
+  "len": 34,
+  "text": "and I couldn't make out any words.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 12,
+  "off": 499,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: The only way to return",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 13,
+  "off": 531,
+  "len": 34,
+  "text": "these people to normal is to drive",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 6,
+  "run": 14,
+  "off": 567,
+  "len": 14,
+  "text": "away the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 0,
+  "off": 97,
+  "len": 9,
+  "text": "Gggrrr...",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 1,
+  "off": 109,
+  "len": 27,
+  "text": "There is a sense of sadness",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 2,
+  "off": 138,
+  "len": 24,
+  "text": "in the eyes of the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 3,
+  "off": 238,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: Take a good look.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 4,
+  "off": 265,
+  "len": 28,
+  "text": "This is a human possessed by",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 5,
+  "off": 295,
+  "len": 7,
+  "text": "a Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 6,
+  "off": 305,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I have looked into this",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 7,
+  "off": 338,
+  "len": 29,
+  "text": "person's mind, the same way I",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 8,
+  "off": 369,
+  "len": 19,
+  "text": "spoke to your mind.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 9,
+  "off": 391,
+  "len": 32,
+  "text": "{PAL:9}{M7}{PAL:7}: But the Seru controlling",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 10,
+  "off": 425,
+  "len": 35,
+  "text": "this person's spirit is too strong,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 11,
+  "off": 462,
+  "len": 34,
+  "text": "and I couldn't make out any words.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 12,
+  "off": 499,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: The only way to return",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 13,
+  "off": 531,
+  "len": 34,
+  "text": "these people to normal is to drive",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 7,
+  "run": 14,
+  "off": 567,
+  "len": 14,
+  "text": "away the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 0,
+  "off": 69,
+  "len": 26,
+  "text": "On the bookshelf is a book",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 1,
+  "off": 97,
+  "len": 25,
+  "text": "titled, \"Research Notes.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 2,
+  "off": 124,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 3,
+  "off": 277,
+  "len": 29,
+  "text": "The reports were correct as I",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 4,
+  "off": 308,
+  "len": 32,
+  "text": "feared. Any human wearing a Seru",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 5,
+  "off": 342,
+  "len": 31,
+  "text": "ceases to be human in the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 6,
+  "off": 381,
+  "len": 26,
+  "text": "But because of some power,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 7,
+  "off": 409,
+  "len": 30,
+  "text": "a person possessed by a crazed",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 8,
+  "off": 441,
+  "len": 24,
+  "text": "Seru also ceases to age.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 9,
+  "off": 473,
+  "len": 29,
+  "text": "That means a person wearing a",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 10,
+  "off": 504,
+  "len": 30,
+  "text": "Seru could live for a hundred,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 11,
+  "off": 536,
+  "len": 33,
+  "text": "a thousand years... nay, forever!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 12,
+  "off": 577,
+  "len": 34,
+  "text": "But is immortality worth giving up",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 13,
+  "off": 613,
+  "len": 32,
+  "text": "being human? That I do not know.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 14,
+  "off": 653,
+  "len": 32,
+  "text": "I must report this to King Drake",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 15,
+  "off": 687,
+  "len": 8,
+  "text": "at once.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 16,
+  "off": 708,
+  "len": 20,
+  "text": "{NAME} returned the book",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 8,
+  "run": 17,
+  "off": 730,
+  "len": 17,
+  "text": "to the bookshelf.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 0,
+  "off": 69,
+  "len": 33,
+  "text": "On the bookshelf is a book titled",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 1,
+  "off": 104,
+  "len": 23,
+  "text": "\"Drake Castle's Water.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 2,
+  "off": 129,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 3,
+  "off": 282,
+  "len": 23,
+  "text": "Drake Castle's water is",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 4,
+  "off": 307,
+  "len": 20,
+  "text": "pleasing and potent.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 5,
+  "off": 335,
+  "len": 26,
+  "text": "When used to water fields,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 6,
+  "off": 363,
+  "len": 27,
+  "text": "grains grow tall and thick.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 7,
+  "off": 393,
+  "len": 20,
+  "text": "Beasts that drink it",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 8,
+  "off": 415,
+  "len": 12,
+  "text": "grow strong.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 9,
+  "off": 435,
+  "len": 30,
+  "text": "Even without food, one is safe",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 10,
+  "off": 467,
+  "len": 34,
+  "text": "so long as there is the rich water",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 11,
+  "off": 503,
+  "len": 18,
+  "text": "of Drake to drink.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 9,
+  "run": 12,
+  "off": 534,
+  "len": 19,
+  "text": "{NAME} closed the book.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 0,
+  "off": 69,
+  "len": 33,
+  "text": "On the bookshelf is a book titled",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 1,
+  "off": 104,
+  "len": 33,
+  "text": "\"The Geography of Drake Kingdom.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 2,
+  "off": 139,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 3,
+  "off": 292,
+  "len": 35,
+  "text": "Drake Kingdom lies in a remote part",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 4,
+  "off": 329,
+  "len": 31,
+  "text": "of South Legaia, on a peninsula",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 5,
+  "off": 362,
+  "len": 25,
+  "text": "of mountains and valleys.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 6,
+  "off": 395,
+  "len": 29,
+  "text": "Under the rule of King Drake,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 7,
+  "off": 426,
+  "len": 28,
+  "text": "there is safety and abundant",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 8,
+  "off": 456,
+  "len": 10,
+  "text": "resources.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 9,
+  "off": 474,
+  "len": 24,
+  "text": "Visitors to Drake Castle",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 10,
+  "off": 500,
+  "len": 25,
+  "text": "should visit Mt. Rikuroa.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 11,
+  "off": 533,
+  "len": 32,
+  "text": "Go through Drake Castle and head",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 12,
+  "off": 567,
+  "len": 26,
+  "text": "north to find Mt. Rikuroa.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 13,
+  "off": 596,
+  "len": 34,
+  "text": "At its summit, stands the Genesis ",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 14,
+  "off": 632,
+  "len": 34,
+  "text": "Tree, which is said to watch over ",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 15,
+  "off": 668,
+  "len": 33,
+  "text": "humans since the age of the gods.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 10,
+  "run": 16,
+  "off": 714,
+  "len": 19,
+  "text": "{NAME} closed the book.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 0,
+  "off": 13,
+  "len": 25,
+  "text": "There is a scrap of paper",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 1,
+  "off": 80,
+  "len": 31,
+  "text": "A scrap of paper. Written on it",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 2,
+  "off": 113,
+  "len": 26,
+  "text": "is an order from the King.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 3,
+  "off": 141,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 4,
+  "off": 289,
+  "len": 26,
+  "text": "The iron bars must be made",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 5,
+  "off": 317,
+  "len": 34,
+  "text": "strong! We haven't much time left.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 6,
+  "off": 353,
+  "len": 21,
+  "text": "Harvest Month, Day 12",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 11,
+  "run": 7,
+  "off": 383,
+  "len": 31,
+  "text": "{NAME} put back the scrap of paper.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 12,
+  "run": 0,
+  "off": 23,
+  "len": 19,
+  "text": "Letter from Canada.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 12,
+  "run": 1,
+  "off": 45,
+  "len": 26,
+  "text": "Love letter from Canada...",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 0,
+  "off": 49,
+  "len": 6,
+  "text": "Growl!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 1,
+  "off": 58,
+  "len": 27,
+  "text": "From its clothes, this Seru",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 2,
+  "off": 87,
+  "len": 25,
+  "text": "seems to have been one of",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 3,
+  "off": 114,
+  "len": 17,
+  "text": "the royal family.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 4,
+  "off": 195,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: {NAME}, I have a feeling",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 5,
+  "off": 225,
+  "len": 24,
+  "text": "this Seru is King Drake.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 6,
+  "off": 252,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: Look. There's a small key",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 7,
+  "off": 287,
+  "len": 33,
+  "text": "around its neck. That must be the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 13,
+  "run": 8,
+  "off": 322,
+  "len": 22,
+  "text": "key to the Water Gate.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 15,
+  "run": 0,
+  "off": 42,
+  "len": 34,
+  "text": "The door is locked and won't open.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 15,
+  "run": 1,
+  "off": 78,
+  "len": 30,
+  "text": "The door says, \"Sunrise Gate.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 15,
+  "run": 2,
+  "off": 115,
+  "len": 23,
+  "text": "{NAME} inserted the Sunrise",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 15,
+  "run": 3,
+  "off": 140,
+  "len": 21,
+  "text": "Key into the keyhole.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 15,
+  "run": 4,
+  "off": 172,
+  "len": 24,
+  "text": "The Sunrise Gate opened!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 16,
+  "run": 0,
+  "off": 42,
+  "len": 34,
+  "text": "The door is locked and won't open.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 16,
+  "run": 1,
+  "off": 78,
+  "len": 32,
+  "text": "The door says, \"Lightning Gate.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 16,
+  "run": 2,
+  "off": 117,
+  "len": 29,
+  "text": "{NAME} inserted the Lightning Key",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 16,
+  "run": 3,
+  "off": 148,
+  "len": 17,
+  "text": "into the keyhole.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 16,
+  "run": 4,
+  "off": 176,
+  "len": 26,
+  "text": "The Lightning Gate opened!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 17,
+  "run": 0,
+  "off": 42,
+  "len": 34,
+  "text": "The door is locked and won't open.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 17,
+  "run": 1,
+  "off": 78,
+  "len": 27,
+  "text": "The door says, \"Star Gate.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 17,
+  "run": 2,
+  "off": 112,
+  "len": 24,
+  "text": "{NAME} inserted the Star Key",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 17,
+  "run": 3,
+  "off": 138,
+  "len": 17,
+  "text": "into the keyhole.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 17,
+  "run": 4,
+  "off": 166,
+  "len": 25,
+  "text": "The Star Gate has opened!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 18,
+  "run": 0,
+  "off": 42,
+  "len": 34,
+  "text": "The door is locked and won't open.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 18,
+  "run": 1,
+  "off": 78,
+  "len": 31,
+  "text": "The door says, \"Mountain Gate.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 18,
+  "run": 2,
+  "off": 116,
+  "len": 28,
+  "text": "{NAME} inserted the Mountain Key",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 18,
+  "run": 3,
+  "off": 146,
+  "len": 17,
+  "text": "into the keyhole.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 18,
+  "run": 4,
+  "off": 174,
+  "len": 25,
+  "text": "The Mountain Gate opened!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 0,
+  "off": 25,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 1,
+  "off": 41,
+  "len": 23,
+  "text": "\"Contains Sunrise Key.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 2,
+  "off": 66,
+  "len": 29,
+  "text": "Do you wish to open the case?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 3,
+  "off": 225,
+  "len": 31,
+  "text": "The Sunrise Key is in the case!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 4,
+  "off": 264,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 5,
+  "off": 276,
+  "len": 16,
+  "text": "the Sunrise Key!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 6,
+  "off": 303,
+  "len": 15,
+  "text": "{NAME} did not open",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 7,
+  "off": 320,
+  "len": 9,
+  "text": "the case.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 8,
+  "off": 334,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 9,
+  "off": 350,
+  "len": 23,
+  "text": "\"Contains Sunrise Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 19,
+  "run": 10,
+  "off": 375,
+  "len": 23,
+  "text": "But the case was empty.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 0,
+  "off": 25,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 1,
+  "off": 41,
+  "len": 25,
+  "text": "\"Contains Lightning Key.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 2,
+  "off": 68,
+  "len": 29,
+  "text": "Do you wish to open the case?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 3,
+  "off": 227,
+  "len": 33,
+  "text": "The Lightning Key is in the case!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 4,
+  "off": 268,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 5,
+  "off": 280,
+  "len": 18,
+  "text": "the Lightning Key!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 6,
+  "off": 309,
+  "len": 15,
+  "text": "{NAME} did not open",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 7,
+  "off": 326,
+  "len": 9,
+  "text": "the case.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 8,
+  "off": 340,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 9,
+  "off": 356,
+  "len": 25,
+  "text": "\"Contains Lightning Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 20,
+  "run": 10,
+  "off": 383,
+  "len": 23,
+  "text": "But the case was empty.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 0,
+  "off": 25,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 1,
+  "off": 41,
+  "len": 20,
+  "text": "\"Contains Star Key.\"",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 2,
+  "off": 63,
+  "len": 29,
+  "text": "Do you wish to open the case?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 3,
+  "off": 222,
+  "len": 28,
+  "text": "The Star Key is in the case!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 4,
+  "off": 258,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 5,
+  "off": 270,
+  "len": 13,
+  "text": "the Star Key!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 6,
+  "off": 294,
+  "len": 15,
+  "text": "{NAME} did not open",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 7,
+  "off": 311,
+  "len": 9,
+  "text": "the case.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 8,
+  "off": 325,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 9,
+  "off": 341,
+  "len": 20,
+  "text": "\"Contains Star Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 21,
+  "run": 10,
+  "off": 363,
+  "len": 23,
+  "text": "But the case was empty.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 0,
+  "off": 25,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 1,
+  "off": 41,
+  "len": 24,
+  "text": "\"Contains Mountain Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 2,
+  "off": 67,
+  "len": 29,
+  "text": "Do you wish to open the case?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 3,
+  "off": 226,
+  "len": 32,
+  "text": "The Mountain Key is in the case!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 4,
+  "off": 266,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 5,
+  "off": 278,
+  "len": 17,
+  "text": "the Mountain Key!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 6,
+  "off": 306,
+  "len": 15,
+  "text": "{NAME} did not open",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 7,
+  "off": 323,
+  "len": 9,
+  "text": "the case.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 8,
+  "off": 337,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 9,
+  "off": 353,
+  "len": 24,
+  "text": "\"Contains Mountain Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 22,
+  "run": 10,
+  "off": 379,
+  "len": 23,
+  "text": "But the case was empty.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 0,
+  "off": 25,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 1,
+  "off": 41,
+  "len": 21,
+  "text": "\"Contains Water Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 2,
+  "off": 64,
+  "len": 29,
+  "text": "Do you wish to open the case?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 3,
+  "off": 223,
+  "len": 29,
+  "text": "There is nothing in the case!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 4,
+  "off": 255,
+  "len": 22,
+  "text": "It seems the Water Key",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 5,
+  "off": 279,
+  "len": 17,
+  "text": "has been removed!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 6,
+  "off": 301,
+  "len": 15,
+  "text": "{NAME} did not open",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 7,
+  "off": 318,
+  "len": 9,
+  "text": "the case.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 8,
+  "off": 332,
+  "len": 14,
+  "text": "The case says,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 9,
+  "off": 348,
+  "len": 21,
+  "text": "\"Contains Water Key\"!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 23,
+  "run": 10,
+  "off": 371,
+  "len": 23,
+  "text": "But the case was empty.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 26,
+  "run": 0,
+  "off": 40,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.r<C8><05>",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 38,
+  "run": 0,
+  "off": 28,
+  "len": 9,
+  "text": "Huh! Huh!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 39,
+  "run": 0,
+  "off": 28,
+  "len": 6,
+  "text": "Uhh...",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 52,
+  "run": 0,
+  "off": 25,
+  "len": 14,
+  "text": "Flag operation",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 52,
+  "run": 1,
+  "off": 50,
+  "len": 7,
+  "text": "Get key",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 52,
+  "run": 2,
+  "off": 59,
+  "len": 14,
+  "text": "Gimard flag ON",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 52,
+  "run": 3,
+  "off": 75,
+  "len": 19,
+  "text": "Sleep at castle OFF",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 52,
+  "run": 4,
+  "off": 96,
+  "len": 5,
+  "text": "Clear",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 0,
+  "off": 54,
+  "len": 35,
+  "text": "A letter in the treasure chest says",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 1,
+  "off": 91,
+  "len": 33,
+  "text": "\"To the human traveler that finds",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 2,
+  "off": 126,
+  "len": 30,
+  "text": "this.\" Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 3,
+  "off": 301,
+  "len": 34,
+  "text": "L<80>!<1F>I am Drake III, King of Drake.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 4,
+  "off": 337,
+  "len": 24,
+  "text": "I know not who will read",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 5,
+  "off": 363,
+  "len": 12,
+  "text": "this letter.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 6,
+  "off": 377,
+  "len": 31,
+  "text": "But anyone who makes it through",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 7,
+  "off": 410,
+  "len": 25,
+  "text": "the Mist must have powers",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 8,
+  "off": 437,
+  "len": 22,
+  "text": "greater than the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 9,
+  "off": 461,
+  "len": 26,
+  "text": "No doubt you have seen the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 10,
+  "off": 489,
+  "len": 30,
+  "text": "Seru monsters in this castle's",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 11,
+  "off": 521,
+  "len": 9,
+  "text": "dungeons.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 12,
+  "off": 532,
+  "len": 26,
+  "text": "Those monsters are in fact",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 13,
+  "off": 560,
+  "len": 32,
+  "text": "my dear retainers and the people",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 14,
+  "off": 594,
+  "len": 14,
+  "text": "of my kingdom.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 15,
+  "off": 610,
+  "len": 33,
+  "text": "When the Mist approached we tried",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 16,
+  "off": 645,
+  "len": 27,
+  "text": "many ways to drive it back.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 17,
+  "off": 674,
+  "len": 34,
+  "text": "We even prayed at the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 18,
+  "off": 710,
+  "len": 35,
+  "text": "of Mt. Rikuroa to the north. Legend",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 19,
+  "off": 747,
+  "len": 30,
+  "text": "says the tree has the power to",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 20,
+  "off": 779,
+  "len": 31,
+  "text": "save the human race. In the end",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 21,
+  "off": 812,
+  "len": 31,
+  "text": "we decided to lock ourselves in",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 22,
+  "off": 845,
+  "len": 26,
+  "text": "the dungeon and wear Seru,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 23,
+  "off": 873,
+  "len": 25,
+  "text": "surrendering to the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 24,
+  "off": 900,
+  "len": 27,
+  "text": "As Seru monsters, we should",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 25,
+  "off": 929,
+  "len": 32,
+  "text": "survive on Drake water until the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 26,
+  "off": 963,
+  "len": 23,
+  "text": "day the Mist goes away.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 27,
+  "off": 988,
+  "len": 26,
+  "text": "We locked ourselves in the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 28,
+  "off": 1016,
+  "len": 27,
+  "text": "dungeon so the Seru madness",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 29,
+  "off": 1045,
+  "len": 34,
+  "text": "would not force us to harm anyone.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 30,
+  "off": 1081,
+  "len": 26,
+  "text": "So, traveler, I ask you to",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 31,
+  "off": 1109,
+  "len": 26,
+  "text": "drive away the Mist, as we",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 32,
+  "off": 1137,
+  "len": 24,
+  "text": "were powerless to do so.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 33,
+  "off": 1163,
+  "len": 29,
+  "text": "You are our only hope for the",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 34,
+  "off": 1194,
+  "len": 23,
+  "text": "future -- the hope that",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 35,
+  "off": 1219,
+  "len": 12,
+  "text": "sustains us.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 36,
+  "off": 1256,
+  "len": 11,
+  "text": "{NAME} put back",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 37,
+  "off": 1269,
+  "len": 11,
+  "text": "the letter.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 38,
+  "off": 1299,
+  "len": 11,
+  "text": "{NAME} put back",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 53,
+  "run": 39,
+  "off": 1312,
+  "len": 11,
+  "text": "the letter.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 56,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:88}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 56,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 56,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 56,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:88}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 56,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 57,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 57,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 57,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 57,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:77}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 57,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 58,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:22}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 58,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 58,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 58,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:22}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 58,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 59,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 59,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 59,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 59,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:77}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 59,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 60,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8F}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 60,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 60,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 60,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8F}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 60,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 61,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:77}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 61,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 61,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 61,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:77}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 61,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 62,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 62,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 62,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 62,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 62,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 63,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:85}",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 63,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 63,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 63,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:85}.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 63,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 64,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 64,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 65,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 65,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 66,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 66,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:FF}!",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 0,
+  "off": 164,
+  "len": 21,
+  "text": "the door to this room",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 1,
+  "off": 187,
+  "len": 16,
+  "text": "is quite strong.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 2,
+  "off": 206,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: If you shut the door",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 3,
+  "off": 236,
+  "len": 30,
+  "text": "tightly, you should be able to",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 4,
+  "off": 268,
+  "len": 24,
+  "text": "rest peacefully in here.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 5,
+  "off": 295,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: Do you want to rest?",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 6,
+  "off": 448,
+  "len": 24,
+  "text": "{PAL:9}{M7}{PAL:7}: A wise decision.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 7,
+  "off": 474,
+  "len": 23,
+  "text": "While you are sleeping,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 8,
+  "off": 499,
+  "len": 19,
+  "text": "I will stand guard.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 9,
+  "off": 610,
+  "len": 28,
+  "text": "I apologize for interrupting",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 10,
+  "off": 640,
+  "len": 11,
+  "text": "your dream.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 11,
+  "off": 757,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: There is something I must",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 12,
+  "off": 792,
+  "len": 31,
+  "text": "tell you about the Seru and my ",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 13,
+  "off": 825,
+  "len": 7,
+  "text": "powers.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 14,
+  "off": 835,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: That's right, the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 15,
+  "off": 868,
+  "len": 28,
+  "text": "They are horrible creatures.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 16,
+  "off": 899,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: But the Seru themselves",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 17,
+  "off": 932,
+  "len": 26,
+  "text": "are not at fault. The Mist",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 18,
+  "off": 960,
+  "len": 31,
+  "text": "is responsible for all of this.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 19,
+  "off": 994,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: I have special powers",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 20,
+  "off": 1025,
+  "len": 24,
+  "text": "to use against the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 21,
+  "off": 1052,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I can assimilate with a",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 22,
+  "off": 1085,
+  "len": 32,
+  "text": "Seru that the Mist has made mad.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 23,
+  "off": 1120,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: The special powers of",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 24,
+  "off": 1151,
+  "len": 34,
+  "text": "the Seru will combine with my own,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 25,
+  "off": 1187,
+  "len": 28,
+  "text": "making me a powerful weapon.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 26,
+  "off": 1255,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I have not yet mastered",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 27,
+  "off": 1288,
+  "len": 33,
+  "text": "any of the abilities of the Seru,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 28,
+  "off": 1323,
+  "len": 35,
+  "text": "but the Fire Seru, Gimard, is here.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 29,
+  "off": 1367,
+  "len": 30,
+  "text": "{PAL:9}{M7}{PAL:7}: Don't give up and only",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 30,
+  "off": 1399,
+  "len": 36,
+  "text": "fight Gimard a few times. Eventually",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 31,
+  "off": 1437,
+  "len": 24,
+  "text": "we'll absorb his powers.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 32,
+  "off": 1521,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I have already absorbed",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 33,
+  "off": 1554,
+  "len": 33,
+  "text": "the abilities of Gimard, the Fire",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 34,
+  "off": 1589,
+  "len": 21,
+  "text": "Seru you have fought.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 35,
+  "off": 1655,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: It is not always possible",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 36,
+  "off": 1690,
+  "len": 28,
+  "text": "to absorb the abilities of a",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 37,
+  "off": 1720,
+  "len": 20,
+  "text": "Seru by fighting it.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 38,
+  "off": 1743,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: Nevertheless, let's try to",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 39,
+  "off": 1779,
+  "len": 29,
+  "text": "fight as many Seru as we can,",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 40,
+  "off": 1810,
+  "len": 30,
+  "text": "and hope we absorb its powers.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 41,
+  "off": 1874,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: You can use the Seru",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 42,
+  "off": 1904,
+  "len": 26,
+  "text": "abilities by expending MP.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 43,
+  "off": 1933,
+  "len": 36,
+  "text": "{PAL:9}{M7}{PAL:7}: When to use it is up to you.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 44,
+  "off": 1971,
+  "len": 33,
+  "text": "Just remember that MP is limited.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 45,
+  "off": 2204,
+  "len": 14,
+  "text": "{NAME} took a nap.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 46,
+  "off": 2220,
+  "len": 13,
+  "text": "HP and MP are",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 47,
+  "off": 2235,
+  "len": 21,
+  "text": "completely recovered.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 48,
+  "off": 2272,
+  "len": 28,
+  "text": "you look so much better now.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 49,
+  "off": 2329,
+  "len": 21,
+  "text": "{PAL:9}{M7}{PAL:7}: I understand.",
+  "ko": ""
+ },
+ {
+  "map": 63,
+  "script": 76,
+  "run": 50,
+  "off": 2352,
+  "len": 23,
+  "text": "You wish to make haste.",
+  "ko": ""
+ }
+]

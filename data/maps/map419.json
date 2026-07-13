@@ -1,0 +1,1946 @@
+[
+ {
+  "map": 419,
+  "script": 1,
+  "run": 0,
+  "off": 25,
+  "len": 24,
+  "text": "The door is frozen stiff",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 1,
+  "run": 1,
+  "off": 51,
+  "len": 15,
+  "text": "and won't open.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 2,
+  "run": 0,
+  "off": 25,
+  "len": 24,
+  "text": "The door is frozen stiff",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 2,
+  "run": 1,
+  "off": 51,
+  "len": 15,
+  "text": "and won't open.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 13,
+  "run": 0,
+  "off": 102,
+  "len": 20,
+  "text": "e'e(e)e*e+e,e-e.!!&<03>",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 15,
+  "run": 0,
+  "off": 42,
+  "len": 10,
+  "text": "(Creaking)",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 15,
+  "run": 1,
+  "off": 55,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 15,
+  "run": 2,
+  "off": 85,
+  "len": 27,
+  "text": "It seems a little sluggish.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 16,
+  "run": 0,
+  "off": 45,
+  "len": 7,
+  "text": "Grrr...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 16,
+  "run": 1,
+  "off": 55,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 16,
+  "run": 2,
+  "off": 85,
+  "len": 29,
+  "text": "It's shivering from the cold.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 17,
+  "run": 0,
+  "off": 45,
+  "len": 7,
+  "text": "Grrr...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 17,
+  "run": 1,
+  "off": 55,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 17,
+  "run": 2,
+  "off": 85,
+  "len": 29,
+  "text": "It's shivering from the cold.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 18,
+  "run": 0,
+  "off": 52,
+  "len": 10,
+  "text": "(Creaking)",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 18,
+  "run": 1,
+  "off": 65,
+  "len": 28,
+  "text": "A human possessed by a Seru!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 18,
+  "run": 2,
+  "off": 95,
+  "len": 27,
+  "text": "It seems a little sluggish.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 19,
+  "run": 0,
+  "off": 104,
+  "len": 17,
+  "text": "{NAME} gently touched",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 19,
+  "run": 1,
+  "off": 123,
+  "len": 17,
+  "text": "the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 19,
+  "run": 2,
+  "off": 186,
+  "len": 23,
+  "text": "It's completely frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 20,
+  "run": 0,
+  "off": 104,
+  "len": 17,
+  "text": "{NAME} gently touched",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 20,
+  "run": 1,
+  "off": 123,
+  "len": 17,
+  "text": "the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 20,
+  "run": 2,
+  "off": 186,
+  "len": 23,
+  "text": "It's completely frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 21,
+  "run": 0,
+  "off": 104,
+  "len": 17,
+  "text": "{NAME} gently touched",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 21,
+  "run": 1,
+  "off": 123,
+  "len": 17,
+  "text": "the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 21,
+  "run": 2,
+  "off": 186,
+  "len": 23,
+  "text": "It's completely frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 22,
+  "run": 0,
+  "off": 23,
+  "len": 35,
+  "text": "Welcome to Buma, the city of lakes!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 22,
+  "run": 1,
+  "off": 60,
+  "len": 19,
+  "text": "East: General Store",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 22,
+  "run": 2,
+  "off": 81,
+  "len": 9,
+  "text": "West: Inn",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 0,
+  "off": 46,
+  "len": 27,
+  "text": "The Genesis Tree is frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 1,
+  "off": 84,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 2,
+  "off": 113,
+  "len": 31,
+  "text": "I know the Genesis Tree of Buma",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 3,
+  "off": 155,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 4,
+  "off": 184,
+  "len": 29,
+  "text": "Heard Cara talking to herself",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 5,
+  "off": 224,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 6,
+  "off": 253,
+  "len": 24,
+  "text": "The eternal Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 7,
+  "off": 288,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 8,
+  "off": 317,
+  "len": 19,
+  "text": "Articulate Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 9,
+  "off": 347,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 10,
+  "off": 376,
+  "len": 15,
+  "text": "You need money?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 11,
+  "off": 430,
+  "len": 25,
+  "text": "Want to change your name?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 12,
+  "off": 466,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 13,
+  "off": 472,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 14,
+  "off": 483,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 25,
+  "run": 15,
+  "off": 494,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 26,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7D}",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 26,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 26,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 26,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7D}!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 26,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 27,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 27,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:7B}!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 0,
+  "off": 331,
+  "len": 13,
+  "text": "This is Buma!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 1,
+  "off": 346,
+  "len": 30,
+  "text": "The Genesis Tree must be here!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 2,
+  "off": 411,
+  "len": 18,
+  "text": "{NAME:01}: I'll go check!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 3,
+  "off": 431,
+  "len": 18,
+  "text": "I'm going ahead to",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 4,
+  "off": 451,
+  "len": 17,
+  "text": "the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 5,
+  "off": 689,
+  "len": 15,
+  "text": "Cara: I know...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 6,
+  "off": 706,
+  "len": 20,
+  "text": "Your heart is frozen",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 7,
+  "off": 728,
+  "len": 19,
+  "text": "just like this ice.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 8,
+  "off": 753,
+  "len": 28,
+  "text": "Cara: I can tell, because my",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 9,
+  "off": 783,
+  "len": 27,
+  "text": "heart is buried here in the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 10,
+  "off": 812,
+  "len": 23,
+  "text": "cold ice and snow, too.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 11,
+  "off": 1179,
+  "len": 9,
+  "text": "{NAME:01}: Whoa!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 12,
+  "off": 1537,
+  "len": 21,
+  "text": "{NAME:01}: The Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 13,
+  "off": 1560,
+  "len": 30,
+  "text": "Come look at the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 14,
+  "off": 1592,
+  "len": 21,
+  "text": "Oh, this is terrible!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 15,
+  "off": 1622,
+  "len": 22,
+  "text": "{NAME:01}: It's frozen stiff!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 16,
+  "off": 1646,
+  "len": 12,
+  "text": "It's frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 17,
+  "off": 1713,
+  "len": 11,
+  "text": "{NAME:02}: Oh, no!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 18,
+  "off": 1996,
+  "len": 11,
+  "text": "{NAME:02}: Oh, no!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 19,
+  "off": 2013,
+  "len": 16,
+  "text": "{NAME:02}: It's just as",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 20,
+  "off": 2031,
+  "len": 14,
+  "text": "Dr. Usha said.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 21,
+  "off": 2138,
+  "len": 27,
+  "text": "the Genesis Tree is frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 22,
+  "off": 2167,
+  "len": 29,
+  "text": "It's covered in ice and snow!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 23,
+  "off": 2373,
+  "len": 17,
+  "text": "{NAME:01}: Terra! Terra!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 24,
+  "off": 2392,
+  "len": 34,
+  "text": "Everything will be alright, right?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 25,
+  "off": 2428,
+  "len": 31,
+  "text": "Won't the Genesis Tree wake up?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 26,
+  "off": 2638,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I never imagined",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 27,
+  "off": 2664,
+  "len": 30,
+  "text": "that something like this would",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 28,
+  "off": 2696,
+  "len": 27,
+  "text": "happen to the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 29,
+  "off": 2726,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We still have to",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 30,
+  "off": 2752,
+  "len": 30,
+  "text": "try!! We're going to focus all",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 31,
+  "off": 2784,
+  "len": 27,
+  "text": "our energy! Come over here!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 32,
+  "off": 2967,
+  "len": 20,
+  "text": "let's give it a try!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 33,
+  "off": 3271,
+  "len": 19,
+  "text": "Let's go join them.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 34,
+  "off": 3539,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Focus your thoughts!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 35,
+  "off": 3947,
+  "len": 21,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Visualize the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 36,
+  "off": 3970,
+  "len": 30,
+  "text": "healthy, revived Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 37,
+  "off": 4137,
+  "len": 20,
+  "text": "{PAL:9}{M7}{PAL:7}: Concentrate!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 38,
+  "off": 4159,
+  "len": 15,
+  "text": "Harder, harder!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 39,
+  "off": 4517,
+  "len": 21,
+  "text": "{PAL:4}{M7:01}{PAL:7}: It's no good.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 40,
+  "off": 4540,
+  "len": 21,
+  "text": "If we try any harder,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 41,
+  "off": 4563,
+  "len": 31,
+  "text": "we may damage the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 42,
+  "off": 5052,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 43,
+  "off": 5194,
+  "len": 25,
+  "text": "{NAME:01}: No, we can't give up!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 44,
+  "off": 5221,
+  "len": 21,
+  "text": "We can't! I'll do it!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 45,
+  "off": 5244,
+  "len": 30,
+  "text": "I'll wake up the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 46,
+  "off": 5643,
+  "len": 25,
+  "text": "Stop acting like a child!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 47,
+  "off": 5711,
+  "len": 9,
+  "text": "{NAME:01}: Ohhh!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 48,
+  "off": 5722,
+  "len": 16,
+  "text": "Wait! That's it!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 49,
+  "off": 5740,
+  "len": 14,
+  "text": "A Ra-Seru egg!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 50,
+  "off": 5787,
+  "len": 27,
+  "text": "{NAME:01}: This is a Genesis Tree,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 51,
+  "off": 5816,
+  "len": 19,
+  "text": "so it should have a",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 52,
+  "off": 5837,
+  "len": 12,
+  "text": "Ra-Seru egg!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 53,
+  "off": 5991,
+  "len": 16,
+  "text": "{NAME:02}: {NAME:01} is right!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 54,
+  "off": 6009,
+  "len": 27,
+  "text": "Ozma, can we at least get a",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 55,
+  "off": 6038,
+  "len": 12,
+  "text": "Ra-Seru Egg?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 56,
+  "off": 6113,
+  "len": 25,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Well, actually...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 57,
+  "off": 6140,
+  "len": 26,
+  "text": "It looks like there are no",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 58,
+  "off": 6168,
+  "len": 18,
+  "text": "Ra-Seru Eggs here.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 59,
+  "off": 6337,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: It looks like all",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 60,
+  "off": 6364,
+  "len": 32,
+  "text": "the Ra-Seru Eggs have been taken",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 61,
+  "off": 6398,
+  "len": 24,
+  "text": "from every Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 62,
+  "off": 6553,
+  "len": 9,
+  "text": "{NAME:01}: Cara!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 63,
+  "off": 6564,
+  "len": 23,
+  "text": "She took them! She took",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 64,
+  "off": 6589,
+  "len": 17,
+  "text": "the Ra-Seru eggs!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 65,
+  "off": 6700,
+  "len": 27,
+  "text": "{NAME:01}: I'm sure of it, because",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 66,
+  "off": 6729,
+  "len": 15,
+  "text": "she had an egg!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 67,
+  "off": 6812,
+  "len": 10,
+  "text": "{NAME:02}: I see.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 68,
+  "off": 6824,
+  "len": 27,
+  "text": "It's possible. I don't know",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 69,
+  "off": 6853,
+  "len": 28,
+  "text": "for sure, but it's possible.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 70,
+  "off": 7091,
+  "len": 26,
+  "text": "{NAME:01}: Can't we melt the ice?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 71,
+  "off": 7119,
+  "len": 32,
+  "text": "If we could, we could revive the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 72,
+  "off": 7153,
+  "len": 13,
+  "text": "Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 73,
+  "off": 7299,
+  "len": 26,
+  "text": "{NAME:02}: There's only one thing",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 74,
+  "off": 7327,
+  "len": 24,
+  "text": "I can say for certain...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 75,
+  "off": 7393,
+  "len": 16,
+  "text": "{NAME:02}: And that is,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 76,
+  "off": 7411,
+  "len": 26,
+  "text": "dawdling around here isn't",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 77,
+  "off": 7439,
+  "len": 25,
+  "text": "going to get us anywhere!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 78,
+  "off": 7502,
+  "len": 28,
+  "text": "Let's look for other leads!!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 79,
+  "off": 7785,
+  "len": 21,
+  "text": "you sure do talk big.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 80,
+  "off": 7933,
+  "len": 18,
+  "text": "{NAME:01}: Just you wait.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 81,
+  "off": 7953,
+  "len": 24,
+  "text": "I promise you that we'll",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 28,
+  "run": 82,
+  "off": 7979,
+  "len": 21,
+  "text": "figure out something.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 0,
+  "off": 251,
+  "len": 20,
+  "text": "It's a Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 1,
+  "off": 273,
+  "len": 11,
+  "text": "Over there!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 2,
+  "off": 393,
+  "len": 20,
+  "text": "{NAME:01}: I'm going there!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 3,
+  "off": 415,
+  "len": 22,
+  "text": "I'm going ahead to the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 4,
+  "off": 439,
+  "len": 13,
+  "text": "Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 5,
+  "off": 666,
+  "len": 9,
+  "text": "{NAME:01}: Whoa!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 6,
+  "off": 1023,
+  "len": 21,
+  "text": "{NAME:01}: The Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 7,
+  "off": 1046,
+  "len": 30,
+  "text": "Come look at the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 8,
+  "off": 1078,
+  "len": 21,
+  "text": "Oh, this is terrible!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 9,
+  "off": 1108,
+  "len": 22,
+  "text": "{NAME:01}: It's frozen stiff!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 10,
+  "off": 1132,
+  "len": 12,
+  "text": "It's frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 11,
+  "off": 1199,
+  "len": 11,
+  "text": "{NAME:02}: Oh, no!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 12,
+  "off": 1478,
+  "len": 11,
+  "text": "{NAME:02}: Oh, no!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 13,
+  "off": 1588,
+  "len": 27,
+  "text": "the Genesis Tree is frozen!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 14,
+  "off": 1617,
+  "len": 29,
+  "text": "It's covered in ice and snow!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 15,
+  "off": 1823,
+  "len": 17,
+  "text": "{NAME:01}: Terra! Terra!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 16,
+  "off": 1842,
+  "len": 27,
+  "text": "Will everything be alright?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 17,
+  "off": 1871,
+  "len": 31,
+  "text": "Won't the Genesis Tree wake up?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 18,
+  "off": 2080,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I never imagined",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 19,
+  "off": 2106,
+  "len": 30,
+  "text": "that something like this would",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 20,
+  "off": 2138,
+  "len": 27,
+  "text": "happen to the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 21,
+  "off": 2168,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: We still have to",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 22,
+  "off": 2194,
+  "len": 26,
+  "text": "try!! We're going to focus",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 23,
+  "off": 2222,
+  "len": 27,
+  "text": "our energy! Come over here!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 24,
+  "off": 2411,
+  "len": 20,
+  "text": "let's give it a try!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 25,
+  "off": 2715,
+  "len": 19,
+  "text": "Let's go join them.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 26,
+  "off": 2983,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Focus your thoughts!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 27,
+  "off": 3391,
+  "len": 21,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Visualize the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 28,
+  "off": 3414,
+  "len": 21,
+  "text": "revived Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 29,
+  "off": 3578,
+  "len": 20,
+  "text": "{PAL:9}{M7}{PAL:7}: Concentrate!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 30,
+  "off": 3600,
+  "len": 15,
+  "text": "Harder, harder!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 31,
+  "off": 3958,
+  "len": 21,
+  "text": "{PAL:4}{M7:01}{PAL:7}: It's no good.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 32,
+  "off": 3981,
+  "len": 21,
+  "text": "If we try any harder,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 33,
+  "off": 4004,
+  "len": 31,
+  "text": "we may damage the Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 34,
+  "off": 4493,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 35,
+  "off": 4635,
+  "len": 25,
+  "text": "{NAME:01}: No, we can't give up!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 36,
+  "off": 4662,
+  "len": 21,
+  "text": "We can't! I'll do it!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 37,
+  "off": 4685,
+  "len": 30,
+  "text": "I'll wake up the Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 38,
+  "off": 5084,
+  "len": 25,
+  "text": "Stop acting like a child!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 39,
+  "off": 5152,
+  "len": 9,
+  "text": "{NAME:01}: Ohhh!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 40,
+  "off": 5163,
+  "len": 16,
+  "text": "Wait! That's it!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 41,
+  "off": 5181,
+  "len": 14,
+  "text": "A Ra-Seru egg!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 42,
+  "off": 5228,
+  "len": 27,
+  "text": "{NAME:01}: This is a Genesis Tree,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 43,
+  "off": 5257,
+  "len": 19,
+  "text": "so it should have a",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 44,
+  "off": 5278,
+  "len": 12,
+  "text": "Ra-Seru egg!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 45,
+  "off": 5432,
+  "len": 16,
+  "text": "{NAME:02}: {NAME:01} is right!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 46,
+  "off": 5450,
+  "len": 27,
+  "text": "Ozma, can we at least get a",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 47,
+  "off": 5479,
+  "len": 12,
+  "text": "Ra-Seru Egg?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 48,
+  "off": 5554,
+  "len": 25,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Well, actually...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 49,
+  "off": 5581,
+  "len": 26,
+  "text": "It looks like there are no",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 50,
+  "off": 5609,
+  "len": 18,
+  "text": "Ra-Seru Eggs here.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 51,
+  "off": 5778,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: It looks like all",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 52,
+  "off": 5805,
+  "len": 32,
+  "text": "the Ra-Seru Eggs have been taken",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 53,
+  "off": 5839,
+  "len": 24,
+  "text": "from every Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 54,
+  "off": 5994,
+  "len": 9,
+  "text": "{NAME:01}: Cara!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 55,
+  "off": 6005,
+  "len": 23,
+  "text": "She took them! She took",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 56,
+  "off": 6030,
+  "len": 17,
+  "text": "the Ra-Seru eggs!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 57,
+  "off": 6141,
+  "len": 27,
+  "text": "{NAME:01}: I'm sure of it, because",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 58,
+  "off": 6170,
+  "len": 13,
+  "text": "she had eggs!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 59,
+  "off": 6251,
+  "len": 10,
+  "text": "{NAME:02}: I see.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 60,
+  "off": 6263,
+  "len": 27,
+  "text": "It's possible. I don't know",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 61,
+  "off": 6292,
+  "len": 28,
+  "text": "for sure, but it's possible.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 62,
+  "off": 6530,
+  "len": 26,
+  "text": "{NAME:01}: Can't we melt the ice?",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 63,
+  "off": 6558,
+  "len": 32,
+  "text": "If we could, we could revive the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 64,
+  "off": 6592,
+  "len": 13,
+  "text": "Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 65,
+  "off": 6738,
+  "len": 26,
+  "text": "{NAME:02}: There's only one thing",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 66,
+  "off": 6766,
+  "len": 24,
+  "text": "I can say for certain...",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 67,
+  "off": 6832,
+  "len": 16,
+  "text": "{NAME:02}: And that is,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 68,
+  "off": 6850,
+  "len": 20,
+  "text": "dawdling around here",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 69,
+  "off": 6872,
+  "len": 31,
+  "text": "isn't going to get us anywhere!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 70,
+  "off": 6941,
+  "len": 27,
+  "text": "Let's look for other leads!",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 71,
+  "off": 7223,
+  "len": 21,
+  "text": "you sure do talk big.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 72,
+  "off": 7371,
+  "len": 18,
+  "text": "{NAME:01}: Just you wait.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 73,
+  "off": 7391,
+  "len": 24,
+  "text": "I promise you that we'll",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 30,
+  "run": 74,
+  "off": 7417,
+  "len": 21,
+  "text": "figure out something.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 31,
+  "run": 0,
+  "off": 120,
+  "len": 13,
+  "text": "Cara: I know,",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 31,
+  "run": 1,
+  "off": 135,
+  "len": 20,
+  "text": "your heart is frozen",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 31,
+  "run": 2,
+  "off": 157,
+  "len": 19,
+  "text": "just like this ice.",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 31,
+  "run": 3,
+  "off": 182,
+  "len": 28,
+  "text": "Cara: I can tell, because my",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 31,
+  "run": 4,
+  "off": 212,
+  "len": 27,
+  "text": "heart is buried here in the",
+  "ko": ""
+ },
+ {
+  "map": 419,
+  "script": 31,
+  "run": 5,
+  "off": 241,
+  "len": 23,
+  "text": "cold ice and snow, too.",
+  "ko": ""
+ }
+]

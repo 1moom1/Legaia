@@ -1,0 +1,1631 @@
+[
+ {
+  "map": 573,
+  "script": 7,
+  "run": 0,
+  "off": 51,
+  "len": 6,
+  "text": "Aaaah!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 8,
+  "run": 0,
+  "off": 27,
+  "len": 33,
+  "text": "Welcome! If you want accessories,",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 8,
+  "run": 1,
+  "off": 62,
+  "len": 33,
+  "text": "this is the place. What can I get",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 8,
+  "run": 2,
+  "off": 97,
+  "len": 14,
+  "text": "for you today?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 8,
+  "run": 3,
+  "off": 142,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 9,
+  "run": 0,
+  "off": 23,
+  "len": 27,
+  "text": "Soru: Hello! How about some",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 9,
+  "run": 1,
+  "off": 52,
+  "len": 23,
+  "text": "world famous, homemade ",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 9,
+  "run": 2,
+  "off": 77,
+  "len": 11,
+  "text": "Soru Bread?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 9,
+  "run": 3,
+  "off": 122,
+  "len": 29,
+  "text": "Soru: If you ever want to try",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 9,
+  "run": 4,
+  "off": 153,
+  "len": 28,
+  "text": "some Soru Bread made by Soru",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 9,
+  "run": 5,
+  "off": 183,
+  "len": 22,
+  "text": "himself, come on back!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 0,
+  "off": 41,
+  "len": 34,
+  "text": "Soru Bread is very good, you know.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 1,
+  "off": 78,
+  "len": 31,
+  "text": "The Sages just love Soru Bread.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 2,
+  "off": 111,
+  "len": 28,
+  "text": "That's why everyone loves it",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 3,
+  "off": 141,
+  "len": 8,
+  "text": "so much.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 4,
+  "off": 152,
+  "len": 22,
+  "text": "But it's so expensive!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 5,
+  "off": 176,
+  "len": 26,
+  "text": "I wouldn't buy it, either!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 6,
+  "off": 207,
+  "len": 27,
+  "text": "Who would have thought that",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 7,
+  "off": 236,
+  "len": 27,
+  "text": "Soru Bread had the power to",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 10,
+  "run": 8,
+  "off": 265,
+  "len": 21,
+  "text": "open the Sage's Gate!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 0,
+  "off": 41,
+  "len": 30,
+  "text": "I know a way to get Soru Bread",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 1,
+  "off": 73,
+  "len": 20,
+  "text": "cheap. Want to know?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 2,
+  "off": 219,
+  "len": 34,
+  "text": "Go to Muscle Paradise if you think",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 3,
+  "off": 255,
+  "len": 34,
+  "text": "you're tough enough. They give out",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 4,
+  "off": 291,
+  "len": 21,
+  "text": "Soru Bread as prizes.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 5,
+  "off": 317,
+  "len": 32,
+  "text": "Hmmf. Bet you guys must be rich.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 6,
+  "off": 354,
+  "len": 32,
+  "text": "I wonder why the Sage's Treasure",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 7,
+  "off": 388,
+  "len": 17,
+  "text": "Chests eat bread?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 8,
+  "off": 408,
+  "len": 29,
+  "text": "Who knows? Maybe it's because",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 11,
+  "run": 9,
+  "off": 439,
+  "len": 26,
+  "text": "Dr. Usha liked Soru Bread.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 0,
+  "off": 33,
+  "len": 24,
+  "text": "Do you know who Cara is?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 1,
+  "off": 183,
+  "len": 31,
+  "text": "Why would such a nice girl like",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 2,
+  "off": 216,
+  "len": 32,
+  "text": "Cara fall for such a no-good guy",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 3,
+  "off": 250,
+  "len": 10,
+  "text": "like that?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 4,
+  "off": 263,
+  "len": 31,
+  "text": "He's always getting into fights",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 5,
+  "off": 296,
+  "len": 32,
+  "text": "and causing trouble. What a bum!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 6,
+  "off": 333,
+  "len": 32,
+  "text": "Hmmf. And to think she's one of ",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 7,
+  "off": 367,
+  "len": 31,
+  "text": "the most famous people in Sol, ",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 8,
+  "off": 400,
+  "len": 16,
+  "text": "along with Gaza.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 9,
+  "off": 421,
+  "len": 25,
+  "text": "I see. So you met Cara in",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 10,
+  "off": 448,
+  "len": 5,
+  "text": "Buma.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 11,
+  "off": 456,
+  "len": 32,
+  "text": "The ice in Buma may have melted,",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 12,
+  "off": 490,
+  "len": 30,
+  "text": "but her heart is still frozen.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 13,
+  "off": 525,
+  "len": 29,
+  "text": "That's wonderful! So Cara and",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 12,
+  "run": 14,
+  "off": 556,
+  "len": 31,
+  "text": "Grantes are back in love again!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 13,
+  "run": 0,
+  "off": 27,
+  "len": 29,
+  "text": "Arms Dealer: Welcome! We have",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 13,
+  "run": 1,
+  "off": 58,
+  "len": 31,
+  "text": "various weapons and armor. What",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 13,
+  "run": 2,
+  "off": 91,
+  "len": 24,
+  "text": "can I get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 13,
+  "run": 3,
+  "off": 147,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 0,
+  "off": 35,
+  "len": 7,
+  "text": "He, he!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 1,
+  "off": 44,
+  "len": 32,
+  "text": "So, you all like Seru, just like",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 2,
+  "off": 78,
+  "len": 8,
+  "text": "me, huh?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 3,
+  "off": 212,
+  "len": 28,
+  "text": "So, we like the same things!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 4,
+  "off": 242,
+  "len": 27,
+  "text": "Then I guess you know about",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 5,
+  "off": 271,
+  "len": 16,
+  "text": "Uru Mais, right?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 6,
+  "off": 412,
+  "len": 30,
+  "text": "Ha! And I though you were true",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 7,
+  "off": 444,
+  "len": 16,
+  "text": "Seru collectors!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 8,
+  "off": 463,
+  "len": 31,
+  "text": "Then you shouldn't be wandering",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 9,
+  "off": 496,
+  "len": 32,
+  "text": "around with those things. People",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 10,
+  "off": 530,
+  "len": 24,
+  "text": "will think they're real!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 11,
+  "off": 557,
+  "len": 29,
+  "text": "You'll get yourself killed by",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 12,
+  "off": 588,
+  "len": 32,
+  "text": "Gaza, if he sees you with those!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 13,
+  "off": 625,
+  "len": 28,
+  "text": "I knew you would! After all,",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 14,
+  "off": 655,
+  "len": 22,
+  "text": "Uru Mais is a Mecca to",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 15,
+  "off": 679,
+  "len": 16,
+  "text": "Seru collectors!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 16,
+  "off": 698,
+  "len": 31,
+  "text": "When the Mist clears, I want to",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 17,
+  "off": 731,
+  "len": 29,
+  "text": "go to Uru Mais and get myself",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 18,
+  "off": 762,
+  "len": 19,
+  "text": "a custom-made Seru.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 19,
+  "off": 784,
+  "len": 29,
+  "text": "With a powerful Seru, I could",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 20,
+  "off": 815,
+  "len": 27,
+  "text": "enter fighting contests and",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 21,
+  "off": 844,
+  "len": 14,
+  "text": "become famous!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 22,
+  "off": 863,
+  "len": 30,
+  "text": "What are you, amateurs? If you",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 23,
+  "off": 895,
+  "len": 31,
+  "text": "don't even know about Uru Mais,",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 24,
+  "off": 928,
+  "len": 33,
+  "text": "don't pretend to be Seru maniacs!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 25,
+  "off": 966,
+  "len": 30,
+  "text": "I guess I misjudged you! Those",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 26,
+  "off": 998,
+  "len": 30,
+  "text": "Ra-Seru are the dream of every",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 14,
+  "run": 27,
+  "off": 1030,
+  "len": 15,
+  "text": "Seru collector!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 0,
+  "off": 55,
+  "len": 5,
+  "text": "Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 1,
+  "off": 62,
+  "len": 28,
+  "text": "You're just a bunch of kids.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 2,
+  "off": 93,
+  "len": 34,
+  "text": "We don't want any poor little kids",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 3,
+  "off": 129,
+  "len": 21,
+  "text": "around here. Go home!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 4,
+  "off": 162,
+  "len": 32,
+  "text": "I'm not a kid! I'm 14 years old!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 5,
+  "off": 196,
+  "len": 20,
+  "text": "I am not a poor kid!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 6,
+  "off": 218,
+  "len": 13,
+  "text": "I'm an adult!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 7,
+  "off": 233,
+  "len": 29,
+  "text": "Well I don't want you around!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 8,
+  "off": 265,
+  "len": 11,
+  "text": "How uncool!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 9,
+  "off": 283,
+  "len": 23,
+  "text": "So, you have money, eh?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 10,
+  "off": 308,
+  "len": 26,
+  "text": "Well, this is our hangout.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 11,
+  "off": 337,
+  "len": 28,
+  "text": "If you have money, go inside",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 12,
+  "off": 367,
+  "len": 18,
+  "text": "and buy something.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 13,
+  "off": 439,
+  "len": 22,
+  "text": "What are you, a moron?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 14,
+  "off": 468,
+  "len": 15,
+  "text": "I'm outta here!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 15,
+  "off": 490,
+  "len": 22,
+  "text": "Hey, moneybags. You're",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 16,
+  "off": 514,
+  "len": 29,
+  "text": "pretty good for a little kid.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 17,
+  "off": 546,
+  "len": 28,
+  "text": "Buy something before you go.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 18,
+  "off": 576,
+  "len": 9,
+  "text": "Anything.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 19,
+  "off": 592,
+  "len": 30,
+  "text": "If you're the hero who got rid",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 20,
+  "off": 624,
+  "len": 26,
+  "text": "of the Mist, you must have",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 21,
+  "off": 652,
+  "len": 6,
+  "text": "dough.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 22,
+  "off": 661,
+  "len": 28,
+  "text": "Buy something before you go.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 21,
+  "run": 23,
+  "off": 691,
+  "len": 9,
+  "text": "Anything.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 0,
+  "off": 23,
+  "len": 28,
+  "text": "Are you gonna buy something?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 1,
+  "off": 61,
+  "len": 12,
+  "text": "{ITEM:7B}:  10,000G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 2,
+  "off": 75,
+  "len": 12,
+  "text": "{ITEM:7D}:   8,500G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 3,
+  "off": 89,
+  "len": 21,
+  "text": "I don't want anything",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 4,
+  "off": 126,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 5,
+  "off": 151,
+  "len": 12,
+  "text": "{NAME} bought a ",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 6,
+  "off": 169,
+  "len": 15,
+  "text": "from the child.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 7,
+  "off": 187,
+  "len": 28,
+  "text": "Are you gonna buy something?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 8,
+  "off": 225,
+  "len": 12,
+  "text": "{ITEM:7B}:  10,000G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 9,
+  "off": 239,
+  "len": 12,
+  "text": "{ITEM:7D}:   8,500G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 10,
+  "off": 253,
+  "len": 21,
+  "text": "I don't want anything",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 11,
+  "off": 290,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 12,
+  "off": 315,
+  "len": 11,
+  "text": "{NAME} bought a",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 13,
+  "off": 332,
+  "len": 15,
+  "text": "from the child.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 14,
+  "off": 350,
+  "len": 28,
+  "text": "Are you gonna buy something?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 15,
+  "off": 388,
+  "len": 12,
+  "text": "{ITEM:7B}:  10,000G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 16,
+  "off": 402,
+  "len": 12,
+  "text": "{ITEM:7D}:   8,500G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 17,
+  "off": 416,
+  "len": 21,
+  "text": "I don't want anything",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 18,
+  "off": 440,
+  "len": 10,
+  "text": "That's it.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 19,
+  "off": 457,
+  "len": 11,
+  "text": "No...money?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 20,
+  "off": 471,
+  "len": 28,
+  "text": "Are you gonna buy something?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 21,
+  "off": 509,
+  "len": 12,
+  "text": "{ITEM:7B}:  10,000G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 22,
+  "off": 523,
+  "len": 12,
+  "text": "{ITEM:7D}:   8,500G",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 22,
+  "run": 23,
+  "off": 537,
+  "len": 21,
+  "text": "I don't want anything",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 0,
+  "off": 29,
+  "len": 35,
+  "text": "We have this really cool accessory,",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 1,
+  "off": 66,
+  "len": 10,
+  "text": "it's a {ITEM:E5}.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 2,
+  "off": 78,
+  "len": 15,
+  "text": "Do you want it?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 3,
+  "off": 219,
+  "len": 23,
+  "text": "I'll sell it to you for",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 4,
+  "off": 244,
+  "len": 8,
+  "text": "90,000G!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 5,
+  "off": 262,
+  "len": 24,
+  "text": "I'll buy it for 90,000G.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 6,
+  "off": 288,
+  "len": 33,
+  "text": "That's too much. Lower the price!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 7,
+  "off": 323,
+  "len": 10,
+  "text": "Forget it!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 8,
+  "off": 352,
+  "len": 29,
+  "text": "Hey, we have to make a living",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 9,
+  "off": 383,
+  "len": 18,
+  "text": "at this, you know!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 10,
+  "off": 404,
+  "len": 18,
+  "text": "Alright, how about",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 11,
+  "off": 424,
+  "len": 8,
+  "text": "60,000G?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 12,
+  "off": 442,
+  "len": 24,
+  "text": "I'll buy it for 60,000G!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 13,
+  "off": 468,
+  "len": 24,
+  "text": "Make it half -- 30,000G!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 14,
+  "off": 494,
+  "len": 10,
+  "text": "Forget it!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 15,
+  "off": 523,
+  "len": 20,
+  "text": "What? Are you crazy?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 16,
+  "off": 545,
+  "len": 18,
+  "text": "A {ITEM:E5} for 30,000G?!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 17,
+  "off": 565,
+  "len": 5,
+  "text": "Uh...",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 18,
+  "off": 573,
+  "len": 25,
+  "text": "Alright, this is my final",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 19,
+  "off": 600,
+  "len": 15,
+  "text": "offer. 40,000G!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 20,
+  "off": 625,
+  "len": 24,
+  "text": "I'll buy it for 40,000G!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 21,
+  "off": 651,
+  "len": 26,
+  "text": "Do you think we're stupid?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 22,
+  "off": 679,
+  "len": 10,
+  "text": "Forget it!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 23,
+  "off": 708,
+  "len": 11,
+  "text": "Yeah, I do!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 24,
+  "off": 722,
+  "len": 5,
+  "text": "Hmmf.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 25,
+  "off": 734,
+  "len": 5,
+  "text": "Here!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 26,
+  "off": 741,
+  "len": 16,
+  "text": "The {ITEM:E5} is yours!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 27,
+  "off": 759,
+  "len": 21,
+  "text": "Take good care of it!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 28,
+  "off": 797,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 29,
+  "off": 809,
+  "len": 7,
+  "text": "the {ITEM:E5}!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 30,
+  "off": 823,
+  "len": 9,
+  "text": "Now look!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 31,
+  "off": 834,
+  "len": 26,
+  "text": "Don't think I'm a pushover",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 32,
+  "off": 862,
+  "len": 22,
+  "text": "just 'cause I'm a kid.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 33,
+  "off": 887,
+  "len": 28,
+  "text": "You don't have enough money!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 34,
+  "off": 922,
+  "len": 21,
+  "text": "Man, what a tightwad!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 35,
+  "off": 950,
+  "len": 22,
+  "text": "Well, we're all out of",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 36,
+  "off": 979,
+  "len": 9,
+  "text": "So there!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 23,
+  "run": 37,
+  "off": 995,
+  "len": 5,
+  "text": "Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 24,
+  "run": 0,
+  "off": 21,
+  "len": 26,
+  "text": "It's sad... These are just",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 24,
+  "run": 1,
+  "off": 49,
+  "len": 26,
+  "text": "little kids and they're so",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 24,
+  "run": 2,
+  "off": 77,
+  "len": 29,
+  "text": "hardened by the cold world...",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 0,
+  "off": 79,
+  "len": 5,
+  "text": "Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 1,
+  "off": 86,
+  "len": 28,
+  "text": "You're just a bunch of kids.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 2,
+  "off": 117,
+  "len": 34,
+  "text": "We don't want any poor little kids",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 3,
+  "off": 153,
+  "len": 21,
+  "text": "around here. Go home!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 4,
+  "off": 186,
+  "len": 32,
+  "text": "I'm not a kid! I'm 14 years old!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 5,
+  "off": 220,
+  "len": 20,
+  "text": "I am not a poor kid!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 6,
+  "off": 242,
+  "len": 13,
+  "text": "I'm an adult!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 7,
+  "off": 257,
+  "len": 29,
+  "text": "Well I don't want you around!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 8,
+  "off": 289,
+  "len": 11,
+  "text": "How uncool!",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 9,
+  "off": 307,
+  "len": 23,
+  "text": "So, you have money, eh?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 10,
+  "off": 332,
+  "len": 26,
+  "text": "Well, this is our hangout.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 11,
+  "off": 361,
+  "len": 28,
+  "text": "If you have money, go inside",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 12,
+  "off": 391,
+  "len": 18,
+  "text": "and buy something.",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 13,
+  "off": 463,
+  "len": 22,
+  "text": "What are you, a moron?",
+  "ko": ""
+ },
+ {
+  "map": 573,
+  "script": 30,
+  "run": 14,
+  "off": 492,
+  "len": 15,
+  "text": "I'm outta here!",
+  "ko": ""
+ }
+]

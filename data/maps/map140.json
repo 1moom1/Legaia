@@ -1,0 +1,2981 @@
+[
+ {
+  "map": 140,
+  "script": 1,
+  "run": 0,
+  "off": 32,
+  "len": 18,
+  "text": "The door is locked",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 1,
+  "run": 1,
+  "off": 52,
+  "len": 15,
+  "text": "and won't open!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 1,
+  "run": 2,
+  "off": 168,
+  "len": 23,
+  "text": "{NAME:02}: What are you doing?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 1,
+  "run": 3,
+  "off": 193,
+  "len": 31,
+  "text": "No amount of brute strength can",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 1,
+  "run": 4,
+  "off": 226,
+  "len": 15,
+  "text": "open that door.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 3,
+  "run": 0,
+  "off": 34,
+  "len": 30,
+  "text": "Do you wish to move the lever?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 3,
+  "run": 1,
+  "off": 81,
+  "len": 26,
+  "text": "{NAME} did not move the lever.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 3,
+  "run": 2,
+  "off": 112,
+  "len": 19,
+  "text": "{NAME} moved the lever.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 3,
+  "run": 3,
+  "off": 307,
+  "len": 25,
+  "text": "The door is already open.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 3,
+  "run": 4,
+  "off": 334,
+  "len": 23,
+  "text": "There's no need to move",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 3,
+  "run": 5,
+  "off": 359,
+  "len": 10,
+  "text": "the lever.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 0,
+  "off": 61,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 1,
+  "off": 83,
+  "len": 6,
+  "text": "But...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 2,
+  "off": 93,
+  "len": 31,
+  "text": "It sounds like there is someone",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 3,
+  "off": 126,
+  "len": 30,
+  "text": "on the other side of the door.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 4,
+  "off": 160,
+  "len": 21,
+  "text": "Do you wish to knock?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 5,
+  "off": 198,
+  "len": 17,
+  "text": "{NAME} did not knock.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 6,
+  "off": 306,
+  "len": 23,
+  "text": "{NAME} knocked on the door!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 7,
+  "off": 332,
+  "len": 23,
+  "text": "Old man: There's no one",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 8,
+  "off": 357,
+  "len": 13,
+  "text": "here! No one!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 9,
+  "off": 421,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 10,
+  "off": 443,
+  "len": 21,
+  "text": "Do you wish to knock?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 11,
+  "off": 481,
+  "len": 17,
+  "text": "{NAME} did not knock.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 12,
+  "off": 589,
+  "len": 23,
+  "text": "{NAME} knocked on the door!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 13,
+  "off": 615,
+  "len": 23,
+  "text": "Old man: I said there's",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 14,
+  "off": 640,
+  "len": 12,
+  "text": "no one here!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 15,
+  "off": 655,
+  "len": 29,
+  "text": "Old man: The Mist is outside.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 16,
+  "off": 686,
+  "len": 29,
+  "text": "There can't be any humans out",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 17,
+  "off": 717,
+  "len": 33,
+  "text": "there. We're just hearing things!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 18,
+  "off": 753,
+  "len": 32,
+  "text": "Old man: No one can go out until",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 19,
+  "off": 787,
+  "len": 28,
+  "text": "the Mist is gone, and no one",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 20,
+  "off": 817,
+  "len": 20,
+  "text": "must open this door!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 21,
+  "off": 888,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 22,
+  "off": 910,
+  "len": 21,
+  "text": "Do you wish to knock?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 23,
+  "off": 948,
+  "len": 17,
+  "text": "{NAME} did not knock.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 24,
+  "off": 1063,
+  "len": 23,
+  "text": "{NAME} knocked on the door!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 25,
+  "off": 1089,
+  "len": 27,
+  "text": "Old man: You're starting to",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 26,
+  "off": 1118,
+  "len": 26,
+  "text": "irritate me. I'm not going",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 27,
+  "off": 1146,
+  "len": 23,
+  "text": "to answer you any more.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 28,
+  "off": 1413,
+  "len": 23,
+  "text": "{NAME:01}: Oh, I want to go in",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 29,
+  "off": 1438,
+  "len": 23,
+  "text": "there! I want to go in!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 30,
+  "off": 1582,
+  "len": 12,
+  "text": "{NAME:01}: Open up!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 31,
+  "off": 1596,
+  "len": 29,
+  "text": "Open the door! Open the door!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 32,
+  "off": 1670,
+  "len": 18,
+  "text": "Old man: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 33,
+  "off": 1906,
+  "len": 20,
+  "text": "{NAME:01}: {NAME}, it's no use.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 34,
+  "off": 2096,
+  "len": 20,
+  "text": "The door won't open.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 35,
+  "off": 2118,
+  "len": 21,
+  "text": "Do you wish to knock?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 36,
+  "off": 2156,
+  "len": 17,
+  "text": "{NAME} did not knock.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 37,
+  "off": 2264,
+  "len": 23,
+  "text": "{NAME} knocked on the door!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 4,
+  "run": 38,
+  "off": 2291,
+  "len": 18,
+  "text": "There is no reply.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 0,
+  "off": 67,
+  "len": 29,
+  "text": "Old Wizard: Welcome! I am the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 1,
+  "off": 98,
+  "len": 33,
+  "text": "innkeeper. You can sleep here for",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 2,
+  "off": 133,
+  "len": 29,
+  "text": "150G per night. Want to stay?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 3,
+  "off": 295,
+  "len": 18,
+  "text": "Old Wizard: Great!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 4,
+  "off": 315,
+  "len": 10,
+  "text": "Thank you!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 5,
+  "off": 327,
+  "len": 23,
+  "text": "Please enjoy your stay.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 6,
+  "off": 489,
+  "len": 29,
+  "text": "Old Wizard: Oh, you're awake.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 7,
+  "off": 520,
+  "len": 13,
+  "text": "Good morning.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 8,
+  "off": 535,
+  "len": 18,
+  "text": "Please come again!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 9,
+  "off": 558,
+  "len": 26,
+  "text": "Old Wizard: You don't have",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 10,
+  "off": 586,
+  "len": 26,
+  "text": "enough money to stay here.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 11,
+  "off": 614,
+  "len": 8,
+  "text": "Goodbye.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 12,
+  "off": 627,
+  "len": 32,
+  "text": "Old Wizard: Oh, you should stay.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 13,
+  "off": 661,
+  "len": 23,
+  "text": "I hoped you would stay.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 5,
+  "run": 14,
+  "off": 686,
+  "len": 17,
+  "text": "Oh well. Goodbye.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 0,
+  "off": 67,
+  "len": 31,
+  "text": "Old Wizard: Welcome to my shop.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 1,
+  "off": 100,
+  "len": 35,
+  "text": "I sell powerful weapons very cheap.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 2,
+  "off": 137,
+  "len": 9,
+  "text": "Want one?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 3,
+  "off": 282,
+  "len": 35,
+  "text": "Old Wizard: Too bad. You should buy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 4,
+  "off": 319,
+  "len": 29,
+  "text": "something. I hoped you would.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 5,
+  "off": 350,
+  "len": 17,
+  "text": "Oh well. Goodbye.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 6,
+  "off": 401,
+  "len": 29,
+  "text": "Old Wizard: Still want to buy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 7,
+  "off": 432,
+  "len": 30,
+  "text": "or sell something? Do you want",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 8,
+  "off": 464,
+  "len": 15,
+  "text": "something else?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 6,
+  "run": 9,
+  "off": 615,
+  "len": 29,
+  "text": "Old Wizard: Oh well. Goodbye.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 0,
+  "off": 67,
+  "len": 31,
+  "text": "Old Wizard: Welcome to my shop.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 1,
+  "off": 100,
+  "len": 35,
+  "text": "I sell powerful weapons very cheap.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 2,
+  "off": 137,
+  "len": 9,
+  "text": "Want one?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 3,
+  "off": 282,
+  "len": 35,
+  "text": "Old Wizard: Too bad. You should buy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 4,
+  "off": 319,
+  "len": 29,
+  "text": "something. I hoped you would.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 5,
+  "off": 350,
+  "len": 17,
+  "text": "Oh well. Goodbye.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 6,
+  "off": 401,
+  "len": 26,
+  "text": "Old Man: Still want to buy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 7,
+  "off": 429,
+  "len": 30,
+  "text": "or sell something? Do you want",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 8,
+  "off": 461,
+  "len": 15,
+  "text": "something else?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 7,
+  "run": 9,
+  "off": 612,
+  "len": 30,
+  "text": "Old Wizard: Oh well. Good bye.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 0,
+  "off": 39,
+  "len": 26,
+  "text": "Old Witch: My inn is open!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 1,
+  "off": 67,
+  "len": 35,
+  "text": "The beds are dry and warm! It costs",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 2,
+  "off": 104,
+  "len": 29,
+  "text": "150G per night. Want to stay?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 3,
+  "off": 258,
+  "len": 23,
+  "text": "Old Witch: Oh, too bad.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 4,
+  "off": 283,
+  "len": 24,
+  "text": "Well, come back anytime.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 5,
+  "off": 376,
+  "len": 29,
+  "text": "Old Witch: Yeah? Too bad. You",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 6,
+  "off": 407,
+  "len": 25,
+  "text": "don't have enough money. ",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 8,
+  "run": 7,
+  "off": 434,
+  "len": 20,
+  "text": "You can't stay here.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 0,
+  "off": 39,
+  "len": 35,
+  "text": "Old Witch: I have weapons for sale,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 1,
+  "off": 76,
+  "len": 35,
+  "text": "too! All my weapons are as sharp as",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 2,
+  "off": 113,
+  "len": 24,
+  "text": "razors. Want to buy one?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 3,
+  "off": 302,
+  "len": 30,
+  "text": "Old Witch: All finished, or do",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 4,
+  "off": 334,
+  "len": 24,
+  "text": "you want something else?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 5,
+  "off": 494,
+  "len": 31,
+  "text": "Old Witch: Well! You don't want",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 6,
+  "off": 527,
+  "len": 25,
+  "text": "any weapons, eh? Too bad.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 7,
+  "off": 557,
+  "len": 33,
+  "text": "Old Witch: Thank you! Come again,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 9,
+  "run": 8,
+  "off": 592,
+  "len": 33,
+  "text": "even if it's just to look around.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 0,
+  "off": 39,
+  "len": 35,
+  "text": "Old Witch: I sell accessories, too!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 1,
+  "off": 76,
+  "len": 29,
+  "text": "Just the kind you'll need for",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 2,
+  "off": 107,
+  "len": 28,
+  "text": "traveling. Want to buy some?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 3,
+  "off": 301,
+  "len": 30,
+  "text": "Old Witch: All finished, or do",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 4,
+  "off": 333,
+  "len": 24,
+  "text": "you want something else?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 5,
+  "off": 493,
+  "len": 20,
+  "text": "Well! You don't want",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 6,
+  "off": 515,
+  "len": 29,
+  "text": "any accessories, eh? Too bad.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 7,
+  "off": 549,
+  "len": 33,
+  "text": "Old Witch: Thank you! Come again,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 10,
+  "run": 8,
+  "off": 584,
+  "len": 33,
+  "text": "even if it's just to look around.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 11,
+  "run": 0,
+  "off": 40,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.q<1D><08>",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 0,
+  "off": 69,
+  "len": 23,
+  "text": "How do you do? I am the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 1,
+  "off": 94,
+  "len": 11,
+  "text": "Old Wizard.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 2,
+  "off": 114,
+  "len": 33,
+  "text": "Old Wizard: Now that the Mist has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 3,
+  "off": 149,
+  "len": 33,
+  "text": "amazingly disappeared, I was just",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 4,
+  "off": 184,
+  "len": 23,
+  "text": "waiting for a customer.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 5,
+  "off": 210,
+  "len": 31,
+  "text": "Old Wizard: Welcome to my shop.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 6,
+  "off": 243,
+  "len": 31,
+  "text": "I have everything and anything.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 7,
+  "off": 276,
+  "len": 22,
+  "text": "Come on into the back.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 8,
+  "off": 314,
+  "len": 31,
+  "text": "Old Wizard: Welcome back. I was",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 9,
+  "off": 347,
+  "len": 28,
+  "text": "waiting for you. Come to the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 10,
+  "off": 377,
+  "len": 15,
+  "text": "back and relax.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 11,
+  "off": 405,
+  "len": 28,
+  "text": "Old Wizard: Sorry. Customers",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 12,
+  "off": 435,
+  "len": 30,
+  "text": "can't come behind the counter.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 13,
+  "off": 467,
+  "len": 27,
+  "text": "Do you want something else?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 14,
+  "off": 620,
+  "len": 35,
+  "text": "Old Wizard: Understood. You wish to",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 15,
+  "off": 657,
+  "len": 27,
+  "text": "open the door to the cave. ",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 16,
+  "off": 686,
+  "len": 29,
+  "text": "Well, that's easy, very easy.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 17,
+  "off": 718,
+  "len": 34,
+  "text": "Old Wizard: Just move the lever in",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 18,
+  "off": 754,
+  "len": 33,
+  "text": "the back. Move the lever, and the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 19,
+  "off": 789,
+  "len": 15,
+  "text": "door will open.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 20,
+  "off": 809,
+  "len": 35,
+  "text": "Old Wizard: You don't want anything",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 21,
+  "off": 846,
+  "len": 30,
+  "text": "else? Then buy something at my",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 22,
+  "off": 878,
+  "len": 28,
+  "text": "shop. Please, buy something.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 23,
+  "off": 911,
+  "len": 28,
+  "text": "Old Wizard: Sorry. I work at",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 24,
+  "off": 941,
+  "len": 22,
+  "text": "this shop. I must stay",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 12,
+  "run": 25,
+  "off": 965,
+  "len": 19,
+  "text": "behind the counter.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 0,
+  "off": 59,
+  "len": 25,
+  "text": "Old Witch: You came back!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 1,
+  "off": 86,
+  "len": 13,
+  "text": "I'm so happy!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 2,
+  "off": 101,
+  "len": 24,
+  "text": "I feel like celebrating!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 3,
+  "off": 128,
+  "len": 32,
+  "text": "Old Witch: Well, come on inside!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 4,
+  "off": 162,
+  "len": 14,
+  "text": "Buy something!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 5,
+  "off": 246,
+  "len": 31,
+  "text": "Old Witch: Ah, so Drake Kingdom",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 6,
+  "off": 279,
+  "len": 24,
+  "text": "is now free of the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 7,
+  "off": 306,
+  "len": 26,
+  "text": "Old Witch: That means I'll",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 8,
+  "off": 334,
+  "len": 21,
+  "text": "have customers again!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 9,
+  "off": 357,
+  "len": 20,
+  "text": "That makes me happy!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 10,
+  "off": 380,
+  "len": 29,
+  "text": "Old Witch: If you want to buy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 11,
+  "off": 411,
+  "len": 27,
+  "text": "something, talk to me from ",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 12,
+  "off": 440,
+  "len": 12,
+  "text": "the counter.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 13,
+  "off": 457,
+  "len": 30,
+  "text": "Old Witch: So the Mist is gone",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 14,
+  "off": 489,
+  "len": 32,
+  "text": "from the Sebucus Islands. That's",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 13,
+  "run": 15,
+  "off": 523,
+  "len": 8,
+  "text": "amazing!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 0,
+  "off": 27,
+  "len": 29,
+  "text": "When you get out of the cave,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 1,
+  "off": 58,
+  "len": 33,
+  "text": "go northwest. Then you'll come to",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 2,
+  "off": 93,
+  "len": 19,
+  "text": "the town of Jeremi.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 3,
+  "off": 115,
+  "len": 34,
+  "text": "I've heard it was a beautiful town",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 4,
+  "off": 151,
+  "len": 34,
+  "text": "famous for an amazing tree and the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 5,
+  "off": 187,
+  "len": 32,
+  "text": "Sky Gardens, but now, who knows.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 6,
+  "off": 228,
+  "len": 21,
+  "text": "Wow! The Mist is gone",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 7,
+  "off": 251,
+  "len": 12,
+  "text": "from Jeremi!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 8,
+  "off": 266,
+  "len": 13,
+  "text": "That's great!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 9,
+  "off": 281,
+  "len": 17,
+  "text": "I want to go see!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 10,
+  "off": 303,
+  "len": 17,
+  "text": "You're great, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 11,
+  "off": 322,
+  "len": 25,
+  "text": "The Mist is gone now from",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 15,
+  "run": 12,
+  "off": 349,
+  "len": 27,
+  "text": "the Sebucus Islands, right?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 0,
+  "off": 35,
+  "len": 14,
+  "text": "The old woman,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 1,
+  "off": 51,
+  "len": 20,
+  "text": "she's a nice person,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 2,
+  "off": 73,
+  "len": 16,
+  "text": "don't you think?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 3,
+  "off": 215,
+  "len": 24,
+  "text": "We were orphans, but she",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 4,
+  "off": 241,
+  "len": 18,
+  "text": "was kind enough to",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 5,
+  "off": 261,
+  "len": 9,
+  "text": "raise us.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 6,
+  "off": 273,
+  "len": 32,
+  "text": "The Sebucus Islands to the north",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 7,
+  "off": 307,
+  "len": 32,
+  "text": "are covered by the Mist. Be sure",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 8,
+  "off": 341,
+  "len": 29,
+  "text": "you have everything you need.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 9,
+  "off": 375,
+  "len": 30,
+  "text": "You guys shouldn't be so mean.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 10,
+  "off": 408,
+  "len": 26,
+  "text": "With such an unkind heart,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 11,
+  "off": 436,
+  "len": 24,
+  "text": "you'll get killed by the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 12,
+  "off": 462,
+  "len": 14,
+  "text": "Seru monsters.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 13,
+  "off": 481,
+  "len": 27,
+  "text": "They say a lot of customers",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 16,
+  "run": 14,
+  "off": 510,
+  "len": 18,
+  "text": "used to come here.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 17,
+  "run": 0,
+  "off": 45,
+  "len": 34,
+  "text": "They say Hari is the reincarnation",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 17,
+  "run": 1,
+  "off": 81,
+  "len": 24,
+  "text": "of Rem, the god of Time.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 17,
+  "run": 2,
+  "off": 110,
+  "len": 26,
+  "text": "W-What? Hari's dead? Oh...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 17,
+  "run": 3,
+  "off": 142,
+  "len": 23,
+  "text": "I wanted him to tell me",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 17,
+  "run": 4,
+  "off": 167,
+  "len": 22,
+  "text": "what my dreams mean...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 0,
+  "off": 46,
+  "len": 22,
+  "text": "Shutdown Drake Kingdom",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 1,
+  "off": 70,
+  "len": 14,
+  "text": "Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 2,
+  "off": 95,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 3,
+  "off": 124,
+  "len": 22,
+  "text": "Open Old Wizard's door",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 4,
+  "off": 157,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 5,
+  "off": 186,
+  "len": 23,
+  "text": "Knock Old Wizard's door",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 6,
+  "off": 218,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 7,
+  "off": 255,
+  "len": 25,
+  "text": "Old Wizard's Introduction",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 8,
+  "off": 291,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 9,
+  "off": 320,
+  "len": 24,
+  "text": "Old Witch's Introduction",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 10,
+  "off": 355,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 11,
+  "off": 384,
+  "len": 32,
+  "text": "Water Cave Girl's Conversation 1",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 12,
+  "off": 427,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 13,
+  "off": 456,
+  "len": 32,
+  "text": "Water Cave Girl's Conversation 2",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 14,
+  "off": 499,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 15,
+  "off": 528,
+  "len": 20,
+  "text": "Hari's Disappearance",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 16,
+  "off": 559,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 17,
+  "off": 588,
+  "len": 24,
+  "text": "4th Genesis Tree Revival",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 18,
+  "off": 623,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 19,
+  "off": 652,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 20,
+  "off": 702,
+  "len": 25,
+  "text": "Want to change your name?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 21,
+  "off": 738,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 22,
+  "off": 744,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 23,
+  "off": 755,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 25,
+  "run": 24,
+  "off": 766,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 26,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7A}",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 26,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 26,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 26,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 26,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 27,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:88}",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 27,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 27,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 27,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:88}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 27,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 28,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 28,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:86}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 29,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 29,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:F3}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 30,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 30,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:87}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 0,
+  "off": 27,
+  "len": 21,
+  "text": "Old Witch: Customers!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 1,
+  "off": 50,
+  "len": 19,
+  "text": "Wait, don't go yet.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 2,
+  "off": 343,
+  "len": 36,
+  "text": "Old Witch: You're my first customers",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 3,
+  "off": 381,
+  "len": 34,
+  "text": "in a long time. I can't let you go",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 4,
+  "off": 417,
+  "len": 18,
+  "text": "away empty handed!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 5,
+  "off": 574,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 6,
+  "off": 586,
+  "len": 18,
+  "text": "two Doors of Wind!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 7,
+  "off": 856,
+  "len": 19,
+  "text": "{NAME:01}: Old Witch, what",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 8,
+  "off": 877,
+  "len": 8,
+  "text": "is this?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 9,
+  "off": 966,
+  "len": 26,
+  "text": "Old Witch: What? You don't",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 10,
+  "off": 994,
+  "len": 29,
+  "text": "know about the Doors of Wind?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 11,
+  "off": 1025,
+  "len": 28,
+  "text": "Let's see, where do I start?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 12,
+  "off": 1059,
+  "len": 28,
+  "text": "Old Witch: It's an item that",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 13,
+  "off": 1089,
+  "len": 29,
+  "text": "lets you fly - anytime - to a",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 14,
+  "off": 1120,
+  "len": 34,
+  "text": "town you've visited at least once.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 15,
+  "off": 1244,
+  "len": 30,
+  "text": "Old Witch: You can't use it in",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 16,
+  "off": 1276,
+  "len": 30,
+  "text": "caves or inside a town, but...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 17,
+  "off": 1309,
+  "len": 31,
+  "text": "Old Witch: Many islands make up",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 18,
+  "off": 1342,
+  "len": 28,
+  "text": "the Sebucus Islands. Use the",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 19,
+  "off": 1372,
+  "len": 30,
+  "text": "Wind Door to get around there.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 20,
+  "off": 1610,
+  "len": 17,
+  "text": "{NAME:02}: Thank you for",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 21,
+  "off": 1629,
+  "len": 14,
+  "text": "your kindness.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 22,
+  "off": 1679,
+  "len": 32,
+  "text": "Old Witch: Oh, don't mention it.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 38,
+  "run": 23,
+  "off": 1713,
+  "len": 23,
+  "text": "Well, good luck to you.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 0,
+  "off": 82,
+  "len": 19,
+  "text": "Do you dream a lot?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 1,
+  "off": 254,
+  "len": 21,
+  "text": "Oh. Well, never mind.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 2,
+  "off": 277,
+  "len": 31,
+  "text": "Some people just don't remember",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 3,
+  "off": 310,
+  "len": 22,
+  "text": "their dreams, I guess.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 4,
+  "off": 347,
+  "len": 29,
+  "text": "Oh, good! I dream a lot, too!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 5,
+  "off": 378,
+  "len": 21,
+  "text": "Dreams tell you about",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 6,
+  "off": 401,
+  "len": 22,
+  "text": "your future, you know.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 7,
+  "off": 426,
+  "len": 32,
+  "text": "Do you want to learn how to tell",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 8,
+  "off": 460,
+  "len": 28,
+  "text": "the future from your dreams?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 9,
+  "off": 614,
+  "len": 33,
+  "text": "Well, I guess people create their",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 10,
+  "off": 649,
+  "len": 25,
+  "text": "own future, not dreams...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 11,
+  "off": 701,
+  "len": 26,
+  "text": "I knew it! I knew you were",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 12,
+  "off": 729,
+  "len": 21,
+  "text": "interested in dreams!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 13,
+  "off": 765,
+  "len": 35,
+  "text": "Somewhere on the Sebucus Islands is",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 14,
+  "off": 802,
+  "len": 29,
+  "text": "a person who lives in a dream",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 15,
+  "off": 833,
+  "len": 24,
+  "text": "world. His name is Hari.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 16,
+  "off": 1151,
+  "len": 9,
+  "text": "{NAME:01}: Hari?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 17,
+  "off": 1162,
+  "len": 18,
+  "text": "I know about Hari!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 18,
+  "off": 1302,
+  "len": 28,
+  "text": "{NAME:01}: Can Hari really tell you",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 19,
+  "off": 1332,
+  "len": 19,
+  "text": "what a dream means?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 20,
+  "off": 1384,
+  "len": 27,
+  "text": "Yes. My grandma told me so.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 21,
+  "off": 1478,
+  "len": 18,
+  "text": "{NAME:01}: He's in Octam.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 22,
+  "off": 1498,
+  "len": 24,
+  "text": "Hari is in Octam, right?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 23,
+  "off": 1642,
+  "len": 25,
+  "text": "Octam? I'm sorry, I don't",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 24,
+  "off": 1669,
+  "len": 27,
+  "text": "know much about the outside",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 25,
+  "off": 1698,
+  "len": 6,
+  "text": "world.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 26,
+  "off": 1756,
+  "len": 13,
+  "text": "{NAME:01}: Oh. Sigh!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 27,
+  "off": 1923,
+  "len": 21,
+  "text": "I've made up my mind!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 28,
+  "off": 1946,
+  "len": 27,
+  "text": "I'm going to look for Hari!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 29,
+  "off": 1994,
+  "len": 21,
+  "text": "{NAME:01}: {NAME}, will you help",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 30,
+  "off": 2017,
+  "len": 13,
+  "text": "me find Hari?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 31,
+  "off": 2038,
+  "len": 33,
+  "text": "Of course I'll help you find him!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 32,
+  "off": 2073,
+  "len": 31,
+  "text": "First we must destroy the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 33,
+  "off": 2212,
+  "len": 22,
+  "text": "{NAME:01}: Good! I'm so happy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 34,
+  "off": 2236,
+  "len": 14,
+  "text": "Thank you, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 35,
+  "off": 2427,
+  "len": 14,
+  "text": "{NAME:01}: Oh, {NAME}... ",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 36,
+  "off": 2443,
+  "len": 21,
+  "text": "I guess you're right.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 37,
+  "off": 2466,
+  "len": 7,
+  "text": "(Sigh!)",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 38,
+  "off": 2494,
+  "len": 27,
+  "text": "{NAME:01}: But I want to see Hari!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 39,
+  "off": 2523,
+  "len": 19,
+  "text": "I want to see Hari!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 40,
+  "off": 2644,
+  "len": 35,
+  "text": "I'll do everything I can to destroy",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 41,
+  "off": 2681,
+  "len": 16,
+  "text": "the Mist, but...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 42,
+  "off": 2736,
+  "len": 27,
+  "text": "{NAME:01}: If... That's IF we find",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 43,
+  "off": 2765,
+  "len": 29,
+  "text": "Hari, let me at least talk to",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 44,
+  "off": 2796,
+  "len": 8,
+  "text": "him, OK?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 45,
+  "off": 2812,
+  "len": 12,
+  "text": "OK, you can.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 46,
+  "off": 2826,
+  "len": 28,
+  "text": "We don't have time for that!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 47,
+  "off": 3014,
+  "len": 18,
+  "text": "{NAME:01}: Thank you, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 48,
+  "off": 3034,
+  "len": 26,
+  "text": "You're such a nice person!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 49,
+  "off": 3062,
+  "len": 21,
+  "text": "You're so nice to me!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 50,
+  "off": 3191,
+  "len": 16,
+  "text": "{NAME:01}: Alright, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 51,
+  "off": 3209,
+  "len": 19,
+  "text": "let's go to Sebucus",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 52,
+  "off": 3230,
+  "len": 14,
+  "text": "and find Hari!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 53,
+  "off": 3379,
+  "len": 10,
+  "text": "{NAME:01}: Hmmph.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 39,
+  "run": 54,
+  "off": 3391,
+  "len": 21,
+  "text": "You're so mean, {NAME}...",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 0,
+  "off": 36,
+  "len": 27,
+  "text": "Well! My first customers in",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 1,
+  "off": 65,
+  "len": 24,
+  "text": "ten years! I'm so happy!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 2,
+  "off": 92,
+  "len": 27,
+  "text": "Old Witch: I am called the ",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 3,
+  "off": 121,
+  "len": 29,
+  "text": "Old Water Witch. I've been in",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 4,
+  "off": 152,
+  "len": 30,
+  "text": "business here for forty years.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 5,
+  "off": 185,
+  "len": 34,
+  "text": "Old Witch: But it's been ten years",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 6,
+  "off": 221,
+  "len": 29,
+  "text": "since I've had any customers!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 7,
+  "off": 252,
+  "len": 17,
+  "text": "I'm so happy now!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 8,
+  "off": 272,
+  "len": 28,
+  "text": "Old Witch: Well, come on in!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 9,
+  "off": 302,
+  "len": 25,
+  "text": "I run a store and an inn.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 10,
+  "off": 330,
+  "len": 22,
+  "text": "Old Witch: You must be",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 11,
+  "off": 354,
+  "len": 30,
+  "text": "tired. Come along and I'll get",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 12,
+  "off": 386,
+  "len": 25,
+  "text": "you a room for the night.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 13,
+  "off": 414,
+  "len": 31,
+  "text": "Do you want to spend the night?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 14,
+  "off": 570,
+  "len": 33,
+  "text": "Old Witch: Well, enjoy your stay!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 15,
+  "off": 609,
+  "len": 16,
+  "text": "Old Witch: What?",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 16,
+  "off": 627,
+  "len": 26,
+  "text": "Oh, stop talking nonsense.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 40,
+  "run": 17,
+  "off": 655,
+  "len": 17,
+  "text": "You have to stay.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 41,
+  "run": 0,
+  "off": 458,
+  "len": 17,
+  "text": "that dream again.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 41,
+  "run": 1,
+  "off": 482,
+  "len": 28,
+  "text": "I guess we should find Hari.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 41,
+  "run": 2,
+  "off": 512,
+  "len": 27,
+  "text": "That sure is a weird dream.",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 41,
+  "run": 3,
+  "off": 634,
+  "len": 23,
+  "text": "{NAME:01}: Yeah, you're right,",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 41,
+  "run": 4,
+  "off": 809,
+  "len": 14,
+  "text": "{NAME:01}: Oh! Hmmph!",
+  "ko": ""
+ },
+ {
+  "map": 140,
+  "script": 41,
+  "run": 5,
+  "off": 825,
+  "len": 19,
+  "text": "I want to see Hari!",
+  "ko": ""
+ }
+]

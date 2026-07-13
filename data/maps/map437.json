@@ -1,0 +1,5672 @@
+[
+ {
+  "map": 437,
+  "script": 21,
+  "run": 0,
+  "off": 76,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.s<FC><05>",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 27,
+  "run": 0,
+  "off": 18,
+  "len": 25,
+  "text": "In faded letters the sign",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 27,
+  "run": 1,
+  "off": 45,
+  "len": 6,
+  "text": "reads:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 27,
+  "run": 2,
+  "off": 54,
+  "len": 35,
+  "text": "Warning! Uru Mais is Sol territory!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 27,
+  "run": 3,
+  "off": 91,
+  "len": 33,
+  "text": "Do no enter without permission of",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 27,
+  "run": 4,
+  "off": 126,
+  "len": 12,
+  "text": "the Emperor!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 0,
+  "off": 68,
+  "len": 23,
+  "text": "(Unintelligible speech)",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 1,
+  "off": 96,
+  "len": 10,
+  "text": "Tieg is...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 2,
+  "off": 111,
+  "len": 29,
+  "text": "Did Tieg tell you everything?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 3,
+  "off": 279,
+  "len": 34,
+  "text": "Do the three of you now understand",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 4,
+  "off": 315,
+  "len": 27,
+  "text": "the Seru, Ra-Seru and Tieg?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 5,
+  "off": 468,
+  "len": 29,
+  "text": "Tieg knows all. Now Tieg will",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 6,
+  "off": 499,
+  "len": 16,
+  "text": "entrust you with",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 7,
+  "off": 517,
+  "len": 17,
+  "text": "the Fire Droplet!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 8,
+  "off": 669,
+  "len": 13,
+  "text": "Tieg is Time.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 9,
+  "off": 684,
+  "len": 28,
+  "text": "Tieg is unconditional Words.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 10,
+  "off": 715,
+  "len": 21,
+  "text": "It is Tieg's will for",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 11,
+  "off": 738,
+  "len": 20,
+  "text": "the Words to be full",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 28,
+  "run": 12,
+  "off": 760,
+  "len": 13,
+  "text": "of humanness.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 0,
+  "off": 228,
+  "len": 25,
+  "text": "... ... ... learn...of...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 1,
+  "off": 255,
+  "len": 33,
+  "text": "...Ser... ...seal... ...in the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 2,
+  "off": 290,
+  "len": 19,
+  "text": "...for all etern...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 3,
+  "off": 312,
+  "len": 27,
+  "text": "...for... huma... ...had...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 4,
+  "off": 341,
+  "len": 24,
+  "text": "... ... with ... ..ru...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 5,
+  "off": 367,
+  "len": 11,
+  "text": "to... .... ",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 6,
+  "off": 383,
+  "len": 28,
+  "text": "Ti.. ... learned.. of the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 7,
+  "off": 413,
+  "len": 34,
+  "text": "...the Ser... sealed him in the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 8,
+  "off": 449,
+  "len": 19,
+  "text": "...for all etern...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 9,
+  "off": 471,
+  "len": 25,
+  "text": "But ... Seru ...living...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 10,
+  "off": 498,
+  "len": 24,
+  "text": "... left... serve hum...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 11,
+  "off": 524,
+  "len": 25,
+  "text": "who...built...with... ...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 12,
+  "off": 554,
+  "len": 27,
+  "text": "Tieg learned of the plot of",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 13,
+  "off": 583,
+  "len": 32,
+  "text": "the Ra-Seru Rogue and sealed him",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 14,
+  "off": 617,
+  "len": 32,
+  "text": "in the eternal dungeon of Rogue.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 15,
+  "off": 652,
+  "len": 33,
+  "text": "But a few Seru in the human world",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 16,
+  "off": 687,
+  "len": 30,
+  "text": "were left to serve humans, who",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 29,
+  "run": 17,
+  "off": 719,
+  "len": 33,
+  "text": "had built civilization with Seru.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 0,
+  "off": 228,
+  "len": 23,
+  "text": "Tieg... the ... into...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 1,
+  "off": 253,
+  "len": 23,
+  "text": "...world... Ge... Tr...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 2,
+  "off": 278,
+  "len": 20,
+  "text": "An... he... ...em...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 3,
+  "off": 301,
+  "len": 30,
+  "text": "...help... ...com... ...humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 4,
+  "off": 333,
+  "len": 31,
+  "text": "sa... ...wor... ...if... Ro... ",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 5,
+  "off": 366,
+  "len": 21,
+  "text": "...evil... ...pear...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 6,
+  "off": 392,
+  "len": 25,
+  "text": "Tieg... the Ra... into...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 7,
+  "off": 419,
+  "len": 23,
+  "text": "...world's Ge... Trees.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 8,
+  "off": 444,
+  "len": 20,
+  "text": "And he... ...them...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 9,
+  "off": 467,
+  "len": 28,
+  "text": "To help... compass... humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 10,
+  "off": 497,
+  "len": 26,
+  "text": "save... world if... Ro... ",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 11,
+  "off": 525,
+  "len": 20,
+  "text": "...evil... appear...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 12,
+  "off": 550,
+  "len": 28,
+  "text": "Tieg sealed the Ra-Seru into",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 13,
+  "off": 580,
+  "len": 32,
+  "text": "the human world's Genesis Trees.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 14,
+  "off": 614,
+  "len": 20,
+  "text": "And he ordered them:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 15,
+  "off": 637,
+  "len": 29,
+  "text": "Help the compassionate humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 16,
+  "off": 668,
+  "len": 34,
+  "text": "save the world if a Rogue or other",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 30,
+  "run": 17,
+  "off": 704,
+  "len": 28,
+  "text": "evil presence should appear.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 0,
+  "off": 228,
+  "len": 32,
+  "text": "...thous... years... ...human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 1,
+  "off": 262,
+  "len": 24,
+  "text": "...cal... ...the ... ...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 2,
+  "off": 288,
+  "len": 17,
+  "text": "plot... ...Tie...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 3,
+  "off": 308,
+  "len": 26,
+  "text": "Ro... ga... humans ... ...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 4,
+  "off": 336,
+  "len": 26,
+  "text": "the ...ans cov... ......'s",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 5,
+  "off": 364,
+  "len": 34,
+  "text": "power... ... ...to ...human world.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 6,
+  "off": 403,
+  "len": 32,
+  "text": "...thousand years... ...human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 7,
+  "off": 437,
+  "len": 29,
+  "text": "...cal... ...the ...eru Ro...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 8,
+  "off": 468,
+  "len": 26,
+  "text": "plot... ...Tie... ...back.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 9,
+  "off": 497,
+  "len": 28,
+  "text": "Ro... gave... humans Seru...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 10,
+  "off": 527,
+  "len": 33,
+  "text": "the humans cov... Seru's power...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 11,
+  "off": 562,
+  "len": 30,
+  "text": "bringing... to ...human world.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 12,
+  "off": 597,
+  "len": 34,
+  "text": "A thousand years ago, by the human",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 13,
+  "off": 633,
+  "len": 27,
+  "text": "calendar, the Ra-Seru Rogue",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 14,
+  "off": 662,
+  "len": 27,
+  "text": "plotted behind Tieg's back.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 15,
+  "off": 692,
+  "len": 31,
+  "text": "Rogue gave the humans Seru, but",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 16,
+  "off": 725,
+  "len": 32,
+  "text": "humans coveted the Seru's power,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 31,
+  "run": 17,
+  "off": 759,
+  "len": 34,
+  "text": "bringing chaos to the human world.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 0,
+  "off": 228,
+  "len": 23,
+  "text": "To pr... ...two... T...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 1,
+  "off": 253,
+  "len": 34,
+  "text": "placed ... Gene...ees ... ...human",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 2,
+  "off": 289,
+  "len": 33,
+  "text": "w...ld and... Tree in the ...kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 3,
+  "off": 327,
+  "len": 30,
+  "text": "To pr...ct ...two worlds, T...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 4,
+  "off": 359,
+  "len": 33,
+  "text": "placed ... Gene...ees in ...human",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 5,
+  "off": 394,
+  "len": 32,
+  "text": "world, Moth... Tree in Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 6,
+  "off": 431,
+  "len": 34,
+  "text": "To protect two worlds, Tieg placed",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 7,
+  "off": 467,
+  "len": 36,
+  "text": "ten Genesis Trees in human world and",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 32,
+  "run": 8,
+  "off": 505,
+  "len": 34,
+  "text": "a Mother Genesis Tree in Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 0,
+  "off": 228,
+  "len": 29,
+  "text": "In... begin... ...was Tieg...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 1,
+  "off": 259,
+  "len": 30,
+  "text": "...ieg was... every... Then...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 2,
+  "off": 291,
+  "len": 21,
+  "text": "...Him... into two...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 3,
+  "off": 315,
+  "len": 26,
+  "text": "Those... hum... ...Seru...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 4,
+  "off": 343,
+  "len": 35,
+  "text": "also divid... ...world... ...two...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 5,
+  "off": 380,
+  "len": 26,
+  "text": "...human... ...Seru... ...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 6,
+  "off": 411,
+  "len": 29,
+  "text": "In... beginning... w... Tieg,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 7,
+  "off": 442,
+  "len": 33,
+  "text": "and Ti... was everythi... Then...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 8,
+  "off": 477,
+  "len": 24,
+  "text": "divid... Himself... two.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 9,
+  "off": 504,
+  "len": 30,
+  "text": "Those w... human... Seru. Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 10,
+  "off": 536,
+  "len": 29,
+  "text": "also divided... world... two:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 11,
+  "off": 567,
+  "len": 28,
+  "text": "... human world... Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 12,
+  "off": 600,
+  "len": 32,
+  "text": "In the beginning there was Tieg,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 13,
+  "off": 634,
+  "len": 34,
+  "text": "and Tieg was everything. Then Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 14,
+  "off": 670,
+  "len": 25,
+  "text": "divided Himself into two.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 15,
+  "off": 698,
+  "len": 31,
+  "text": "Those were human and Seru. Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 16,
+  "off": 731,
+  "len": 32,
+  "text": "also divided the world into two:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 33,
+  "run": 17,
+  "off": 765,
+  "len": 29,
+  "text": "the human world and Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 0,
+  "off": 228,
+  "len": 26,
+  "text": "The ... is... ...of the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 1,
+  "off": 256,
+  "len": 31,
+  "text": "ev... gue... the M... covers...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 2,
+  "off": 289,
+  "len": 31,
+  "text": "...human... ...was... by hum...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 3,
+  "off": 325,
+  "len": 27,
+  "text": "The Mist... is... ...of the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 4,
+  "off": 354,
+  "len": 29,
+  "text": "evil... gue... Mist covers...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 5,
+  "off": 385,
+  "len": 30,
+  "text": "human world was... by human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 6,
+  "off": 420,
+  "len": 34,
+  "text": "The Mist is the breath of the evil",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 7,
+  "off": 456,
+  "len": 28,
+  "text": "Rogue. But the Mist covering",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 34,
+  "run": 8,
+  "off": 486,
+  "len": 29,
+  "text": "Legaia was created by humans.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 0,
+  "off": 228,
+  "len": 28,
+  "text": "To go... ...S...... ...chose",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 1,
+  "off": 258,
+  "len": 31,
+  "text": "a... ...gro... ... of... and...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 2,
+  "off": 291,
+  "len": 21,
+  "text": "g... th... ... Ra....",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 3,
+  "off": 317,
+  "len": 33,
+  "text": "To gov... the Seru, Tieg chose...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 4,
+  "off": 352,
+  "len": 32,
+  "text": "...a small... gro... Seru and...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 5,
+  "off": 386,
+  "len": 27,
+  "text": "gave them... speci... Ra...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 6,
+  "off": 418,
+  "len": 30,
+  "text": "To govern Seru-kai, Tieg chose",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 7,
+  "off": 450,
+  "len": 30,
+  "text": "a small group of Seru and gave",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 35,
+  "run": 8,
+  "off": 482,
+  "len": 27,
+  "text": "them special Ra-Seru power.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 0,
+  "off": 40,
+  "len": 34,
+  "text": "The door is locked and won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 1,
+  "off": 79,
+  "len": 19,
+  "text": "The door is locked!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 2,
+  "off": 101,
+  "len": 7,
+  "text": "{NAME} used",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 3,
+  "off": 110,
+  "len": 7,
+  "text": "the {ITEM:BD}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 4,
+  "off": 122,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 5,
+  "off": 144,
+  "len": 11,
+  "text": "But wait...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 6,
+  "off": 158,
+  "len": 18,
+  "text": "Serene words enter",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 7,
+  "off": 178,
+  "len": 12,
+  "text": "your hearts!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 8,
+  "off": 193,
+  "len": 24,
+  "text": "{NAME}, my child! Your dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 9,
+  "off": 219,
+  "len": 33,
+  "text": "is fulfilled. Pursue a new dream!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 10,
+  "off": 257,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 36,
+  "run": 11,
+  "off": 279,
+  "len": 26,
+  "text": "There is complete silence!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 0,
+  "off": 40,
+  "len": 34,
+  "text": "The door is locked and won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 1,
+  "off": 79,
+  "len": 19,
+  "text": "The door is locked!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 2,
+  "off": 106,
+  "len": 12,
+  "text": "used the {ITEM:BD}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 3,
+  "off": 123,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 4,
+  "off": 145,
+  "len": 11,
+  "text": "But wait...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 5,
+  "off": 159,
+  "len": 18,
+  "text": "Serene words enter",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 6,
+  "off": 179,
+  "len": 12,
+  "text": "your hearts!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 7,
+  "off": 194,
+  "len": 24,
+  "text": "{NAME:02}, my child! Your dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 8,
+  "off": 220,
+  "len": 33,
+  "text": "is fulfilled. Pursue a new dream!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 9,
+  "off": 258,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 37,
+  "run": 10,
+  "off": 280,
+  "len": 26,
+  "text": "There is complete silence!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 0,
+  "off": 40,
+  "len": 34,
+  "text": "The door is locked and won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 1,
+  "off": 79,
+  "len": 19,
+  "text": "The door is locked!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 2,
+  "off": 106,
+  "len": 12,
+  "text": "used the {ITEM:BD}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 3,
+  "off": 123,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 4,
+  "off": 145,
+  "len": 11,
+  "text": "But wait...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 5,
+  "off": 159,
+  "len": 18,
+  "text": "Serene words enter",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 6,
+  "off": 179,
+  "len": 12,
+  "text": "your hearts!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 7,
+  "off": 194,
+  "len": 24,
+  "text": "{NAME:01}, my child! Your dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 8,
+  "off": 220,
+  "len": 33,
+  "text": "is fulfilled. Pursue a new dream!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 9,
+  "off": 258,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 38,
+  "run": 10,
+  "off": 280,
+  "len": 26,
+  "text": "There is complete silence!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 0,
+  "off": 24,
+  "len": 28,
+  "text": "There is a book on the desk.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 1,
+  "off": 54,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 2,
+  "off": 208,
+  "len": 18,
+  "text": "put the book back.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 3,
+  "off": 243,
+  "len": 16,
+  "text": "The cover reads:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 4,
+  "off": 261,
+  "len": 31,
+  "text": "\"Guidelines for Seru Trapping.\"",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 5,
+  "off": 305,
+  "len": 26,
+  "text": "Seru come out at midnight!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 6,
+  "off": 333,
+  "len": 31,
+  "text": "A trapper must therefore patrol",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 7,
+  "off": 366,
+  "len": 25,
+  "text": "Uru Mais only at sunrise.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 8,
+  "off": 404,
+  "len": 34,
+  "text": "Uru Mais is off-limits from sunset",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 9,
+  "off": 440,
+  "len": 35,
+  "text": "to sunrise because that is when the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 10,
+  "off": 477,
+  "len": 22,
+  "text": "Whispers are frequent.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 11,
+  "off": 512,
+  "len": 27,
+  "text": "A trapper must never wear a",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 12,
+  "off": 541,
+  "len": 14,
+  "text": "captured Seru.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 13,
+  "off": 568,
+  "len": 26,
+  "text": "All Seru should be sent to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 14,
+  "off": 596,
+  "len": 31,
+  "text": "Sol as soon as they are caught.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 15,
+  "off": 640,
+  "len": 32,
+  "text": "The Whispers are the voices of a",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 16,
+  "off": 674,
+  "len": 31,
+  "text": "demon! Trapper, never listen to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 17,
+  "off": 707,
+  "len": 30,
+  "text": "the Whispers, even in daytime!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 18,
+  "off": 750,
+  "len": 30,
+  "text": "A trapper must never touch the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 19,
+  "off": 782,
+  "len": 26,
+  "text": "three doors on the side of",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 20,
+  "off": 810,
+  "len": 9,
+  "text": "Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 21,
+  "off": 832,
+  "len": 19,
+  "text": "{NAME} finished reading",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 39,
+  "run": 22,
+  "off": 853,
+  "len": 25,
+  "text": "the book and put it back.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 0,
+  "off": 27,
+  "len": 4,
+  "text": "Flag",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 1,
+  "off": 34,
+  "len": 7,
+  "text": "Dream=1",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 2,
+  "off": 59,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 3,
+  "off": 77,
+  "len": 9,
+  "text": "Dream = 2",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 4,
+  "off": 104,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 5,
+  "off": 122,
+  "len": 9,
+  "text": "Dream = 3",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 6,
+  "off": 149,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 7,
+  "off": 167,
+  "len": 20,
+  "text": "The strange Uru Mais",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 8,
+  "off": 205,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 9,
+  "off": 222,
+  "len": 21,
+  "text": "The end of {NAME}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 10,
+  "off": 261,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 11,
+  "off": 278,
+  "len": 21,
+  "text": "The end of {NAME:01}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 12,
+  "off": 317,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 13,
+  "off": 334,
+  "len": 21,
+  "text": "The end of {NAME:02}'s dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 14,
+  "off": 373,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 15,
+  "off": 390,
+  "len": 32,
+  "text": "Keys to the ruins and Light Door",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 16,
+  "off": 440,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 17,
+  "off": 457,
+  "len": 24,
+  "text": "Get the key to the ruins",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 18,
+  "off": 499,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 19,
+  "off": 516,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 20,
+  "off": 555,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 21,
+  "off": 572,
+  "len": 12,
+  "text": "Fire Droplet",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 22,
+  "off": 602,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 23,
+  "off": 619,
+  "len": 19,
+  "text": "Destruction of Koru",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 24,
+  "off": 656,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 25,
+  "off": 673,
+  "len": 21,
+  "text": "The eloquent Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 26,
+  "off": 712,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 27,
+  "off": 729,
+  "len": 33,
+  "text": "Destruction of 3rd Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 28,
+  "off": 780,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 29,
+  "off": 797,
+  "len": 13,
+  "text": "Lamp turns on",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 30,
+  "off": 828,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 31,
+  "off": 853,
+  "len": 12,
+  "text": "Code failure",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 32,
+  "off": 883,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 33,
+  "off": 900,
+  "len": 14,
+  "text": "Usha peddler 2",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 34,
+  "off": 932,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 35,
+  "off": 949,
+  "len": 34,
+  "text": "Destruction of the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 36,
+  "off": 1001,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 37,
+  "off": 1018,
+  "len": 19,
+  "text": "The dreaded Conkram",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 40,
+  "run": 38,
+  "off": 1055,
+  "len": 4,
+  "text": "Exit",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 0,
+  "off": 260,
+  "len": 29,
+  "text": "In... begin... ...was Tieg...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 1,
+  "off": 291,
+  "len": 30,
+  "text": "...ieg was... every... Then...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 2,
+  "off": 323,
+  "len": 21,
+  "text": "...Him... into two...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 3,
+  "off": 347,
+  "len": 26,
+  "text": "Those... hum... ...Seru...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 4,
+  "off": 375,
+  "len": 35,
+  "text": "also divid... ...world... ...two...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 5,
+  "off": 412,
+  "len": 25,
+  "text": "...human... ...Seru......",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 6,
+  "off": 443,
+  "len": 34,
+  "text": "To pr... ...two... T... placed ...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 7,
+  "off": 479,
+  "len": 30,
+  "text": "Gene...ees ... ...human w...ld",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 8,
+  "off": 511,
+  "len": 29,
+  "text": "and... ...Tree in the ...kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 9,
+  "off": 546,
+  "len": 28,
+  "text": "To go... ...S...... ...chose",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 10,
+  "off": 576,
+  "len": 29,
+  "text": "a... ...gro... ...... from...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 11,
+  "off": 607,
+  "len": 31,
+  "text": "...and g... ...pow... as Ra....",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 12,
+  "off": 644,
+  "len": 32,
+  "text": "...thous... years... ...human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 13,
+  "off": 678,
+  "len": 23,
+  "text": "...cal... ...the ......",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 14,
+  "off": 703,
+  "len": 17,
+  "text": "plot... ...Tie...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 15,
+  "off": 723,
+  "len": 26,
+  "text": "Ro... ga... humans ...>...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 16,
+  "off": 751,
+  "len": 26,
+  "text": "the ...ans cov... ......'s",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 17,
+  "off": 779,
+  "len": 34,
+  "text": "power... ... ...to ...human world.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 18,
+  "off": 819,
+  "len": 33,
+  "text": "...Ser... ...seal... ...in the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 19,
+  "off": 854,
+  "len": 19,
+  "text": "...for all etern...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 20,
+  "off": 876,
+  "len": 29,
+  "text": "...put the... ...world and...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 21,
+  "off": 911,
+  "len": 26,
+  "text": "The ... is... ...of the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 22,
+  "off": 939,
+  "len": 29,
+  "text": "ev... ...gue... the M... that",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 23,
+  "off": 970,
+  "len": 35,
+  "text": "covers... human... was... by hum...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 24,
+  "off": 1011,
+  "len": 23,
+  "text": "Tieg... the ... into...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 25,
+  "off": 1036,
+  "len": 23,
+  "text": "...world... Ge... Tr...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 26,
+  "off": 1061,
+  "len": 20,
+  "text": "An... he... ...em...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 27,
+  "off": 1084,
+  "len": 30,
+  "text": "...help... ...com... ...humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 28,
+  "off": 1116,
+  "len": 31,
+  "text": "sa... ...wor... ...if... Ro... ",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 29,
+  "off": 1149,
+  "len": 21,
+  "text": "...evil... ...pear...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 30,
+  "off": 1400,
+  "len": 29,
+  "text": "In... beginning... w... Tieg,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 31,
+  "off": 1431,
+  "len": 33,
+  "text": "and Ti... was everythi... Then...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 32,
+  "off": 1466,
+  "len": 24,
+  "text": "divid... Himself... two.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 33,
+  "off": 1493,
+  "len": 30,
+  "text": "Those w... human... Seru. Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 34,
+  "off": 1525,
+  "len": 29,
+  "text": "also divided... world... two:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 35,
+  "off": 1556,
+  "len": 28,
+  "text": "... human world... Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 36,
+  "off": 1590,
+  "len": 30,
+  "text": "To pr...ct ...two worlds, T...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 37,
+  "off": 1622,
+  "len": 33,
+  "text": "placed ... Gene...ees in human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 38,
+  "off": 1657,
+  "len": 32,
+  "text": "...a Mother... Tree in Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 39,
+  "off": 1695,
+  "len": 33,
+  "text": "To gov... the Seru, Tieg chose...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 40,
+  "off": 1730,
+  "len": 33,
+  "text": "...a small... gro... Seru from...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 41,
+  "off": 1765,
+  "len": 33,
+  "text": "...and gave... powers as Ra-S....",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 42,
+  "off": 1804,
+  "len": 32,
+  "text": "...thousand years... ...human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 43,
+  "off": 1838,
+  "len": 29,
+  "text": "...cal... ...the ...eru Ro...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 44,
+  "off": 1869,
+  "len": 26,
+  "text": "plot... ...Tie... ...back.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 45,
+  "off": 1898,
+  "len": 28,
+  "text": "Ro... gave... humans Seru...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 46,
+  "off": 1928,
+  "len": 33,
+  "text": "the humans cov... Seru's power...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 47,
+  "off": 1963,
+  "len": 30,
+  "text": "bringing... to ...human world.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 48,
+  "off": 1999,
+  "len": 34,
+  "text": "...the Ser... sealed him in the...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 49,
+  "off": 2035,
+  "len": 19,
+  "text": "...for all etern...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 50,
+  "off": 2057,
+  "len": 24,
+  "text": "But in view of... who...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 51,
+  "off": 2083,
+  "len": 19,
+  "text": "...with the Seru...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 52,
+  "off": 2104,
+  "len": 21,
+  "text": "...have decided to...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 53,
+  "off": 2131,
+  "len": 27,
+  "text": "The Mist... is... ...of the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 54,
+  "off": 2160,
+  "len": 33,
+  "text": "evil... gu... Mist that covers...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 55,
+  "off": 2195,
+  "len": 30,
+  "text": "human world was... by human...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 56,
+  "off": 2231,
+  "len": 25,
+  "text": "Tieg... the Ra... into...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 57,
+  "off": 2258,
+  "len": 23,
+  "text": "...world's Ge... Trees.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 58,
+  "off": 2283,
+  "len": 20,
+  "text": "And he... ...them...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 59,
+  "off": 2306,
+  "len": 28,
+  "text": "To help... compass... humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 60,
+  "off": 2336,
+  "len": 26,
+  "text": "save... world if... Ro... ",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 61,
+  "off": 2364,
+  "len": 20,
+  "text": "...evil... appear...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 62,
+  "off": 2614,
+  "len": 32,
+  "text": "In the beginning there was Tieg,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 63,
+  "off": 2648,
+  "len": 34,
+  "text": "and Tieg was everything. Then Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 64,
+  "off": 2684,
+  "len": 25,
+  "text": "divided Himself into two.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 65,
+  "off": 2712,
+  "len": 31,
+  "text": "Those were human and Seru. Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 66,
+  "off": 2745,
+  "len": 32,
+  "text": "also divided the world into two:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 67,
+  "off": 2779,
+  "len": 29,
+  "text": "the human world and Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 68,
+  "off": 2814,
+  "len": 34,
+  "text": "To protect two worlds, Tieg placed",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 69,
+  "off": 2850,
+  "len": 36,
+  "text": "ten Genesis Trees in human world and",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 70,
+  "off": 2888,
+  "len": 34,
+  "text": "a Mother Genesis Tree in Seru-kai.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 71,
+  "off": 2928,
+  "len": 30,
+  "text": "To govern Seru-kai, Tieg chose",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 72,
+  "off": 2960,
+  "len": 30,
+  "text": "a small group of Seru and gave",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 73,
+  "off": 2992,
+  "len": 27,
+  "text": "them special Ra-Seru power.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 74,
+  "off": 3025,
+  "len": 34,
+  "text": "A thousand years ago, by the human",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 75,
+  "off": 3061,
+  "len": 27,
+  "text": "calendar, the Ra-Seru Rogue",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 76,
+  "off": 3090,
+  "len": 27,
+  "text": "plotted behind Tieg's back.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 77,
+  "off": 3120,
+  "len": 31,
+  "text": "Rogue gave the humans Seru, but",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 78,
+  "off": 3153,
+  "len": 32,
+  "text": "humans coveted the Seru's power,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 79,
+  "off": 3187,
+  "len": 34,
+  "text": "bringing chaos to the human world.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 80,
+  "off": 3227,
+  "len": 27,
+  "text": "Tieg learned of the plot of",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 81,
+  "off": 3256,
+  "len": 32,
+  "text": "the Ra-Seru Rogue and sealed him",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 82,
+  "off": 3290,
+  "len": 32,
+  "text": "in the eternal dungeon of Rogue.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 83,
+  "off": 3325,
+  "len": 33,
+  "text": "But a few Seru in the human world",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 84,
+  "off": 3360,
+  "len": 30,
+  "text": "were left to serve humans, who",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 85,
+  "off": 3392,
+  "len": 33,
+  "text": "had built civilization with Seru.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 86,
+  "off": 3431,
+  "len": 34,
+  "text": "The Mist is the breath of the evil",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 87,
+  "off": 3467,
+  "len": 28,
+  "text": "Rogue. But the Mist covering",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 88,
+  "off": 3497,
+  "len": 29,
+  "text": "Legaia was created by humans.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 89,
+  "off": 3532,
+  "len": 28,
+  "text": "Tieg sealed the Ra-Seru into",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 90,
+  "off": 3562,
+  "len": 32,
+  "text": "the human world's Genesis Trees.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 91,
+  "off": 3596,
+  "len": 20,
+  "text": "And he ordered them:",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 92,
+  "off": 3619,
+  "len": 29,
+  "text": "Help the compassionate humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 93,
+  "off": 3650,
+  "len": 34,
+  "text": "save the world if a Rogue or other",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 46,
+  "run": 94,
+  "off": 3686,
+  "len": 28,
+  "text": "evil presence should appear.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 47,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:79}",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 47,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 47,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 47,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:79}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 47,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 0,
+  "off": 282,
+  "len": 23,
+  "text": "This must be the place!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 1,
+  "off": 307,
+  "len": 22,
+  "text": "This must be Uru Mais!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 2,
+  "off": 478,
+  "len": 28,
+  "text": "{NAME:02}: Those strange structures",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 3,
+  "off": 508,
+  "len": 33,
+  "text": "in the distance must be Uru Mais,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 4,
+  "off": 543,
+  "len": 33,
+  "text": "the ancient ruins, Dr. Usha said.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 5,
+  "off": 586,
+  "len": 24,
+  "text": "{NAME:02}:  We came here before",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 6,
+  "off": 612,
+  "len": 21,
+  "text": "we went to Dr. Usha's",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 7,
+  "off": 635,
+  "len": 11,
+  "text": "laboratory.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 8,
+  "off": 649,
+  "len": 23,
+  "text": "{NAME:02}: But at that time we",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 9,
+  "off": 674,
+  "len": 27,
+  "text": "had never even heard of the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 10,
+  "off": 703,
+  "len": 13,
+  "text": "Fire Droplet.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 11,
+  "off": 770,
+  "len": 20,
+  "text": "{NAME:02}: But {NAME}, have you",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 12,
+  "off": 792,
+  "len": 26,
+  "text": "noticed something unusual?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 13,
+  "off": 828,
+  "len": 21,
+  "text": "There's no Mist here?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 14,
+  "off": 851,
+  "len": 27,
+  "text": "There are no Seru monsters?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 15,
+  "off": 880,
+  "len": 21,
+  "text": "{NAME:01} is full of energy?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 16,
+  "off": 943,
+  "len": 28,
+  "text": "{NAME:02}: That's right. There's no",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 17,
+  "off": 973,
+  "len": 32,
+  "text": "Genesis Tree to be seen, yet the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 18,
+  "off": 1007,
+  "len": 26,
+  "text": "Mist doesn't flow in here.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 19,
+  "off": 1078,
+  "len": 23,
+  "text": "{NAME:02}: No Mist and no Seru",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 20,
+  "off": 1103,
+  "len": 31,
+  "text": "monsters -- even though there's",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 21,
+  "off": 1136,
+  "len": 16,
+  "text": "no Genesis Tree!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 22,
+  "off": 1197,
+  "len": 29,
+  "text": "{NAME:02}: Yes, you're right! Ha ha!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 23,
+  "off": 1229,
+  "len": 17,
+  "text": "{NAME:02}: {NAME}, you don't",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 24,
+  "off": 1248,
+  "len": 25,
+  "text": "notice what's around you,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 25,
+  "off": 1275,
+  "len": 21,
+  "text": "but you do notice {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 26,
+  "off": 1299,
+  "len": 22,
+  "text": "{NAME:02}: You're the leader,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 27,
+  "off": 1323,
+  "len": 26,
+  "text": "{NAME}! So stay alert, please!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 28,
+  "off": 1351,
+  "len": 29,
+  "text": "Be aware of what's around us!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 29,
+  "off": 1383,
+  "len": 24,
+  "text": "{NAME:02}: There is no Mist and",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 30,
+  "off": 1409,
+  "len": 30,
+  "text": "no Seru! You didn't sense that",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 31,
+  "off": 1441,
+  "len": 11,
+  "text": "as strange?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 32,
+  "off": 1532,
+  "len": 29,
+  "text": "{NAME:02}: Those ruins must have the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 33,
+  "off": 1563,
+  "len": 27,
+  "text": "power to hold off the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 34,
+  "off": 1740,
+  "len": 20,
+  "text": "there's no one here.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 35,
+  "off": 1762,
+  "len": 20,
+  "text": "Where could Tieg be?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 36,
+  "off": 1839,
+  "len": 23,
+  "text": "{NAME:02}: {NAME}, do you remember",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 37,
+  "off": 1864,
+  "len": 19,
+  "text": "what Dr. Usha said?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 38,
+  "off": 1891,
+  "len": 15,
+  "text": "Of course I do!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 39,
+  "off": 1908,
+  "len": 26,
+  "text": "Um, what did he say again?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 40,
+  "off": 1937,
+  "len": 18,
+  "text": "{NAME:02}: Very good, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 41,
+  "off": 1957,
+  "len": 35,
+  "text": "Well, let's go dream, like Dr. Usha",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 42,
+  "off": 1994,
+  "len": 14,
+  "text": "told us to do.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 43,
+  "off": 2011,
+  "len": 26,
+  "text": "{NAME:02}: Then we'll see if Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 44,
+  "off": 2039,
+  "len": 21,
+  "text": "will actually give us",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 45,
+  "off": 2062,
+  "len": 17,
+  "text": "the Fire Droplet!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 46,
+  "off": 2124,
+  "len": 25,
+  "text": "{NAME:02}: You're the leader, so",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 47,
+  "off": 2151,
+  "len": 29,
+  "text": "act like one! Oh, what are we",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 48,
+  "off": 2182,
+  "len": 21,
+  "text": "going to do with you?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 49,
+  "off": 2206,
+  "len": 28,
+  "text": "{NAME:02}: Now listen. We came here",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 50,
+  "off": 2236,
+  "len": 26,
+  "text": "to get the Fire Droplet to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 51,
+  "off": 2264,
+  "len": 25,
+  "text": "make the TimeSpace Bombs.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 52,
+  "off": 2292,
+  "len": 26,
+  "text": "{NAME:02}: We should dream in Uru",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 53,
+  "off": 2320,
+  "len": 33,
+  "text": "Mais to get the Fire Droplet from",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 54,
+  "off": 2355,
+  "len": 32,
+  "text": "Tieg. That's what Dr. Usha said!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 55,
+  "off": 2390,
+  "len": 28,
+  "text": "{NAME:02}: At least try to remember",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 56,
+  "off": 2420,
+  "len": 17,
+  "text": "where you are and",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 57,
+  "off": 2439,
+  "len": 20,
+  "text": "what you have to do!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 58,
+  "off": 2462,
+  "len": 25,
+  "text": "{NAME:02}: Well, let's go dream,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 59,
+  "off": 2489,
+  "len": 28,
+  "text": "like Dr. Usha told us to do.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 60,
+  "off": 2559,
+  "len": 26,
+  "text": "{NAME:02}: Then we'll see if Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 61,
+  "off": 2587,
+  "len": 21,
+  "text": "will actually give us",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 62,
+  "off": 2610,
+  "len": 17,
+  "text": "the Fire Droplet!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 63,
+  "off": 2745,
+  "len": 30,
+  "text": "There's some weird house here!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 64,
+  "off": 2777,
+  "len": 16,
+  "text": "Let's go inside!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 65,
+  "off": 2938,
+  "len": 28,
+  "text": "Don't go inside by yourself!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 66,
+  "off": 3029,
+  "len": 24,
+  "text": "{NAME:02}: What are we going to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 76,
+  "run": 67,
+  "off": 3055,
+  "len": 17,
+  "text": "do with that kid?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 0,
+  "off": 445,
+  "len": 28,
+  "text": "Suddenly, serene Words enter",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 1,
+  "off": 475,
+  "len": 10,
+  "text": "{NAME}'s mind!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 2,
+  "off": 569,
+  "len": 12,
+  "text": "{NAME} and Meta.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 3,
+  "off": 583,
+  "len": 15,
+  "text": "Welcome, human.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 4,
+  "off": 600,
+  "len": 17,
+  "text": "Welcome, Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 5,
+  "off": 651,
+  "len": 30,
+  "text": "The Stone Stage awaits you. It",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 6,
+  "off": 683,
+  "len": 34,
+  "text": "awaits your dreams, it awaits your",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 7,
+  "off": 719,
+  "len": 6,
+  "text": "minds.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 8,
+  "off": 955,
+  "len": 16,
+  "text": "{NAME:01}: {NAME}, what are",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 9,
+  "off": 973,
+  "len": 23,
+  "text": "you doing? You can't go",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 10,
+  "off": 998,
+  "len": 12,
+  "text": "by yourself!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 11,
+  "off": 1353,
+  "len": 26,
+  "text": "What's going on? You can't",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 12,
+  "off": 1381,
+  "len": 15,
+  "text": "go by yourself!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 13,
+  "off": 1416,
+  "len": 13,
+  "text": "Not you, too!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 14,
+  "off": 1431,
+  "len": 21,
+  "text": "What's going on here?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 15,
+  "off": 1977,
+  "len": 15,
+  "text": "{NAME} is sleeping!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 16,
+  "off": 2061,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}! Can you hear me?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 17,
+  "off": 2091,
+  "len": 22,
+  "text": "You mustn't awaken {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 18,
+  "off": 2115,
+  "len": 15,
+  "text": "{NAME} is dreaming!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 19,
+  "off": 2133,
+  "len": 25,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Dreams mirror the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 20,
+  "off": 2160,
+  "len": 29,
+  "text": "heart. {NAME} is looking into his",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 77,
+  "run": 21,
+  "off": 2191,
+  "len": 32,
+  "text": "own heart, and Tieg is watching.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 0,
+  "off": 292,
+  "len": 17,
+  "text": "The words echo in",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 1,
+  "off": 311,
+  "len": 10,
+  "text": "{NAME}'s mind.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 2,
+  "off": 378,
+  "len": 24,
+  "text": "{NAME}, my child! Your dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 3,
+  "off": 404,
+  "len": 13,
+  "text": "is fulfilled.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 4,
+  "off": 1484,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 5,
+  "off": 1502,
+  "len": 28,
+  "text": "Were you having a bad dream?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 6,
+  "off": 1612,
+  "len": 20,
+  "text": "{NAME:02}: {NAME}, if you don't",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 7,
+  "off": 1634,
+  "len": 29,
+  "text": "want to tell us what you were",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 78,
+  "run": 8,
+  "off": 1665,
+  "len": 27,
+  "text": "dreaming about, that's O.K.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 0,
+  "off": 464,
+  "len": 28,
+  "text": "Suddenly, serene Words enter",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 1,
+  "off": 494,
+  "len": 10,
+  "text": "{NAME:02}'s mind!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 2,
+  "off": 563,
+  "len": 12,
+  "text": "{NAME:02} and Ozma.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 3,
+  "off": 577,
+  "len": 15,
+  "text": "Welcome, human.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 4,
+  "off": 594,
+  "len": 17,
+  "text": "Welcome, Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 5,
+  "off": 617,
+  "len": 30,
+  "text": "The Stone Stage awaits you. It",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 6,
+  "off": 649,
+  "len": 34,
+  "text": "awaits your dreams, it awaits your",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 7,
+  "off": 685,
+  "len": 9,
+  "text": "mind, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 8,
+  "off": 892,
+  "len": 8,
+  "text": "Hey, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 9,
+  "off": 1046,
+  "len": 19,
+  "text": "{NAME:02} is walking away!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 10,
+  "off": 1554,
+  "len": 15,
+  "text": "{NAME:01}: {NAME}! Listen!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 11,
+  "off": 1571,
+  "len": 14,
+  "text": "{NAME:02} is snoring!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 12,
+  "off": 1733,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}! Can you hear me?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 13,
+  "off": 1763,
+  "len": 22,
+  "text": "You mustn't awaken {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 14,
+  "off": 1787,
+  "len": 15,
+  "text": "{NAME:02} is dreaming!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 15,
+  "off": 1808,
+  "len": 25,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Dreams mirror the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 16,
+  "off": 1835,
+  "len": 29,
+  "text": "heart. {NAME:02} is looking into his",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 79,
+  "run": 17,
+  "off": 1866,
+  "len": 32,
+  "text": "own heart, and Tieg is watching.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 0,
+  "off": 294,
+  "len": 17,
+  "text": "The words echo in",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 1,
+  "off": 313,
+  "len": 10,
+  "text": "{NAME:02}'s mind.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 2,
+  "off": 380,
+  "len": 24,
+  "text": "{NAME:02}, my child! Your dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 3,
+  "off": 406,
+  "len": 13,
+  "text": "is fulfilled.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 4,
+  "off": 1511,
+  "len": 13,
+  "text": "you seem sad.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 5,
+  "off": 1530,
+  "len": 16,
+  "text": "{NAME:02}: In my dream,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 6,
+  "off": 1548,
+  "len": 31,
+  "text": "I remembered something I didn't",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 80,
+  "run": 7,
+  "off": 1581,
+  "len": 8,
+  "text": "want to.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 0,
+  "off": 442,
+  "len": 28,
+  "text": "Suddenly, serene words enter",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 1,
+  "off": 472,
+  "len": 10,
+  "text": "{NAME:01}'s mind!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 2,
+  "off": 681,
+  "len": 13,
+  "text": "{NAME:01} and Terra.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 3,
+  "off": 696,
+  "len": 15,
+  "text": "Welcome, human.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 4,
+  "off": 713,
+  "len": 17,
+  "text": "Welcome, Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 5,
+  "off": 736,
+  "len": 27,
+  "text": "The Stone Stage awaits you.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 6,
+  "off": 765,
+  "len": 25,
+  "text": "It awaits your dreams, it",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 7,
+  "off": 792,
+  "len": 21,
+  "text": "awaits your mind, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 8,
+  "off": 1025,
+  "len": 21,
+  "text": "{NAME:02}: {NAME:01}! What's wrong,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 9,
+  "off": 1048,
+  "len": 24,
+  "text": "{NAME:01}? Where are you going?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 10,
+  "off": 1687,
+  "len": 15,
+  "text": "{NAME:02}: {NAME}! Listen.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 11,
+  "off": 1704,
+  "len": 20,
+  "text": "You can tell by {NAME:01}'s",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 12,
+  "off": 1726,
+  "len": 32,
+  "text": "breathing -- she's sound asleep!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 13,
+  "off": 1861,
+  "len": 22,
+  "text": "{NAME:01} is being drawn into",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 14,
+  "off": 1885,
+  "len": 20,
+  "text": "Tieg's spirit world!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 15,
+  "off": 1908,
+  "len": 27,
+  "text": "{PAL:5}{M7:02}{PAL:7}: She's going to have",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 81,
+  "run": 16,
+  "off": 1937,
+  "len": 23,
+  "text": "an important dream now!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 0,
+  "off": 290,
+  "len": 17,
+  "text": "The words echo in",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 1,
+  "off": 309,
+  "len": 10,
+  "text": "{NAME:01}'s mind.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 2,
+  "off": 373,
+  "len": 24,
+  "text": "{NAME:01}, my child! Your dream",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 3,
+  "off": 399,
+  "len": 13,
+  "text": "is fulfilled.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 4,
+  "off": 1403,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 5,
+  "off": 1425,
+  "len": 11,
+  "text": "{NAME:01}: Uh-huh.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 6,
+  "off": 1581,
+  "len": 28,
+  "text": "Let's go to Conkram after we",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 7,
+  "off": 1611,
+  "len": 28,
+  "text": "destroy the Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 8,
+  "off": 1732,
+  "len": 28,
+  "text": "{NAME:01}: Someone's waiting for me",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 9,
+  "off": 1762,
+  "len": 33,
+  "text": "in Conkram! Someone who knows me!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 10,
+  "off": 1819,
+  "len": 23,
+  "text": "{NAME:01}: So we have to go to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 11,
+  "off": 1844,
+  "len": 14,
+  "text": "Conkram, O.K.?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 82,
+  "run": 12,
+  "off": 1860,
+  "len": 15,
+  "text": "Do you promise?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 0,
+  "off": 1445,
+  "len": 8,
+  "text": "{NAME:01}: Hey!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 1,
+  "off": 1611,
+  "len": 19,
+  "text": "{NAME:02}: A ray of light!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 2,
+  "off": 1632,
+  "len": 16,
+  "text": "From the pillar!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 3,
+  "off": 2543,
+  "len": 16,
+  "text": "Someone's there!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 4,
+  "off": 2728,
+  "len": 25,
+  "text": "{NAME:02}: Whoever it is must be",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 5,
+  "off": 2755,
+  "len": 23,
+  "text": "using the light to show",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 6,
+  "off": 2780,
+  "len": 14,
+  "text": "himself to us.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 7,
+  "off": 2915,
+  "len": 22,
+  "text": "{NAME:02}: Maybe that's Tieg!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 8,
+  "off": 2939,
+  "len": 18,
+  "text": "{NAME}, let's go look!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 9,
+  "off": 4067,
+  "len": 31,
+  "text": "There it is again -- the light!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 10,
+  "off": 4257,
+  "len": 32,
+  "text": "{PAL:4}{M7:01}{PAL:7}: That light is called the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 11,
+  "off": 4291,
+  "len": 32,
+  "text": "Phantasmal Light. It's activated",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 12,
+  "off": 4325,
+  "len": 15,
+  "text": "by your dreams.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 13,
+  "off": 4439,
+  "len": 21,
+  "text": "{NAME:01}: Phantasmal Light?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 14,
+  "off": 4462,
+  "len": 20,
+  "text": "{NAME}, {NAME:02}, that's neat!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 15,
+  "off": 4484,
+  "len": 12,
+  "text": "This is fun!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 16,
+  "off": 4642,
+  "len": 22,
+  "text": "{NAME:02}: Ozma, you've heard",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 17,
+  "off": 4666,
+  "len": 14,
+  "text": "of it before?!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 18,
+  "off": 4804,
+  "len": 19,
+  "text": "{NAME:02}: Now why would a",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 19,
+  "off": 4825,
+  "len": 27,
+  "text": "Ra-Seru like you know about",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 20,
+  "off": 4854,
+  "len": 26,
+  "text": "the Phantasmal Light? Why?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 21,
+  "off": 4910,
+  "len": 20,
+  "text": "{NAME:02}: Tell me about it",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 22,
+  "off": 4932,
+  "len": 12,
+  "text": "if you know.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 23,
+  "off": 4947,
+  "len": 22,
+  "text": "{NAME:02}: Or are the Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 24,
+  "off": 4971,
+  "len": 27,
+  "text": "trying to manipulate us for",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 25,
+  "off": 5000,
+  "len": 13,
+  "text": "some purpose?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 26,
+  "off": 5019,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: No! That's not it at all!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 27,
+  "off": 5054,
+  "len": 24,
+  "text": "{NAME:02}, you must believe me!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 28,
+  "off": 5081,
+  "len": 33,
+  "text": "{PAL:5}{M7:02}{PAL:7}: We just wanted to talk to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 29,
+  "off": 5116,
+  "len": 34,
+  "text": "your minds, rather than explaining",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 30,
+  "off": 5152,
+  "len": 18,
+  "text": "things with words.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 31,
+  "off": 5204,
+  "len": 13,
+  "text": "{NAME:02}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 32,
+  "off": 5220,
+  "len": 27,
+  "text": "{NAME:02}: Well if talking is that",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 33,
+  "off": 5249,
+  "len": 32,
+  "text": "disagreeable to you, do what you",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 34,
+  "off": 5283,
+  "len": 25,
+  "text": "must. But listen, Ozma...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 35,
+  "off": 5360,
+  "len": 27,
+  "text": "{NAME:02}: If your intentions ever",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 36,
+  "off": 5389,
+  "len": 20,
+  "text": "diverge from mine...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 37,
+  "off": 5412,
+  "len": 21,
+  "text": "{NAME:02}: Then, believe me,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 38,
+  "off": 5435,
+  "len": 27,
+  "text": "you won't get away with it!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 39,
+  "off": 5687,
+  "len": 25,
+  "text": "{NAME:01}: What are you so angry",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 40,
+  "off": 5714,
+  "len": 10,
+  "text": "about, {NAME:02}?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 41,
+  "off": 5726,
+  "len": 19,
+  "text": "I don't understand!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 42,
+  "off": 5816,
+  "len": 12,
+  "text": "{NAME:01}: Boo-hoo!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 43,
+  "off": 5830,
+  "len": 12,
+  "text": "Come on, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 44,
+  "off": 5844,
+  "len": 31,
+  "text": "we have to have the last dream.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 45,
+  "off": 6245,
+  "len": 28,
+  "text": "{NAME:02}: So that means we are all",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 46,
+  "off": 6275,
+  "len": 18,
+  "text": "finished dreaming?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 47,
+  "off": 7388,
+  "len": 20,
+  "text": "Serene words echo in",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 48,
+  "off": 7410,
+  "len": 12,
+  "text": "their minds.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 49,
+  "off": 7428,
+  "len": 31,
+  "text": "You did well, my children! Your",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 50,
+  "off": 7461,
+  "len": 33,
+  "text": "dreams are now all fulfilled, and",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 51,
+  "off": 7496,
+  "len": 31,
+  "text": "our souls are recalled to life.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 52,
+  "off": 7530,
+  "len": 28,
+  "text": "We shall teach you the Past!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 53,
+  "off": 7560,
+  "len": 30,
+  "text": "We shall teach you the Future!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 54,
+  "off": 7592,
+  "len": 20,
+  "text": "That is Tieg's gift!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 55,
+  "off": 7615,
+  "len": 22,
+  "text": "That is the mission of",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 56,
+  "off": 7639,
+  "len": 21,
+  "text": "Tieg, the Seru-human,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 57,
+  "off": 7662,
+  "len": 20,
+  "text": "both Seru and human!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 58,
+  "off": 7842,
+  "len": 9,
+  "text": "{NAME:01}: Look!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 59,
+  "off": 7853,
+  "len": 25,
+  "text": "It's Tieg! I can see Tieg",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 60,
+  "off": 7880,
+  "len": 12,
+  "text": "clearly now!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 61,
+  "off": 7979,
+  "len": 11,
+  "text": "{NAME:02}: Tieg...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 83,
+  "run": 62,
+  "off": 7992,
+  "len": 23,
+  "text": "Both Seru and human...?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 0,
+  "off": 187,
+  "len": 29,
+  "text": "The Fire Droplet! From an age",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 1,
+  "off": 218,
+  "len": 28,
+  "text": "when chaos was the world and",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 2,
+  "off": 248,
+  "len": 22,
+  "text": "the world was chaos...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 3,
+  "off": 297,
+  "len": 26,
+  "text": "The Fire Droplet is chaos,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 4,
+  "off": 325,
+  "len": 30,
+  "text": "and chaos is the Fire Droplet.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 5,
+  "off": 371,
+  "len": 30,
+  "text": "Tieg, the pure, perfect being,",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 6,
+  "off": 403,
+  "len": 17,
+  "text": "Seru-human who is",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 7,
+  "off": 422,
+  "len": 17,
+  "text": "of spirit only...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 8,
+  "off": 442,
+  "len": 32,
+  "text": "He shall now answer the hopes of",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 9,
+  "off": 476,
+  "len": 32,
+  "text": "human and Ra-Seru by opening the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 10,
+  "off": 510,
+  "len": 31,
+  "text": "door to His world here and now!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 11,
+  "off": 565,
+  "len": 30,
+  "text": "&45{M7:20}(25{M7:21}#:5{M7:22}(85{M7:23}\"35{M7:1C}$55Jd",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 12,
+  "off": 655,
+  "len": 13,
+  "text": "I'm scared...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 13,
+  "off": 698,
+  "len": 21,
+  "text": "{NAME:02}: We must make room",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 14,
+  "off": 721,
+  "len": 9,
+  "text": "for Tieg.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 15,
+  "off": 918,
+  "len": 57,
+  "text": "\"45{M7:20}$35{M7:21}':5{M7:22}*65{M7:23}\"75J,<01><1F>Look, humans. Tieg has brought",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 16,
+  "off": 977,
+  "len": 33,
+  "text": "the two worlds together into one.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 17,
+  "off": 1012,
+  "len": 18,
+  "text": "Chaos is summoned.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 18,
+  "off": 1083,
+  "len": 50,
+  "text": "#75{M7:20}#55{M7:21})75{M7:22}(35{M7:23}%95<1F>The Fire Droplet is chaos.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 19,
+  "off": 1135,
+  "len": 26,
+  "text": "Tieg now returns to chaos.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 20,
+  "off": 1220,
+  "len": 27,
+  "text": "#71{M7:20}#51{M7:21})71{M7:22}(31{M7:23}%91<CC><1C><85><1E>",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 21,
+  "off": 1977,
+  "len": 16,
+  "text": "{NAME:01}: Tieg's gone.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 22,
+  "off": 2580,
+  "len": 16,
+  "text": "Humans, take the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 23,
+  "off": 2598,
+  "len": 13,
+  "text": "Fire Droplet.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 24,
+  "off": 2751,
+  "len": 24,
+  "text": "Tieg has left the humans",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 25,
+  "off": 2777,
+  "len": 19,
+  "text": "with his knowledge.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 26,
+  "off": 2804,
+  "len": 23,
+  "text": "{NAME}, use your courage...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 27,
+  "off": 2829,
+  "len": 21,
+  "text": "{NAME:02}, use your pride...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 28,
+  "off": 2852,
+  "len": 20,
+  "text": "{NAME:01}, use your hope...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 29,
+  "off": 2880,
+  "len": 34,
+  "text": "With these three things, knowledge",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 30,
+  "off": 2916,
+  "len": 23,
+  "text": "will create the future.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 31,
+  "off": 2947,
+  "len": 18,
+  "text": "Never forget that.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 32,
+  "off": 3058,
+  "len": 15,
+  "text": "{NAME:02}: A dream...?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 33,
+  "off": 3075,
+  "len": 21,
+  "text": "That was all a dream?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 34,
+  "off": 3313,
+  "len": 28,
+  "text": "Look! It's the Fire Droplet!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 35,
+  "off": 3539,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 36,
+  "off": 3551,
+  "len": 7,
+  "text": "the {ITEM:BC}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 37,
+  "off": 3755,
+  "len": 20,
+  "text": "{NAME:01}: Thank you, Tieg.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 38,
+  "off": 3777,
+  "len": 34,
+  "text": "I hope we can meet again some day.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 39,
+  "off": 3965,
+  "len": 23,
+  "text": "{NAME:02}: We did it! Now, {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 40,
+  "off": 3990,
+  "len": 18,
+  "text": "we must hurry back",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 84,
+  "run": 41,
+  "off": 4010,
+  "len": 25,
+  "text": "to Dr. Usha's laboratory!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 0,
+  "off": 448,
+  "len": 16,
+  "text": "{NAME:02}: What's this?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 1,
+  "off": 466,
+  "len": 34,
+  "text": "Is this the world of Tieg again...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 2,
+  "off": 584,
+  "len": 24,
+  "text": "{NAME:01}: No, that's not Tieg!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 3,
+  "off": 610,
+  "len": 34,
+  "text": "Look! The whole forest is shaking!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 4,
+  "off": 828,
+  "len": 35,
+  "text": "that doesn't belong on the surface!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 5,
+  "off": 865,
+  "len": 31,
+  "text": "It's evil Sim-Seru, Juggernaut!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 6,
+  "off": 961,
+  "len": 17,
+  "text": "{NAME:01}: Juggernaut...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 7,
+  "off": 1059,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: We must run away now!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 8,
+  "off": 1090,
+  "len": 23,
+  "text": "{NAME}! It's too dangerous!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 85,
+  "run": 9,
+  "off": 1115,
+  "len": 33,
+  "text": "The only thing we can do is flee!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 0,
+  "off": 251,
+  "len": 24,
+  "text": "{NAME:02}: So this is Uru Mais.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 1,
+  "off": 277,
+  "len": 31,
+  "text": "These are strange ruins indeed.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 2,
+  "off": 311,
+  "len": 25,
+  "text": "{NAME:02}: I don't see any place",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 3,
+  "off": 338,
+  "len": 22,
+  "text": "where we could use the",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 4,
+  "off": 362,
+  "len": 18,
+  "text": "{ITEM:BD} from Mrs. Usha.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 5,
+  "off": 566,
+  "len": 9,
+  "text": "{NAME:01}: What?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 6,
+  "off": 663,
+  "len": 18,
+  "text": "what's the matter?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 7,
+  "off": 819,
+  "len": 21,
+  "text": "{NAME:01}: I hear something!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 8,
+  "off": 842,
+  "len": 17,
+  "text": "I hear something!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 9,
+  "off": 927,
+  "len": 17,
+  "text": "{NAME:01}: It's a voice!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 10,
+  "off": 946,
+  "len": 15,
+  "text": "I hear a voice!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 11,
+  "off": 1009,
+  "len": 12,
+  "text": "{NAME:02}: A voice?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 12,
+  "off": 1069,
+  "len": 8,
+  "text": "{NAME:02}: ...!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 13,
+  "off": 1101,
+  "len": 15,
+  "text": "I hear it, too!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 14,
+  "off": 1228,
+  "len": 23,
+  "text": "{NAME:02}: I hear words inside",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 15,
+  "off": 1253,
+  "len": 8,
+  "text": "my head!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 16,
+  "off": 1422,
+  "len": 6,
+  "text": "You...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 17,
+  "off": 1430,
+  "len": 6,
+  "text": "was...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 18,
+  "off": 1438,
+  "len": 15,
+  "text": "key... ruins...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 19,
+  "off": 1455,
+  "len": 10,
+  "text": "who has...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 20,
+  "off": 1467,
+  "len": 17,
+  "text": "door... dreams...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 21,
+  "off": 1486,
+  "len": 14,
+  "text": "will be ope...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 22,
+  "off": 1502,
+  "len": 22,
+  "text": "Gather at... dream...!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 23,
+  "off": 1526,
+  "len": 15,
+  "text": "Door... open...",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 24,
+  "off": 1597,
+  "len": 15,
+  "text": "{NAME:02}: Whose voice",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 25,
+  "off": 1614,
+  "len": 8,
+  "text": "is that?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 26,
+  "off": 1770,
+  "len": 23,
+  "text": "Did you see that light?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 27,
+  "off": 1795,
+  "len": 25,
+  "text": "I saw a light down there!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 28,
+  "off": 1869,
+  "len": 26,
+  "text": "{NAME:02}: Whoever it is seems to",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 29,
+  "off": 1897,
+  "len": 31,
+  "text": "have opened the door because we",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 30,
+  "off": 1930,
+  "len": 12,
+  "text": "have the {ITEM:BD}!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 31,
+  "off": 1982,
+  "len": 16,
+  "text": "let's go inside!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 32,
+  "off": 2054,
+  "len": 28,
+  "text": "{NAME:02}: This must mean that this",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 33,
+  "off": 2084,
+  "len": 31,
+  "text": "door leads to the Fire Droplet.",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 86,
+  "run": 34,
+  "off": 2122,
+  "len": 29,
+  "text": "{NAME:02}: Alright, let's go inside!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 0,
+  "off": 100,
+  "len": 32,
+  "text": "going? Have you forgotten why we",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 1,
+  "off": 134,
+  "len": 11,
+  "text": "came here?!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 2,
+  "off": 153,
+  "len": 24,
+  "text": "I know why we came here!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 3,
+  "off": 179,
+  "len": 31,
+  "text": "Uh, why did we come here again?",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 4,
+  "off": 213,
+  "len": 33,
+  "text": "{PAL:9}{M7}{PAL:7}: Well, then, let's go back",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 5,
+  "off": 248,
+  "len": 35,
+  "text": "and get the Fire Droplet from Tieg!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 6,
+  "off": 289,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: We came to Uru Mais to get",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 7,
+  "off": 325,
+  "len": 24,
+  "text": "the Fire Droplet to make",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 8,
+  "off": 351,
+  "len": 16,
+  "text": "TimeSpace Bombs!",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 9,
+  "off": 370,
+  "len": 34,
+  "text": "{PAL:9}{M7}{PAL:7}: Now let's go back and hear",
+  "ko": ""
+ },
+ {
+  "map": 437,
+  "script": 92,
+  "run": 10,
+  "off": 406,
+  "len": 33,
+  "text": "the rest of what Tieg has to say.",
+  "ko": ""
+ }
+]

@@ -1,0 +1,2000 @@
+[
+ {
+  "map": 486,
+  "script": 4,
+  "run": 0,
+  "off": 17,
+  "len": 4,
+  "text": "L5!1",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 7,
+  "run": 0,
+  "off": 21,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 7,
+  "run": 1,
+  "off": 40,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 8,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 8,
+  "run": 1,
+  "off": 42,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 9,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 9,
+  "run": 1,
+  "off": 42,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 10,
+  "run": 0,
+  "off": 23,
+  "len": 17,
+  "text": "The power is out.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 10,
+  "run": 1,
+  "off": 42,
+  "len": 20,
+  "text": "The door won't open!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 20,
+  "run": 0,
+  "off": 47,
+  "len": 21,
+  "text": "e'e(e)e*e+e,e-e.f<12>t<03><1E>",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 0,
+  "off": 33,
+  "len": 18,
+  "text": "Start flag setting",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 1,
+  "off": 54,
+  "len": 29,
+  "text": "6th Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 2,
+  "off": 85,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 3,
+  "off": 122,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 4,
+  "off": 130,
+  "len": 32,
+  "text": "6th Genesis Tree Resurrection ON",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 5,
+  "off": 164,
+  "len": 33,
+  "text": "6th Genesis Tree Resurrection OFF",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 6,
+  "off": 199,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 7,
+  "off": 222,
+  "len": 28,
+  "text": "Sage's Treasure Chests - ALL",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 8,
+  "off": 252,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 9,
+  "off": 289,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 10,
+  "off": 297,
+  "len": 30,
+  "text": "Sage's Treasure Chest - All ON",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 11,
+  "off": 329,
+  "len": 31,
+  "text": "Sage's Treasure Chest - All OFF",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 12,
+  "off": 362,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 21,
+  "run": 13,
+  "off": 409,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 25,
+  "run": 0,
+  "off": 51,
+  "len": 34,
+  "text": "Um, I came down from the 6th floor",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 25,
+  "run": 1,
+  "off": 87,
+  "len": 30,
+  "text": "to look for my Mommy and Daddy",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 25,
+  "run": 2,
+  "off": 119,
+  "len": 27,
+  "text": "after the Mist disappeared.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 25,
+  "run": 3,
+  "off": 149,
+  "len": 28,
+  "text": "But I still can't find them.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 26,
+  "run": 0,
+  "off": 51,
+  "len": 29,
+  "text": "What am I doing here? Ooh, my",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 26,
+  "run": 1,
+  "off": 82,
+  "len": 33,
+  "text": "aching head! My whole body hurts!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 26,
+  "run": 2,
+  "off": 117,
+  "len": 22,
+  "text": "What's going on here?!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 27,
+  "run": 0,
+  "off": 47,
+  "len": 31,
+  "text": "They're gone! My husband and my",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 27,
+  "run": 1,
+  "off": 80,
+  "len": 30,
+  "text": "children -- they're gone! What",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 27,
+  "run": 2,
+  "off": 112,
+  "len": 10,
+  "text": "happened?!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 28,
+  "run": 0,
+  "off": 51,
+  "len": 26,
+  "text": "What happened to the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 28,
+  "run": 1,
+  "off": 79,
+  "len": 19,
+  "text": "What about the war?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 28,
+  "run": 2,
+  "off": 100,
+  "len": 12,
+  "text": "Did Sol win?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 29,
+  "run": 0,
+  "off": 27,
+  "len": 27,
+  "text": "It says \"Sage's Guard Dog.\"",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 30,
+  "run": 0,
+  "off": 27,
+  "len": 27,
+  "text": "It says \"Sage's Guard Dog.\"",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 0,
+  "off": 51,
+  "len": 23,
+  "text": "I was one of Dr. Usha's",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 1,
+  "off": 76,
+  "len": 16,
+  "text": "personal guards.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 2,
+  "off": 95,
+  "len": 28,
+  "text": "As soon as we were relieved,",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 3,
+  "off": 125,
+  "len": 26,
+  "text": "the Mist came. After that,",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 4,
+  "off": 153,
+  "len": 26,
+  "text": "I don't remember anything.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 5,
+  "off": 182,
+  "len": 32,
+  "text": "After he sealed the Sage's Gate,",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 6,
+  "off": 216,
+  "len": 32,
+  "text": "Dr. Usha left for the northwest,",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 31,
+  "run": 7,
+  "off": 250,
+  "len": 35,
+  "text": "saying he was returning to his lab.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 32,
+  "run": 0,
+  "off": 63,
+  "len": 13,
+  "text": "I am a ghost.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 0,
+  "off": 30,
+  "len": 32,
+  "text": "There is writing carved into the",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 1,
+  "off": 64,
+  "len": 5,
+  "text": "door.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 2,
+  "off": 72,
+  "len": 33,
+  "text": "He who seeks the Warrior's Square",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 3,
+  "off": 107,
+  "len": 28,
+  "text": "must sate the Sage's hunger.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 4,
+  "off": 137,
+  "len": 31,
+  "text": "Then the Sage's Gate will open.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 5,
+  "off": 335,
+  "len": 30,
+  "text": "There is one more hungry Sage!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 6,
+  "off": 370,
+  "len": 32,
+  "text": "There are two more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 7,
+  "off": 407,
+  "len": 34,
+  "text": "There are three more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 8,
+  "off": 446,
+  "len": 33,
+  "text": "There are four more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 9,
+  "off": 484,
+  "len": 33,
+  "text": "There are five more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 10,
+  "off": 522,
+  "len": 32,
+  "text": "There are six more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 11,
+  "off": 559,
+  "len": 34,
+  "text": "There are seven more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 12,
+  "off": 598,
+  "len": 34,
+  "text": "There are eight more hungry Sages!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 13,
+  "off": 637,
+  "len": 34,
+  "text": "All the Sages have been satisfied.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 14,
+  "off": 683,
+  "len": 32,
+  "text": "There is writing carved into the",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 15,
+  "off": 717,
+  "len": 5,
+  "text": "door.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 16,
+  "off": 725,
+  "len": 24,
+  "text": "The Sage's Gate is open.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 17,
+  "off": 751,
+  "len": 26,
+  "text": "Those who are brave should",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 33,
+  "run": 18,
+  "off": 779,
+  "len": 26,
+  "text": "seek the Warrior's Square.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 34,
+  "run": 0,
+  "off": 51,
+  "len": 30,
+  "text": "When the Mist disappeared from",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 34,
+  "run": 1,
+  "off": 83,
+  "len": 30,
+  "text": "the lower floors, the power to",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 34,
+  "run": 2,
+  "off": 115,
+  "len": 26,
+  "text": "the elevator came back on.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 34,
+  "run": 3,
+  "off": 144,
+  "len": 30,
+  "text": "A lot of people have come down",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 34,
+  "run": 4,
+  "off": 176,
+  "len": 28,
+  "text": "from the upper floors to see",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 34,
+  "run": 5,
+  "off": 206,
+  "len": 25,
+  "text": "how things are down here.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 35,
+  "run": 0,
+  "off": 59,
+  "len": 17,
+  "text": "Gruf! Gruf! Gruf!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 35,
+  "run": 1,
+  "off": 79,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 35,
+  "run": 2,
+  "off": 96,
+  "len": 25,
+  "text": "It somehow looks painful.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 36,
+  "run": 0,
+  "off": 55,
+  "len": 32,
+  "text": "As soon as the Mist disappeared,",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 36,
+  "run": 1,
+  "off": 89,
+  "len": 33,
+  "text": "the arms dealers, accessory shops",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 36,
+  "run": 2,
+  "off": 124,
+  "len": 29,
+  "text": "and inns downstairs reopened.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 36,
+  "run": 3,
+  "off": 156,
+  "len": 31,
+  "text": "It's not that they just want to",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 36,
+  "run": 4,
+  "off": 189,
+  "len": 32,
+  "text": "make money. I think they want to",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 36,
+  "run": 5,
+  "off": 223,
+  "len": 32,
+  "text": "live and work like humans again.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 37,
+  "run": 0,
+  "off": 63,
+  "len": 31,
+  "text": "The bars and clubs upstairs are",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 37,
+  "run": 1,
+  "off": 96,
+  "len": 29,
+  "text": "still open! Go on up and have",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 37,
+  "run": 2,
+  "off": 127,
+  "len": 23,
+  "text": "yourselves a good time!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 38,
+  "run": 0,
+  "off": 51,
+  "len": 33,
+  "text": "Who would think a place could get",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 38,
+  "run": 1,
+  "off": 86,
+  "len": 35,
+  "text": "this dirty in ten years! It'll take",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 38,
+  "run": 2,
+  "off": 123,
+  "len": 31,
+  "text": "forever to clean this place up!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 39,
+  "run": 0,
+  "off": 61,
+  "len": 20,
+  "text": "Growl! Growl! Growl!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 39,
+  "run": 1,
+  "off": 84,
+  "len": 15,
+  "text": "A Seru monster!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 39,
+  "run": 2,
+  "off": 101,
+  "len": 28,
+  "text": "It somehow looks distressed.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 40,
+  "run": 0,
+  "off": 47,
+  "len": 30,
+  "text": "Cara was born in Buma, I hear.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 40,
+  "run": 1,
+  "off": 80,
+  "len": 27,
+  "text": "They say something terribly",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 40,
+  "run": 2,
+  "off": 109,
+  "len": 20,
+  "text": "sad happened to her.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 41,
+  "run": 0,
+  "off": 49,
+  "len": 29,
+  "text": "There are three Genesis Trees",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 41,
+  "run": 1,
+  "off": 80,
+  "len": 8,
+  "text": "in Buma.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 42,
+  "run": 0,
+  "off": 47,
+  "len": 24,
+  "text": "I hope Dr. Usha is safe.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 42,
+  "run": 1,
+  "off": 76,
+  "len": 31,
+  "text": "In his youth, Dr. Usha traveled",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 42,
+  "run": 2,
+  "off": 109,
+  "len": 21,
+  "text": "all around the world.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 43,
+  "run": 0,
+  "off": 45,
+  "len": 30,
+  "text": "My soldier buddies disappeared",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 43,
+  "run": 1,
+  "off": 77,
+  "len": 29,
+  "text": "in the Mist. They must all be",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 43,
+  "run": 2,
+  "off": 108,
+  "len": 5,
+  "text": "dead.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 44,
+  "run": 0,
+  "off": 47,
+  "len": 35,
+  "text": "This town was so much more exciting",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 44,
+  "run": 1,
+  "off": 84,
+  "len": 21,
+  "text": "before the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 0,
+  "off": 746,
+  "len": 19,
+  "text": "{NAME:01}: Wow, it's huge!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 1,
+  "off": 782,
+  "len": 10,
+  "text": "It's huge!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 2,
+  "off": 819,
+  "len": 25,
+  "text": "{NAME:02}: I heard Sol was a big",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 3,
+  "off": 846,
+  "len": 30,
+  "text": "place, but I never imagined it",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 4,
+  "off": 878,
+  "len": 13,
+  "text": "was this big.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 5,
+  "off": 950,
+  "len": 28,
+  "text": "{NAME:01}: But it's engulfed in the",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 6,
+  "off": 980,
+  "len": 7,
+  "text": "Mist...",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 7,
+  "off": 1075,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: I sense human thoughts.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 8,
+  "off": 1108,
+  "len": 29,
+  "text": "There are survivors in there!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 9,
+  "off": 1209,
+  "len": 29,
+  "text": "{PAL:5}{M7:02}{PAL:7}: The Mist doesn't seem",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 10,
+  "off": 1240,
+  "len": 31,
+  "text": "to have reached the upper parts",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 11,
+  "off": 1273,
+  "len": 12,
+  "text": "of the city.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 12,
+  "off": 1425,
+  "len": 23,
+  "text": "{PAL:4}{M7:01}{PAL:7}: But be careful!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 13,
+  "off": 1450,
+  "len": 32,
+  "text": "I sense indescribable depravity.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 14,
+  "off": 1615,
+  "len": 17,
+  "text": "Let's be careful!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 15,
+  "off": 1751,
+  "len": 26,
+  "text": "{NAME:02}: Warrior-monks of Biron",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 16,
+  "off": 1779,
+  "len": 29,
+  "text": "were sent to Sol. I hope they",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 59,
+  "run": 17,
+  "off": 1810,
+  "len": 16,
+  "text": "are still alive.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 0,
+  "off": 126,
+  "len": 14,
+  "text": "Wait a minute!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 1,
+  "off": 217,
+  "len": 21,
+  "text": "{NAME:01}: I hear something!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 2,
+  "off": 240,
+  "len": 24,
+  "text": "I hear someone fighting!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 3,
+  "off": 420,
+  "len": 24,
+  "text": "{NAME:02}: Yes, I hear it, too!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 4,
+  "off": 446,
+  "len": 31,
+  "text": "The sound of a monster roaring,",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 5,
+  "off": 479,
+  "len": 25,
+  "text": "and the sound of a sword!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 6,
+  "off": 718,
+  "len": 28,
+  "text": "{NAME:02}: It must be someone being",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 7,
+  "off": 748,
+  "len": 22,
+  "text": "attacked by a monster!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 8,
+  "off": 797,
+  "len": 22,
+  "text": "{NAME:01}: {NAME}! Let's go help!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 9,
+  "off": 1099,
+  "len": 26,
+  "text": "{NAME:01}: Oh, the sound stopped.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 10,
+  "off": 1213,
+  "len": 28,
+  "text": "{NAME:02}: Whoever it was must have",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 11,
+  "off": 1243,
+  "len": 27,
+  "text": "been killed by the monster.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 12,
+  "off": 1307,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 13,
+  "off": 1500,
+  "len": 10,
+  "text": "(Surprise)",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 14,
+  "off": 1810,
+  "len": 32,
+  "text": "Villains! So thou wert trying to",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 15,
+  "off": 1844,
+  "len": 11,
+  "text": "ambush me?!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 16,
+  "off": 1873,
+  "len": 27,
+  "text": "Grotesque beasts from Hell!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 17,
+  "off": 1902,
+  "len": 20,
+  "text": "Pack of Seru demons!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 18,
+  "off": 1925,
+  "len": 30,
+  "text": "Prepare to meet thy doom. Thou",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 19,
+  "off": 1957,
+  "len": 29,
+  "text": "shalt die by my Astral Sword!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 20,
+  "off": 2136,
+  "len": 12,
+  "text": "{NAME:02}: Hold it!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 21,
+  "off": 2237,
+  "len": 12,
+  "text": "{NAME:02}: Old man!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 22,
+  "off": 2251,
+  "len": 25,
+  "text": "Calm down! We're not Seru",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 23,
+  "off": 2278,
+  "len": 9,
+  "text": "monsters!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 24,
+  "off": 2353,
+  "len": 21,
+  "text": "{NAME:01}: Yeah! We're human",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 25,
+  "off": 2376,
+  "len": 7,
+  "text": "beings!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 26,
+  "off": 2401,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 27,
+  "off": 2422,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 28,
+  "off": 2479,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 29,
+  "off": 2556,
+  "len": 24,
+  "text": "Forgive me. I apologize.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 30,
+  "off": 2646,
+  "len": 27,
+  "text": "Thou art indeed human, as I",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 31,
+  "off": 2675,
+  "len": 26,
+  "text": "detect no madness in thine",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 32,
+  "off": 2703,
+  "len": 5,
+  "text": "eyes.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 33,
+  "off": 2875,
+  "len": 31,
+  "text": "I am Gaza, an old man who walks",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 34,
+  "off": 2908,
+  "len": 34,
+  "text": "the path of carnage and bloodshed.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 35,
+  "off": 2945,
+  "len": 23,
+  "text": "Gaza: Forgive me and my",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 36,
+  "off": 2970,
+  "len": 24,
+  "text": "incivility, as I live in",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 37,
+  "off": 2996,
+  "len": 20,
+  "text": "such a defiled land.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 38,
+  "off": 3061,
+  "len": 30,
+  "text": "Gaza: But this demon's lair is",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 39,
+  "off": 3093,
+  "len": 29,
+  "text": "no place for woman nor child!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 40,
+  "off": 3151,
+  "len": 10,
+  "text": "Gaza: Hmm?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 41,
+  "off": 3334,
+  "len": 12,
+  "text": "Gaza: Mar...",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 42,
+  "off": 3428,
+  "len": 29,
+  "text": "Gaza: No, of course not. Mine",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 43,
+  "off": 3459,
+  "len": 28,
+  "text": "eyes doth deceive me. Mar is",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 44,
+  "off": 3489,
+  "len": 24,
+  "text": "no longer of this world.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 45,
+  "off": 3852,
+  "len": 29,
+  "text": "Gaza: In the upper floors are",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 46,
+  "off": 3883,
+  "len": 26,
+  "text": "ones who would greet thee.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 47,
+  "off": 3911,
+  "len": 11,
+  "text": "Make haste!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 48,
+  "off": 3925,
+  "len": 30,
+  "text": "Gaza: I take leave of you now.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 49,
+  "off": 4021,
+  "len": 27,
+  "text": "{NAME:02}: That old man, Gaza, now",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 50,
+  "off": 4050,
+  "len": 34,
+  "text": "there is a true swordsman! He does",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 51,
+  "off": 4086,
+  "len": 34,
+  "text": "not drop his guard for an instant!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 52,
+  "off": 4150,
+  "len": 28,
+  "text": "{NAME:02}: But his eyes... His eyes",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 53,
+  "off": 4180,
+  "len": 25,
+  "text": "showed no emotion at all.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 54,
+  "off": 4223,
+  "len": 28,
+  "text": "{NAME:02}: They were lifeless, cold",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 55,
+  "off": 4253,
+  "len": 24,
+  "text": "eyes. Very disturbing...",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 56,
+  "off": 4366,
+  "len": 25,
+  "text": "{NAME:01}: That old man talks so",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 57,
+  "off": 4393,
+  "len": 35,
+  "text": "funny... I couldn't understand him.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 58,
+  "off": 4431,
+  "len": 28,
+  "text": "{NAME:01}: But when he looked at me",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 59,
+  "off": 4461,
+  "len": 31,
+  "text": "and called me Mar, he seemed so",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 60,
+  "run": 60,
+  "off": 4494,
+  "len": 5,
+  "text": "nice!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 0,
+  "off": 274,
+  "len": 24,
+  "text": "{NAME:01}: W-What should we do?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 1,
+  "off": 300,
+  "len": 27,
+  "text": "Something weird is going to",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 2,
+  "off": 329,
+  "len": 18,
+  "text": "happen, I know it!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 3,
+  "off": 455,
+  "len": 18,
+  "text": "{NAME:02}: Calm down, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 4,
+  "off": 475,
+  "len": 7,
+  "text": "Listen!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 5,
+  "off": 484,
+  "len": 17,
+  "text": "I hear something!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 6,
+  "off": 1025,
+  "len": 7,
+  "text": "Uhhh...",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 7,
+  "off": 1054,
+  "len": 26,
+  "text": "Yeaaa...! Wooooo....hoooo!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 8,
+  "off": 1184,
+  "len": 25,
+  "text": "... am most... impressed!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 9,
+  "off": 1515,
+  "len": 25,
+  "text": "You who solved my riddle!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 10,
+  "off": 1542,
+  "len": 16,
+  "text": "Don't be scared!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 11,
+  "off": 1560,
+  "len": 10,
+  "text": "I am Usha.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 12,
+  "off": 1648,
+  "len": 25,
+  "text": "Dr. Usha! I am pleased to",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 13,
+  "off": 1675,
+  "len": 23,
+  "text": "make your acquaintance!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 14,
+  "off": 1888,
+  "len": 17,
+  "text": "{NAME:01}: Hi, Dr. Usha!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 15,
+  "off": 2000,
+  "len": 32,
+  "text": "Dr. Usha: Don't be alarmed. This",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 16,
+  "off": 2034,
+  "len": 33,
+  "text": "is a mechanical device. It is not",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 17,
+  "off": 2069,
+  "len": 12,
+  "text": "the real me!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 18,
+  "off": 2226,
+  "len": 35,
+  "text": "Dr. Usha: I know not whether I will",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 19,
+  "off": 2263,
+  "len": 35,
+  "text": "still be alive by the time you hear",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 20,
+  "off": 2300,
+  "len": 13,
+  "text": "this message.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 21,
+  "off": 2316,
+  "len": 33,
+  "text": "Dr. Usha: I recorded this message",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 22,
+  "off": 2351,
+  "len": 35,
+  "text": "just after sealing the Sage's Gate.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 23,
+  "off": 2389,
+  "len": 31,
+  "text": "Dr. Usha: This I did to protect",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 24,
+  "off": 2422,
+  "len": 29,
+  "text": "the Warrior's Square from the",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 25,
+  "off": 2453,
+  "len": 33,
+  "text": "approaching Mist and its cohorts.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 26,
+  "off": 2663,
+  "len": 31,
+  "text": "Dr. Usha: If I am lucky, I will",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 27,
+  "off": 2696,
+  "len": 28,
+  "text": "survive the Mist long enough",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 28,
+  "off": 2726,
+  "len": 12,
+  "text": "to meet you.",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 29,
+  "off": 2745,
+  "len": 34,
+  "text": "Dr. Usha: Proceed with the Genesis",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 30,
+  "off": 2781,
+  "len": 22,
+  "text": "Tree seedling. Heroes!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 31,
+  "off": 2805,
+  "len": 24,
+  "text": "Drive the Mist from Sol!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 32,
+  "off": 3042,
+  "len": 15,
+  "text": "{NAME:01}: Dr. Usha...",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 33,
+  "off": 3059,
+  "len": 15,
+  "text": "He disappeared!",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 34,
+  "off": 3208,
+  "len": 15,
+  "text": "{NAME:02}: {NAME}! How did",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 35,
+  "off": 3225,
+  "len": 27,
+  "text": "Dr. Usha know we were here?",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 36,
+  "off": 3296,
+  "len": 22,
+  "text": "{NAME:02}: We should take the",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 37,
+  "off": 3320,
+  "len": 34,
+  "text": "Genesis Tree seedling to Warrior's",
+  "ko": ""
+ },
+ {
+  "map": 486,
+  "script": 61,
+  "run": 38,
+  "off": 3356,
+  "len": 27,
+  "text": "Square, like Dr. Usha said.",
+  "ko": ""
+ }
+]

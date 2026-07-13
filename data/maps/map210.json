@@ -1,0 +1,3764 @@
+[
+ {
+  "map": 210,
+  "script": 7,
+  "run": 0,
+  "off": 59,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 7,
+  "run": 1,
+  "off": 74,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 210,
+  "script": 7,
+  "run": 2,
+  "off": 93,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 7,
+  "run": 3,
+  "off": 105,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 7,
+  "run": 4,
+  "off": 118,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 210,
+  "script": 8,
+  "run": 0,
+  "off": 45,
+  "len": 13,
+  "text": "There is a {ITEM:8D}",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 8,
+  "run": 1,
+  "off": 60,
+  "len": 16,
+  "text": "in the cupboard!",
+  "ko": "들어 있었다!"
+ },
+ {
+  "map": 210,
+  "script": 8,
+  "run": 2,
+  "off": 79,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 8,
+  "run": 3,
+  "off": 91,
+  "len": 7,
+  "text": "the {ITEM:8D}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 8,
+  "run": 4,
+  "off": 104,
+  "len": 22,
+  "text": "The cupboard is empty!",
+  "ko": "찬장은 비어 있다!"
+ },
+ {
+  "map": 210,
+  "script": 22,
+  "run": 0,
+  "off": 40,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.q%<08>",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 23,
+  "run": 0,
+  "off": 54,
+  "len": 22,
+  "text": "Hey, it's {NAME}! The Mist",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 23,
+  "run": 1,
+  "off": 78,
+  "len": 29,
+  "text": "disappeared, so we came up to",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 23,
+  "run": 2,
+  "off": 109,
+  "len": 29,
+  "text": "the surface from underground!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 24,
+  "run": 0,
+  "off": 51,
+  "len": 7,
+  "text": "Oh, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 24,
+  "run": 1,
+  "off": 60,
+  "len": 25,
+  "text": "Someone's waiting for you",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 24,
+  "run": 2,
+  "off": 87,
+  "len": 15,
+  "text": "at the station.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 24,
+  "run": 3,
+  "off": 107,
+  "len": 26,
+  "text": "I like flying trains, too!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 25,
+  "run": 0,
+  "off": 47,
+  "len": 30,
+  "text": "I think I'll make a new garden",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 25,
+  "run": 1,
+  "off": 79,
+  "len": 13,
+  "text": "outside town!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 26,
+  "run": 0,
+  "off": 47,
+  "len": 20,
+  "text": "The air is so fresh!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 26,
+  "run": 1,
+  "off": 69,
+  "len": 21,
+  "text": "The sky is so bright!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 27,
+  "run": 0,
+  "off": 49,
+  "len": 31,
+  "text": "The sky, the clouds, the stars,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 27,
+  "run": 1,
+  "off": 82,
+  "len": 34,
+  "text": "the rain, night and day, the wind,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 27,
+  "run": 2,
+  "off": 118,
+  "len": 23,
+  "text": "the sea, the flowers...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 27,
+  "run": 3,
+  "off": 144,
+  "len": 29,
+  "text": "Now I know what they all are!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 28,
+  "run": 0,
+  "off": 47,
+  "len": 30,
+  "text": "I'm sure that Hari is watching",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 28,
+  "run": 1,
+  "off": 79,
+  "len": 34,
+  "text": "your bravery from the other world.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 29,
+  "run": 0,
+  "off": 47,
+  "len": 30,
+  "text": "The Mayor? He's in the shrine,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 29,
+  "run": 1,
+  "off": 79,
+  "len": 26,
+  "text": "in the north part of town.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 30,
+  "run": 0,
+  "off": 49,
+  "len": 27,
+  "text": "Alright! I'm finally out of",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 30,
+  "run": 1,
+  "off": 78,
+  "len": 30,
+  "text": "that gloomy underground place!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 30,
+  "run": 2,
+  "off": 111,
+  "len": 24,
+  "text": "{NAME}, if you know any nice",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 30,
+  "run": 3,
+  "off": 137,
+  "len": 22,
+  "text": "men, introduce me, OK?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 0,
+  "off": 46,
+  "len": 27,
+  "text": "Stop Sebucus Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 1,
+  "off": 84,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 2,
+  "off": 113,
+  "len": 14,
+  "text": "Defeat of Xain",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 3,
+  "off": 138,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 4,
+  "off": 167,
+  "len": 22,
+  "text": "Arrival at Octam ruins",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 5,
+  "off": 200,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 6,
+  "off": 229,
+  "len": 21,
+  "text": "Cara the female thief",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 7,
+  "off": 261,
+  "len": 16,
+  "text": "End flag setting",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 8,
+  "off": 290,
+  "len": 11,
+  "text": "Need money?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 9,
+  "off": 340,
+  "len": 23,
+  "text": "Wanna change your name?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 10,
+  "off": 374,
+  "len": 4,
+  "text": "Nope",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 11,
+  "off": 380,
+  "len": 9,
+  "text": "Change {NAME}",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 12,
+  "off": 391,
+  "len": 9,
+  "text": "Change {NAME:01}",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 32,
+  "run": 13,
+  "off": 402,
+  "len": 9,
+  "text": "Change {NAME:02}",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 0,
+  "off": 69,
+  "len": 19,
+  "text": "Innkeeper: Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 1,
+  "off": 90,
+  "len": 32,
+  "text": "The rate here is 200G per night.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 2,
+  "off": 124,
+  "len": 31,
+  "text": "Do you want to spend the night?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 3,
+  "off": 281,
+  "len": 19,
+  "text": "Innkeeper: Alright.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 4,
+  "off": 302,
+  "len": 22,
+  "text": "Maybe next time, then.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 5,
+  "off": 340,
+  "len": 29,
+  "text": "Innkeeper: Thank you for your",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 6,
+  "off": 371,
+  "len": 5,
+  "text": "200G.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 7,
+  "off": 379,
+  "len": 34,
+  "text": "Innkeeper: Show these three guests",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 8,
+  "off": 415,
+  "len": 22,
+  "text": "to their room, please!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 9,
+  "off": 679,
+  "len": 27,
+  "text": "Innkeeper: Enjoy your stay!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 10,
+  "off": 711,
+  "len": 31,
+  "text": "Innkeeper: Excuse me, you don't",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 11,
+  "off": 744,
+  "len": 34,
+  "text": "have enough money. Come back again",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 40,
+  "run": 12,
+  "off": 780,
+  "len": 19,
+  "text": "when you have 200G.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 41,
+  "run": 0,
+  "off": 57,
+  "len": 33,
+  "text": "We'll be raking in the money once",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 41,
+  "run": 1,
+  "off": 92,
+  "len": 31,
+  "text": "the Mist leaves Karisto Kingdom",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 41,
+  "run": 2,
+  "off": 125,
+  "len": 12,
+  "text": "to the east!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 41,
+  "run": 3,
+  "off": 142,
+  "len": 29,
+  "text": "They say a lot of the Mist is",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 41,
+  "run": 4,
+  "off": 173,
+  "len": 26,
+  "text": "gone from Karisto Kingdom.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 42,
+  "run": 0,
+  "off": 49,
+  "len": 33,
+  "text": "It's amazing how different a town",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 42,
+  "run": 1,
+  "off": 84,
+  "len": 32,
+  "text": "can seem, even if you've already",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 42,
+  "run": 2,
+  "off": 118,
+  "len": 23,
+  "text": "been there once before.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 0,
+  "off": 35,
+  "len": 27,
+  "text": "!<1F>There is a piece of paper",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 1,
+  "off": 64,
+  "len": 15,
+  "text": "in the dresser.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 2,
+  "off": 81,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 3,
+  "off": 229,
+  "len": 28,
+  "text": "Tomorrow we launch the plan!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 4,
+  "off": 259,
+  "len": 13,
+  "text": "Travel light!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 5,
+  "off": 314,
+  "len": 10,
+  "text": "{NAME} put the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 43,
+  "run": 6,
+  "off": 326,
+  "len": 20,
+  "text": "piece of paper back.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 46,
+  "run": 0,
+  "off": 70,
+  "len": 33,
+  "text": "Welcome! If you want accessories,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 46,
+  "run": 1,
+  "off": 105,
+  "len": 18,
+  "text": "this is the place.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 46,
+  "run": 2,
+  "off": 125,
+  "len": 29,
+  "text": "What can I get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 46,
+  "run": 3,
+  "off": 189,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 47,
+  "run": 0,
+  "off": 49,
+  "len": 24,
+  "text": "After being gone for ten",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 47,
+  "run": 1,
+  "off": 75,
+  "len": 27,
+  "text": "years, it's going to take a",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 47,
+  "run": 2,
+  "off": 104,
+  "len": 22,
+  "text": "long time to clean up!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 50,
+  "run": 0,
+  "off": 85,
+  "len": 21,
+  "text": "Arms Dealer: Welcome!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 50,
+  "run": 1,
+  "off": 108,
+  "len": 34,
+  "text": "We have various weapons and armor.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 50,
+  "run": 2,
+  "off": 144,
+  "len": 29,
+  "text": "What can I get for you today?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 50,
+  "run": 3,
+  "off": 199,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 51,
+  "run": 0,
+  "off": 47,
+  "len": 29,
+  "text": "I'd like to give you heroes a",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 51,
+  "run": 1,
+  "off": 78,
+  "len": 28,
+  "text": "better price, but I have to ",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 51,
+  "run": 2,
+  "off": 108,
+  "len": 16,
+  "text": "turn a profit...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 52,
+  "run": 0,
+  "off": 55,
+  "len": 35,
+  "text": "Debora: Oh, look at all the houses!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 52,
+  "run": 1,
+  "off": 92,
+  "len": 29,
+  "text": "I'm not afraid of earthquakes",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 52,
+  "run": 2,
+  "off": 123,
+  "len": 26,
+  "text": "anymore! This is my house!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 53,
+  "run": 0,
+  "off": 43,
+  "len": 20,
+  "text": "I love big houses...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 54,
+  "run": 0,
+  "off": 43,
+  "len": 33,
+  "text": "It's so nice to have a house with",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 54,
+  "run": 1,
+  "off": 78,
+  "len": 14,
+  "text": "lots of light.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 55,
+  "run": 0,
+  "off": 57,
+  "len": 34,
+  "text": "I like my house. It doesn't shake!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 0,
+  "off": 65,
+  "len": 14,
+  "text": "{NAME}  handed the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 1,
+  "off": 81,
+  "len": 26,
+  "text": "Spring Salts to the Mayor!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 2,
+  "off": 113,
+  "len": 27,
+  "text": "Mayor: Oh! These are Spring",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 3,
+  "off": 142,
+  "len": 33,
+  "text": "Salts! Thank you so much! Ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 4,
+  "off": 178,
+  "len": 31,
+  "text": "Mayor: Is that so? Things sound",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 5,
+  "off": 211,
+  "len": 14,
+  "text": "bad for Vidna.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 6,
+  "off": 228,
+  "len": 34,
+  "text": "Mayor: It's because you saved this",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 7,
+  "off": 264,
+  "len": 31,
+  "text": "town that such a terrible thing",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 8,
+  "off": 297,
+  "len": 35,
+  "text": "happened to Vidna... Oh, the irony!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 9,
+  "off": 335,
+  "len": 34,
+  "text": "Mayor: Please take this in return,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 10,
+  "off": 371,
+  "len": 32,
+  "text": "although I know it's not much of",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 11,
+  "off": 405,
+  "len": 24,
+  "text": "a reward. Please use it.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 12,
+  "off": 437,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 13,
+  "off": 449,
+  "len": 7,
+  "text": "the {ITEM:6D}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 14,
+  "off": 461,
+  "len": 14,
+  "text": "Mayor: Ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 15,
+  "off": 478,
+  "len": 28,
+  "text": "Mayor: Thank you all so very",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 16,
+  "off": 508,
+  "len": 13,
+  "text": "much! Ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 17,
+  "off": 557,
+  "len": 31,
+  "text": "Mayor: Thanks to you, now I can",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 18,
+  "off": 590,
+  "len": 34,
+  "text": "laugh from the bottom of my heart!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 56,
+  "run": 19,
+  "off": 626,
+  "len": 17,
+  "text": "A-Ha, ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 57,
+  "run": 0,
+  "off": 55,
+  "len": 31,
+  "text": "Hari used to be in this shrine.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 58,
+  "run": 0,
+  "off": 55,
+  "len": 34,
+  "text": "I feel so sad when I think of what",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 58,
+  "run": 1,
+  "off": 91,
+  "len": 33,
+  "text": "happened to Hari -- after guiding",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 58,
+  "run": 2,
+  "off": 126,
+  "len": 15,
+  "text": "us for so long.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 59,
+  "run": 0,
+  "off": 57,
+  "len": 27,
+  "text": "Hari is still alive -- in a",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 59,
+  "run": 1,
+  "off": 86,
+  "len": 25,
+  "text": "distant world, somewhere!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 59,
+  "run": 2,
+  "off": 114,
+  "len": 18,
+  "text": "I just know he is.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 60,
+  "run": 0,
+  "off": 27,
+  "len": 30,
+  "text": "Weathered letters on the stone",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 60,
+  "run": 1,
+  "off": 59,
+  "len": 12,
+  "text": "statue read:",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 60,
+  "run": 2,
+  "off": 73,
+  "len": 29,
+  "text": "\"East Gate, The Key is Wind.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 61,
+  "run": 0,
+  "off": 27,
+  "len": 30,
+  "text": "Weathered letters on the stone",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 61,
+  "run": 1,
+  "off": 59,
+  "len": 12,
+  "text": "statue read:",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 61,
+  "run": 2,
+  "off": 73,
+  "len": 29,
+  "text": "\"West Gate, The Key is Fire.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 62,
+  "run": 0,
+  "off": 27,
+  "len": 30,
+  "text": "Weathered letters on the stone",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 62,
+  "run": 1,
+  "off": 59,
+  "len": 12,
+  "text": "statue read:",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 62,
+  "run": 2,
+  "off": 73,
+  "len": 31,
+  "text": "\"North Gate, The Key is Earth.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 63,
+  "run": 0,
+  "off": 27,
+  "len": 30,
+  "text": "Weathered letters on the stone",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 63,
+  "run": 1,
+  "off": 59,
+  "len": 12,
+  "text": "statue read:",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 63,
+  "run": 2,
+  "off": 73,
+  "len": 31,
+  "text": "\"South Gate, The Key is Water.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 0,
+  "off": 26,
+  "len": 33,
+  "text": "!<1F>There is a small scrap of paper",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 1,
+  "off": 61,
+  "len": 19,
+  "text": "in the holy shrine.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 2,
+  "off": 82,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 3,
+  "off": 230,
+  "len": 10,
+  "text": "{NAME} put the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 4,
+  "off": 242,
+  "len": 20,
+  "text": "scrap of paper back.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 5,
+  "off": 267,
+  "len": 29,
+  "text": "The Mist, born of the western",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 6,
+  "off": 298,
+  "len": 29,
+  "text": "sea, is an omen of nightmares",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 65,
+  "run": 7,
+  "off": 329,
+  "len": 30,
+  "text": "to come. Escape while you can!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 0,
+  "off": 32,
+  "len": 25,
+  "text": "Inside the holy shrine is",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 1,
+  "off": 59,
+  "len": 18,
+  "text": "the \"Cursed Book.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 2,
+  "off": 79,
+  "len": 26,
+  "text": "Do you wish to pick it up?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 3,
+  "off": 230,
+  "len": 16,
+  "text": "{NAME} did not touch",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 4,
+  "off": 248,
+  "len": 18,
+  "text": "the \"Cursed Book.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 5,
+  "off": 271,
+  "len": 23,
+  "text": "What trickery is this?!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 6,
+  "off": 296,
+  "len": 35,
+  "text": "The \"Cursed Book\" is an empty case!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 66,
+  "run": 7,
+  "off": 333,
+  "len": 24,
+  "text": "There is nothing inside!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 0,
+  "off": 16,
+  "len": 25,
+  "text": "In the holy shrine is the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 1,
+  "off": 43,
+  "len": 33,
+  "text": "\"Report on Excavating the Ancient",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 2,
+  "off": 78,
+  "len": 31,
+  "text": "Ruins.\" Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 3,
+  "off": 234,
+  "len": 12,
+  "text": "{NAME} put back ",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 4,
+  "off": 248,
+  "len": 25,
+  "text": "the \"Report on Excavating",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 5,
+  "off": 275,
+  "len": 19,
+  "text": "the Ancient Ruins.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 6,
+  "off": 354,
+  "len": 30,
+  "text": "This is indeed a blessing from",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 7,
+  "off": 386,
+  "len": 4,
+  "text": "Rem!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 8,
+  "off": 433,
+  "len": 29,
+  "text": "That such ruins existed right",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 9,
+  "off": 464,
+  "len": 26,
+  "text": "here in our home of Octam!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 10,
+  "off": 539,
+  "len": 26,
+  "text": "The ruins are in such good",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 11,
+  "off": 567,
+  "len": 34,
+  "text": "condition that we could move there",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 12,
+  "off": 603,
+  "len": 30,
+  "text": "tomorrow and live comfortably.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 13,
+  "off": 682,
+  "len": 30,
+  "text": "Moreover, with the underground",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 14,
+  "off": 714,
+  "len": 28,
+  "text": "power source the elevator...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 15,
+  "off": 829,
+  "len": 34,
+  "text": "The rest of the writing is blurred",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 67,
+  "run": 16,
+  "off": 865,
+  "len": 14,
+  "text": "and illegible!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 0,
+  "off": 16,
+  "len": 30,
+  "text": "In the sacred shrine is a book",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 1,
+  "off": 48,
+  "len": 31,
+  "text": "titled \"The Truth of the Mist.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 2,
+  "off": 81,
+  "len": 23,
+  "text": "Do you wish to read it?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 3,
+  "off": 229,
+  "len": 11,
+  "text": "{NAME} put back",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 4,
+  "off": 242,
+  "len": 24,
+  "text": "\"The Truth of the Mist.\"",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 5,
+  "off": 326,
+  "len": 21,
+  "text": "Be warned! Take heed!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 6,
+  "off": 349,
+  "len": 30,
+  "text": "The Mist is Death in disguise!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 7,
+  "off": 381,
+  "len": 32,
+  "text": "The Mist is a cradle of madness!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 8,
+  "off": 456,
+  "len": 17,
+  "text": "History warns us:",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 9,
+  "off": 475,
+  "len": 20,
+  "text": "The Mist stops time.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 10,
+  "off": 497,
+  "len": 22,
+  "text": "The Mist brings chaos.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 11,
+  "off": 562,
+  "len": 31,
+  "text": "When the evil Mist appears from",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 12,
+  "off": 595,
+  "len": 34,
+  "text": "the west horizon, leave everything",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 13,
+  "off": 631,
+  "len": 23,
+  "text": "and run for your lives!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 14,
+  "off": 697,
+  "len": 27,
+  "text": "The god Rem awaits you all,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 15,
+  "off": 726,
+  "len": 31,
+  "text": "in the hot depths of the earth.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 16,
+  "off": 800,
+  "len": 28,
+  "text": "Meeting at Shadow Gate! Four",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 17,
+  "off": 830,
+  "len": 31,
+  "text": "words will bring seed. The Star",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 68,
+  "run": 18,
+  "off": 863,
+  "len": 28,
+  "text": "Pearl will flower the stone!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 69,
+  "run": 0,
+  "off": 47,
+  "len": 29,
+  "text": "We took the place of the nuns",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 69,
+  "run": 1,
+  "off": 78,
+  "len": 19,
+  "text": "who died with Hari.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 70,
+  "run": 0,
+  "off": 47,
+  "len": 32,
+  "text": "Someday, a person like Hari will",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 70,
+  "run": 1,
+  "off": 81,
+  "len": 31,
+  "text": "appear to carry out the will of",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 70,
+  "run": 2,
+  "off": 114,
+  "len": 4,
+  "text": "Rem.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 70,
+  "run": 3,
+  "off": 121,
+  "len": 24,
+  "text": "That is what we believe.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 71,
+  "run": 0,
+  "off": 47,
+  "len": 30,
+  "text": "I want to read all the books I",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 71,
+  "run": 1,
+  "off": 79,
+  "len": 31,
+  "text": "can to learn about the Mist and",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 71,
+  "run": 2,
+  "off": 112,
+  "len": 9,
+  "text": "the Seru.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 72,
+  "run": 0,
+  "off": 61,
+  "len": 27,
+  "text": "Everyone used this elevator",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 72,
+  "run": 1,
+  "off": 90,
+  "len": 25,
+  "text": "to return to the surface.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 73,
+  "run": 0,
+  "off": 63,
+  "len": 27,
+  "text": "Did you know that there are",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 73,
+  "run": 1,
+  "off": 92,
+  "len": 31,
+  "text": "still some people underground?!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 74,
+  "run": 0,
+  "off": 47,
+  "len": 28,
+  "text": "This is a party to celebrate",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 74,
+  "run": 1,
+  "off": 77,
+  "len": 26,
+  "text": "our return to the surface!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 75,
+  "run": 0,
+  "off": 47,
+  "len": 32,
+  "text": "Peacetime like this is the best!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 75,
+  "run": 1,
+  "off": 81,
+  "len": 26,
+  "text": "It's all thanks to Hari --",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 75,
+  "run": 2,
+  "off": 109,
+  "len": 11,
+  "text": "and to you!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 0,
+  "off": 57,
+  "len": 33,
+  "text": "Are you going to Karisto Kingdom?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 1,
+  "off": 216,
+  "len": 27,
+  "text": "Oh, so I heard wrong, then.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 2,
+  "off": 248,
+  "len": 29,
+  "text": "Karisto Kingdom is said to be",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 3,
+  "off": 279,
+  "len": 27,
+  "text": "the cradle of civilization.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 4,
+  "off": 309,
+  "len": 32,
+  "text": "It's the home of the megalopolis",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 5,
+  "off": 343,
+  "len": 28,
+  "text": "Sol and Uru Mais, where Seru",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 6,
+  "off": 373,
+  "len": 10,
+  "text": "come from.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 7,
+  "off": 388,
+  "len": 25,
+  "text": "I wish I could go to Sol ",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 76,
+  "run": 8,
+  "off": 415,
+  "len": 21,
+  "text": "and have a good time!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 77,
+  "run": 0,
+  "off": 55,
+  "len": 23,
+  "text": "Ah, it's been ten years",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 77,
+  "run": 1,
+  "off": 80,
+  "len": 21,
+  "text": "since I've been here!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 80,
+  "run": 0,
+  "off": 49,
+  "len": 32,
+  "text": "Thanks to you, I can reopen this",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 80,
+  "run": 1,
+  "off": 83,
+  "len": 27,
+  "text": "place. I owe it all to you!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 81,
+  "run": 0,
+  "off": 51,
+  "len": 15,
+  "text": "Here's to Hari!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 81,
+  "run": 1,
+  "off": 68,
+  "len": 13,
+  "text": "Here's to {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 81,
+  "run": 2,
+  "off": 83,
+  "len": 21,
+  "text": "Here's to {NAME:02}! Cheers!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 81,
+  "run": 3,
+  "off": 107,
+  "len": 25,
+  "text": "And here's to cute little",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 81,
+  "run": 4,
+  "off": 134,
+  "len": 11,
+  "text": "{NAME:01}! Cheers!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 82,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:85}",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 82,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 82,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 82,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:85}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 82,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 83,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 83,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:7A}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 0,
+  "off": 265,
+  "len": 15,
+  "text": "{NAME:01}: It's Octam!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 1,
+  "off": 291,
+  "len": 19,
+  "text": "This must be Octam!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 2,
+  "off": 383,
+  "len": 26,
+  "text": "{NAME:02}: Yes, this would appear",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 3,
+  "off": 411,
+  "len": 27,
+  "text": "to be the Octam as was told",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 4,
+  "off": 440,
+  "len": 21,
+  "text": "to me in past dreams.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 5,
+  "off": 815,
+  "len": 11,
+  "text": "{NAME:01}: Hooray!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 6,
+  "off": 828,
+  "len": 21,
+  "text": "We're in Octam! Yeah!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 7,
+  "off": 859,
+  "len": 28,
+  "text": "{NAME:01}: That means Hari is here,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 8,
+  "off": 889,
+  "len": 32,
+  "text": "right? He's the one who can tell",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 9,
+  "off": 923,
+  "len": 23,
+  "text": "me what my dreams mean!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 10,
+  "off": 1037,
+  "len": 9,
+  "text": "{NAME:01}: Hari!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 11,
+  "off": 1140,
+  "len": 21,
+  "text": "{NAME:01}: So where is Hari?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 12,
+  "off": 1319,
+  "len": 26,
+  "text": "I want you to tell me what",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 13,
+  "off": 1347,
+  "len": 15,
+  "text": "my dreams mean!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 14,
+  "off": 1504,
+  "len": 30,
+  "text": "Calm down! You must calm down!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 15,
+  "off": 1681,
+  "len": 10,
+  "text": "{NAME:01}: But...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 16,
+  "off": 1806,
+  "len": 11,
+  "text": "{NAME:02}: Listen!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 17,
+  "off": 1819,
+  "len": 25,
+  "text": "Look around you! Octam is",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 18,
+  "off": 1846,
+  "len": 22,
+  "text": "enveloped in the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 19,
+  "off": 2001,
+  "len": 22,
+  "text": "{NAME:02}: Could any ordinary",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 20,
+  "off": 2025,
+  "len": 26,
+  "text": "human beings survive here?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 21,
+  "off": 2105,
+  "len": 17,
+  "text": "{NAME:01}: But I just...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 22,
+  "off": 2167,
+  "len": 20,
+  "text": "{NAME:02}: {NAME:01}, forget about",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 23,
+  "off": 2189,
+  "len": 29,
+  "text": "Hari for now! We can look for",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 24,
+  "off": 2220,
+  "len": 26,
+  "text": "him when the Mist is gone.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 25,
+  "off": 2296,
+  "len": 19,
+  "text": "{NAME:01}: You're so mean,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 26,
+  "off": 2317,
+  "len": 13,
+  "text": "{NAME:02}! Waa! Waa!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 27,
+  "off": 2477,
+  "len": 17,
+  "text": "{NAME:01}: Wait, I know!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 28,
+  "off": 2496,
+  "len": 32,
+  "text": "The Genesis Tree! If we find it,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 29,
+  "off": 2530,
+  "len": 26,
+  "text": "we can drive out the Mist!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 30,
+  "off": 2559,
+  "len": 17,
+  "text": "{NAME:01}: Terra! Terra!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 31,
+  "off": 2578,
+  "len": 28,
+  "text": "Tell me, is the Genesis Tree",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 32,
+  "off": 2608,
+  "len": 9,
+  "text": "close by?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 33,
+  "off": 2751,
+  "len": 33,
+  "text": "Unfortunately, I do not sense the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 34,
+  "off": 2786,
+  "len": 32,
+  "text": "presence of a Genesis Tree here.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 35,
+  "off": 2897,
+  "len": 22,
+  "text": "{NAME:01}: No! It's not fair!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 36,
+  "off": 2921,
+  "len": 5,
+  "text": "Waaa!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 37,
+  "off": 3188,
+  "len": 18,
+  "text": "What do you think?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 38,
+  "off": 3213,
+  "len": 27,
+  "text": "Let's at least look around.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 39,
+  "off": 3242,
+  "len": 29,
+  "text": "We must save the world first.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 40,
+  "off": 3452,
+  "len": 21,
+  "text": "{NAME:01}: Oh, {NAME}, you're my",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 41,
+  "off": 3475,
+  "len": 9,
+  "text": "favorite!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 42,
+  "off": 3497,
+  "len": 17,
+  "text": "{NAME:01}: So there, {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 43,
+  "off": 3516,
+  "len": 23,
+  "text": "You have to do whatever",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 44,
+  "off": 3541,
+  "len": 8,
+  "text": "{NAME} says.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 45,
+  "off": 3586,
+  "len": 20,
+  "text": "{NAME:02}: Very well, then.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 46,
+  "off": 3608,
+  "len": 30,
+  "text": "But if we don't find anything,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 47,
+  "off": 3640,
+  "len": 11,
+  "text": "{NAME:01}, then...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 48,
+  "off": 3700,
+  "len": 25,
+  "text": "{NAME:02}: You must forget about",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 49,
+  "off": 3727,
+  "len": 21,
+  "text": "Octam and about Hari.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 50,
+  "off": 3814,
+  "len": 13,
+  "text": "{NAME:01}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 51,
+  "off": 3899,
+  "len": 21,
+  "text": "{NAME:02}: But, {NAME}, there is",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 52,
+  "off": 3922,
+  "len": 27,
+  "text": "something that troubles me.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 53,
+  "off": 3988,
+  "len": 25,
+  "text": "{NAME:02}: In Mist-covered towns",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 54,
+  "off": 4015,
+  "len": 33,
+  "text": "there are always people possessed",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 55,
+  "off": 4050,
+  "len": 32,
+  "text": "by Seru. But I detect none here.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 56,
+  "off": 4121,
+  "len": 25,
+  "text": "{NAME:02}: If we must search the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 57,
+  "off": 4148,
+  "len": 28,
+  "text": "town, let's be very careful.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 58,
+  "off": 4322,
+  "len": 21,
+  "text": "{NAME:01}: {NAME:02}, you talk like",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 59,
+  "off": 4345,
+  "len": 16,
+  "text": "such a big shot!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 60,
+  "off": 4413,
+  "len": 14,
+  "text": "look for Hari!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 61,
+  "off": 4601,
+  "len": 12,
+  "text": "{NAME:01}: Boo hoo!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 62,
+  "off": 4747,
+  "len": 9,
+  "text": "{NAME:01}: Waaa!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 63,
+  "off": 4844,
+  "len": 23,
+  "text": "I know you are anxious,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 64,
+  "off": 4869,
+  "len": 20,
+  "text": "but look around you!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 65,
+  "off": 4892,
+  "len": 25,
+  "text": "{PAL:9}{M7}{PAL:7}: The Mist is here,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 66,
+  "off": 4919,
+  "len": 32,
+  "text": "but there are no signs of people",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 67,
+  "off": 4953,
+  "len": 18,
+  "text": "possessed by Seru.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 68,
+  "off": 5066,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: There must be a reason.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 69,
+  "off": 5192,
+  "len": 25,
+  "text": "{PAL:5}{M7:02}{PAL:7}: Perhaps we should",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 70,
+  "off": 5219,
+  "len": 12,
+  "text": "investigate.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 71,
+  "off": 5372,
+  "len": 8,
+  "text": "{NAME:01}: See!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 72,
+  "off": 5382,
+  "len": 27,
+  "text": "Meta and Ozma say we should",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 73,
+  "off": 5411,
+  "len": 12,
+  "text": "look around!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 74,
+  "off": 5465,
+  "len": 8,
+  "text": "{NAME:02}: Hmm.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 75,
+  "off": 5519,
+  "len": 27,
+  "text": "let's look around the town!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 76,
+  "off": 5613,
+  "len": 4,
+  "text": "2<CC>'E",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 77,
+  "off": 5653,
+  "len": 22,
+  "text": "{NAME:02}: I suppose we must.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 78,
+  "off": 5677,
+  "len": 21,
+  "text": "We may learn some new",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 90,
+  "run": 79,
+  "off": 5700,
+  "len": 15,
+  "text": "things as well.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 0,
+  "off": 160,
+  "len": 27,
+  "text": "Alluring Voice: Well, well!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 1,
+  "off": 189,
+  "len": 26,
+  "text": "So you're here to look for",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 2,
+  "off": 217,
+  "len": 14,
+  "text": "treasure, too?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 3,
+  "off": 632,
+  "len": 16,
+  "text": "{NAME:01}: Who are you?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 4,
+  "off": 651,
+  "len": 28,
+  "text": "{NAME:02}: What are you doing here?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 5,
+  "off": 685,
+  "len": 27,
+  "text": "Alluring Voice: Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 6,
+  "off": 1027,
+  "len": 24,
+  "text": "Mystery Woman: What am I",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 7,
+  "off": 1053,
+  "len": 29,
+  "text": "doing? Some greeting that is!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 8,
+  "off": 1085,
+  "len": 26,
+  "text": "Mystery Woman: I should be",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 9,
+  "off": 1113,
+  "len": 22,
+  "text": "asking you what you're",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 10,
+  "off": 1137,
+  "len": 11,
+  "text": "doing here!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 11,
+  "off": 1245,
+  "len": 28,
+  "text": "introduce myself. I am Cara,",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 12,
+  "off": 1275,
+  "len": 16,
+  "text": "a two-bit thief!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 13,
+  "off": 1490,
+  "len": 18,
+  "text": "This is {NAME} and {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 14,
+  "off": 1558,
+  "len": 9,
+  "text": "{NAME:02}: Cara!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 15,
+  "off": 1569,
+  "len": 21,
+  "text": "I ask you again! What",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 16,
+  "off": 1592,
+  "len": 19,
+  "text": "are you doing here?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 17,
+  "off": 1754,
+  "len": 25,
+  "text": "I'm doing what you are --",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 18,
+  "off": 1781,
+  "len": 15,
+  "text": "Sneak thieving!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 19,
+  "off": 1868,
+  "len": 19,
+  "text": "{NAME:01}: Sneak thieving?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 20,
+  "off": 1889,
+  "len": 12,
+  "text": "What's that?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 21,
+  "off": 1947,
+  "len": 23,
+  "text": "{NAME:02}: It's something bad!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 22,
+  "off": 1972,
+  "len": 22,
+  "text": "It means stealing from",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 23,
+  "off": 1996,
+  "len": 7,
+  "text": "people!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 24,
+  "off": 2225,
+  "len": 17,
+  "text": "{NAME:01}: That's wrong!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 25,
+  "off": 2244,
+  "len": 24,
+  "text": "Sneak thieving is wrong!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 26,
+  "off": 2270,
+  "len": 18,
+  "text": "I hate bad people!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 27,
+  "off": 2375,
+  "len": 9,
+  "text": "Cara: Ha!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 28,
+  "off": 2386,
+  "len": 29,
+  "text": "Give me a break! Stop talking",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 29,
+  "off": 2417,
+  "len": 24,
+  "text": "like a goodie two-shoes!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 30,
+  "off": 2450,
+  "len": 32,
+  "text": "Cara: You mean you're going home",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 31,
+  "off": 2484,
+  "len": 34,
+  "text": "empty handed, even though everyone",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 32,
+  "off": 2520,
+  "len": 34,
+  "text": "ran away and the town is deserted?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 33,
+  "off": 2648,
+  "len": 26,
+  "text": "{NAME:02}: What did you just say?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 34,
+  "off": 2676,
+  "len": 18,
+  "text": "Everyone ran away?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 35,
+  "off": 3022,
+  "len": 27,
+  "text": "Cara: Oh, boy, you guys are",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 36,
+  "off": 3051,
+  "len": 30,
+  "text": "really clueless! That's right!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 37,
+  "off": 3083,
+  "len": 16,
+  "text": "Everyone's gone!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 38,
+  "off": 3117,
+  "len": 35,
+  "text": "Cara: The townspeople knew the Mist",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 39,
+  "off": 3154,
+  "len": 34,
+  "text": "was coming, and took the eleveator",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 40,
+  "off": 3190,
+  "len": 34,
+  "text": "to an underground shelter to hide.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 41,
+  "off": 3298,
+  "len": 25,
+  "text": "{NAME:01}: Underground? Shelter?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 42,
+  "off": 3426,
+  "len": 24,
+  "text": "{NAME:01}: So he's still alive!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 43,
+  "off": 3452,
+  "len": 34,
+  "text": "Hari's still alive! Let's take the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 44,
+  "off": 3488,
+  "len": 25,
+  "text": "elevator and go find him!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 45,
+  "off": 3662,
+  "len": 34,
+  "text": "Cara: Sorry, kid, but the elevator",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 46,
+  "off": 3698,
+  "len": 28,
+  "text": "won't work. It's locked, for",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 47,
+  "off": 3728,
+  "len": 14,
+  "text": "safety's sake.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 48,
+  "off": 3815,
+  "len": 16,
+  "text": "{NAME:01}: Oh, boo hoo!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 49,
+  "off": 3930,
+  "len": 18,
+  "text": "Cara: Oh, brother.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 50,
+  "off": 3950,
+  "len": 28,
+  "text": "Uh, say... if it's valuables",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 51,
+  "off": 3980,
+  "len": 34,
+  "text": "you're after, there are none here!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 52,
+  "off": 4017,
+  "len": 31,
+  "text": "Cara: The townspeople must have",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 53,
+  "off": 4050,
+  "len": 31,
+  "text": "taken everything with them when",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 54,
+  "off": 4083,
+  "len": 22,
+  "text": "they went underground.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 55,
+  "off": 4237,
+  "len": 32,
+  "text": "Cara: The only thing I found was",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 56,
+  "off": 4271,
+  "len": 29,
+  "text": "some measly jewel, called the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 57,
+  "off": 4302,
+  "len": 25,
+  "text": "Star Pearl, or something.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 58,
+  "off": 4408,
+  "len": 28,
+  "text": "The Star Pearl! Where is it?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 59,
+  "off": 4443,
+  "len": 24,
+  "text": "<05><9E><1F>Cara: Let me think...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 60,
+  "off": 4469,
+  "len": 31,
+  "text": "I think I palmed it off on some",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 61,
+  "off": 4502,
+  "len": 31,
+  "text": "jeweler in some town somewhere.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 62,
+  "off": 4581,
+  "len": 16,
+  "text": "<1F>{NAME:02}: Cara, wait!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 63,
+  "off": 4599,
+  "len": 29,
+  "text": "I still have much to ask you!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 64,
+  "off": 4826,
+  "len": 15,
+  "text": "Cara: Oh, yeah?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 65,
+  "off": 4843,
+  "len": 33,
+  "text": "Well I don't have anything to say",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 66,
+  "off": 4878,
+  "len": 22,
+  "text": "to you! See you later!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 67,
+  "off": 5083,
+  "len": 27,
+  "text": "{NAME:02}: I don't get it. How can",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 68,
+  "off": 5112,
+  "len": 30,
+  "text": "she travel through the Mist at",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 69,
+  "off": 5144,
+  "len": 26,
+  "text": "will -- without a Ra-Seru?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 70,
+  "off": 5338,
+  "len": 19,
+  "text": "{NAME:01}: The Star Pearl!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 71,
+  "off": 5359,
+  "len": 27,
+  "text": "{NAME}, she sold the Star Pearl",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 102,
+  "run": 72,
+  "off": 5388,
+  "len": 13,
+  "text": "to a jeweler!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 0,
+  "off": 403,
+  "len": 12,
+  "text": "{NAME:01}: Boo hoo!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 1,
+  "off": 417,
+  "len": 13,
+  "text": "Where are we?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 2,
+  "off": 437,
+  "len": 19,
+  "text": "We may be dreaming.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 3,
+  "off": 458,
+  "len": 22,
+  "text": "I have no idea at all.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 4,
+  "off": 510,
+  "len": 14,
+  "text": "{NAME:02}: Perhaps...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 5,
+  "off": 526,
+  "len": 32,
+  "text": "But if this is a dream, it feels",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 6,
+  "off": 560,
+  "len": 33,
+  "text": "different from an ordinary dream.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 7,
+  "off": 629,
+  "len": 19,
+  "text": "{NAME:02}: This feeling...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 8,
+  "off": 650,
+  "len": 35,
+  "text": "It's probably a dream, yet it feels",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 9,
+  "off": 687,
+  "len": 33,
+  "text": "different from an ordinary dream.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 10,
+  "off": 861,
+  "len": 22,
+  "text": "{NAME:02}: What's the matter?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 11,
+  "off": 965,
+  "len": 12,
+  "text": "{NAME:01}: A voice!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 12,
+  "off": 979,
+  "len": 15,
+  "text": "I hear a voice!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 13,
+  "off": 1033,
+  "len": 14,
+  "text": "{NAME:01}: Who is it?",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 14,
+  "off": 1103,
+  "len": 16,
+  "text": "{NAME:01}: My mother...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 15,
+  "off": 1121,
+  "len": 25,
+  "text": "It sounds like my mother!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 16,
+  "off": 1152,
+  "len": 25,
+  "text": "{NAME:01}! I am not your mother!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 17,
+  "off": 1222,
+  "len": 16,
+  "text": "My name is Hari!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 18,
+  "off": 1240,
+  "len": 29,
+  "text": "I inhabit a world between the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 19,
+  "off": 1271,
+  "len": 32,
+  "text": "dream world and the human world.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 20,
+  "off": 1305,
+  "len": 26,
+  "text": "I have a message for those",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 21,
+  "off": 1333,
+  "len": 26,
+  "text": "in the human world and who",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 22,
+  "off": 1361,
+  "len": 21,
+  "text": "are with the Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 23,
+  "off": 1384,
+  "len": 23,
+  "text": "They are the true words",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 24,
+  "off": 1409,
+  "len": 7,
+  "text": "of Rem.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 25,
+  "off": 1418,
+  "len": 28,
+  "text": "Go to Octam, the ancient yet",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 26,
+  "off": 1448,
+  "len": 29,
+  "text": "eternal city, far away in the",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 27,
+  "off": 1479,
+  "len": 17,
+  "text": "heart of Sebucus.",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 28,
+  "off": 1498,
+  "len": 33,
+  "text": "There, compassionate human beings",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 29,
+  "off": 1533,
+  "len": 34,
+  "text": "will learn the true meaning of all",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 30,
+  "off": 1569,
+  "len": 7,
+  "text": "dreams!",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 31,
+  "off": 1875,
+  "len": 11,
+  "text": "{NAME:02}: Hari...",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 32,
+  "off": 1957,
+  "len": 25,
+  "text": "{NAME:01}: Hari is going to tell",
+  "ko": ""
+ },
+ {
+  "map": 210,
+  "script": 115,
+  "run": 33,
+  "off": 1984,
+  "len": 26,
+  "text": "us what our dreams mean...",
+  "ko": ""
+ }
+]

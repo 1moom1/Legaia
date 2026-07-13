@@ -1,0 +1,3998 @@
+[
+ {
+  "map": 357,
+  "script": 7,
+  "run": 0,
+  "off": 35,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 1,
+  "off": 56,
+  "len": 31,
+  "text": "Escape from the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 2,
+  "off": 98,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 3,
+  "off": 106,
+  "len": 34,
+  "text": "Escape from the Floating Castle ON",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 4,
+  "off": 142,
+  "len": 35,
+  "text": "Escape from the Floating Castle OFF",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 5,
+  "off": 179,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 6,
+  "off": 198,
+  "len": 24,
+  "text": "Journey to the Seru-kai>",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 7,
+  "off": 224,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 8,
+  "off": 261,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 9,
+  "off": 269,
+  "len": 27,
+  "text": "Journey to the Seru-kai> ON",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 10,
+  "off": 298,
+  "len": 28,
+  "text": "Journey to the Seru-kai> OFF",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 11,
+  "off": 328,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 12,
+  "off": 347,
+  "len": 33,
+  "text": "Escape from the Absolute Fortress",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 13,
+  "off": 382,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 14,
+  "off": 419,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 15,
+  "off": 427,
+  "len": 36,
+  "text": "Escape from the Absolute Fortress ON",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 16,
+  "off": 465,
+  "len": 37,
+  "text": "Escape from the Absolute Fortress OFF",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 17,
+  "off": 504,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 7,
+  "run": 18,
+  "off": 523,
+  "len": 17,
+  "text": "End flag settings",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 10,
+  "run": 0,
+  "off": 71,
+  "len": 26,
+  "text": "Luctes: The Elder lives in",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 10,
+  "run": 1,
+  "off": 99,
+  "len": 19,
+  "text": "the farthest house.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 10,
+  "run": 2,
+  "off": 120,
+  "len": 16,
+  "text": "Go speak to him.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 0,
+  "off": 79,
+  "len": 29,
+  "text": "Many times our Soren warriors",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 1,
+  "off": 110,
+  "len": 31,
+  "text": "attacked the Floating Castle...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 2,
+  "off": 144,
+  "len": 30,
+  "text": "Many precious lives were lost.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 3,
+  "off": 176,
+  "len": 33,
+  "text": "They were no match for the Mist's",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 4,
+  "off": 211,
+  "len": 28,
+  "text": "henchmen and their Sim-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 5,
+  "off": 244,
+  "len": 29,
+  "text": "Conkram, in the North Karisto",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 6,
+  "off": 275,
+  "len": 32,
+  "text": "Mountains, was a beautiful town.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 11,
+  "run": 7,
+  "off": 309,
+  "len": 10,
+  "text": "But now...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 0,
+  "off": 81,
+  "len": 30,
+  "text": "We Soren managed to escape the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 1,
+  "off": 113,
+  "len": 30,
+  "text": "Mist thanks to our Seru Wings.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 2,
+  "off": 146,
+  "len": 35,
+  "text": "But now, we're just biding our time",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 3,
+  "off": 183,
+  "len": 33,
+  "text": "until our extinction as a people.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 4,
+  "off": 239,
+  "len": 20,
+  "text": "You must destroy the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 5,
+  "off": 261,
+  "len": 26,
+  "text": "Floating Castle! You must!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 6,
+  "off": 314,
+  "len": 32,
+  "text": "I hear you are going to Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 7,
+  "off": 348,
+  "len": 16,
+  "text": "Be very careful!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 8,
+  "off": 367,
+  "len": 30,
+  "text": "Near Conkram is a massive Mist",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 9,
+  "off": 399,
+  "len": 33,
+  "text": "Generator, the Absolute Fortress,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 10,
+  "off": 434,
+  "len": 27,
+  "text": "and the Mist is very thick!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 11,
+  "off": 484,
+  "len": 21,
+  "text": "{NAME:01}, I'm sorry to hear",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 12,
+  "run": 12,
+  "off": 507,
+  "len": 14,
+  "text": "about Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 0,
+  "off": 83,
+  "len": 32,
+  "text": "We heard that down below, in Sol",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 1,
+  "off": 117,
+  "len": 31,
+  "text": "and Buma, the Mist has cleared.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 2,
+  "off": 151,
+  "len": 16,
+  "text": "Did you do that?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 3,
+  "off": 294,
+  "len": 21,
+  "text": "Oh, that's wonderful!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 4,
+  "off": 318,
+  "len": 23,
+  "text": "And now you're going to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 5,
+  "off": 343,
+  "len": 28,
+  "text": "destroy the Floating Castle?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 6,
+  "off": 374,
+  "len": 31,
+  "text": "Please be careful! The Floating",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 7,
+  "off": 407,
+  "len": 32,
+  "text": "Castle is a nest of demons! Many",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 8,
+  "off": 441,
+  "len": 34,
+  "text": "Soren have lost their lives there!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 9,
+  "off": 488,
+  "len": 31,
+  "text": "Please be careful! The Floating",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 10,
+  "off": 521,
+  "len": 32,
+  "text": "Castle is a nest of demons! Many",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 11,
+  "off": 555,
+  "len": 34,
+  "text": "Soren have lost their lives there!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 12,
+  "off": 594,
+  "len": 31,
+  "text": "Thanks to you, the lives of the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 13,
+  "off": 627,
+  "len": 28,
+  "text": "Soren killed at the Floating",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 13,
+  "run": 14,
+  "off": 657,
+  "len": 33,
+  "text": "Castle have finally been avenged!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 0,
+  "off": 79,
+  "len": 30,
+  "text": "Grantes was a good man, but he",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 1,
+  "off": 111,
+  "len": 31,
+  "text": "was too trusting. That's why he",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 2,
+  "off": 144,
+  "len": 26,
+  "text": "fell for Zora's deception.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 3,
+  "off": 175,
+  "len": 33,
+  "text": "The demons of the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 4,
+  "off": 210,
+  "len": 24,
+  "text": "are dreadful and strong.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 5,
+  "off": 236,
+  "len": 11,
+  "text": "Be careful!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 6,
+  "off": 256,
+  "len": 32,
+  "text": "According to air reconnaissance,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 7,
+  "off": 290,
+  "len": 30,
+  "text": "there are four Mist Generators",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 8,
+  "off": 322,
+  "len": 9,
+  "text": "on earth.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 9,
+  "off": 334,
+  "len": 33,
+  "text": "The Absolute Fortress, which lies",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 10,
+  "off": 369,
+  "len": 29,
+  "text": "north of Conkram, is the last",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 11,
+  "off": 400,
+  "len": 15,
+  "text": "Mist Generator.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 12,
+  "off": 420,
+  "len": 30,
+  "text": "If you want Grantes, he should",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 14,
+  "run": 13,
+  "off": 452,
+  "len": 11,
+  "text": "be in Buma.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 15,
+  "run": 0,
+  "off": 95,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 16,
+  "run": 0,
+  "off": 70,
+  "len": 11,
+  "text": "Ha, ha, ha!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 0,
+  "off": 85,
+  "len": 34,
+  "text": "The Soren have martial arts, too. ",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 1,
+  "off": 121,
+  "len": 34,
+  "text": "But the greatest master and secret",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 2,
+  "off": 157,
+  "len": 34,
+  "text": "book were lost at Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 3,
+  "off": 194,
+  "len": 33,
+  "text": "If you go to the Floating Castle,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 4,
+  "off": 229,
+  "len": 31,
+  "text": "look for the secret book. It is",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 5,
+  "off": 262,
+  "len": 21,
+  "text": "called Soren Secrets.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 6,
+  "off": 286,
+  "len": 25,
+  "text": "If you bring us the Soren",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 7,
+  "off": 313,
+  "len": 25,
+  "text": "Secrets, I'm sure it will",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 8,
+  "off": 340,
+  "len": 18,
+  "text": "help you some way.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 9,
+  "off": 367,
+  "len": 32,
+  "text": "The Soren have their own form of",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 10,
+  "off": 401,
+  "len": 33,
+  "text": "martial arts. But the secret book",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 11,
+  "off": 436,
+  "len": 32,
+  "text": "was lost at the Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 12,
+  "off": 471,
+  "len": 16,
+  "text": "How unfortunate.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 13,
+  "off": 492,
+  "len": 29,
+  "text": "Apparently you failed to find",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 14,
+  "off": 523,
+  "len": 18,
+  "text": "the Soren Secrets.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 15,
+  "off": 543,
+  "len": 16,
+  "text": "How unfortunate.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 16,
+  "off": 568,
+  "len": 32,
+  "text": "The Soren have their own form of",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 17,
+  "off": 602,
+  "len": 33,
+  "text": "martial arts. But its secret book",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 18,
+  "off": 637,
+  "len": 32,
+  "text": "was lost at the Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 19,
+  "off": 672,
+  "len": 10,
+  "text": "(Surprise)",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 20,
+  "off": 685,
+  "len": 30,
+  "text": "Hey! That's the Soren Secrets!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 21,
+  "off": 717,
+  "len": 35,
+  "text": "Give it to me! I'll read it to you!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 22,
+  "off": 761,
+  "len": 24,
+  "text": "Hey! You found the Soren",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 23,
+  "off": 787,
+  "len": 23,
+  "text": "Secrets! Give it to me!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 24,
+  "off": 812,
+  "len": 20,
+  "text": "I'll read it to you!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 25,
+  "off": 843,
+  "len": 13,
+  "text": "{NAME} handed the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 26,
+  "off": 858,
+  "len": 27,
+  "text": "Soren Secrets to the Soren.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 27,
+  "off": 891,
+  "len": 8,
+  "text": "Ah, yes!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 28,
+  "off": 901,
+  "len": 28,
+  "text": "Now, shall I read it to you?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 29,
+  "off": 941,
+  "len": 20,
+  "text": "Show me Arts for {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 30,
+  "off": 963,
+  "len": 20,
+  "text": "Show me Arts for {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 31,
+  "off": 985,
+  "len": 20,
+  "text": "Show me Arts for {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 32,
+  "off": 1007,
+  "len": 32,
+  "text": "You don't have to read it to me.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 33,
+  "off": 1042,
+  "len": 29,
+  "text": "What? You want me to read you",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 34,
+  "off": 1073,
+  "len": 20,
+  "text": "the Soren Esoterica?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 35,
+  "off": 1105,
+  "len": 20,
+  "text": "Show me Arts for {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 36,
+  "off": 1127,
+  "len": 20,
+  "text": "Show me Arts for {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 37,
+  "off": 1149,
+  "len": 20,
+  "text": "Show me Arts for {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 38,
+  "off": 1171,
+  "len": 32,
+  "text": "You don't have to read it to me.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 39,
+  "off": 1206,
+  "len": 30,
+  "text": "Shall I read you another part?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 40,
+  "off": 1248,
+  "len": 20,
+  "text": "Show me Arts for {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 41,
+  "off": 1270,
+  "len": 20,
+  "text": "Show me Arts for {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 42,
+  "off": 1292,
+  "len": 20,
+  "text": "Show me Arts for {NAME:02}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 43,
+  "off": 1314,
+  "len": 32,
+  "text": "You don't have to read it to me.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 44,
+  "off": 1349,
+  "len": 29,
+  "text": "Very well. But come by again,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 45,
+  "off": 1380,
+  "len": 29,
+  "text": "if you need anything from me.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 46,
+  "off": 1424,
+  "len": 11,
+  "text": "I know! {NAME},",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 47,
+  "off": 1437,
+  "len": 28,
+  "text": "you could probably use this!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 48,
+  "off": 1468,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 49,
+  "off": 1503,
+  "len": 25,
+  "text": "What? I thought I already",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 50,
+  "off": 1530,
+  "len": 20,
+  "text": "taught you this, {NAME}.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 51,
+  "off": 1556,
+  "len": 19,
+  "text": "So you already know",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 52,
+  "off": 1590,
+  "len": 7,
+  "text": "eh, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 53,
+  "off": 1613,
+  "len": 11,
+  "text": "I know! {NAME:01},",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 54,
+  "off": 1626,
+  "len": 28,
+  "text": "you could probably use this!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 55,
+  "off": 1657,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 56,
+  "off": 1692,
+  "len": 25,
+  "text": "What? I thought I already",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 57,
+  "off": 1719,
+  "len": 20,
+  "text": "taught you this, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 58,
+  "off": 1745,
+  "len": 19,
+  "text": "So you already know",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 59,
+  "off": 1779,
+  "len": 7,
+  "text": "eh, {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 60,
+  "off": 1802,
+  "len": 11,
+  "text": "I know! {NAME:02},",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 61,
+  "off": 1815,
+  "len": 28,
+  "text": "you could probably use this!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 62,
+  "off": 1846,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 63,
+  "off": 1881,
+  "len": 25,
+  "text": "What? I thought I already",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 64,
+  "off": 1908,
+  "len": 20,
+  "text": "taught you this, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 65,
+  "off": 1934,
+  "len": 19,
+  "text": "So you already know",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 20,
+  "run": 66,
+  "off": 1968,
+  "len": 7,
+  "text": "eh, {NAME:02}?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 21,
+  "run": 0,
+  "off": 79,
+  "len": 34,
+  "text": "If you need any Soren accessories,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 21,
+  "run": 1,
+  "off": 115,
+  "len": 30,
+  "text": "I'll sell them to you at cost.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 21,
+  "run": 2,
+  "off": 173,
+  "len": 32,
+  "text": "Remember, there is only one sky!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 21,
+  "run": 3,
+  "off": 207,
+  "len": 26,
+  "text": "I'll pray for your success",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 21,
+  "run": 4,
+  "off": 235,
+  "len": 10,
+  "text": "in battle!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 0,
+  "off": 83,
+  "len": 31,
+  "text": "There's only a simple bed here.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 1,
+  "off": 116,
+  "len": 31,
+  "text": "Do you want to rest here before",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 2,
+  "off": 149,
+  "len": 7,
+  "text": "you go?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 3,
+  "off": 281,
+  "len": 12,
+  "text": "Sleep tight!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 4,
+  "off": 427,
+  "len": 11,
+  "text": "Be careful!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 5,
+  "off": 443,
+  "len": 25,
+  "text": "Come back anytime. You're",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 22,
+  "run": 6,
+  "off": 470,
+  "len": 20,
+  "text": "always welcome here!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 0,
+  "off": 79,
+  "len": 25,
+  "text": "Do you want to hear about",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 1,
+  "off": 106,
+  "len": 8,
+  "text": "Grantes?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 2,
+  "off": 239,
+  "len": 30,
+  "text": "Luctes and Grantes are sons of",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 3,
+  "off": 271,
+  "len": 25,
+  "text": "Cructes, the Soren Elder.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 4,
+  "off": 299,
+  "len": 31,
+  "text": "Grantes was the younger brother",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 5,
+  "off": 332,
+  "len": 32,
+  "text": "of Luctes. The two brothers were",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 6,
+  "off": 366,
+  "len": 11,
+  "text": "very close.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 7,
+  "off": 380,
+  "len": 29,
+  "text": "But then Grantes fell in love",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 8,
+  "off": 411,
+  "len": 30,
+  "text": "with a surface-dwelling human.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 9,
+  "off": 444,
+  "len": 31,
+  "text": "Then Grantes was deceived by an",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 10,
+  "off": 477,
+  "len": 34,
+  "text": "evil person who exploited Grantes'",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 11,
+  "off": 513,
+  "len": 29,
+  "text": "devotion to the one he loved.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 12,
+  "off": 545,
+  "len": 29,
+  "text": "That cruel deceiver was Zora,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 13,
+  "off": 576,
+  "len": 29,
+  "text": "queen of the Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 14,
+  "off": 608,
+  "len": 35,
+  "text": "She promised Grantes Seru Wings for",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 15,
+  "off": 645,
+  "len": 33,
+  "text": "Cara, if he would steal a Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 16,
+  "off": 680,
+  "len": 29,
+  "text": "Egg from Buma's Genesis Tree.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 17,
+  "off": 712,
+  "len": 27,
+  "text": "Unwittingly, Grantes helped",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 18,
+  "off": 741,
+  "len": 26,
+  "text": "build the Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 19,
+  "off": 770,
+  "len": 32,
+  "text": "Then the Mist came. When Cructes",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 20,
+  "off": 804,
+  "len": 29,
+  "text": "learned of Grantes' betrayal,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 21,
+  "off": 835,
+  "len": 27,
+  "text": "he was left with no choice.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 22,
+  "off": 865,
+  "len": 32,
+  "text": "He took away Grantes' Seru Wings",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 23,
+  "off": 899,
+  "len": 31,
+  "text": "and banished him to the Mist in",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 24,
+  "off": 932,
+  "len": 26,
+  "text": "accordance with Soren law!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 25,
+  "off": 961,
+  "len": 32,
+  "text": "As Grantes' father, and as Soren",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 26,
+  "off": 995,
+  "len": 32,
+  "text": "Elder, it was a painful decision",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 27,
+  "off": 1029,
+  "len": 12,
+  "text": "for Cructes.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 28,
+  "off": 1046,
+  "len": 26,
+  "text": "I'm sure a surface-dweller",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 29,
+  "off": 1074,
+  "len": 22,
+  "text": "just can't understand.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 30,
+  "off": 1107,
+  "len": 32,
+  "text": "Conkram's royal family are about",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 31,
+  "off": 1141,
+  "len": 34,
+  "text": "the only surface-dwellers who have",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 32,
+  "off": 1177,
+  "len": 27,
+  "text": "had contact with the Soren.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 33,
+  "off": 1207,
+  "len": 18,
+  "text": "That reminds me...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 34,
+  "off": 1228,
+  "len": 25,
+  "text": "There was a Soren who was",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 35,
+  "off": 1255,
+  "len": 27,
+  "text": "summoned by the King before",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 36,
+  "off": 1284,
+  "len": 14,
+  "text": "the Mist came.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 37,
+  "off": 1301,
+  "len": 30,
+  "text": "He never returned. What do you",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 38,
+  "off": 1333,
+  "len": 33,
+  "text": "think could have happened to him?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 39,
+  "off": 1369,
+  "len": 34,
+  "text": "Rumor has it that he was trying to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 40,
+  "off": 1405,
+  "len": 33,
+  "text": "carry something out of Conkram as",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 23,
+  "run": 41,
+  "off": 1440,
+  "len": 30,
+  "text": "it was being engulfed by Mist.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 24,
+  "run": 0,
+  "off": 79,
+  "len": 27,
+  "text": "Seru Wings are created in a",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 24,
+  "run": 1,
+  "off": 108,
+  "len": 27,
+  "text": "secret ceremony. Each Soren",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 24,
+  "run": 2,
+  "off": 137,
+  "len": 23,
+  "text": "receives only one Seru.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 25,
+  "run": 0,
+  "off": 79,
+  "len": 32,
+  "text": "Welcome. We sell goods here that",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 25,
+  "run": 1,
+  "off": 113,
+  "len": 22,
+  "text": "are Soren specialties.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 25,
+  "run": 2,
+  "off": 167,
+  "len": 22,
+  "text": "Thank you! Come again!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 0,
+  "off": 79,
+  "len": 32,
+  "text": "The Soren love wind and freedom.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 1,
+  "off": 113,
+  "len": 31,
+  "text": "My people followed the seasonal",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 2,
+  "off": 146,
+  "len": 26,
+  "text": "winds, like winged nomads!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 3,
+  "off": 175,
+  "len": 30,
+  "text": "We once had camps all over the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 4,
+  "off": 207,
+  "len": 29,
+  "text": "world, but today we have only",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 5,
+  "off": 238,
+  "len": 11,
+  "text": "this place.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 6,
+  "off": 258,
+  "len": 31,
+  "text": "I hear the situation in Conkram",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 7,
+  "off": 291,
+  "len": 27,
+  "text": "is grim. You'd better equip",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 8,
+  "off": 320,
+  "len": 26,
+  "text": "yourself for a hard fight!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 9,
+  "off": 351,
+  "len": 33,
+  "text": "From now we Soren want to live in",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 10,
+  "off": 386,
+  "len": 31,
+  "text": "harmony with earthbound humans,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 26,
+  "run": 11,
+  "off": 419,
+  "len": 20,
+  "text": "fellow human beings!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 27,
+  "run": 0,
+  "off": 79,
+  "len": 35,
+  "text": "There may be plenty of weapons, but",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 27,
+  "run": 1,
+  "off": 116,
+  "len": 33,
+  "text": "there are no more soldiers to use",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 27,
+  "run": 2,
+  "off": 151,
+  "len": 5,
+  "text": "them.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 27,
+  "run": 3,
+  "off": 161,
+  "len": 34,
+  "text": "The King and Queen of Conkram have",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 27,
+  "run": 4,
+  "off": 197,
+  "len": 35,
+  "text": "two children, a son and a daughter.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 0,
+  "off": 79,
+  "len": 28,
+  "text": "Cructes: So Grantes gave the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 1,
+  "off": 109,
+  "len": 21,
+  "text": "Soren Flute to you...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 2,
+  "off": 133,
+  "len": 15,
+  "text": "Cructes: I see.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 3,
+  "off": 157,
+  "len": 32,
+  "text": "Cructes: Only one Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 4,
+  "off": 191,
+  "len": 23,
+  "text": "remains on the surface!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 5,
+  "off": 217,
+  "len": 36,
+  "text": "Cructes: If you destroy the Absolute",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 6,
+  "off": 255,
+  "len": 32,
+  "text": "Fortress, north of Conkram, then",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 7,
+  "off": 289,
+  "len": 35,
+  "text": "the Mist will disappear completely!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 8,
+  "off": 329,
+  "len": 26,
+  "text": "Cructes: Grantes and I had",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 9,
+  "off": 357,
+  "len": 12,
+  "text": "a long talk.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 10,
+  "off": 372,
+  "len": 32,
+  "text": "Cructes: About the causes, about",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 11,
+  "off": 406,
+  "len": 30,
+  "text": "the problems, about what to do",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 12,
+  "off": 438,
+  "len": 6,
+  "text": "now...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 13,
+  "off": 447,
+  "len": 34,
+  "text": "Cructes: We decided to let bygones",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 14,
+  "off": 483,
+  "len": 31,
+  "text": "be bygones, for the sake of the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 15,
+  "off": 516,
+  "len": 34,
+  "text": "Soren and human's future together.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 16,
+  "off": 553,
+  "len": 29,
+  "text": "Cructes: I had forgotten that",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 17,
+  "off": 584,
+  "len": 29,
+  "text": "living for the future is what",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 28,
+  "run": 18,
+  "off": 615,
+  "len": 36,
+  "text": "breathes life into the human spirit.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 0,
+  "off": 96,
+  "len": 31,
+  "text": "I have told our Elder, Cructes,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 1,
+  "off": 129,
+  "len": 14,
+  "text": "all about you.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 2,
+  "off": 148,
+  "len": 35,
+  "text": "When you are ready to leave for the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 3,
+  "off": 185,
+  "len": 32,
+  "text": "Floating Castle, go tell Luctes.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 4,
+  "off": 219,
+  "len": 19,
+  "text": "He's in the square.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 5,
+  "off": 247,
+  "len": 31,
+  "text": "Soon... Very soon, now, the age",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 6,
+  "off": 280,
+  "len": 25,
+  "text": "of the Mist will be over!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 7,
+  "off": 310,
+  "len": 31,
+  "text": "What's the matter? All the Mist",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 8,
+  "off": 343,
+  "len": 25,
+  "text": "Generators are destroyed.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 29,
+  "run": 9,
+  "off": 370,
+  "len": 24,
+  "text": "Why do you look so glum?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 0,
+  "off": 96,
+  "len": 18,
+  "text": "It's me, remember?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 1,
+  "off": 116,
+  "len": 29,
+  "text": "I was the one who carried you",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 2,
+  "off": 147,
+  "len": 9,
+  "text": "here, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 3,
+  "off": 161,
+  "len": 32,
+  "text": "I will be responsible for taking",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 4,
+  "off": 195,
+  "len": 27,
+  "text": "you to the Floating Castle ",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 5,
+  "off": 224,
+  "len": 7,
+  "text": "safely.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 6,
+  "off": 236,
+  "len": 34,
+  "text": "Our children will learn about your",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 7,
+  "off": 272,
+  "len": 23,
+  "text": "brave deeds, as part of",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 30,
+  "run": 8,
+  "off": 297,
+  "len": 14,
+  "text": "Soren history.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 0,
+  "off": 79,
+  "len": 31,
+  "text": "Luctes may seem unfriendly, but",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 1,
+  "off": 112,
+  "len": 28,
+  "text": "he's someone you can rely on",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 2,
+  "off": 142,
+  "len": 24,
+  "text": "when the chips are down.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 3,
+  "off": 171,
+  "len": 27,
+  "text": "I see. That thing they call",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 4,
+  "off": 200,
+  "len": 24,
+  "text": "the Mist Generator is in",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 5,
+  "off": 226,
+  "len": 20,
+  "text": "the Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 6,
+  "off": 251,
+  "len": 33,
+  "text": "Go talk to Luctes, in the square.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 31,
+  "run": 7,
+  "off": 286,
+  "len": 26,
+  "text": "He'll take you to Conkram.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 0,
+  "off": 79,
+  "len": 32,
+  "text": "Luctes is quite distressed about",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 1,
+  "off": 113,
+  "len": 28,
+  "text": "his younger brother Grantes'",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 2,
+  "off": 143,
+  "len": 10,
+  "text": "situation.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 3,
+  "off": 162,
+  "len": 32,
+  "text": "I think Grantes will be forgiven",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 4,
+  "off": 196,
+  "len": 33,
+  "text": "once the world is completely free",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 5,
+  "off": 231,
+  "len": 12,
+  "text": "of the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 6,
+  "off": 248,
+  "len": 31,
+  "text": "The past is the past. We should",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 32,
+  "run": 7,
+  "off": 281,
+  "len": 23,
+  "text": "look toward the future.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 34,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7B}",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 34,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 34,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 34,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7B}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 34,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 35,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8E}",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 35,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 35,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 35,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:8E}!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 35,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 0,
+  "off": 36,
+  "len": 31,
+  "text": "Luctes: It seems that the Elder",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 1,
+  "off": 69,
+  "len": 25,
+  "text": "has given his permission.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 2,
+  "off": 97,
+  "len": 32,
+  "text": "Luctes: Now, then. I'll take you",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 3,
+  "off": 131,
+  "len": 23,
+  "text": "to the Floating Castle!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 4,
+  "off": 161,
+  "len": 9,
+  "text": "Let's go!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 5,
+  "off": 289,
+  "len": 32,
+  "text": "Luctes: Good! Now hold on tight!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 6,
+  "off": 336,
+  "len": 31,
+  "text": "Luctes: What? Do you need to go",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 7,
+  "off": 369,
+  "len": 24,
+  "text": "to the bathroom? Oh, you",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 8,
+  "off": 395,
+  "len": 17,
+  "text": "surface-dwellers!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 9,
+  "off": 415,
+  "len": 29,
+  "text": "Luctes: Well, pull yourselves",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 36,
+  "run": 10,
+  "off": 446,
+  "len": 31,
+  "text": "together and get ready quickly!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 0,
+  "off": 306,
+  "len": 15,
+  "text": "Luctes: {NAME}, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 1,
+  "off": 323,
+  "len": 17,
+  "text": "And you, too, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 2,
+  "off": 342,
+  "len": 31,
+  "text": "Please excuse my past rudeness.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 3,
+  "off": 376,
+  "len": 32,
+  "text": "Luctes: I had lost my pride as a",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 4,
+  "off": 410,
+  "len": 20,
+  "text": "Soren. I was bitter.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 5,
+  "off": 440,
+  "len": 30,
+  "text": "Luctes: I was a fool. But you,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 6,
+  "off": 472,
+  "len": 29,
+  "text": "heroes of Ra-Seru, you opened",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 7,
+  "off": 503,
+  "len": 8,
+  "text": "my eyes.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 8,
+  "off": 526,
+  "len": 35,
+  "text": "Luctes: Thank you! I am grateful --",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 9,
+  "off": 563,
+  "len": 28,
+  "text": "from the bottom of my heart!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 10,
+  "off": 826,
+  "len": 25,
+  "text": "Luctes: It's almost time.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 11,
+  "off": 854,
+  "len": 30,
+  "text": "Luctes: Now, shall we head for",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 12,
+  "off": 886,
+  "len": 29,
+  "text": "Conkram, in the North Karisto",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 13,
+  "off": 917,
+  "len": 10,
+  "text": "Mountains?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 14,
+  "off": 1052,
+  "len": 25,
+  "text": "Luctes: {NAME}, are you ready",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 15,
+  "off": 1079,
+  "len": 21,
+  "text": "to leave for Conkram?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 16,
+  "off": 1225,
+  "len": 25,
+  "text": "Luctes: {NAME}, are you ready",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 17,
+  "off": 1252,
+  "len": 22,
+  "text": "to go to the last Mist",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 18,
+  "off": 1276,
+  "len": 33,
+  "text": "Generator, the Absolute Fortress?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 19,
+  "off": 1569,
+  "len": 28,
+  "text": "Luctes: Because of the thick",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 20,
+  "off": 1599,
+  "len": 26,
+  "text": "Mist there, you'll have to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 21,
+  "off": 1627,
+  "len": 13,
+  "text": "parachute in.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 22,
+  "off": 1643,
+  "len": 24,
+  "text": "Luctes: Here, take this!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 23,
+  "off": 1682,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 24,
+  "off": 1694,
+  "len": 17,
+  "text": "the Door of Wind.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 25,
+  "off": 1717,
+  "len": 27,
+  "text": "Luctes: The Door of Wind is",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 26,
+  "off": 1746,
+  "len": 25,
+  "text": "the only way to get back.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 27,
+  "off": 1773,
+  "len": 12,
+  "text": "Use it well!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 28,
+  "off": 2257,
+  "len": 29,
+  "text": "Luctes: Very well. Call on me",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 29,
+  "off": 2288,
+  "len": 25,
+  "text": "again when you are ready.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 30,
+  "off": 2353,
+  "len": 27,
+  "text": "Luctes: It's almost time...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 31,
+  "off": 2383,
+  "len": 30,
+  "text": "Luctes: Now, shall we head for",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 32,
+  "off": 2415,
+  "len": 29,
+  "text": "Conkram, in the North Karisto",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 33,
+  "off": 2446,
+  "len": 10,
+  "text": "Mountains?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 34,
+  "off": 2581,
+  "len": 28,
+  "text": "Luctes: {NAME}, are you ready to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 35,
+  "off": 2611,
+  "len": 30,
+  "text": "go to the last Mist Generator,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 36,
+  "off": 2643,
+  "len": 22,
+  "text": "the Absolute Fortress?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 37,
+  "off": 2790,
+  "len": 19,
+  "text": "Luctes: {NAME}, are you",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 38,
+  "off": 2811,
+  "len": 27,
+  "text": "ready to leave for Conkram?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 39,
+  "off": 3034,
+  "len": 31,
+  "text": "Luctes: What? Do you want me to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 40,
+  "off": 3067,
+  "len": 26,
+  "text": "take you to Conkram or the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 41,
+  "off": 3095,
+  "len": 24,
+  "text": "Absolute Fortress again?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 42,
+  "off": 3244,
+  "len": 29,
+  "text": "Luctes: Ah, that's right! The",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 43,
+  "off": 3275,
+  "len": 29,
+  "text": "Absolute Fortress has already",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 44,
+  "off": 3306,
+  "len": 15,
+  "text": "been destroyed.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 45,
+  "off": 3391,
+  "len": 23,
+  "text": "Luctes: Very well. I'll",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 46,
+  "off": 3416,
+  "len": 15,
+  "text": "take you there.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 47,
+  "off": 3434,
+  "len": 32,
+  "text": "Luctes: But even though the Mist",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 48,
+  "off": 3468,
+  "len": 31,
+  "text": "is gone, I'm still uneasy about",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 49,
+  "off": 3501,
+  "len": 20,
+  "text": "flying around there.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 50,
+  "off": 3524,
+  "len": 32,
+  "text": "Luctes: You'll have to parachute",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 51,
+  "off": 3558,
+  "len": 23,
+  "text": "in again, so take this!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 52,
+  "off": 3596,
+  "len": 10,
+  "text": "{NAME} now has",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 37,
+  "run": 53,
+  "off": 3608,
+  "len": 17,
+  "text": "the Door of Wind!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 41,
+  "run": 0,
+  "off": 1268,
+  "len": 26,
+  "text": "Luctes: The Elder lives in",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 41,
+  "run": 1,
+  "off": 1296,
+  "len": 19,
+  "text": "the farthest house.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 41,
+  "run": 2,
+  "off": 1317,
+  "len": 16,
+  "text": "Go speak to him.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 0,
+  "off": 139,
+  "len": 26,
+  "text": "Cructes: How horrifying...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 1,
+  "off": 167,
+  "len": 30,
+  "text": "The Mist's henchmen were using",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 2,
+  "off": 199,
+  "len": 29,
+  "text": "a Ra-Seru to create the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 3,
+  "off": 291,
+  "len": 29,
+  "text": "{PAL:9}{M7}{PAL:7}: The Mist Generator is",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 4,
+  "off": 322,
+  "len": 30,
+  "text": "a machine that uses Ra-Seru as",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 5,
+  "off": 354,
+  "len": 28,
+  "text": "a catalyst to make the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 6,
+  "off": 500,
+  "len": 30,
+  "text": "{PAL:5}{M7:02}{PAL:7}: A Ra-Seru also has the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 7,
+  "off": 532,
+  "len": 31,
+  "text": "power to take the life of other",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 8,
+  "off": 565,
+  "len": 8,
+  "text": "Ra-Seru.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 9,
+  "off": 576,
+  "len": 32,
+  "text": "{PAL:5}{M7:02}{PAL:7}: So far we have destroyed",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 10,
+  "off": 610,
+  "len": 30,
+  "text": "Mist Generators by killing the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 11,
+  "off": 642,
+  "len": 22,
+  "text": "Ra-Seru sealed inside.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 12,
+  "off": 733,
+  "len": 30,
+  "text": "{NAME:02}: It must've been painful to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 13,
+  "off": 765,
+  "len": 30,
+  "text": "kill a fellow Ra-Seru, even if",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 14,
+  "off": 797,
+  "len": 31,
+  "text": "to destroy the Mist Generators.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 15,
+  "off": 877,
+  "len": 24,
+  "text": "{NAME:01}: Terra, I'm so sorry.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 16,
+  "off": 903,
+  "len": 29,
+  "text": "I didn't realize why you were",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 17,
+  "off": 934,
+  "len": 7,
+  "text": "so sad.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 18,
+  "off": 998,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: There was nothing else to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 19,
+  "off": 1033,
+  "len": 33,
+  "text": "do. But I am sure the Ra-Seru who",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 20,
+  "off": 1068,
+  "len": 32,
+  "text": "died with the Mist Generators...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 21,
+  "off": 1103,
+  "len": 35,
+  "text": "{PAL:4}{M7:01}{PAL:7}: ...are better off dead than",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 22,
+  "off": 1140,
+  "len": 21,
+  "text": "living to serve evil.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 23,
+  "off": 1190,
+  "len": 24,
+  "text": "{NAME:02}: It was a bittersweet",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 24,
+  "off": 1216,
+  "len": 8,
+  "text": "victory.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 25,
+  "off": 1227,
+  "len": 14,
+  "text": "{NAME:02}: Even so...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 26,
+  "off": 1243,
+  "len": 35,
+  "text": "Songi said that the Floating Castle",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 27,
+  "off": 1280,
+  "len": 18,
+  "text": "was merely a trap.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 28,
+  "off": 1301,
+  "len": 24,
+  "text": "{NAME:02}: If that's true, then",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 29,
+  "off": 1327,
+  "len": 28,
+  "text": "where is the Mist in Karisto",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 30,
+  "off": 1357,
+  "len": 20,
+  "text": "Kingdom coming from?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 31,
+  "off": 1521,
+  "len": 27,
+  "text": "Cructes: I can't understand",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 32,
+  "off": 1550,
+  "len": 30,
+  "text": "what the Ra-Seru are saying to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 33,
+  "off": 1582,
+  "len": 4,
+  "text": "you.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 34,
+  "off": 1589,
+  "len": 24,
+  "text": "Cructes: But, if you are",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 35,
+  "off": 1615,
+  "len": 25,
+  "text": "discussing {NAME:02}'s question,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 36,
+  "off": 1642,
+  "len": 33,
+  "text": "I have already investigated that.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 37,
+  "off": 1716,
+  "len": 32,
+  "text": "Cructes: Having now learned that",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 38,
+  "off": 1750,
+  "len": 26,
+  "text": "the Floating Castle's Mist",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 39,
+  "off": 1778,
+  "len": 25,
+  "text": "Generator is powerless...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 40,
+  "off": 1806,
+  "len": 35,
+  "text": "Cructes: I ordered a reconnaissance",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 41,
+  "off": 1843,
+  "len": 31,
+  "text": "team to find the Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 42,
+  "off": 1876,
+  "len": 33,
+  "text": "generating the Mist over Karisto.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 43,
+  "off": 1936,
+  "len": 29,
+  "text": "Cructes: They found it in the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 44,
+  "off": 1967,
+  "len": 30,
+  "text": "mountains of North Karisto! If",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 45,
+  "off": 1999,
+  "len": 29,
+  "text": "only we could destroy it now.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 46,
+  "off": 2031,
+  "len": 28,
+  "text": "Cructes: All of Legaia would",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 47,
+  "off": 2061,
+  "len": 28,
+  "text": "be free of the Mist forever!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 48,
+  "off": 2099,
+  "len": 30,
+  "text": "Cructes: The Mist Generator is",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 49,
+  "off": 2131,
+  "len": 33,
+  "text": "near Conkram, which once fought a",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 50,
+  "off": 2166,
+  "len": 13,
+  "text": "war with Sol.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 51,
+  "off": 2182,
+  "len": 33,
+  "text": "Cructes: In Conkram, you may also",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 52,
+  "off": 2217,
+  "len": 28,
+  "text": "find out about {NAME:01}'s parents,",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 53,
+  "off": 2247,
+  "len": 8,
+  "text": "as well.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 54,
+  "off": 2303,
+  "len": 26,
+  "text": "Cructes: It is the Soren's",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 55,
+  "off": 2331,
+  "len": 23,
+  "text": "duty to take you there!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 56,
+  "off": 2357,
+  "len": 28,
+  "text": "Cructes: This I have already",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 57,
+  "off": 2387,
+  "len": 21,
+  "text": "ordered Luctes to do.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 58,
+  "off": 2475,
+  "len": 29,
+  "text": "Cructes: You should leave for",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 59,
+  "off": 2506,
+  "len": 33,
+  "text": "Conkram as soon as you are ready.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 60,
+  "off": 2815,
+  "len": 27,
+  "text": "did you hear that? Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 61,
+  "off": 2844,
+  "len": 23,
+  "text": "We're going to Conkram!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 62,
+  "off": 2870,
+  "len": 26,
+  "text": "{NAME:01}: I finally get to go to",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 63,
+  "off": 2898,
+  "len": 28,
+  "text": "Conkram, where my mother and",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 42,
+  "run": 64,
+  "off": 2928,
+  "len": 11,
+  "text": "father are!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 43,
+  "run": 0,
+  "off": 628,
+  "len": 33,
+  "text": "Luctes: As we speak, the Floating",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 43,
+  "run": 1,
+  "off": 663,
+  "len": 26,
+  "text": "Castle is churning out the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 43,
+  "run": 2,
+  "off": 691,
+  "len": 16,
+  "text": "detestable Mist.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 43,
+  "run": 3,
+  "off": 710,
+  "len": 29,
+  "text": "Luctes: Take care of whatever",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 43,
+  "run": 4,
+  "off": 741,
+  "len": 33,
+  "text": "business you must attend to, then",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 43,
+  "run": 5,
+  "off": 776,
+  "len": 20,
+  "text": "return here quickly.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 0,
+  "off": 30,
+  "len": 27,
+  "text": "Luctes: Are you ready to go",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 1,
+  "off": 59,
+  "len": 27,
+  "text": "to the Floating Castle now?",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 2,
+  "off": 211,
+  "len": 31,
+  "text": "Luctes: We'll be flying at full",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 3,
+  "off": 244,
+  "len": 21,
+  "text": "speed! Hold on tight!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 4,
+  "off": 277,
+  "len": 13,
+  "text": "Luctes: Hmmf!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 5,
+  "off": 293,
+  "len": 27,
+  "text": "Oh, you surface-dwellers...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 44,
+  "run": 6,
+  "off": 322,
+  "len": 16,
+  "text": "Always the same!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 0,
+  "off": 118,
+  "len": 31,
+  "text": "Cructes: Welcome, brave humans!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 1,
+  "off": 151,
+  "len": 32,
+  "text": "We have already heard about your",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 2,
+  "off": 185,
+  "len": 13,
+  "text": "heroic deeds!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 3,
+  "off": 231,
+  "len": 31,
+  "text": "Cructes: Most impressive! I now",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 4,
+  "off": 264,
+  "len": 34,
+  "text": "realize that you truly possess the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 5,
+  "off": 300,
+  "len": 34,
+  "text": "determination to save the world...",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 6,
+  "off": 420,
+  "len": 26,
+  "text": "Cructes: We've tried every",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 7,
+  "off": 448,
+  "len": 36,
+  "text": "tactic against that Floating Castle.",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 8,
+  "off": 487,
+  "len": 34,
+  "text": "Cructes: But, you, with the powers",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 9,
+  "off": 523,
+  "len": 31,
+  "text": "of your Ra-Seru, should be able",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 10,
+  "off": 556,
+  "len": 14,
+  "text": "to destroy it!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 11,
+  "off": 582,
+  "len": 32,
+  "text": "Cructes: I have decided that the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 12,
+  "off": 616,
+  "len": 22,
+  "text": "Soren should help you!",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 13,
+  "off": 641,
+  "len": 35,
+  "text": "Cructes: Go speak to Luctes, in the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 14,
+  "off": 678,
+  "len": 31,
+  "text": "square. He will take you to the",
+  "ko": ""
+ },
+ {
+  "map": 357,
+  "script": 45,
+  "run": 15,
+  "off": 711,
+  "len": 16,
+  "text": "Floating Castle.",
+  "ko": ""
+ }
+]

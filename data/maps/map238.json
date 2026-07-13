@@ -1,0 +1,326 @@
+[
+ {
+  "map": 238,
+  "script": 4,
+  "run": 0,
+  "off": 68,
+  "len": 29,
+  "text": "e'e(e)e*e+e,e-e.!!!!.<19><CD><F8><09>S:ct",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 5,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 5,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 5,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 5,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 5,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 6,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 6,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 6,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 6,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 6,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 7,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:C0}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 7,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 7,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 7,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:C0}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 7,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 8,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8E}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 8,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 8,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 8,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:8E}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 8,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 9,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:78}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 9,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 9,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 9,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:78}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 9,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 10,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:81}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 10,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 10,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 10,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:81}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 10,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 11,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:8C}",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 11,
+  "run": 1,
+  "off": 65,
+  "len": 23,
+  "text": "in the treasure chest! ",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 11,
+  "run": 2,
+  "off": 96,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 11,
+  "run": 3,
+  "off": 108,
+  "len": 7,
+  "text": "the {ITEM:8C}!",
+  "ko": ""
+ },
+ {
+  "map": 238,
+  "script": 11,
+  "run": 4,
+  "off": 130,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ }
+]

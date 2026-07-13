@@ -1,0 +1,956 @@
+[
+ {
+  "map": 691,
+  "script": 42,
+  "run": 0,
+  "off": 553,
+  "len": 26,
+  "text": "{NAME:01}: I've felt this feeling",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 1,
+  "off": 581,
+  "len": 9,
+  "text": "before...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 2,
+  "off": 891,
+  "len": 31,
+  "text": "Where do you think you're going",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 3,
+  "off": 924,
+  "len": 12,
+  "text": "on your own?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 4,
+  "off": 1190,
+  "len": 18,
+  "text": "{NAME:02}: {NAME}, we have to",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 5,
+  "off": 1210,
+  "len": 10,
+  "text": "follow {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 6,
+  "off": 1488,
+  "len": 19,
+  "text": "{NAME:01}: My b-brother...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 7,
+  "off": 1509,
+  "len": 13,
+  "text": "He's alive...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 8,
+  "off": 1878,
+  "len": 25,
+  "text": "{NAME:02}: Just as Songi said - ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 9,
+  "off": 1905,
+  "len": 30,
+  "text": "Cort has fused with Juggernaut",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 10,
+  "off": 1937,
+  "len": 26,
+  "text": "and is still alive. But...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 11,
+  "off": 1987,
+  "len": 20,
+  "text": "{NAME:02}: How horrifying. ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 12,
+  "off": 2009,
+  "len": 14,
+  "text": "How bizarre...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 13,
+  "off": 2025,
+  "len": 29,
+  "text": "He couldn't be human anymore.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 14,
+  "off": 2215,
+  "len": 18,
+  "text": "{NAME:01}: No! No! Stop! ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 15,
+  "off": 2235,
+  "len": 8,
+  "text": "Stop it!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 16,
+  "off": 2886,
+  "len": 21,
+  "text": "{NAME:01}: Cort, come back! ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 17,
+  "off": 2909,
+  "len": 30,
+  "text": "Turn back into a person again!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 18,
+  "off": 2960,
+  "len": 22,
+  "text": "{NAME:01}: Why did you do it?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 19,
+  "off": 2984,
+  "len": 19,
+  "text": "You're my brother! ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 20,
+  "off": 3005,
+  "len": 28,
+  "text": "You're supposed to be human!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 21,
+  "off": 3131,
+  "len": 16,
+  "text": "{NAME:01}: I'm a human!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 22,
+  "off": 3149,
+  "len": 18,
+  "text": "I know about love!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 23,
+  "off": 3265,
+  "len": 15,
+  "text": "{NAME:01}: I am human!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 24,
+  "off": 3282,
+  "len": 19,
+  "text": "I hate being alone!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 25,
+  "off": 3304,
+  "len": 26,
+  "text": "{NAME:01}: It's good to be human!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 26,
+  "off": 3332,
+  "len": 24,
+  "text": "So Cort, be human again!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 27,
+  "off": 3504,
+  "len": 13,
+  "text": "Cort: Hu-man?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 28,
+  "off": 3544,
+  "len": 9,
+  "text": "{NAME:01}: Cort!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 29,
+  "off": 3580,
+  "len": 12,
+  "text": "Cort: Human?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 30,
+  "off": 3594,
+  "len": 16,
+  "text": "Humans are weak.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 31,
+  "off": 3612,
+  "len": 17,
+  "text": "Humans are dirty.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 32,
+  "off": 3632,
+  "len": 28,
+  "text": "Cort: I gave up being human ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 33,
+  "off": 3662,
+  "len": 25,
+  "text": "to become a mighty being.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 34,
+  "off": 3690,
+  "len": 34,
+  "text": "Cort: I am a being that transcends",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 35,
+  "off": 3726,
+  "len": 22,
+  "text": "humans! Even the Seru!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 36,
+  "off": 3787,
+  "len": 23,
+  "text": "Cort: A perfect entity!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 37,
+  "off": 3812,
+  "len": 17,
+  "text": "A perfect entity!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 38,
+  "off": 3831,
+  "len": 15,
+  "text": "Perfect entity!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 39,
+  "off": 3849,
+  "len": 27,
+  "text": "Cort: Humans are imperfect.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 40,
+  "off": 3878,
+  "len": 27,
+  "text": "I will use all my powers to",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 41,
+  "off": 3907,
+  "len": 13,
+  "text": "destroy them!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 42,
+  "off": 4045,
+  "len": 27,
+  "text": "{NAME:01}: No! You're wrong, Cort!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 43,
+  "off": 4099,
+  "len": 21,
+  "text": "Cort: Who interferes?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 44,
+  "off": 4141,
+  "len": 16,
+  "text": "{NAME:01}: It's me, {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 45,
+  "off": 4203,
+  "len": 20,
+  "text": "Cort: {NAME:01}? Who is {NAME:01}?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 46,
+  "off": 4231,
+  "len": 19,
+  "text": "Cort: I know no {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 47,
+  "off": 4347,
+  "len": 19,
+  "text": "Cort: I need no {NAME:01}!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 48,
+  "off": 5053,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 49,
+  "off": 5463,
+  "len": 11,
+  "text": "{NAME:01}: Cort...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 50,
+  "off": 5537,
+  "len": 30,
+  "text": "Cort: I sense the presence of ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 51,
+  "off": 5569,
+  "len": 28,
+  "text": "humans! Weak, dirty humans! ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 52,
+  "off": 5599,
+  "len": 21,
+  "text": "I do not need humans!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 53,
+  "off": 5683,
+  "len": 25,
+  "text": "Cort: I must destroy the ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 42,
+  "run": 54,
+  "off": 5710,
+  "len": 12,
+  "text": "humans here!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 0,
+  "off": 551,
+  "len": 13,
+  "text": "{NAME:01}: (Silence)",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 1,
+  "off": 636,
+  "len": 27,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, I know how you ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 2,
+  "off": 665,
+  "len": 10,
+  "text": "must feel.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 3,
+  "off": 812,
+  "len": 27,
+  "text": "{PAL:9}{M7}{PAL:7}: We all did the best",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 4,
+  "off": 841,
+  "len": 9,
+  "text": "we could.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 5,
+  "off": 980,
+  "len": 33,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now the human world will ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 6,
+  "off": 1015,
+  "len": 28,
+  "text": "return to normal. However...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 7,
+  "off": 1139,
+  "len": 35,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Hari did the best he could,",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 8,
+  "off": 1176,
+  "len": 27,
+  "text": "but I think Noaru Valley is",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 9,
+  "off": 1205,
+  "len": 9,
+  "text": "done for.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 10,
+  "off": 1242,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: The age of Seru...",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 11,
+  "off": 1270,
+  "len": 16,
+  "text": "Our era is over.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 12,
+  "off": 1910,
+  "len": 31,
+  "text": "{PAL:9}{M7}{PAL:7}: We are now just part of",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 13,
+  "off": 1943,
+  "len": 27,
+  "text": "the collective memory known",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 14,
+  "off": 1972,
+  "len": 11,
+  "text": "as history.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 15,
+  "off": 2428,
+  "len": 26,
+  "text": "{PAL:5}{M7:02}{PAL:7}: It's a little sad,",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 16,
+  "off": 2456,
+  "len": 9,
+  "text": "isn't it?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 17,
+  "off": 3023,
+  "len": 7,
+  "text": "{NAME:01}: No!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 18,
+  "off": 3164,
+  "len": 25,
+  "text": "{NAME:01}: Terra, don't leave me",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 19,
+  "off": 3191,
+  "len": 22,
+  "text": "alone! Don't leave me!",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 20,
+  "off": 3255,
+  "len": 29,
+  "text": "{PAL:4}{M7:01}{PAL:7}: {NAME:01}, your parents were",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 21,
+  "off": 3286,
+  "len": 32,
+  "text": "killed by Seru. Yet, you want to",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 22,
+  "off": 3320,
+  "len": 20,
+  "text": "be with me, a Seru? ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 23,
+  "off": 3381,
+  "len": 20,
+  "text": "{PAL:4}{M7:01}{PAL:7}: And besides,",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 24,
+  "off": 3403,
+  "len": 17,
+  "text": "you're not alone.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 25,
+  "off": 3422,
+  "len": 19,
+  "text": "You have {NAME} and {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 26,
+  "off": 3559,
+  "len": 29,
+  "text": "{NAME:02}: Ozma, we have experienced",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 27,
+  "off": 3590,
+  "len": 32,
+  "text": "life and death together. How can",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 28,
+  "off": 3624,
+  "len": 17,
+  "text": "you leave me now?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 29,
+  "off": 3718,
+  "len": 30,
+  "text": "dependence on me caused you to",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 30,
+  "off": 3750,
+  "len": 26,
+  "text": "forget your own abilities?",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 31,
+  "off": 3956,
+  "len": 28,
+  "text": "{PAL:9}{M7}{PAL:7}: {NAME}, your heart is so",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 32,
+  "off": 3986,
+  "len": 15,
+  "text": "full of warmth.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 33,
+  "off": 4905,
+  "len": 15,
+  "text": "Thank you, {NAME}. ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 34,
+  "off": 4922,
+  "len": 16,
+  "text": "  Thank you, {NAME:01}.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 35,
+  "off": 4940,
+  "len": 18,
+  "text": "    Thank you, {NAME:02}.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 36,
+  "off": 4963,
+  "len": 28,
+  "text": "Together, we humans and Seru",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 37,
+  "off": 4993,
+  "len": 32,
+  "text": "were stronger even than ancient ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 38,
+  "off": 5027,
+  "len": 14,
+  "text": "Tieg himself. ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 39,
+  "off": 5046,
+  "len": 19,
+  "text": "We are now heading ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 40,
+  "off": 5067,
+  "len": 21,
+  "text": "beyond the twilight. ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 41,
+  "off": 5090,
+  "len": 23,
+  "text": "But do not forget this:",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 42,
+  "off": 5118,
+  "len": 25,
+  "text": "Humans and Seru are both ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 43,
+  "off": 5145,
+  "len": 26,
+  "text": "born of Tieg, and are one.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 44,
+  "off": 5173,
+  "len": 28,
+  "text": "They have lived through the ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 45,
+  "off": 5203,
+  "len": 9,
+  "text": "same era.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 46,
+  "off": 5217,
+  "len": 25,
+  "text": "It is time for humans to ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 47,
+  "off": 5244,
+  "len": 16,
+  "text": "create their own",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 48,
+  "off": 5262,
+  "len": 8,
+  "text": "futures.",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 49,
+  "off": 5292,
+  "len": 24,
+  "text": "This is the last of our ",
+  "ko": ""
+ },
+ {
+  "map": 691,
+  "script": 53,
+  "run": 50,
+  "off": 5318,
+  "len": 12,
+  "text": "Seru powers.",
+  "ko": ""
+ }
+]

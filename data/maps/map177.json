@@ -1,0 +1,2702 @@
+[
+ {
+  "map": 177,
+  "script": 2,
+  "run": 0,
+  "off": 62,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 1,
+  "off": 97,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 2,
+  "off": 132,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 3,
+  "off": 158,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 4,
+  "off": 195,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 5,
+  "off": 246,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 6,
+  "off": 283,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 7,
+  "off": 334,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 8,
+  "off": 372,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 9,
+  "off": 424,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 10,
+  "off": 462,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 11,
+  "off": 504,
+  "len": 33,
+  "text": "Do you wish to select a different",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 12,
+  "off": 539,
+  "len": 7,
+  "text": "symbol?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 13,
+  "off": 758,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 14,
+  "off": 793,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 15,
+  "off": 828,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 16,
+  "off": 839,
+  "len": 18,
+  "text": "To visit the past,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 17,
+  "off": 859,
+  "len": 20,
+  "text": "touch the South Key!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 18,
+  "off": 882,
+  "len": 34,
+  "text": "Which symbol do you wish to press?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 19,
+  "off": 927,
+  "len": 5,
+  "text": "Earth",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 20,
+  "off": 934,
+  "len": 5,
+  "text": "Water",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 21,
+  "off": 941,
+  "len": 4,
+  "text": "Fire",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 22,
+  "off": 947,
+  "len": 4,
+  "text": "Wind",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 23,
+  "off": 984,
+  "len": 29,
+  "text": "You pressed the Earth symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 24,
+  "off": 1052,
+  "len": 29,
+  "text": "You pressed the Water symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 25,
+  "off": 1120,
+  "len": 28,
+  "text": "You pressed the Fire symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 26,
+  "off": 1187,
+  "len": 28,
+  "text": "You pressed the Wind symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 27,
+  "off": 1525,
+  "len": 28,
+  "text": "Something's moving under us!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 28,
+  "off": 1555,
+  "len": 19,
+  "text": "Something's coming!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 29,
+  "off": 1631,
+  "len": 25,
+  "text": "{NAME:02}: I think we had better",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 30,
+  "off": 1658,
+  "len": 18,
+  "text": "prepare ourselves!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 31,
+  "off": 1756,
+  "len": 28,
+  "text": "Only those who are qualified",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 32,
+  "off": 1786,
+  "len": 30,
+  "text": "may visit the Gate of Shadows!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 33,
+  "off": 1843,
+  "len": 31,
+  "text": "Prepare to atone for thy crimes",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 34,
+  "off": 1876,
+  "len": 15,
+  "text": "with thy flesh!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 35,
+  "off": 2652,
+  "len": 22,
+  "text": "What will happen if we",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 36,
+  "off": 2676,
+  "len": 17,
+  "text": "answer correctly?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 37,
+  "off": 2747,
+  "len": 28,
+  "text": "{NAME:02}: We must be very careful!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 38,
+  "off": 2777,
+  "len": 24,
+  "text": "If we answer wrong again",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 39,
+  "off": 2803,
+  "len": 27,
+  "text": "the same thing will happen!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 40,
+  "off": 2919,
+  "len": 28,
+  "text": "Some sort of code is written",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 2,
+  "run": 41,
+  "off": 2949,
+  "len": 24,
+  "text": "on the statue's surface.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 0,
+  "off": 62,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 1,
+  "off": 97,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 2,
+  "off": 132,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 3,
+  "off": 158,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 4,
+  "off": 195,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 5,
+  "off": 246,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 6,
+  "off": 283,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 7,
+  "off": 334,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 8,
+  "off": 372,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 9,
+  "off": 424,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 10,
+  "off": 462,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 11,
+  "off": 504,
+  "len": 33,
+  "text": "Do you wish to select a different",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 12,
+  "off": 539,
+  "len": 7,
+  "text": "symbol?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 13,
+  "off": 758,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 14,
+  "off": 793,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 15,
+  "off": 828,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 16,
+  "off": 839,
+  "len": 18,
+  "text": "To visit the past,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 17,
+  "off": 859,
+  "len": 19,
+  "text": "touch the West Key!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 18,
+  "off": 881,
+  "len": 34,
+  "text": "Which symbol do you wish to press?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 19,
+  "off": 926,
+  "len": 5,
+  "text": "Earth",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 20,
+  "off": 933,
+  "len": 5,
+  "text": "Water",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 21,
+  "off": 940,
+  "len": 4,
+  "text": "Fire",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 22,
+  "off": 946,
+  "len": 4,
+  "text": "Wind",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 23,
+  "off": 983,
+  "len": 29,
+  "text": "You pressed the Earth symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 24,
+  "off": 1051,
+  "len": 29,
+  "text": "You pressed the Water symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 25,
+  "off": 1119,
+  "len": 28,
+  "text": "You pressed the Fire symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 26,
+  "off": 1186,
+  "len": 28,
+  "text": "You pressed the Wind symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 27,
+  "off": 1524,
+  "len": 28,
+  "text": "Something's moving under us!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 28,
+  "off": 1554,
+  "len": 19,
+  "text": "Something's coming!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 29,
+  "off": 1630,
+  "len": 25,
+  "text": "{NAME:02}: I think we had better",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 30,
+  "off": 1657,
+  "len": 18,
+  "text": "prepare ourselves!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 31,
+  "off": 1751,
+  "len": 32,
+  "text": "Only those who are qualified may",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 32,
+  "off": 1785,
+  "len": 26,
+  "text": "visit the Gate of Shadows!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 33,
+  "off": 1838,
+  "len": 31,
+  "text": "Prepare to atone for thy crimes",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 34,
+  "off": 1871,
+  "len": 15,
+  "text": "with thy flesh!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 35,
+  "off": 2647,
+  "len": 22,
+  "text": "What will happen if we",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 36,
+  "off": 2671,
+  "len": 17,
+  "text": "answer correctly?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 37,
+  "off": 2742,
+  "len": 28,
+  "text": "{NAME:02}: We must be very careful!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 38,
+  "off": 2772,
+  "len": 25,
+  "text": "If we answer wrong again,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 39,
+  "off": 2799,
+  "len": 27,
+  "text": "the same thing will happen!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 40,
+  "off": 2923,
+  "len": 28,
+  "text": "Some sort of code is written",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 3,
+  "run": 41,
+  "off": 2953,
+  "len": 24,
+  "text": "on the statue's surface.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 0,
+  "off": 64,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 1,
+  "off": 99,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 2,
+  "off": 134,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 3,
+  "off": 160,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 4,
+  "off": 197,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 5,
+  "off": 248,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 6,
+  "off": 285,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 7,
+  "off": 336,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 8,
+  "off": 374,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 9,
+  "off": 426,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 10,
+  "off": 464,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 11,
+  "off": 506,
+  "len": 33,
+  "text": "Do you wish to select a different",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 12,
+  "off": 541,
+  "len": 7,
+  "text": "symbol?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 13,
+  "off": 760,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 14,
+  "off": 795,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 15,
+  "off": 830,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 16,
+  "off": 841,
+  "len": 19,
+  "text": "To visit the past, ",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 17,
+  "off": 862,
+  "len": 19,
+  "text": "touch the East Key!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 18,
+  "off": 884,
+  "len": 34,
+  "text": "Which symbol do you wish to press?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 19,
+  "off": 929,
+  "len": 5,
+  "text": "Earth",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 20,
+  "off": 936,
+  "len": 5,
+  "text": "Water",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 21,
+  "off": 943,
+  "len": 4,
+  "text": "Fire",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 22,
+  "off": 949,
+  "len": 4,
+  "text": "Wind",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 23,
+  "off": 986,
+  "len": 29,
+  "text": "You pressed the Earth symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 24,
+  "off": 1054,
+  "len": 29,
+  "text": "You pressed the Water symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 25,
+  "off": 1122,
+  "len": 28,
+  "text": "You pressed the Fire symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 26,
+  "off": 1189,
+  "len": 28,
+  "text": "You pressed the Wind symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 27,
+  "off": 1527,
+  "len": 28,
+  "text": "Something's moving under us!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 28,
+  "off": 1557,
+  "len": 19,
+  "text": "Something's coming!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 29,
+  "off": 1633,
+  "len": 25,
+  "text": "{NAME:02}: I think we had better",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 30,
+  "off": 1660,
+  "len": 18,
+  "text": "prepare ourselves!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 31,
+  "off": 1758,
+  "len": 32,
+  "text": "Only those who are qualified may",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 32,
+  "off": 1792,
+  "len": 26,
+  "text": "visit the Gate of Shadows!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 33,
+  "off": 1845,
+  "len": 31,
+  "text": "Prepare to atone for thy crimes",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 34,
+  "off": 1878,
+  "len": 15,
+  "text": "with thy flesh!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 35,
+  "off": 2654,
+  "len": 22,
+  "text": "What will happen if we",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 36,
+  "off": 2678,
+  "len": 17,
+  "text": "answer correctly?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 37,
+  "off": 2749,
+  "len": 28,
+  "text": "{NAME:02}: We must be very careful!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 38,
+  "off": 2779,
+  "len": 25,
+  "text": "If we answer wrong again,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 39,
+  "off": 2806,
+  "len": 27,
+  "text": "the same thing will happen!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 40,
+  "off": 2930,
+  "len": 28,
+  "text": "Some sort of code is written",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 4,
+  "run": 41,
+  "off": 2960,
+  "len": 24,
+  "text": "on the statue's surface.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 0,
+  "off": 64,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 1,
+  "off": 99,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 2,
+  "off": 134,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 3,
+  "off": 160,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 4,
+  "off": 197,
+  "len": 31,
+  "text": "The Wind Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 5,
+  "off": 248,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 6,
+  "off": 285,
+  "len": 31,
+  "text": "The Fire Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 7,
+  "off": 336,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 8,
+  "off": 374,
+  "len": 32,
+  "text": "The Water Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 9,
+  "off": 426,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 10,
+  "off": 464,
+  "len": 32,
+  "text": "The Earth Symbol is pressed now.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 11,
+  "off": 506,
+  "len": 33,
+  "text": "Do you wish to select a different",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 12,
+  "off": 541,
+  "len": 7,
+  "text": "symbol?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 13,
+  "off": 760,
+  "len": 33,
+  "text": "On the stone figure are weathered",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 14,
+  "off": 795,
+  "len": 33,
+  "text": "letters and a row of four strange",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 15,
+  "off": 830,
+  "len": 8,
+  "text": "symbols.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 16,
+  "off": 841,
+  "len": 18,
+  "text": "To visit the past,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 17,
+  "off": 861,
+  "len": 20,
+  "text": "touch the North Key!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 18,
+  "off": 884,
+  "len": 34,
+  "text": "Which symbol do you wish to press?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 19,
+  "off": 929,
+  "len": 5,
+  "text": "Earth",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 20,
+  "off": 936,
+  "len": 5,
+  "text": "Water",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 21,
+  "off": 943,
+  "len": 4,
+  "text": "Fire",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 22,
+  "off": 949,
+  "len": 4,
+  "text": "Wind",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 23,
+  "off": 986,
+  "len": 29,
+  "text": "You pressed the Earth symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 24,
+  "off": 1054,
+  "len": 29,
+  "text": "You pressed the Water symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 25,
+  "off": 1122,
+  "len": 28,
+  "text": "You pressed the Fire symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 26,
+  "off": 1189,
+  "len": 28,
+  "text": "You pressed the Wind symbol!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 27,
+  "off": 1527,
+  "len": 28,
+  "text": "Something's moving under us!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 28,
+  "off": 1557,
+  "len": 19,
+  "text": "Something's coming!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 29,
+  "off": 1633,
+  "len": 25,
+  "text": "{NAME:02}: I think we had better",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 30,
+  "off": 1660,
+  "len": 18,
+  "text": "prepare ourselves!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 31,
+  "off": 1754,
+  "len": 32,
+  "text": "Only those who are qualified may",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 32,
+  "off": 1788,
+  "len": 26,
+  "text": "visit the Gate of Shadows!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 33,
+  "off": 1841,
+  "len": 31,
+  "text": "Prepare to atone for thy crimes",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 34,
+  "off": 1874,
+  "len": 15,
+  "text": "with thy flesh!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 35,
+  "off": 2664,
+  "len": 22,
+  "text": "What will happen if we",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 36,
+  "off": 2688,
+  "len": 18,
+  "text": "answer correctly?!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 37,
+  "off": 2760,
+  "len": 28,
+  "text": "{NAME:02}: We must be very careful!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 38,
+  "off": 2790,
+  "len": 30,
+  "text": "If we answer the statue wrong,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 39,
+  "off": 2822,
+  "len": 33,
+  "text": "the same thing will happen again!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 40,
+  "off": 2952,
+  "len": 28,
+  "text": "Some sort of code is written",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 5,
+  "run": 41,
+  "off": 2982,
+  "len": 24,
+  "text": "on the statue's surface.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 7,
+  "run": 0,
+  "off": 816,
+  "len": 21,
+  "text": "e'e(e)e*e+e,e-e.!!q<D4><09>",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 0,
+  "off": 45,
+  "len": 18,
+  "text": "Begin flag setting",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 1,
+  "off": 66,
+  "len": 16,
+  "text": "Two Moai in back",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 2,
+  "off": 84,
+  "len": 17,
+  "text": "Two Moai in front",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 3,
+  "off": 103,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 4,
+  "off": 140,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 5,
+  "off": 148,
+  "len": 11,
+  "text": "All Moai ON",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 6,
+  "off": 161,
+  "len": 12,
+  "text": "All Moai OFF",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 7,
+  "off": 175,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 8,
+  "off": 595,
+  "len": 19,
+  "text": "Stone flower blooms",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 9,
+  "off": 616,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 10,
+  "off": 653,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 11,
+  "off": 661,
+  "len": 22,
+  "text": "Stone flower blooms ON",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 12,
+  "off": 685,
+  "len": 23,
+  "text": "Stone flower blooms OFF",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 13,
+  "off": 710,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 14,
+  "off": 729,
+  "len": 14,
+  "text": "Get Star Pearl",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 15,
+  "off": 745,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 16,
+  "off": 782,
+  "len": 6,
+  "text": "=Next=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 17,
+  "off": 790,
+  "len": 17,
+  "text": "Get Star Pearl ON",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 18,
+  "off": 809,
+  "len": 18,
+  "text": "Get Star Pearl OFF",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 19,
+  "off": 829,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 20,
+  "off": 848,
+  "len": 16,
+  "text": "Stone gate opens",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 21,
+  "off": 866,
+  "len": 26,
+  "text": "Do you wish to set a flag?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 22,
+  "off": 903,
+  "len": 6,
+  "text": "=Exit=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 23,
+  "off": 911,
+  "len": 19,
+  "text": "Stone gate opens ON",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 24,
+  "off": 932,
+  "len": 20,
+  "text": "Stone gate opens OFF",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 25,
+  "off": 954,
+  "len": 6,
+  "text": "=Back=",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 8,
+  "run": 26,
+  "off": 973,
+  "len": 17,
+  "text": "End flag settings",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 0,
+  "off": 35,
+  "len": 31,
+  "text": "The bud on the Stone Flower has",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 1,
+  "off": 68,
+  "len": 31,
+  "text": "a small hole and writing on it!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 2,
+  "off": 102,
+  "len": 18,
+  "text": "Know well that the",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 3,
+  "off": 122,
+  "len": 25,
+  "text": "Star Pearl opens the door",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 4,
+  "off": 149,
+  "len": 12,
+  "text": "to the past!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 5,
+  "off": 175,
+  "len": 35,
+  "text": "Do you wish to throw the Star Pearl",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 6,
+  "off": 212,
+  "len": 20,
+  "text": "into the small hole?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 7,
+  "off": 359,
+  "len": 7,
+  "text": "{NAME} kept",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 8,
+  "off": 368,
+  "len": 15,
+  "text": "the Star Pearl.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 9,
+  "off": 401,
+  "len": 12,
+  "text": "{NAME} threw the",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 10,
+  "off": 415,
+  "len": 19,
+  "text": "Star Pearl into the",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 11,
+  "off": 436,
+  "len": 24,
+  "text": "bud of the Stone Flower!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 11,
+  "run": 12,
+  "off": 533,
+  "len": 16,
+  "text": "The door opened!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 23,
+  "run": 0,
+  "off": 50,
+  "len": 13,
+  "text": "There is a {ITEM:7C}",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 23,
+  "run": 1,
+  "off": 65,
+  "len": 22,
+  "text": "in the treasure chest!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 23,
+  "run": 2,
+  "off": 95,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 23,
+  "run": 3,
+  "off": 107,
+  "len": 7,
+  "text": "the {ITEM:7C}!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 23,
+  "run": 4,
+  "off": 129,
+  "len": 28,
+  "text": "The treasure chest is empty!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 24,
+  "run": 0,
+  "off": 39,
+  "len": 10,
+  "text": "{NAME:63} now has",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 24,
+  "run": 1,
+  "off": 51,
+  "len": 7,
+  "text": "the {ITEM:6D}!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 0,
+  "off": 1014,
+  "len": 18,
+  "text": "Look! It's moving!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 1,
+  "off": 1034,
+  "len": 20,
+  "text": "The stone is moving!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 2,
+  "off": 1057,
+  "len": 24,
+  "text": "{NAME:01}: This is so exciting!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 3,
+  "off": 1255,
+  "len": 25,
+  "text": "{NAME:02}: What kind of internal",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 4,
+  "off": 1282,
+  "len": 19,
+  "text": "mechanism is this?!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 5,
+  "off": 2497,
+  "len": 18,
+  "text": "{NAME:01}: Oh, wow! Look!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 6,
+  "off": 2517,
+  "len": 9,
+  "text": "{NAME}, look!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 7,
+  "off": 2528,
+  "len": 28,
+  "text": "The big stone flower opened!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 8,
+  "off": 2640,
+  "len": 31,
+  "text": "The center of the stone flower!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 9,
+  "off": 2673,
+  "len": 29,
+  "text": "Some strange thing is moving!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 10,
+  "off": 2765,
+  "len": 29,
+  "text": "{NAME:02}: That must be the entrance",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 11,
+  "off": 2796,
+  "len": 22,
+  "text": "to the path leading to",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 30,
+  "run": 12,
+  "off": 2820,
+  "len": 18,
+  "text": "underground Octam.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 0,
+  "off": 69,
+  "len": 19,
+  "text": "Oh, what a letdown!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 1,
+  "off": 368,
+  "len": 32,
+  "text": "I finally get to see the Ra-Seru",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 2,
+  "off": 402,
+  "len": 31,
+  "text": "heroes who defeated Zeto -- and",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 3,
+  "off": 435,
+  "len": 25,
+  "text": "they turn out to be kids!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 4,
+  "off": 773,
+  "len": 16,
+  "text": "{NAME:01}: Who are you?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 5,
+  "off": 900,
+  "len": 28,
+  "text": "Gi Delilas, at your service!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 6,
+  "off": 1093,
+  "len": 31,
+  "text": "Gi Delilas: That Zeto is pretty",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 7,
+  "off": 1126,
+  "len": 31,
+  "text": "pitiful to let a bunch of brats",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 8,
+  "off": 1159,
+  "len": 20,
+  "text": "like you defeat him!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 9,
+  "off": 1373,
+  "len": 25,
+  "text": "{NAME:02}: You! That Seru you're",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 10,
+  "off": 1400,
+  "len": 8,
+  "text": "wearing!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 11,
+  "off": 1571,
+  "len": 25,
+  "text": "{NAME:01}: Is this a bad person,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 12,
+  "off": 1598,
+  "len": 20,
+  "text": "like Songi and Zeto?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 13,
+  "off": 1712,
+  "len": 27,
+  "text": "Gi Delilas: A \"bad person\"?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 14,
+  "off": 1741,
+  "len": 12,
+  "text": "Oh, brother.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 15,
+  "off": 1756,
+  "len": 34,
+  "text": "Gi Delilas: Hey, blue-headed brat!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 16,
+  "off": 1792,
+  "len": 33,
+  "text": "You seem to be the leader of this",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 17,
+  "off": 1827,
+  "len": 19,
+  "text": "kindergarten class.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 18,
+  "off": 1855,
+  "len": 23,
+  "text": "I'm the leader! Me, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 19,
+  "off": 1880,
+  "len": 27,
+  "text": "A-Actually, {NAME:01}'s in charge.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 20,
+  "off": 1909,
+  "len": 27,
+  "text": "Obviously, {NAME:02}'s our leader.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 21,
+  "off": 1966,
+  "len": 26,
+  "text": "Gi Delilas: Ah, I knew it.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 22,
+  "off": 2126,
+  "len": 16,
+  "text": "{NAME:01}: {NAME}, what are",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 23,
+  "off": 2144,
+  "len": 30,
+  "text": "you saying? I'm following you!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 24,
+  "off": 2360,
+  "len": 19,
+  "text": "stop joking around!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 25,
+  "off": 2381,
+  "len": 18,
+  "text": "You're the leader!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 26,
+  "off": 2527,
+  "len": 21,
+  "text": "Gi Delilas: Well, {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 27,
+  "off": 2550,
+  "len": 27,
+  "text": "Let's see how good you are!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 28,
+  "off": 2579,
+  "len": 20,
+  "text": "Fight me one on one!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 29,
+  "off": 2717,
+  "len": 26,
+  "text": "{NAME:01}: Hey! How come you want",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 30,
+  "off": 2745,
+  "len": 28,
+  "text": "to fight just {NAME} and not me?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 31,
+  "off": 2833,
+  "len": 29,
+  "text": "Gi Delilas: One-on-one combat",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 32,
+  "off": 2864,
+  "len": 30,
+  "text": "is a Delilas family tradition.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 33,
+  "off": 2896,
+  "len": 21,
+  "text": "I'll fight you later.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 34,
+  "off": 2977,
+  "len": 21,
+  "text": "Gi Delilas: Well, {NAME}?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 35,
+  "off": 3000,
+  "len": 25,
+  "text": "Don't run away! Fight me!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 36,
+  "off": 3032,
+  "len": 12,
+  "text": "Bring it on!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 37,
+  "off": 3134,
+  "len": 27,
+  "text": "Gi Delilas: Most admirable.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 38,
+  "off": 3163,
+  "len": 22,
+  "text": "Now, prepare yourself!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 39,
+  "off": 3297,
+  "len": 25,
+  "text": "Gi Delilas: How pathetic.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 40,
+  "off": 3324,
+  "len": 32,
+  "text": "Very well, then just stand there",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 41,
+  "off": 3358,
+  "len": 14,
+  "text": "and be killed.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 42,
+  "off": 3404,
+  "len": 18,
+  "text": "Ah! Older Brother!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 43,
+  "off": 3814,
+  "len": 14,
+  "text": "Older Brother!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 44,
+  "off": 3850,
+  "len": 21,
+  "text": "(Whisper)...Nivora...",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 45,
+  "off": 3873,
+  "len": 10,
+  "text": "...Koru...",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 46,
+  "off": 3983,
+  "len": 18,
+  "text": "Gi Delilas: I see.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 47,
+  "off": 4003,
+  "len": 29,
+  "text": "Alright, I'll be right there!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 48,
+  "off": 4050,
+  "len": 11,
+  "text": "Yes, I see.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 49,
+  "off": 4279,
+  "len": 27,
+  "text": "{NAME:02}: What are you whispering",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 50,
+  "off": 4308,
+  "len": 25,
+  "text": "about there? Who are you?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 51,
+  "off": 4370,
+  "len": 28,
+  "text": "Gi Delilas: You want to know",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 52,
+  "off": 4400,
+  "len": 29,
+  "text": "our names? Ha, ha! Very well!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 53,
+  "off": 4731,
+  "len": 34,
+  "text": "Gi Delilas: I'm Gi Delilas, expert",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 54,
+  "off": 4767,
+  "len": 27,
+  "text": "at delivering a fatal blow ",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 55,
+  "off": 4796,
+  "len": 22,
+  "text": "to an opponent's body!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 56,
+  "off": 4996,
+  "len": 28,
+  "text": "Lu Delilas: I am Lu Delilas!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 57,
+  "off": 5026,
+  "len": 30,
+  "text": "I strike with lightning speed!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 58,
+  "off": 5204,
+  "len": 30,
+  "text": "Che Delilas: I am Che Delilas!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 59,
+  "off": 5236,
+  "len": 28,
+  "text": "Brute strength and chaos are",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 60,
+  "off": 5266,
+  "len": 16,
+  "text": "what I am about!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 61,
+  "off": 5627,
+  "len": 21,
+  "text": "We are the Delilases!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 62,
+  "off": 5727,
+  "len": 28,
+  "text": "Gi Delilas: {NAME}, I thought we",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 63,
+  "off": 5757,
+  "len": 28,
+  "text": "could play together, but now",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 64,
+  "off": 5787,
+  "len": 22,
+  "text": "I don't have the time.",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 65,
+  "off": 5848,
+  "len": 29,
+  "text": "Gi Delilas: I'll let you live",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 66,
+  "off": 5879,
+  "len": 33,
+  "text": "for now! But next time I see you,",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 67,
+  "off": 5914,
+  "len": 20,
+  "text": "I'll have your life!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 68,
+  "off": 6519,
+  "len": 19,
+  "text": "What are you doing?",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 69,
+  "off": 6540,
+  "len": 27,
+  "text": "We don't have time to play!",
+  "ko": ""
+ },
+ {
+  "map": 177,
+  "script": 31,
+  "run": 70,
+  "off": 6759,
+  "len": 12,
+  "text": "{NAME:01}: Boo-hoo!",
+  "ko": ""
+ }
+]

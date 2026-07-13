@@ -1,0 +1,623 @@
+[
+ {
+  "map": 88,
+  "script": 2,
+  "run": 0,
+  "off": 13,
+  "len": 23,
+  "text": "Northwest: Drake Castle",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 2,
+  "run": 1,
+  "off": 38,
+  "len": 23,
+  "text": "Northeast: Biron Temple",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 2,
+  "run": 2,
+  "off": 63,
+  "len": 18,
+  "text": "Southeast: Rim Elm",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 3,
+  "run": 0,
+  "off": 11,
+  "len": 21,
+  "text": "North: Snowdrift Cave",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 3,
+  "run": 1,
+  "off": 34,
+  "len": 18,
+  "text": "South: Mt. Rikuroa",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 4,
+  "run": 0,
+  "off": 11,
+  "len": 21,
+  "text": "West: East Voz Forest",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 4,
+  "run": 1,
+  "off": 34,
+  "len": 21,
+  "text": "North: Old Man's Cave",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 4,
+  "run": 2,
+  "off": 57,
+  "len": 19,
+  "text": "South: Biron Temple",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 12,
+  "run": 0,
+  "off": 54,
+  "len": 19,
+  "text": "e'e(e)e*e+e,e-e.p<12><05>",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 0,
+  "off": 37,
+  "len": 33,
+  "text": "Which event do you want? (Part 1)",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 1,
+  "off": 81,
+  "len": 5,
+  "text": "Next ",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 2,
+  "off": 88,
+  "len": 33,
+  "text": "Rim Elm Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 3,
+  "off": 123,
+  "len": 37,
+  "text": "Mt. Rikuroa Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 4,
+  "off": 162,
+  "len": 34,
+  "text": "Burning of Biron Temple from West ",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 5,
+  "off": 198,
+  "len": 10,
+  "text": "Voz Forest",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 6,
+  "off": 211,
+  "len": 33,
+  "text": "Which event do you want? (Part 2)",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 7,
+  "off": 260,
+  "len": 41,
+  "text": "East Voz Forest Genesis Tree Resurrection",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 8,
+  "off": 303,
+  "len": 35,
+  "text": "After destruction of Zeto's Dungeon",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 9,
+  "off": 380,
+  "len": 26,
+  "text": "Mist ??RECT?? flag control",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 10,
+  "off": 417,
+  "len": 4,
+  "text": "Next",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 11,
+  "off": 423,
+  "len": 28,
+  "text": "Rim Elm Resurrection flag ON",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 12,
+  "off": 453,
+  "len": 32,
+  "text": "Mt. Rikuroa Resurrection flag ON",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 13,
+  "off": 487,
+  "len": 44,
+  "text": "East Voz Forest Resurrection Mist control ON",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 14,
+  "off": 534,
+  "len": 31,
+  "text": "Mist ??RECT?? auxiliary control",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 15,
+  "off": 581,
+  "len": 24,
+  "text": "Stop Zeto Mist Generator",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 14,
+  "run": 16,
+  "off": 612,
+  "len": 15,
+  "text": "Clear all flags",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 15,
+  "run": 0,
+  "off": 32,
+  "len": 9,
+  "text": "(Silence)",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 16,
+  "run": 0,
+  "off": 34,
+  "len": 19,
+  "text": "{NAME:01}: {NAME}, I'm hungry.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 16,
+  "run": 1,
+  "off": 67,
+  "len": 18,
+  "text": "where is my snack?",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 17,
+  "run": 0,
+  "off": 34,
+  "len": 18,
+  "text": "{NAME:02}: {NAME}, let's have",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 17,
+  "run": 1,
+  "off": 54,
+  "len": 20,
+  "text": "Japanese food today.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 17,
+  "run": 2,
+  "off": 79,
+  "len": 15,
+  "text": "{NAME:02}: {NAME:01}, we have",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 17,
+  "run": 3,
+  "off": 96,
+  "len": 16,
+  "text": "instant noodles.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 20,
+  "run": 0,
+  "off": 28,
+  "len": 8,
+  "text": "Come on!",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 0,
+  "off": 115,
+  "len": 22,
+  "text": "As if forsaken by god,",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 1,
+  "off": 139,
+  "len": 29,
+  "text": "human civilization collapsed.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 2,
+  "off": 170,
+  "len": 32,
+  "text": "It was the twilight of humanity.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 3,
+  "off": 338,
+  "len": 26,
+  "text": "Those who escaped the Mist",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 4,
+  "off": 366,
+  "len": 28,
+  "text": "inhabited the desolate areas",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 5,
+  "off": 396,
+  "len": 25,
+  "text": "and protected each other.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 6,
+  "off": 423,
+  "len": 24,
+  "text": "Now, their faint hope is",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 59,
+  "run": 7,
+  "off": 449,
+  "len": 33,
+  "text": "their only source of inspiration.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 0,
+  "off": 188,
+  "len": 32,
+  "text": "The fateful youth who saved his ",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 1,
+  "off": 222,
+  "len": 35,
+  "text": "town with the amazing powers of the",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 2,
+  "off": 259,
+  "len": 19,
+  "text": "Genesis Tree -- {NAME}!",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 3,
+  "off": 280,
+  "len": 23,
+  "text": "With Meta, the Ra-Seru,",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 4,
+  "off": 305,
+  "len": 24,
+  "text": "he prepares to go beyond",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 5,
+  "off": 331,
+  "len": 20,
+  "text": "the Wall of Rim Elm,",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 6,
+  "off": 353,
+  "len": 25,
+  "text": "and head for the distant ",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 7,
+  "off": 380,
+  "len": 23,
+  "text": "wilderness of the Mist.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 8,
+  "off": 405,
+  "len": 12,
+  "text": "Awaiting {NAME} ",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 9,
+  "off": 419,
+  "len": 20,
+  "text": "is a wild adventure.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 10,
+  "off": 441,
+  "len": 27,
+  "text": "Can the world be saved from",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 11,
+  "off": 470,
+  "len": 9,
+  "text": "the Mist?",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 12,
+  "off": 481,
+  "len": 35,
+  "text": "Enjoy the rest of this story in the",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 60,
+  "run": 13,
+  "off": 518,
+  "len": 33,
+  "text": "Complete Version of this product.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 0,
+  "off": 133,
+  "len": 28,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You must polish your",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 1,
+  "off": 163,
+  "len": 25,
+  "text": "fighting techniques more.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 2,
+  "off": 191,
+  "len": 26,
+  "text": "{PAL:4}{M7:01}{PAL:7}: Now pay attention.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 3,
+  "off": 219,
+  "len": 20,
+  "text": "I will now teach you",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 4,
+  "off": 293,
+  "len": 24,
+  "text": "{PAL:4}{M7:01}{PAL:7}: You fought well!",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 5,
+  "off": 365,
+  "len": 19,
+  "text": "you are doing well!",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 6,
+  "off": 390,
+  "len": 31,
+  "text": "{PAL:4}{M7:01}{PAL:7}: I can tell you are very",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 7,
+  "off": 423,
+  "len": 33,
+  "text": "tired.  Don't overexert yourself!",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 8,
+  "off": 478,
+  "len": 16,
+  "text": "Are you alright?",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 9,
+  "off": 518,
+  "len": 31,
+  "text": "I am going to lick your wounds.",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 10,
+  "off": 552,
+  "len": 26,
+  "text": "{NAME:01}'s strength is restored!",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 11,
+  "off": 595,
+  "len": 33,
+  "text": "This is not practice, this is the",
+  "ko": ""
+ },
+ {
+  "map": 88,
+  "script": 62,
+  "run": 12,
+  "off": 630,
+  "len": 23,
+  "text": "real thing! Be careful!",
+  "ko": ""
+ }
+]
