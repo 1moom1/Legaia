@@ -179,3 +179,25 @@ def check_hook_site(exe, r2f, target, hook_addr, handled_insns):
             f"   `j 훅` 의 딜레이 슬롯은 반드시 실행된다. nop 으로 덮고,\n"
             f"   훅이 원본 명령을 대신 수행한 뒤 0x{target+4*handled_insns:08X} 로 복귀할 것.")
     return True
+
+
+def check_cd_hook_safety(hook_code_addrs, has_boot_guard, has_fail_skip):
+    """🔴 CD 읽기 훅 안전 검사.
+
+    CdRead 를 훅에서 부를 때 반드시 있어야 하는 것:
+      1. 부팅 보호: 게임 초기화 전에는 CdRead 를 부르지 않는다.
+         (LoadImage 는 부팅 로고부터 불리는데, 그때 CD 를 가로채면 데드락)
+      2. 실패 시 건너뛰기: CdRead 가 실패(v0!=1)하면 화면을 안 건드린다.
+
+    이 둘이 없는 CD 훅은 게임을 멈출 수 있다. (실제로 부팅 데드락 겪음)
+    """
+    if not has_boot_guard:
+        raise RuntimeError(
+            "🔴 CD 훅에 '부팅 보호'가 없다. LoadImage 는 부팅 초기부터 불린다.\n"
+            "   게임 초기화 완료 신호를 확인한 뒤에만 CdRead 를 부를 것.\n"
+            "   (부팅 중 CdRead → 게임 CD 와 충돌 → 데드락, 실제로 겪음)")
+    if not has_fail_skip:
+        raise RuntimeError(
+            "🔴 CD 훅에 '실패 시 건너뛰기'가 없다. CdRead 가 실패하면 "
+            "쓰레기 데이터를 VRAM 에 올린다.")
+    return True
