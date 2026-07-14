@@ -753,7 +753,7 @@
   "off": 99,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 312,
@@ -771,7 +771,7 @@
   "off": 154,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 312,
@@ -789,7 +789,7 @@
   "off": 211,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 312,
@@ -807,7 +807,7 @@
   "off": 262,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 312,
@@ -870,7 +870,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:80}",
-  "ko": ""
+  "ko": "{ITEM:80}이(가)"
  },
  {
   "map": 312,
@@ -879,7 +879,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -888,7 +888,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -897,7 +897,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:80}!",
-  "ko": ""
+  "ko": "{ITEM:80}!"
  },
  {
   "map": 312,
@@ -906,7 +906,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -915,7 +915,7 @@
   "off": 52,
   "len": 13,
   "text": "There is a {ITEM:87}",
-  "ko": ""
+  "ko": "{ITEM:87}이(가)"
  },
  {
   "map": 312,
@@ -924,7 +924,7 @@
   "off": 67,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -933,7 +933,7 @@
   "off": 97,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -942,7 +942,7 @@
   "off": 109,
   "len": 7,
   "text": "the {ITEM:87}!",
-  "ko": ""
+  "ko": "{ITEM:87}!"
  },
  {
   "map": 312,
@@ -951,7 +951,7 @@
   "off": 131,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -969,7 +969,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:88}",
-  "ko": ""
+  "ko": "{ITEM:88}이(가)"
  },
  {
   "map": 312,
@@ -978,7 +978,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -987,7 +987,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -996,7 +996,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:88}!",
-  "ko": ""
+  "ko": "{ITEM:88}!"
  },
  {
   "map": 312,
@@ -1005,7 +1005,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -1014,7 +1014,7 @@
   "off": 52,
   "len": 13,
   "text": "There is a {ITEM:82}",
-  "ko": ""
+  "ko": "{ITEM:82}이(가)"
  },
  {
   "map": 312,
@@ -1023,7 +1023,7 @@
   "off": 67,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -1032,7 +1032,7 @@
   "off": 97,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -1041,7 +1041,7 @@
   "off": 109,
   "len": 7,
   "text": "the {ITEM:82}!",
-  "ko": ""
+  "ko": "{ITEM:82}!"
  },
  {
   "map": 312,
@@ -1050,7 +1050,7 @@
   "off": 131,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -1059,7 +1059,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:83}",
-  "ko": ""
+  "ko": "{ITEM:83}이(가)"
  },
  {
   "map": 312,
@@ -1068,7 +1068,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -1077,7 +1077,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -1086,7 +1086,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:83}!",
-  "ko": ""
+  "ko": "{ITEM:83}!"
  },
  {
   "map": 312,
@@ -1095,7 +1095,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -1104,7 +1104,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7A}",
-  "ko": ""
+  "ko": "{ITEM:7A}이(가)"
  },
  {
   "map": 312,
@@ -1113,7 +1113,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -1122,7 +1122,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -1131,7 +1131,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7A}!",
-  "ko": ""
+  "ko": "{ITEM:7A}!"
  },
  {
   "map": 312,
@@ -1140,7 +1140,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -1158,7 +1158,7 @@
   "off": 63,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -1167,7 +1167,7 @@
   "off": 93,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -1176,7 +1176,7 @@
   "off": 105,
   "len": 7,
   "text": "the {ITEM:8A}!",
-  "ko": ""
+  "ko": "{ITEM:8A}!"
  },
  {
   "map": 312,
@@ -1185,7 +1185,7 @@
   "off": 127,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,
@@ -1194,7 +1194,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:D5}",
-  "ko": ""
+  "ko": "{ITEM:D5}이(가)"
  },
  {
   "map": 312,
@@ -1203,7 +1203,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 312,
@@ -1212,7 +1212,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 312,
@@ -1221,7 +1221,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:D5}!",
-  "ko": ""
+  "ko": "{ITEM:D5}!"
  },
  {
   "map": 312,
@@ -1230,7 +1230,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 312,

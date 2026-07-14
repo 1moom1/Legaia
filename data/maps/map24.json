@@ -6,7 +6,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:77}",
-  "ko": ""
+  "ko": "{ITEM:77}이(가)"
  },
  {
   "map": 24,
@@ -15,7 +15,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 24,
@@ -24,7 +24,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:77}!",
-  "ko": ""
+  "ko": "{ITEM:77}!"
  },
  {
   "map": 24,
@@ -33,7 +33,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:7C}",
-  "ko": ""
+  "ko": "{ITEM:7C}이(가)"
  },
  {
   "map": 24,
@@ -42,7 +42,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 24,
@@ -51,7 +51,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:7C}!",
-  "ko": ""
+  "ko": "{ITEM:7C}!"
  },
  {
   "map": 24,
@@ -60,7 +60,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:7C}",
-  "ko": ""
+  "ko": "{ITEM:7C}이(가)"
  },
  {
   "map": 24,
@@ -69,7 +69,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 24,
@@ -78,7 +78,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:7C}!",
-  "ko": ""
+  "ko": "{ITEM:7C}!"
  },
  {
   "map": 24,
@@ -87,7 +87,7 @@
   "off": 45,
   "len": 12,
   "text": "There's a {ITEM:FE}",
-  "ko": ""
+  "ko": "{ITEM:FE}이(가)"
  },
  {
   "map": 24,
@@ -105,7 +105,7 @@
   "off": 76,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 24,
@@ -114,7 +114,7 @@
   "off": 88,
   "len": 7,
   "text": "the {ITEM:FE}!",
-  "ko": ""
+  "ko": "{ITEM:FE}!"
  },
  {
   "map": 24,
@@ -132,7 +132,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:77}",
-  "ko": ""
+  "ko": "{ITEM:77}이(가)"
  },
  {
   "map": 24,
@@ -141,7 +141,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 24,
@@ -150,7 +150,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:77}!",
-  "ko": ""
+  "ko": "{ITEM:77}!"
  },
  {
   "map": 24,
@@ -177,7 +177,7 @@
   "off": 100,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 24,
@@ -231,7 +231,7 @@
   "off": 286,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 24,
@@ -285,7 +285,7 @@
   "off": 424,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 24,
@@ -384,7 +384,7 @@
   "off": 671,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 24,
@@ -438,7 +438,7 @@
   "off": 810,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 24,
@@ -492,7 +492,7 @@
   "off": 970,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 24,
@@ -501,7 +501,7 @@
   "off": 1007,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 24,

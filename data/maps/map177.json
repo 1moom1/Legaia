@@ -1554,7 +1554,7 @@
   "off": 103,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 177,
@@ -1590,7 +1590,7 @@
   "off": 175,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 177,
@@ -1608,7 +1608,7 @@
   "off": 616,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 177,
@@ -1662,7 +1662,7 @@
   "off": 745,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 177,
@@ -1716,7 +1716,7 @@
   "off": 866,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 177,
@@ -1725,7 +1725,7 @@
   "off": 903,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 177,
@@ -1887,7 +1887,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7C}",
-  "ko": ""
+  "ko": "{ITEM:7C}이(가)"
  },
  {
   "map": 177,
@@ -1896,7 +1896,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 177,
@@ -1905,7 +1905,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 177,
@@ -1914,7 +1914,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7C}!",
-  "ko": ""
+  "ko": "{ITEM:7C}!"
  },
  {
   "map": 177,
@@ -1923,7 +1923,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 177,
@@ -1932,7 +1932,7 @@
   "off": 39,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 177,
@@ -1941,7 +1941,7 @@
   "off": 51,
   "len": 7,
   "text": "the {ITEM:6D}!",
-  "ko": ""
+  "ko": "{ITEM:6D}!"
  },
  {
   "map": 177,

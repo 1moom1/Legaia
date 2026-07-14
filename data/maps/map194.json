@@ -6,7 +6,7 @@
   "off": 26,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -24,7 +24,7 @@
   "off": 26,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -42,7 +42,7 @@
   "off": 26,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -60,7 +60,7 @@
   "off": 35,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -78,7 +78,7 @@
   "off": 35,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -96,7 +96,7 @@
   "off": 35,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -114,7 +114,7 @@
   "off": 35,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -132,7 +132,7 @@
   "off": 26,
   "len": 20,
   "text": "The door won't open.",
-  "ko": ""
+  "ko": "문이 열리지 않는다."
  },
  {
   "map": 194,
@@ -2391,7 +2391,7 @@
   "off": 66,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2409,7 +2409,7 @@
   "off": 125,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2427,7 +2427,7 @@
   "off": 170,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2445,7 +2445,7 @@
   "off": 226,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2463,7 +2463,7 @@
   "off": 278,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2481,7 +2481,7 @@
   "off": 330,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2499,7 +2499,7 @@
   "off": 382,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2517,7 +2517,7 @@
   "off": 438,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2535,7 +2535,7 @@
   "off": 499,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2553,7 +2553,7 @@
   "off": 546,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2571,7 +2571,7 @@
   "off": 593,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2589,7 +2589,7 @@
   "off": 642,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2607,7 +2607,7 @@
   "off": 698,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2625,7 +2625,7 @@
   "off": 766,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2643,7 +2643,7 @@
   "off": 813,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2661,7 +2661,7 @@
   "off": 860,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2679,7 +2679,7 @@
   "off": 909,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2697,7 +2697,7 @@
   "off": 978,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2715,7 +2715,7 @@
   "off": 1032,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 194,
@@ -2778,7 +2778,7 @@
   "off": 63,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 194,
@@ -2787,7 +2787,7 @@
   "off": 93,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 194,
@@ -2796,7 +2796,7 @@
   "off": 105,
   "len": 7,
   "text": "the {ITEM:84}!",
-  "ko": ""
+  "ko": "{ITEM:84}!"
  },
  {
   "map": 194,
@@ -2805,7 +2805,7 @@
   "off": 127,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 194,
@@ -2814,7 +2814,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7D}",
-  "ko": ""
+  "ko": "{ITEM:7D}이(가)"
  },
  {
   "map": 194,
@@ -2823,7 +2823,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 194,
@@ -2832,7 +2832,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 194,
@@ -2841,7 +2841,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7D}!",
-  "ko": ""
+  "ko": "{ITEM:7D}!"
  },
  {
   "map": 194,
@@ -2850,7 +2850,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 194,
@@ -2859,7 +2859,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:85}",
-  "ko": ""
+  "ko": "{ITEM:85}이(가)"
  },
  {
   "map": 194,
@@ -2868,7 +2868,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 194,
@@ -2877,7 +2877,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 194,
@@ -2886,7 +2886,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:85}!",
-  "ko": ""
+  "ko": "{ITEM:85}!"
  },
  {
   "map": 194,
@@ -2895,7 +2895,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 194,
@@ -2904,7 +2904,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:86}",
-  "ko": ""
+  "ko": "{ITEM:86}이(가)"
  },
  {
   "map": 194,
@@ -2913,7 +2913,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 194,
@@ -2922,7 +2922,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 194,
@@ -2931,7 +2931,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:86}!",
-  "ko": ""
+  "ko": "{ITEM:86}!"
  },
  {
   "map": 194,
@@ -2940,7 +2940,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 194,

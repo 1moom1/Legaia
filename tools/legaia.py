@@ -206,3 +206,91 @@ def script_parse(data: bytes):
             return None
         scripts.append(data[base + addr: base + addr + length])
     return scripts
+
+
+def lzss_compress_opt(data: bytes) -> bytes:
+    """★ lazy matching LZSS — 원본보다 잘 압축한다.
+
+    게임 디코더는 표준 LZSS 라서 '어떻게 인코딩했든' 똑같이 풀린다.
+    원본 압축기는 greedy(항상 가장 긴 매치)인데, 이건 lazy 를 쓴다:
+
+        현재 위치에서 길이 L1 매치를 찾았어도,
+        다음 위치에서 더 긴 매치(L2 > L1)가 가능하면
+        현재 바이트는 리터럴로 내보내고 한 칸 전진한다.
+
+    한글은 영어만큼 압축되지 않아 PACK 이 슬롯을 넘는데, 이걸로 몇 % 줄인다.
+    """
+    n = len(data)
+    out = bytearray()
+    dic = bytearray(0x1000)
+    da = 4078
+    bits_addr = 0
+    mask = 0x80
+    header = 0
+
+    def find_match(sa, cur_da, cur_dic):
+        """(길이, 위치). 길이<=2 면 매치 없음으로 본다."""
+        if sa + 2 >= n:
+            return 0, 0
+        best_len, best_pos = 2, 0
+        c0 = data[sa]
+        limit = min(18, n - sa)
+        idx = cur_dic.find(c0)
+        while idx >= 0:
+            mlen = 0
+            while mlen < limit:
+                p = (idx + mlen) & 0xFFF
+                # 링버퍼에 아직 안 쓴 구간이면 data 에서 읽는다 (원본과 동일 동작)
+                if ((p - cur_da) & 0xFFF) < mlen:
+                    b = data[sa + ((p - cur_da) & 0xFFF)]
+                else:
+                    b = cur_dic[p]
+                if b != data[sa + mlen]:
+                    break
+                mlen += 1
+            if mlen > best_len:
+                best_len, best_pos = mlen, idx
+                if best_len >= limit:
+                    break
+            idx = cur_dic.find(c0, idx + 1)
+        return best_len, best_pos
+
+    sa = 0
+    while sa < n:
+        mask <<= 1
+        if mask == 0x100:
+            if len(out) > 0:
+                out[bits_addr] = header
+            bits_addr = len(out)
+            out.append(0)
+            header = 0
+            mask = 1
+
+        blen, bpos = find_match(sa, da, dic)
+
+        # ★ lazy: 다음 위치에서 더 긴 매치가 되면 지금은 리터럴로 내보낸다.
+        #   (2칸 lookahead 도 해봤지만 이득이 없었다 — 1칸이 최적)
+        if blen > 2 and sa + 1 < n:
+            nd = bytearray(dic)
+            nd[da] = data[sa]
+            nlen, _ = find_match(sa + 1, (da + 1) & 0xFFF, nd)
+            if nlen > blen:
+                blen = 2          # 매치 포기 -> 리터럴
+
+        if blen > 2:
+            out.append(bpos & 0xFF)
+            out.append(((bpos >> 4) & 0xF0) | (blen - 3))
+            for k in range(blen):
+                dic[da] = data[sa + k]
+                da = (da + 1) & 0xFFF
+            sa += blen
+        else:
+            header |= mask
+            out.append(data[sa])
+            dic[da] = data[sa]
+            da = (da + 1) & 0xFFF
+            sa += 1
+
+    if len(out) > 0:
+        out[bits_addr] = header
+    return bytes(out)

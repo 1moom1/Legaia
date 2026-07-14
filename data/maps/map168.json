@@ -519,7 +519,7 @@
   "off": 277,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 168,
@@ -528,7 +528,7 @@
   "off": 283,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 168,
@@ -546,7 +546,7 @@
   "off": 53,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -573,7 +573,7 @@
   "off": 54,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -600,7 +600,7 @@
   "off": 70,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -627,7 +627,7 @@
   "off": 54,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -654,7 +654,7 @@
   "off": 54,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -681,7 +681,7 @@
   "off": 70,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -1320,7 +1320,7 @@
   "off": 61,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -1347,7 +1347,7 @@
   "off": 61,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -1662,7 +1662,7 @@
   "off": 63,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -1788,7 +1788,7 @@
   "off": 63,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -1905,7 +1905,7 @@
   "off": 67,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -2013,7 +2013,7 @@
   "off": 63,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -3120,7 +3120,7 @@
   "off": 61,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -3147,7 +3147,7 @@
   "off": 58,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -3174,7 +3174,7 @@
   "off": 58,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 168,
@@ -4191,7 +4191,7 @@
   "off": 1096,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 168,
@@ -4227,7 +4227,7 @@
   "off": 1217,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 168,
@@ -4263,7 +4263,7 @@
   "off": 1338,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 168,
@@ -4281,7 +4281,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:80}",
-  "ko": ""
+  "ko": "{ITEM:80}이(가)"
  },
  {
   "map": 168,
@@ -4290,7 +4290,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 168,
@@ -4299,7 +4299,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 168,
@@ -4308,7 +4308,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:80}!",
-  "ko": ""
+  "ko": "{ITEM:80}!"
  },
  {
   "map": 168,
@@ -4317,7 +4317,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 168,
@@ -4326,7 +4326,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:83}",
-  "ko": ""
+  "ko": "{ITEM:83}이(가)"
  },
  {
   "map": 168,
@@ -4335,7 +4335,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 168,
@@ -4344,7 +4344,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 168,
@@ -4353,7 +4353,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:83}!",
-  "ko": ""
+  "ko": "{ITEM:83}!"
  },
  {
   "map": 168,
@@ -4362,7 +4362,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 168,
@@ -4371,7 +4371,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:78}",
-  "ko": ""
+  "ko": "{ITEM:78}이(가)"
  },
  {
   "map": 168,
@@ -4380,7 +4380,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 168,
@@ -4389,7 +4389,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 168,
@@ -4398,7 +4398,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:78}!",
-  "ko": ""
+  "ko": "{ITEM:78}!"
  },
  {
   "map": 168,
@@ -4407,7 +4407,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 168,
@@ -4416,7 +4416,7 @@
   "off": 39,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 168,
@@ -4425,7 +4425,7 @@
   "off": 51,
   "len": 7,
   "text": "the {ITEM:D3}!",
-  "ko": ""
+  "ko": "{ITEM:D3}!"
  },
  {
   "map": 168,
@@ -4434,7 +4434,7 @@
   "off": 39,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 168,
@@ -4443,7 +4443,7 @@
   "off": 51,
   "len": 7,
   "text": "the {ITEM:C9}!",
-  "ko": ""
+  "ko": "{ITEM:C9}!"
  },
  {
   "map": 168,
@@ -5091,7 +5091,7 @@
   "off": 1702,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -5100,7 +5100,7 @@
   "off": 1714,
   "len": 7,
   "text": "the {ITEM:6D}!",
-  "ko": ""
+  "ko": "{ITEM:6D}!"
  },
  {
   "map": 168,
@@ -5370,7 +5370,7 @@
   "off": 1309,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -5568,7 +5568,7 @@
   "off": 2264,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -5577,7 +5577,7 @@
   "off": 2276,
   "len": 7,
   "text": "the {ITEM:AE}!",
-  "ko": ""
+  "ko": "{ITEM:AE}!"
  },
  {
   "map": 168,
@@ -5811,7 +5811,7 @@
   "off": 841,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -5820,7 +5820,7 @@
   "off": 853,
   "len": 7,
   "text": "the {ITEM:AE}!",
-  "ko": ""
+  "ko": "{ITEM:AE}!"
  },
  {
   "map": 168,
@@ -7071,7 +7071,7 @@
   "off": 3621,
   "len": 7,
   "text": "the {ITEM:6E}.",
-  "ko": ""
+  "ko": "{ITEM:6E}."
  },
  {
   "map": 168,
@@ -7125,7 +7125,7 @@
   "off": 3783,
   "len": 7,
   "text": "the {ITEM:6F}.",
-  "ko": ""
+  "ko": "{ITEM:6F}."
  },
  {
   "map": 168,
@@ -7179,7 +7179,7 @@
   "off": 3945,
   "len": 7,
   "text": "the {ITEM:70}.",
-  "ko": ""
+  "ko": "{ITEM:70}."
  },
  {
   "map": 168,
@@ -7233,7 +7233,7 @@
   "off": 4107,
   "len": 7,
   "text": "the {ITEM:71}.",
-  "ko": ""
+  "ko": "{ITEM:71}."
  },
  {
   "map": 168,
@@ -7332,7 +7332,7 @@
   "off": 4406,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -7341,7 +7341,7 @@
   "off": 4418,
   "len": 7,
   "text": "the {ITEM:72}!",
-  "ko": ""
+  "ko": "{ITEM:72}!"
  },
  {
   "map": 168,
@@ -7440,7 +7440,7 @@
   "off": 4722,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -7449,7 +7449,7 @@
   "off": 4734,
   "len": 7,
   "text": "the {ITEM:73}!",
-  "ko": ""
+  "ko": "{ITEM:73}!"
  },
  {
   "map": 168,
@@ -7548,7 +7548,7 @@
   "off": 5037,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -7557,7 +7557,7 @@
   "off": 5049,
   "len": 7,
   "text": "the {ITEM:74}!",
-  "ko": ""
+  "ko": "{ITEM:74}!"
  },
  {
   "map": 168,
@@ -7656,7 +7656,7 @@
   "off": 5353,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 168,
@@ -7665,7 +7665,7 @@
   "off": 5365,
   "len": 7,
   "text": "the {ITEM:75}!",
-  "ko": ""
+  "ko": "{ITEM:75}!"
  },
  {
   "map": 168,

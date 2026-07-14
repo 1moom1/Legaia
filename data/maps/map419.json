@@ -60,7 +60,7 @@
   "off": 55,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 419,
@@ -87,7 +87,7 @@
   "off": 55,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 419,
@@ -114,7 +114,7 @@
   "off": 55,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 419,
@@ -141,7 +141,7 @@
   "off": 65,
   "len": 28,
   "text": "A human possessed by a Seru!",
-  "ko": ""
+  "ko": "세루에 씐 인간이다!"
  },
  {
   "map": 419,
@@ -276,7 +276,7 @@
   "off": 84,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 419,
@@ -294,7 +294,7 @@
   "off": 155,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 419,
@@ -312,7 +312,7 @@
   "off": 224,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 419,
@@ -330,7 +330,7 @@
   "off": 288,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 419,
@@ -348,7 +348,7 @@
   "off": 347,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 419,
@@ -411,7 +411,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7D}",
-  "ko": ""
+  "ko": "{ITEM:7D}이(가)"
  },
  {
   "map": 419,
@@ -420,7 +420,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 419,
@@ -429,7 +429,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 419,
@@ -438,7 +438,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7D}!",
-  "ko": ""
+  "ko": "{ITEM:7D}!"
  },
  {
   "map": 419,
@@ -447,7 +447,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 419,
@@ -456,7 +456,7 @@
   "off": 39,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 419,
@@ -465,7 +465,7 @@
   "off": 51,
   "len": 7,
   "text": "the {ITEM:7B}!",
-  "ko": ""
+  "ko": "{ITEM:7B}!"
  },
  {
   "map": 419,

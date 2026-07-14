@@ -24,7 +24,7 @@
   "off": 88,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 275,
@@ -42,7 +42,7 @@
   "off": 143,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 275,
@@ -60,7 +60,7 @@
   "off": 200,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 275,
@@ -78,7 +78,7 @@
   "off": 251,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 275,
@@ -141,7 +141,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:86}",
-  "ko": ""
+  "ko": "{ITEM:86}이(가)"
  },
  {
   "map": 275,
@@ -150,7 +150,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -159,7 +159,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -168,7 +168,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:86}!",
-  "ko": ""
+  "ko": "{ITEM:86}!"
  },
  {
   "map": 275,
@@ -177,7 +177,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,
@@ -186,7 +186,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7A}",
-  "ko": ""
+  "ko": "{ITEM:7A}이(가)"
  },
  {
   "map": 275,
@@ -195,7 +195,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -204,7 +204,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -213,7 +213,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7A}!",
-  "ko": ""
+  "ko": "{ITEM:7A}!"
  },
  {
   "map": 275,
@@ -222,7 +222,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,
@@ -231,7 +231,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:8D}",
-  "ko": ""
+  "ko": "{ITEM:8D}이(가)"
  },
  {
   "map": 275,
@@ -240,7 +240,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -249,7 +249,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -258,7 +258,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:8D}!",
-  "ko": ""
+  "ko": "{ITEM:8D}!"
  },
  {
   "map": 275,
@@ -267,7 +267,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,
@@ -276,7 +276,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7C}",
-  "ko": ""
+  "ko": "{ITEM:7C}이(가)"
  },
  {
   "map": 275,
@@ -285,7 +285,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -294,7 +294,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -303,7 +303,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7C}!",
-  "ko": ""
+  "ko": "{ITEM:7C}!"
  },
  {
   "map": 275,
@@ -312,7 +312,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,
@@ -321,7 +321,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7A}",
-  "ko": ""
+  "ko": "{ITEM:7A}이(가)"
  },
  {
   "map": 275,
@@ -330,7 +330,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -339,7 +339,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -348,7 +348,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7A}!",
-  "ko": ""
+  "ko": "{ITEM:7A}!"
  },
  {
   "map": 275,
@@ -357,7 +357,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,
@@ -366,7 +366,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:20}",
-  "ko": ""
+  "ko": "{ITEM:20}이(가)"
  },
  {
   "map": 275,
@@ -375,7 +375,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -384,7 +384,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -393,7 +393,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:20}!",
-  "ko": ""
+  "ko": "{ITEM:20}!"
  },
  {
   "map": 275,
@@ -402,7 +402,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,
@@ -411,7 +411,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:78}",
-  "ko": ""
+  "ko": "{ITEM:78}이(가)"
  },
  {
   "map": 275,
@@ -420,7 +420,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 275,
@@ -429,7 +429,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 275,
@@ -438,7 +438,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:78}!",
-  "ko": ""
+  "ko": "{ITEM:78}!"
  },
  {
   "map": 275,
@@ -447,7 +447,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 275,

@@ -6,7 +6,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:77}",
-  "ko": ""
+  "ko": "{ITEM:77}이(가)"
  },
  {
   "map": 350,
@@ -24,7 +24,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 350,
@@ -33,7 +33,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:77}!",
-  "ko": ""
+  "ko": "{ITEM:77}!"
  },
  {
   "map": 350,
@@ -51,7 +51,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:7C}",
-  "ko": ""
+  "ko": "{ITEM:7C}이(가)"
  },
  {
   "map": 350,
@@ -69,7 +69,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 350,
@@ -78,7 +78,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:7C}!",
-  "ko": ""
+  "ko": "{ITEM:7C}!"
  },
  {
   "map": 350,
@@ -96,7 +96,7 @@
   "off": 49,
   "len": 13,
   "text": "There is a {ITEM:7C}",
-  "ko": ""
+  "ko": "{ITEM:7C}이(가)"
  },
  {
   "map": 350,
@@ -105,7 +105,7 @@
   "off": 64,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 350,
@@ -114,7 +114,7 @@
   "off": 89,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 350,
@@ -123,7 +123,7 @@
   "off": 101,
   "len": 7,
   "text": "the {ITEM:7C}!",
-  "ko": ""
+  "ko": "{ITEM:7C}!"
  },
  {
   "map": 350,
@@ -132,7 +132,7 @@
   "off": 114,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 350,
@@ -141,7 +141,7 @@
   "off": 45,
   "len": 12,
   "text": "There's a {ITEM:FE}",
-  "ko": ""
+  "ko": "{ITEM:FE}이(가)"
  },
  {
   "map": 350,
@@ -159,7 +159,7 @@
   "off": 76,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 350,
@@ -168,7 +168,7 @@
   "off": 88,
   "len": 7,
   "text": "the {ITEM:FE}!",
-  "ko": ""
+  "ko": "{ITEM:FE}!"
  },
  {
   "map": 350,
@@ -186,7 +186,7 @@
   "off": 49,
   "len": 12,
   "text": "There's a {ITEM:77}",
-  "ko": ""
+  "ko": "{ITEM:77}이(가)"
  },
  {
   "map": 350,
@@ -204,7 +204,7 @@
   "off": 82,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 350,
@@ -213,7 +213,7 @@
   "off": 94,
   "len": 7,
   "text": "the {ITEM:77}!",
-  "ko": ""
+  "ko": "{ITEM:77}!"
  },
  {
   "map": 350,
@@ -294,7 +294,7 @@
   "off": 158,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 350,
@@ -303,7 +303,7 @@
   "off": 188,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 350,
@@ -924,7 +924,7 @@
   "off": 1925,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 350,
@@ -933,7 +933,7 @@
   "off": 1937,
   "len": 7,
   "text": "the {ITEM:EB}.",
-  "ko": ""
+  "ko": "{ITEM:EB}."
  },
  {
   "map": 350,
@@ -4425,7 +4425,7 @@
   "off": 1078,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 350,

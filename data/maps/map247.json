@@ -33,7 +33,7 @@
   "off": 93,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 247,
@@ -69,7 +69,7 @@
   "off": 223,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 247,
@@ -87,7 +87,7 @@
   "off": 258,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 247,
@@ -141,7 +141,7 @@
   "off": 376,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 247,
@@ -195,7 +195,7 @@
   "off": 494,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 247,
@@ -204,7 +204,7 @@
   "off": 531,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 247,
@@ -249,7 +249,7 @@
   "off": 623,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 247,
@@ -303,7 +303,7 @@
   "off": 765,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 247,
@@ -312,7 +312,7 @@
   "off": 802,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 247,
@@ -375,7 +375,7 @@
   "off": 151,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 247,

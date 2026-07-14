@@ -6,7 +6,7 @@
   "off": 47,
   "len": 13,
   "text": "There is a {ITEM:78}",
-  "ko": ""
+  "ko": "{ITEM:78}이(가)"
  },
  {
   "map": 365,
@@ -24,7 +24,7 @@
   "off": 80,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 365,
@@ -33,7 +33,7 @@
   "off": 92,
   "len": 7,
   "text": "the {ITEM:78}!",
-  "ko": ""
+  "ko": "{ITEM:78}!"
  },
  {
   "map": 365,
@@ -60,7 +60,7 @@
   "off": 48,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 365,
@@ -69,7 +69,7 @@
   "off": 43,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 365,
@@ -78,7 +78,7 @@
   "off": 43,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 365,
@@ -1005,7 +1005,7 @@
   "off": 70,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1023,7 +1023,7 @@
   "off": 136,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1041,7 +1041,7 @@
   "off": 191,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1059,7 +1059,7 @@
   "off": 241,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1077,7 +1077,7 @@
   "off": 293,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1095,7 +1095,7 @@
   "off": 345,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1113,7 +1113,7 @@
   "off": 397,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1131,7 +1131,7 @@
   "off": 453,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1149,7 +1149,7 @@
   "off": 514,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1167,7 +1167,7 @@
   "off": 567,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1185,7 +1185,7 @@
   "off": 620,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1203,7 +1203,7 @@
   "off": 674,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1221,7 +1221,7 @@
   "off": 730,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1239,7 +1239,7 @@
   "off": 796,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1257,7 +1257,7 @@
   "off": 843,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1275,7 +1275,7 @@
   "off": 890,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1293,7 +1293,7 @@
   "off": 941,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1311,7 +1311,7 @@
   "off": 1010,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1329,7 +1329,7 @@
   "off": 1064,
   "len": 4,
   "text": "Exit",
-  "ko": ""
+  "ko": "끝"
  },
  {
   "map": 365,
@@ -1338,7 +1338,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:C4}",
-  "ko": ""
+  "ko": "{ITEM:C4}이(가)"
  },
  {
   "map": 365,
@@ -1347,7 +1347,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 365,
@@ -1356,7 +1356,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 365,
@@ -1365,7 +1365,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:C4}!",
-  "ko": ""
+  "ko": "{ITEM:C4}!"
  },
  {
   "map": 365,
@@ -1374,7 +1374,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 365,
@@ -1383,7 +1383,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:E7}",
-  "ko": ""
+  "ko": "{ITEM:E7}이(가)"
  },
  {
   "map": 365,
@@ -1392,7 +1392,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 365,
@@ -1401,7 +1401,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 365,
@@ -1410,7 +1410,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:E7}!",
-  "ko": ""
+  "ko": "{ITEM:E7}!"
  },
  {
   "map": 365,
@@ -1419,7 +1419,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 365,
@@ -1428,7 +1428,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:7B}",
-  "ko": ""
+  "ko": "{ITEM:7B}이(가)"
  },
  {
   "map": 365,
@@ -1437,7 +1437,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 365,
@@ -1446,7 +1446,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 365,
@@ -1455,7 +1455,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:7B}!",
-  "ko": ""
+  "ko": "{ITEM:7B}!"
  },
  {
   "map": 365,
@@ -1464,7 +1464,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 365,
@@ -1473,7 +1473,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:8E}",
-  "ko": ""
+  "ko": "{ITEM:8E}이(가)"
  },
  {
   "map": 365,
@@ -1482,7 +1482,7 @@
   "off": 65,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 365,
@@ -1491,7 +1491,7 @@
   "off": 95,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 365,
@@ -1500,7 +1500,7 @@
   "off": 107,
   "len": 7,
   "text": "the {ITEM:8E}!",
-  "ko": ""
+  "ko": "{ITEM:8E}!"
  },
  {
   "map": 365,
@@ -1509,7 +1509,7 @@
   "off": 129,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 365,
@@ -1716,7 +1716,7 @@
   "off": 1736,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 365,
@@ -3516,7 +3516,7 @@
   "off": 1781,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 365,
@@ -3525,7 +3525,7 @@
   "off": 1793,
   "len": 7,
   "text": "the {ITEM:B6}!",
-  "ko": ""
+  "ko": "{ITEM:B6}!"
  },
  {
   "map": 365,

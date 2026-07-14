@@ -17,7 +17,7 @@ text_dump.json 의 `ko` 필드를 채우면 게임에 삽입한다.
     - 인코딩 결과가 원문 길이를 넘으면 삽입 불가 (경고)
     - 음절이 용량(400)을 넘으면 배치 불가 (경고)
 """
-import json, struct, sys, re, argparse
+import json, os, struct, sys, re, argparse
 from collections import Counter
 
 sys.path.insert(0, "/home/claude/legaia/tools")
@@ -118,19 +118,78 @@ def collect_syllables(entries):
 
 
 def assign_pages(freq, entries=None):
-    """페이지 배치.
+    """페이지 배치 — **빈도순**.
 
-    ★ 페이지 전환 코드(0xCF <p>)가 2바이트를 먹으므로, 한 대사의 음절이
-      여러 페이지에 흩어지면 길이 초과가 난다. (짧은 대사일수록 치명적)
+    페이지 전환 코드(0xCF <p>)가 2바이트를 먹으므로, 한 대사의 음절이
+    여러 페이지에 흩어지면 길이 초과가 날 수 있다. 그래서 예전엔
+    '함께 나오는 음절을 같은 페이지에 몰아넣는' 전략을 썼다.
 
-    전략: 대사 단위로 '함께 나오는 음절'을 같은 페이지에 몰아넣는다.
-      1) 여유가 빠듯한(=원문이 짧은) 대사부터 처리
-      2) 그 대사의 미배정 음절을 현재 페이지에 연속 배정
-      3) 페이지가 차면 다음 페이지로
-    이러면 한 대사가 한 페이지 안에서 끝날 확률이 크게 오른다.
+    하지만 실측해 보니 그 전략은 **자주 쓰이는 음절을 놓친다**.
+    (예: '씐'은 41회나 쓰이는데도 잘렸다 — 그 대사의 여유가 넉넉해서
+     처리 순서가 밀렸기 때문)
+
+    폰트 칸이 모자란 지금은 **빈도순이 압도적으로 낫다**:
+
+        빠듯한 대사 우선 : 삽입 1,626런 (음절없음 143, 길이초과 693)
+        빈도순           : 삽입 2,059런 (음절없음  67, 길이초과 336)  ★
+
+    빈도가 높은 음절은 여러 대사에 걸쳐 나오므로, 먼저 넣으면
+    자연스럽게 같은 페이지에 모이고 페이지 전환도 오히려 줄어든다.
     """
     cap = hook7.capacity()
-    order = [1, 2, 3, 4]
+    # 페이지 순서 — 빈도 높은 음절이 앞 페이지에 간다.
+    #   p1/p2/p4     : 원본이 비워둔 자리 (검증됨)
+    #   p3/p5~p7     : 한자 TIM 1 (320,256)
+    #   p8~p11       : 한자 TIM 2 (384,256)
+    order = [1, 2, 4, 3, 5, 6, 7, 8, 9, 10, 11]
+
+    # ★ 테스트 모드: 모든 페이지를 골고루 쓰게 한다.
+    #   실사용 배치로는 음절이 478자뿐이라 뒤쪽 페이지(p6~p11)가 비어 있어,
+    #   그 영역이 실제로 화면에 제대로 나오는지 확인할 수 없다.
+    #   LEGAIA_TEST_PAGES=1 로 빌드하면 음절을 11개 페이지에 라운드로빈으로 뿌려
+    #   **모든 폰트 영역을 한 번에 검증**할 수 있다.
+    #   (페이지 전환이 늘어 길이 초과가 많아지므로 배포용은 아니다)
+    if os.environ.get("LEGAIA_TEST_P8") == "1":
+        # ★ p8~p11 (한자 TIM2, VRAM 384,256) 만 써서 그 영역을 격리 검증한다.
+        #   모든 음절을 p8~p11 에만 몰아넣는다.
+        only = [8, 9, 10, 11]
+        mapping = {}
+        used = {p: 0 for p in only}
+        over = []
+        pi = 0
+        for ch, _ in freq.most_common():
+            placed = False
+            for _ in range(len(only)):
+                p = only[pi]
+                pi = (pi + 1) % len(only)
+                if used[p] < cap[p]:
+                    mapping[ch] = (p, used[p]); used[p] += 1; placed = True; break
+            if not placed:
+                over.append(ch)
+        print("[2] ★ p8~p11 격리 테스트: 한자 TIM2 (384,256) 만 사용")
+        print(f"    페이지별: {dict(sorted(used.items()))}  초과 {len(over)}")
+        return mapping, over
+
+    if os.environ.get("LEGAIA_TEST_PAGES") == "1":
+        mapping = {}
+        used = {p: 0 for p in order}
+        over = []
+        pi = 0
+        for ch, _ in freq.most_common():
+            placed = False
+            for _ in range(len(order)):          # 빈 자리가 나올 때까지 순환
+                p = order[pi]
+                pi = (pi + 1) % len(order)
+                if used[p] < cap[p]:
+                    mapping[ch] = (p, used[p])
+                    used[p] += 1
+                    placed = True
+                    break
+            if not placed:
+                over.append(ch)
+        print("[2] ★ 테스트 모드: 음절을 전 페이지에 라운드로빈 배치")
+        print(f"    페이지별: {dict(sorted(used.items()))}")
+        return mapping, over
     mapping = {}
     used = {p: 0 for p in order}
     over = []
@@ -150,17 +209,6 @@ def assign_pages(freq, entries=None):
         used[p] += 1
         return True
 
-    if entries:
-        # 원문 길이 대비 번역이 빠듯한 대사부터 (여유 = len - 글자바이트)
-        def slack(e):
-            n = sum(2 if is_hangul(c) else 1 for c in e["ko"])
-            return e["len"] - n
-        # 짧고 빠듯한 대사 먼저 -> 그 음절들이 같은 페이지에 모임
-        for e in sorted(entries, key=slack):
-            for ch in e["ko"]:
-                if is_hangul(ch):
-                    put(ch)
-    # 남은 음절 (빈도순)
     for ch, _ in freq.most_common():
         put(ch)
     return mapping, over
@@ -213,17 +261,28 @@ def check_roundtrip(entries, mapping):
       - 매크로 삭제/추가
     """
     bad = []
+    missing = []          # 폰트 용량 부족으로 음절이 없는 것 (인코딩 버그가 아니다)
     for e in entries:
         ko = e["ko"]
         try:
             enc, _ = encode(ko, mapping)
         except KeyError as ex:
-            bad.append((e, f"음절 미배치: {ex}"))
+            missing.append((e, str(ex)))
             continue
         dec = decode(enc, mapping)
         # 공백 패딩은 무시하고 비교
         if dec.rstrip() != ko.rstrip():
             bad.append((e, f"불일치\n        보냄: {ko!r}\n        받음: {dec!r}"))
+    if missing:
+        # 폰트 칸이 모자라 못 넣는 음절 — 그 대사는 영어로 남는다.
+        syl = set()
+        for e, msg in missing:
+            for c in e["ko"]:
+                if is_hangul(c) and c not in mapping:
+                    syl.add(c)
+        print(f"\n⚠ 폰트 용량 부족: {len(missing)}런이 영어로 남습니다")
+        print(f"   못 넣은 음절 {len(syl)}자: {''.join(sorted(syl))[:60]}")
+        print(f"   (폰트 칸을 늘리거나, 그 음절을 쓰지 않도록 번역을 다듬으세요)")
     if bad:
         print(f"\n🔴 왕복 검증 실패 {len(bad)}건 — 인코딩 버그!")
         for e, why in bad[:8]:
@@ -321,7 +380,10 @@ def build_patch(prot_in=None, exe_in=None, out_prot=None, out_exe=None, dump=Non
     if os.name == "nt" and not os.path.exists(LZ):
         LZ = LZ + ".exe"
 
-    from legaia import lzss_compress as _lzss_py
+    # ★ lazy matching 압축기 — greedy 보다 ~1.2% 작다.
+    #   한글은 영어만큼 압축이 안 돼 PACK 이 슬롯을 넘는데, 이 차이가 결정적이다.
+    #   게임 디코더는 표준 LZSS 라 어떻게 인코딩했든 똑같이 풀린다.
+    from legaia import lzss_compress_opt as _lzss_py
 
     # 압축 캐시: 같은 스크립트 블록이면 재압축하지 않는다.
     #   빌드를 반복할 때(번역 몇 줄만 고치고 다시 빌드) 큰 차이가 난다.
@@ -339,25 +401,13 @@ def build_patch(prot_in=None, exe_in=None, out_prot=None, out_exe=None, dump=Non
         return out
 
     def _compress_raw(data):
-        """C 구현이 있으면 쓰고, 없으면 파이썬 구현 (출력은 동일).
+        """★ lazy matching 파이썬 구현을 쓴다.
 
-        파이썬 구현도 최적화되어 맵당 수 초면 끝난다.
-        Windows 에서 gcc 없이도 그냥 돌아가도록 하기 위함.
+        C 구현(lzss_fast)은 원본과 같은 greedy 라서 더 크다.
+        한글 PACK 이 슬롯을 넘는 상황에선 1.2% 차이가 결정적이므로
+        느리더라도 lazy 를 쓴다. (캐시가 있어 재빌드는 빠르다)
         """
-        if not os.path.exists(LZ):
-            return _lzss_py(data)
-        with tempfile.NamedTemporaryFile(delete=False) as fi:
-            fi.write(data); ip = fi.name
-        op = ip + ".z"
-        try:
-            subprocess.run([LZ, "c", ip, op], check=True,
-                           stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-            out = open(op, "rb").read()
-        finally:
-            for f in (ip, op):
-                if os.path.exists(f):
-                    os.unlink(f)
-        return out
+        return _lzss_py(data)
 
     lzss_compress = _cached
     from protected import assert_protected
@@ -419,17 +469,53 @@ def build_patch(prot_in=None, exe_in=None, out_prot=None, out_exe=None, dump=Non
     prot = bytearray(open(PROT_US, "rb").read())
     ascii_px = unpack(bytes(prot), ASCII_PIX)
     num_px = unpack(bytes(prot), NUM_PIX)
-    before = int((num_px[144:] != 0).sum())
-    num_px[0:144] = 0        # 페이지2/3 영역 클리어 (숫자 V144+ 는 보존)
+    # 🔴 원본이 '비워둔 자리'에만 쓴다. 게임 데이터를 덮으면 글자에 그림이 박힌다.
+    #    숫자 TIM
+    #      V  0~ 79 : 아이콘 TIM 이 덮는다      → 원본 유지 ('얘','쁘' 가 깨졌던 곳)
+    #      V 84~143 : 빔 → p2
+    #      V144~167 : 숫자 폰트 (HP/MP/LV/G)    → 보호
+    #      V168~191 : 빔 → p4
+    #      V192~255 : 숫자 폰트                 → 보호
+    before_icon = int((num_px[0:84] != 0).sum())
+    before_a = int((num_px[144:168] != 0).sum())
+    before_b = int((num_px[192:] != 0).sum())
+    num_px[84:144] = 0       # p2
+    num_px[168:192] = 0      # p4
 
+    #    ASCII TIM
+    #      V  0~143 : 영어 글리프               → 보호 (덮으면 영어가 깨진다)
+    #      V144~215 : 빔 → p1
+    #      V216~239 : 영어 글리프               → 보호
+    before_en1 = int((ascii_px[0:144] != 0).sum())
+    before_en2 = int((ascii_px[216:240] != 0).sum())
+    ascii_px[144:216] = 0    # p1
+
+    # ASCII / 숫자 TIM 만 여기서 그린다. 한자 TIM 은 아래 kanji_font.patch 가 처리.
     for ch, (p, i) in mapping.items():
+        buf = hook7.BUF[p]
+        if buf.startswith("kanji"):
+            continue
         U, V = hook7.uv(i, p)
-        tgt = ascii_px if hook7.BUF[p] == "ascii" else num_px
+        tgt = ascii_px if buf == "ascii" else num_px
         tgt[V:V + GH, U:U + GW] = glyph(ch)
-    assert int((num_px[144:] != 0).sum()) == before, "숫자 폰트 훼손!"
+
+    assert int((num_px[0:84] != 0).sum()) == before_icon, "아이콘 영역 훼손! (숫자 V0~83)"
+    assert int((num_px[144:168] != 0).sum()) == before_a, "숫자 폰트 훼손! (V144~167)"
+    assert int((num_px[192:] != 0).sum()) == before_b, "숫자 폰트 훼손! (V192~255)"
+    assert int((ascii_px[0:144] != 0).sum()) == before_en1, "영어 폰트 훼손! (ASCII V0~143)"
+    assert int((ascii_px[216:240] != 0).sum()) == before_en2, "영어 폰트 훼손! (ASCII V216~239)"
     prot[ASCII_PIX:ASCII_PIX + 32768] = pack(ascii_px)
     prot[NUM_PIX:NUM_PIX + 32768] = pack(num_px)
-    print(f"[3] 폰트 {len(mapping)}자 삽입")
+
+    # ★ 한자 폰트 TIM (VRAM 320,256) — file894(raw) + file876(PACK) 둘 다 채운다.
+    #   file894 만 바꿨더니 게임에 일본어 한자가 그대로 나왔다 → file876 이 로드된다.
+    #   어느 쪽이 언제 로드되는지 확실치 않으므로 양쪽 모두 같은 한글 폰트를 넣는다.
+    import kanji_font
+    n876, slot876, nhit = kanji_font.patch(prot, mapping, hook7, glyph, GW, GH)
+    nk = sum(1 for p, _ in mapping.values() if hook7.BUF[p].startswith("kanji"))
+    print(f"[3] 폰트 {len(mapping)}자 삽입 (한자TIM {nk}자, TIM {nhit}개 교체)")
+    print(f"    file876 재압축 {n876:,}B / 슬롯 {slot876:,}B "
+          f"(여유 {slot876 - n876:,}B)")
 
     # --- 팔레트 ---
     def rgb15(r, g, b):
@@ -461,6 +547,48 @@ def build_patch(prot_in=None, exe_in=None, out_prot=None, out_exe=None, dump=Non
         bymap.setdefault(e["map"], []).append(e)
 
     files = {f[0]: (f[1], f[2]) for f in prot_files(bytes(prot))}
+    # ─────────────────────────────────────────────────────────────
+    # ★ [4.5] PROT 재배치 — 맵 슬롯을 넓힌다
+    #
+    # 원본 맵 PACK 은 슬롯을 꽉 채우고 있다 (맵 여유 합계 3KB).
+    # 한글은 영어만큼 LZSS 압축이 안 돼 PACK 이 커지고 슬롯을 넘는다.
+    # PROT 전체로는 여유가 있으므로(맵 아닌 파일들), 파일을 섹터 정렬로
+    # 다시 배치해서 맵에 필요한 만큼 슬롯을 준다.
+    #
+    #   빈틈없이 재배치하면 52섹터(106KB)가 생긴다.
+    #   슬롯을 넘는 맵이 그보다 많으면, 초과가 작은 맵부터 포기한다
+    #   (그 맵은 기존처럼 번역을 조금 되돌려 맞춘다).
+    # ─────────────────────────────────────────────────────────────
+    import prot_realloc as _PR
+    import measure_packs as _MP
+
+    _orig_prot = bytes(prot)
+    _need = {}
+    for _mid, _es in sorted(bymap.items()):
+        if _mid not in files:
+            continue
+        _ms, _me = files[_mid]
+        _np = _MP.rebuild_pack(bytes(_orig_prot[_ms:_me]), _es, mapping)
+        if _np:
+            _need[_mid] = len(_np)
+
+    _over = sorted(((_need[m] - (files[m][1] - files[m][0]), m)
+                    for m in _need if _need[m] > (files[m][1] - files[m][0])),
+                   reverse=True)
+    if _over:
+        _, _, _, _budget = _PR.plan(_orig_prot, {})
+        _cap = _budget // _PR.SEC          # 쓸 수 있는 섹터 수
+        _grant = {m: _need[m] for _, m in _over[:_cap]}   # 초과가 큰 맵부터
+        try:
+            _new_prot, _, _, _spare = _PR.rebuild(_orig_prot, _grant)
+            _PR.verify(_orig_prot, _new_prot)
+            prot = bytearray(_new_prot)
+            files = {f[0]: (f[1], f[2]) for f in prot_files(bytes(prot))}
+            print(f"[4.5] PROT 재배치: {len(_grant)}개 맵 슬롯 확장 "
+                  f"(넘친 맵 {len(_over)}개 중), 남은 여유 {_spare:,}B")
+        except Exception as _ex:
+            print(f"[4.5] ⚠ 재배치 실패, 원본 배치로 진행: {_ex}")
+
     done = skip_len = skip_syl = 0
     tight = []
     for mid, es in sorted(bymap.items()):

@@ -222,7 +222,7 @@
   "off": 710,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 33,
@@ -4029,7 +4029,7 @@
   "off": 50,
   "len": 13,
   "text": "There is a {ITEM:77}",
-  "ko": ""
+  "ko": "{ITEM:77}이(가)"
  },
  {
   "map": 33,
@@ -4047,7 +4047,7 @@
   "off": 96,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 33,
@@ -4056,7 +4056,7 @@
   "off": 108,
   "len": 7,
   "text": "the {ITEM:77}!",
-  "ko": ""
+  "ko": "{ITEM:77}!"
  },
  {
   "map": 33,
@@ -4065,7 +4065,7 @@
   "off": 130,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 33,
