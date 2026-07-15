@@ -54,7 +54,10 @@ def rebuild_pack(raw, entries, mapping):
         si = e["script"]
         if si >= len(scripts):
             continue
-        enc, _ = T.encode(e["ko"], mapping)     # (bytes, page) 를 반환한다
+        try:
+            enc, _ = T.encode(e["ko"], mapping)   # (bytes, page) 를 반환한다
+        except KeyError:
+            continue                              # 폰트에 없는 음절 -> 영어로 남긴다
         if len(enc) > e["len"]:
             continue
         o = e["off"]

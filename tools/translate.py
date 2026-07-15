@@ -228,7 +228,10 @@ def decode(data, mapping):
     while i < len(data):
         b = data[i]
         if b == 0xCF and i + 1 < len(data):
-            page = data[i + 1]
+            n = data[i + 1]
+            if n >= 0xF0:            # 우리 페이지 전환 (0xF0|page)
+                page = n & 0x0F
+            # n < 0xF0 은 원본 색 코드 — 페이지 매핑과 무관
             i += 2
         elif b == 0xCE and i + 1 < len(data):
             idx = data[i + 1] - HANGUL_MIN
@@ -301,7 +304,14 @@ def encode(text, mapping, cur_page=None):
                 raise KeyError(f"음절 '{val}' 미배치")
             p, idx = mapping[val]
             if p != page:
-                out += bytes([0xCF, p])
+                # 🔴 페이지 전환은 0xCF <0xF0|page> 로 인코딩한다.
+                #    0xCF 는 원본에서 '글자 색' 제어코드다 (PAL_VAR = n).
+                #    원본은 n = 0~10 및 큰 값(46,254 등)을 색으로 쓰지만
+                #    0xF0~0xFB 대역은 안 쓴다. 우리 훅이 n>=0xF0 을 페이지로
+                #    가로채고, n<0xF0 은 원본 색 처리로 넘긴다.
+                #    (예전엔 0xCF <page> 로 PAL_VAR 에 페이지를 직접 넣어,
+                #     뒤따르는 영어 색이 오염됐다 — FINDINGS 8-T)
+                out += bytes([0xCF, 0xF0 | p])
                 page = p
             out += bytes([0xCE, HANGUL_MIN + idx])
         else:

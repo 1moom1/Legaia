@@ -51,7 +51,18 @@ CE_PATH = 0x80036968
 REG_PATH = 0x80036B88
 REGFUNC = 0x8003D2C4
 LOOP = 0x80036908
-PAL_VAR = 0x8007B454
+PAL_VAR = 0x8007B454       # 원본이 '글자 색'으로 쓰는 변수 (clut = PAL_VAR + 0x7F86)
+
+# 🔴 페이지 전환을 PAL_VAR 과 분리한다 (FINDINGS 8-T).
+#   원본 0xCF <n> 은 PAL_VAR = n (색). 우리가 페이지를 거기 넣으면 뒤 영어가
+#   그 색을 물려받아 오염된다. 그래서:
+#     - 0xCF <n>, n >= 0xF0 : 페이지 전환. PAGE_VAR = n & 0x0F. PAL_VAR 안 건드림.
+#     - 0xCF <n>, n <  0xF0 : 원본대로 PAL_VAR = n (색 연출 보존).
+#   한글 렌더는 페이지를 PAGE_VAR 에서 읽는다.
+CF_TEST = 0x80036944      # 원본 0xCF 비교 지점 (bne v1, 0xCF, 0x80036960)
+CF_WRITE = 0x80036958     # 'j LOOP' — 딜레이슬롯이 sw PAL_VAR=n. 여기를 훅으로 돌린다.
+PAGE_FLAG = 0xF0          # 페이지 전환 표시 비트
+PAGE_VAR = 0x8007AF3C     # 페이지 저장 변수 (훅 영역 끝 4B, 게임이 안 쓰는 자리)
 
 # ★ 0xCE <n> 의 n 은 1바이트. n = HANGUL_MIN + idx 이므로
 #    페이지당 최대 칸수 = 256 - HANGUL_MIN.
@@ -197,8 +208,9 @@ def build(tbl_addr):
     # t2 = U, t4 = row*12
 
     # --- 현재 페이지 → 테이블 인덱스 ---
-    a.ins(LUI("t5", hi16(PAL_VAR)))
-    a.ins(LHU("t5", lo16(PAL_VAR), "t5"))
+    #   페이지는 PAGE_VAR 에서 읽는다 (PAL_VAR 은 색 전용으로 남긴다).
+    a.ins(LUI("t5", hi16(PAGE_VAR)))
+    a.ins(LHU("t5", lo16(PAGE_VAR), "t5"))
     a.ins(NOP())                              # ★ 로드 지연
     a.ins(ADDU("t6", "t5", "t5"))             # t6 = page * 2
 
@@ -285,6 +297,30 @@ def build(tbl_addr):
     a.j(LOOP)
     a.ins(NOP())
 
+    # === CF_HOOK: 0xCF <n> 처리 가로채기 ===
+    #   진입 시 v1 = n (0xCF 다음 바이트). 원본 딜레이슬롯이 이미
+    #   PAL_VAR = n 을 실행한 상태로 여기 온다.
+    #     n >= 0xF0 : 페이지 전환. PAGE_VAR = n & 0x0F.
+    #                 PAL_VAR 은 원래 색으로 되돌린다 (n 이 색을 오염시켰으므로).
+    #     n <  0xF0 : 원본 색 코드. PAL_VAR = n 그대로 두고 지나간다.
+    a.label("CF_HOOK")
+    a.ins(ADDIU("t0", "zero", PAGE_FLAG))
+    a.ins(SLTU("t1", "v1", "t0"))             # t1 = (n < 0xF0)
+    a.bnez("t1", "CF_DONE")                   # 색 코드면 그냥 LOOP
+    a.ins(NOP())
+    # 페이지 전환: PAGE_VAR = n & 0x0F
+    a.ins(ANDI("t2", "v1", 0x0F))
+    a.ins(LUI("t3", hi16(PAGE_VAR)))
+    a.ins(SH("t2", lo16(PAGE_VAR), "t3"))
+    # PAL_VAR 복원: 딜레이슬롯이 방금 PAL_VAR = n(>=0xF0) 을 넣었다.
+    #   그대로 두면 뒤 영어 clut = n + 0x7F86 = 오염. 색 기본값(1)으로 되돌린다.
+    a.ins(LUI("t3", hi16(PAL_VAR)))
+    a.ins(ADDIU("t2", "zero", 1))
+    a.ins(SH("t2", lo16(PAL_VAR), "t3"))
+    a.label("CF_DONE")
+    a.j(LOOP)
+    a.ins(NOP())
+
     return a
 
 
@@ -323,6 +359,16 @@ def patch_exe(exe_bytes, index_bytes):
     toff = r2f(tbl_addr)
     exe[toff:toff + len(tbl)] = tbl
     exe[r2f(HOOK_POINT):r2f(HOOK_POINT) + 4] = J(HOOK_ADDR)
+
+    # 🔴 0xCF 처리를 CF_HOOK 으로 돌린다.
+    #   원본 0x80036958 'j LOOP' → 'j CF_HOOK'.
+    #   딜레이슬롯(0x8003695C, sw PAL_VAR=n)은 그대로 실행된 뒤 CF_HOOK 진입.
+    cf_hook = a._resolve_positions()["CF_HOOK"]
+    exe[r2f(CF_WRITE):r2f(CF_WRITE) + 4] = J(cf_hook)
+
+    # PAGE_VAR 초기값 0 (첫 글자가 페이지 전환 없이 오면 page 0 = 안전)
+    exe[r2f(PAGE_VAR):r2f(PAGE_VAR) + 4] = b"\x00\x00\x00\x00"
+
     for c in index_bytes:
         exe[WIDTH_TBL + c] = WIDTH
     return bytes(exe), bytes(code)
@@ -354,7 +400,7 @@ if __name__ == "__main__":
         n = HANGUL_MIN + last
         okv = V + GH <= LIMS[p]
         okn = n <= 0xFF
-        cl = 0x7F86 + p          # 한자 페이지도 원본 텍스트 CLUT 을 쓴다
+        cl = 0x7F87              # 모든 페이지가 통일 CLUT (값3=순백)
         print(f"  p{p:2d} ({BUF[p]:6s}) idx {last:3d}: U={U:3d} V={V:3d} "
               f"tpage=0x{TPAGE[p]:04X} clut=0x{cl:04X}"
               f"  {'OK' if okv and okn else '★문제'}")
