@@ -114,7 +114,7 @@
   "off": 37,
   "len": 18,
   "text": "Begin flag setting",
-  "ko": ""
+  "ko": "깃발 설정 시작"
  },
  {
   "map": 15,
@@ -123,7 +123,7 @@
   "off": 70,
   "len": 29,
   "text": "<First visit to Biron Temple>",
-  "ko": ""
+  "ko": "<비론 신전 첫 방문>"
  },
  {
   "map": 15,
@@ -141,7 +141,7 @@
   "off": 138,
   "len": 6,
   "text": "=Next=",
-  "ko": ""
+  "ko": "=다음="
  },
  {
   "map": 15,
@@ -150,7 +150,7 @@
   "off": 146,
   "len": 32,
   "text": "<First visit to Biron Temple> ON",
-  "ko": ""
+  "ko": "<비론 신전 첫 방문> 켬"
  },
  {
   "map": 15,
@@ -159,7 +159,7 @@
   "off": 180,
   "len": 33,
   "text": "<First visit to Biron Temple> OFF",
-  "ko": ""
+  "ko": "<비론 신전 첫 방문> 끔"
  },
  {
   "map": 15,
@@ -168,7 +168,7 @@
   "off": 215,
   "len": 44,
   "text": "Go right to Genesis Tree Resurrection event!",
-  "ko": ""
+  "ko": "창세수 부활 이벤트로!"
  },
  {
   "map": 15,
@@ -177,7 +177,7 @@
   "off": 272,
   "len": 13,
   "text": "Zeto's defeat",
-  "ko": ""
+  "ko": "제토 격파"
  },
  {
   "map": 15,
@@ -195,7 +195,7 @@
   "off": 324,
   "len": 6,
   "text": "=Next=",
-  "ko": ""
+  "ko": "=다음="
  },
  {
   "map": 15,
@@ -204,7 +204,7 @@
   "off": 332,
   "len": 16,
   "text": "Zeto's defeat ON",
-  "ko": ""
+  "ko": "제토 격파 켬"
  },
  {
   "map": 15,
@@ -213,7 +213,7 @@
   "off": 350,
   "len": 17,
   "text": "Zeto's defeat OFF",
-  "ko": ""
+  "ko": "제토 격파 끔"
  },
  {
   "map": 15,
@@ -222,7 +222,7 @@
   "off": 369,
   "len": 22,
   "text": "Go right to Meta event",
-  "ko": ""
+  "ko": "메타 이벤트로"
  },
  {
   "map": 15,
@@ -231,7 +231,7 @@
   "off": 404,
   "len": 37,
   "text": "Mt. Rikuroa Genesis Tree Resurrection",
-  "ko": ""
+  "ko": "리쿠로아 산 창세수 부활"
  },
  {
   "map": 15,
@@ -249,7 +249,7 @@
   "off": 480,
   "len": 6,
   "text": "=Next=",
-  "ko": ""
+  "ko": "=다음="
  },
  {
   "map": 15,
@@ -258,7 +258,7 @@
   "off": 488,
   "len": 40,
   "text": "Mt. Rikuroa Genesis Tree Resurrection ON",
-  "ko": ""
+  "ko": "리쿠로아 산 창세수 부활 켬"
  },
  {
   "map": 15,
@@ -267,7 +267,7 @@
   "off": 530,
   "len": 41,
   "text": "Mt. Rikuroa Genesis Tree Resurrection OFF",
-  "ko": ""
+  "ko": "리쿠로아 산 창세수 부활 끔"
  },
  {
   "map": 15,
@@ -276,7 +276,7 @@
   "off": 573,
   "len": 6,
   "text": "=Back=",
-  "ko": ""
+  "ko": "=뒤로="
  },
  {
   "map": 15,
@@ -294,7 +294,7 @@
   "off": 633,
   "len": 6,
   "text": "=Next=",
-  "ko": ""
+  "ko": "=다음="
  },
  {
   "map": 15,
@@ -303,7 +303,7 @@
   "off": 650,
   "len": 6,
   "text": "=Back=",
-  "ko": ""
+  "ko": "=뒤로="
  },
  {
   "map": 15,
@@ -312,7 +312,7 @@
   "off": 665,
   "len": 19,
   "text": "{NAME} merges with Seru",
-  "ko": ""
+  "ko": "{NAME} 세루 융합"
  },
  {
   "map": 15,
@@ -330,7 +330,7 @@
   "off": 723,
   "len": 6,
   "text": "=Next=",
-  "ko": ""
+  "ko": "=다음="
  },
  {
   "map": 15,
@@ -339,7 +339,7 @@
   "off": 731,
   "len": 22,
   "text": "{NAME} merges with Seru ON",
-  "ko": ""
+  "ko": "{NAME} 세루 융합 켬"
  },
  {
   "map": 15,
@@ -348,7 +348,7 @@
   "off": 755,
   "len": 23,
   "text": "{NAME} merges with Seru OFF",
-  "ko": ""
+  "ko": "{NAME} 세루 융합 끔"
  },
  {
   "map": 15,
@@ -357,7 +357,7 @@
   "off": 780,
   "len": 6,
   "text": "=Back=",
-  "ko": ""
+  "ko": "=뒤로="
  },
  {
   "map": 15,
@@ -366,7 +366,7 @@
   "off": 799,
   "len": 24,
   "text": "<The villagers assemble>",
-  "ko": ""
+  "ko": "<마을 사람 집합>"
  },
  {
   "map": 15,
@@ -384,7 +384,7 @@
   "off": 862,
   "len": 6,
   "text": "=Next=",
-  "ko": ""
+  "ko": "=다음="
  },
  {
   "map": 15,
@@ -393,7 +393,7 @@
   "off": 870,
   "len": 27,
   "text": "<The villagers assemble> ON",
-  "ko": ""
+  "ko": "<마을 사람 집합> 켬"
  },
  {
   "map": 15,
@@ -402,7 +402,7 @@
   "off": 899,
   "len": 28,
   "text": "<The villagers assemble> OFF",
-  "ko": ""
+  "ko": "<마을 사람 집합> 끔"
  },
  {
   "map": 15,
@@ -411,7 +411,7 @@
   "off": 929,
   "len": 6,
   "text": "=Back=",
-  "ko": ""
+  "ko": "=뒤로="
  },
  {
   "map": 15,
@@ -420,7 +420,7 @@
   "off": 948,
   "len": 35,
   "text": "<Rim Elm Genesis Tree Resurrection>",
-  "ko": ""
+  "ko": "<림 엘름 창세수 부활>"
  },
  {
   "map": 15,
@@ -447,7 +447,7 @@
   "off": 1030,
   "len": 38,
   "text": "<Rim Elm Genesis Tree Resurrection> ON",
-  "ko": ""
+  "ko": "<림 엘름 창세수 부활> 켬"
  },
  {
   "map": 15,
@@ -456,7 +456,7 @@
   "off": 1070,
   "len": 39,
   "text": "<Rim Elm Genesis Tree Resurrection> OFF",
-  "ko": ""
+  "ko": "<림 엘름 창세수 부활> 끔"
  },
  {
   "map": 15,
@@ -465,7 +465,7 @@
   "off": 1111,
   "len": 6,
   "text": "=Back=",
-  "ko": ""
+  "ko": "=뒤로="
  },
  {
   "map": 15,
@@ -474,7 +474,7 @@
   "off": 1130,
   "len": 13,
   "text": "Burial at sea",
-  "ko": ""
+  "ko": "수장"
  },
  {
   "map": 15,
@@ -501,7 +501,7 @@
   "off": 1190,
   "len": 16,
   "text": "Burial at sea ON",
-  "ko": ""
+  "ko": "수장 켬"
  },
  {
   "map": 15,
@@ -510,7 +510,7 @@
   "off": 1208,
   "len": 17,
   "text": "Burial at sea OFF",
-  "ko": ""
+  "ko": "수장 끔"
  },
  {
   "map": 15,
@@ -519,7 +519,7 @@
   "off": 1227,
   "len": 6,
   "text": "=Back=",
-  "ko": ""
+  "ko": "=뒤로="
  },
  {
   "map": 15,
@@ -528,7 +528,7 @@
   "off": 1246,
   "len": 17,
   "text": "End flag settings",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 15,
@@ -537,7 +537,7 @@
   "off": 14,
   "len": 14,
   "text": "Heeere's Meta!",
-  "ko": ""
+  "ko": "메타 등장!"
  },
  {
   "map": 15,
@@ -546,7 +546,7 @@
   "off": 20,
   "len": 4,
   "text": "Hey!",
-  "ko": ""
+  "ko": "야!"
  },
  {
   "map": 15,
@@ -555,7 +555,7 @@
   "off": 20,
   "len": 8,
   "text": "Say hey!",
-  "ko": ""
+  "ko": "인사해!"
  },
  {
   "map": 15,
@@ -564,7 +564,7 @@
   "off": 89,
   "len": 9,
   "text": "Yuk, yuk!",
-  "ko": ""
+  "ko": "낄낄!"
  },
  {
   "map": 15,
@@ -573,7 +573,7 @@
   "off": 91,
   "len": 9,
   "text": "Yuk, yuk!",
-  "ko": ""
+  "ko": "낄낄!"
  },
  {
   "map": 15,
@@ -582,7 +582,7 @@
   "off": 91,
   "len": 14,
   "text": "Yuk, yuk, yuk!",
-  "ko": ""
+  "ko": "낄낄낄!"
  },
  {
   "map": 15,
@@ -591,7 +591,7 @@
   "off": 91,
   "len": 16,
   "text": "Cha-cha-cha-cha!",
-  "ko": ""
+  "ko": "차차차차!"
  },
  {
   "map": 15,
@@ -609,7 +609,7 @@
   "off": 112,
   "len": 20,
   "text": "the Seru in the Mist",
-  "ko": ""
+  "ko": "안개 속 세루가"
  },
  {
   "map": 15,
@@ -618,7 +618,7 @@
   "off": 134,
   "len": 27,
   "text": "are after the Genesis Tree.",
-  "ko": ""
+  "ko": "창세수를 노리고 있다."
  },
  {
   "map": 15,
@@ -627,7 +627,7 @@
   "off": 164,
   "len": 31,
   "text": "Tetsu: I'll hold the Seru here.",
-  "ko": ""
+  "ko": "테츠: 세루는 내가 막으마."
  },
  {
   "map": 15,
@@ -636,7 +636,7 @@
   "off": 197,
   "len": 34,
   "text": "The rest of you go somewhere safe!",
-  "ko": ""
+  "ko": "다들 안전한 곳으로 피해라!"
  },
  {
   "map": 15,
@@ -645,7 +645,7 @@
   "off": 236,
   "len": 16,
   "text": "Tetsu: (Silence)",
-  "ko": ""
+  "ko": "테츠: (침묵)"
  },
  {
   "map": 15,
@@ -654,7 +654,7 @@
   "off": 263,
   "len": 29,
   "text": "Tetsu: As a follower of Biron",
-  "ko": ""
+  "ko": "테츠: 비론을 따르는 자로서"
  },
  {
   "map": 15,
@@ -663,7 +663,7 @@
   "off": 294,
   "len": 28,
   "text": "I have renounced the Seru...",
-  "ko": ""
+  "ko": "난 세루를 등졌다..."
  },
  {
   "map": 15,
@@ -672,7 +672,7 @@
   "off": 325,
   "len": 31,
   "text": "Tetsu: And so I cannot say what",
-  "ko": ""
+  "ko": "테츠: 그러니 라세루가"
  },
  {
   "map": 15,
@@ -681,7 +681,7 @@
   "off": 358,
   "len": 29,
   "text": "manner of thing a Ra-Seru is.",
-  "ko": ""
+  "ko": "무엇인지는 말 못 한다."
  },
  {
   "map": 15,
@@ -690,7 +690,7 @@
   "off": 389,
   "len": 10,
   "text": "However...",
-  "ko": ""
+  "ko": "허나..."
  },
  {
   "map": 15,
@@ -699,7 +699,7 @@
   "off": 402,
   "len": 22,
   "text": "Tetsu: I know you well",
-  "ko": ""
+  "ko": "테츠: 난 널 잘 안다"
  },
  {
   "map": 15,
@@ -708,7 +708,7 @@
   "off": 426,
   "len": 20,
   "text": "{NAME}. I trust you will",
-  "ko": ""
+  "ko": "{NAME}. 넌 분명"
  },
  {
   "map": 15,
@@ -717,7 +717,7 @@
   "off": 448,
   "len": 17,
   "text": "do what is right!",
-  "ko": ""
+  "ko": "옳은일을 할 게다!"
  },
  {
   "map": 15,
@@ -726,7 +726,7 @@
   "off": 468,
   "len": 33,
   "text": "Tetsu: Village Elder says you are",
-  "ko": ""
+  "ko": "테츠: 촌장 말로는 네가"
  },
  {
   "map": 15,
@@ -735,7 +735,7 @@
   "off": 503,
   "len": 32,
   "text": "going to Biron Monastery to look",
-  "ko": ""
+  "ko": "비론 수도원에 가서 메이 어머니를"
  },
  {
   "map": 15,
@@ -744,7 +744,7 @@
   "off": 537,
   "len": 17,
   "text": "for Mei's mother.",
-  "ko": ""
+  "ko": "찾는다지."
  },
  {
   "map": 15,
@@ -753,7 +753,7 @@
   "off": 557,
   "len": 31,
   "text": "Tetsu: Biron Monastery is where",
-  "ko": ""
+  "ko": "테츠: 비론 수도원은 내가"
  },
  {
   "map": 15,
@@ -762,7 +762,7 @@
   "off": 590,
   "len": 30,
   "text": "I grew up. If it still stands,",
-  "ko": ""
+  "ko": "자란 곳이다. 아직 남았거든"
  },
  {
   "map": 15,
@@ -771,7 +771,7 @@
   "off": 622,
   "len": 29,
   "text": "give my regards to all there.",
-  "ko": ""
+  "ko": "모두에게 안부를 전해다오."
  },
  {
   "map": 15,
@@ -780,7 +780,7 @@
   "off": 106,
   "len": 26,
   "text": "{NAME}, the Seru monsters lurk",
-  "ko": ""
+  "ko": "{NAME}, 세루가 안개 속에"
  },
  {
   "map": 15,
@@ -789,7 +789,7 @@
   "off": 134,
   "len": 25,
   "text": "in the Mist!  Be careful!",
-  "ko": ""
+  "ko": "숨어 있어! 조심해!"
  },
  {
   "map": 15,
@@ -798,7 +798,7 @@
   "off": 164,
   "len": 23,
   "text": "{NAME}, that's... a Seru...",
-  "ko": ""
+  "ko": "{NAME}, 저건... 세루야..."
  },
  {
   "map": 15,
@@ -807,7 +807,7 @@
   "off": 192,
   "len": 17,
   "text": "Oh, Genesis Tree,",
-  "ko": ""
+  "ko": "오, 창세수여,"
  },
  {
   "map": 15,
@@ -816,7 +816,7 @@
   "off": 211,
   "len": 19,
   "text": "please save us all.",
-  "ko": ""
+  "ko": "모두를 구하소서."
  },
  {
   "map": 15,
@@ -825,7 +825,7 @@
   "off": 235,
   "len": 24,
   "text": "There are Memory Statues",
-  "ko": ""
+  "ko": "레가이아 곳곳에"
  },
  {
   "map": 15,
@@ -834,7 +834,7 @@
   "off": 261,
   "len": 18,
   "text": "throughout Legaia.",
-  "ko": ""
+  "ko": "기억 석상이 있어."
  },
  {
   "map": 15,
@@ -843,7 +843,7 @@
   "off": 282,
   "len": 19,
   "text": "{NAME}, be sure to tell",
-  "ko": ""
+  "ko": "{NAME}, 남기고 싶은"
  },
  {
   "map": 15,
@@ -852,7 +852,7 @@
   "off": 303,
   "len": 23,
   "text": "the Statue any memories",
-  "ko": ""
+  "ko": "기억은 석상에게"
  },
  {
   "map": 15,
@@ -861,7 +861,7 @@
   "off": 328,
   "len": 17,
   "text": "you wish to save.",
-  "ko": ""
+  "ko": "꼭 말해 둬."
  },
  {
   "map": 15,
@@ -870,7 +870,7 @@
   "off": 105,
   "len": 30,
   "text": "the Genesis Tree is very warm.",
-  "ko": ""
+  "ko": "창세수는 아주 따뜻해."
  },
  {
   "map": 15,
@@ -879,7 +879,7 @@
   "off": 137,
   "len": 22,
   "text": "Go ahead and touch it.",
-  "ko": ""
+  "ko": "만져 봐도 좋아."
  },
  {
   "map": 15,
@@ -888,7 +888,7 @@
   "off": 169,
   "len": 30,
   "text": "What's that on your right arm?",
-  "ko": ""
+  "ko": "네 오른팔의 그건 뭐야?"
  },
  {
   "map": 15,
@@ -897,7 +897,7 @@
   "off": 201,
   "len": 24,
   "text": "That's... that's a Seru!",
-  "ko": ""
+  "ko": "저건... 세루잖아!"
  },
  {
   "map": 15,
@@ -906,7 +906,7 @@
   "off": 228,
   "len": 32,
   "text": "Stop! Where do you think you are",
-  "ko": ""
+  "ko": "멈춰! 어딜 가려고"
  },
  {
   "map": 15,
@@ -915,7 +915,7 @@
   "off": 262,
   "len": 28,
   "text": "going? You can't go into the",
-  "ko": ""
+  "ko": "그래? 그 꼴로 안개에"
  },
  {
   "map": 15,
@@ -924,7 +924,7 @@
   "off": 292,
   "len": 15,
   "text": "Mist like that!",
-  "ko": ""
+  "ko": "들어가면 안 돼!"
  },
  {
   "map": 15,
@@ -933,7 +933,7 @@
   "off": 310,
   "len": 29,
   "text": "If you enter the Mist wearing",
-  "ko": ""
+  "ko": "세루를 낀 채 안개에"
  },
  {
   "map": 15,
@@ -942,7 +942,7 @@
   "off": 341,
   "len": 25,
   "text": "a Seru, you will become a",
-  "ko": ""
+  "ko": "들어가면 세루 괴물이"
  },
  {
   "map": 15,
@@ -951,7 +951,7 @@
   "off": 368,
   "len": 13,
   "text": "Seru monster!",
-  "ko": ""
+  "ko": "된다고!"
  },
  {
   "map": 15,
@@ -960,7 +960,7 @@
   "off": 386,
   "len": 17,
   "text": "Oh, Genesis Tree,",
-  "ko": ""
+  "ko": "오, 창세수여,"
  },
  {
   "map": 15,
@@ -969,7 +969,7 @@
   "off": 405,
   "len": 19,
   "text": "please save us all.",
-  "ko": ""
+  "ko": "모두를 구하소서."
  },
  {
   "map": 15,
@@ -978,7 +978,7 @@
   "off": 429,
   "len": 24,
   "text": "What a horrible monster!",
-  "ko": ""
+  "ko": "정말 끔찍한 괴물이야!"
  },
  {
   "map": 15,
@@ -987,7 +987,7 @@
   "off": 455,
   "len": 22,
   "text": "It broke down our Wall",
-  "ko": ""
+  "ko": "순식간에 우리 장벽을"
  },
  {
   "map": 15,
@@ -996,7 +996,7 @@
   "off": 479,
   "len": 14,
   "text": "in an instant!",
-  "ko": ""
+  "ko": "부숴 버렸어!"
  },
  {
   "map": 15,
@@ -1005,7 +1005,7 @@
   "off": 496,
   "len": 34,
   "text": "Yet I do not understand. Why would",
-  "ko": ""
+  "ko": "헌데 모르겠어. 어째서 그"
  },
  {
   "map": 15,
@@ -1014,7 +1014,7 @@
   "off": 532,
   "len": 29,
   "text": "that monster destroy the Wall",
-  "ko": ""
+  "ko": "괴물은 장벽만 부수고"
  },
  {
   "map": 15,
@@ -1023,7 +1023,7 @@
   "off": 563,
   "len": 22,
   "text": "and then simply leave?",
-  "ko": ""
+  "ko": "그냥 가 버린 걸까?"
  },
  {
   "map": 15,
@@ -1032,7 +1032,7 @@
   "off": 104,
   "len": 11,
   "text": "I'm scared!",
-  "ko": ""
+  "ko": "무서워!"
  },
  {
   "map": 15,
@@ -1041,7 +1041,7 @@
   "off": 117,
   "len": 19,
   "text": "The Wall is broken!",
-  "ko": ""
+  "ko": "장벽이 무너졌어!"
  },
  {
   "map": 15,
@@ -1050,7 +1050,7 @@
   "off": 138,
   "len": 17,
   "text": "The Mist is here!",
-  "ko": ""
+  "ko": "안개가 들어왔어!"
  },
  {
   "map": 15,
@@ -1059,7 +1059,7 @@
   "off": 160,
   "len": 5,
   "text": "Look!",
-  "ko": ""
+  "ko": "봐!"
  },
  {
   "map": 15,
@@ -1068,7 +1068,7 @@
   "off": 168,
   "len": 22,
   "text": "Something's wrong with",
-  "ko": ""
+  "ko": "뭔가 이상해."
  },
  {
   "map": 15,
@@ -1077,7 +1077,7 @@
   "off": 192,
   "len": 19,
   "text": "{NAME}'s arm! Something",
-  "ko": ""
+  "ko": "{NAME}의 팔에 뭔가"
  },
  {
   "map": 15,
@@ -1086,7 +1086,7 @@
   "off": 213,
   "len": 26,
   "text": "strange is attached to it!",
-  "ko": ""
+  "ko": "이상한 게 붙어 있어!"
  },
  {
   "map": 15,
@@ -1095,7 +1095,7 @@
   "off": 244,
   "len": 17,
   "text": "Oh, Genesis Tree,",
-  "ko": ""
+  "ko": "오, 창세수여,"
  },
  {
   "map": 15,
@@ -1104,7 +1104,7 @@
   "off": 263,
   "len": 17,
   "text": "please get rid of",
-  "ko": ""
+  "ko": "세루 괴물들을"
  },
  {
   "map": 15,
@@ -1113,7 +1113,7 @@
   "off": 282,
   "len": 18,
   "text": "the Seru monsters!",
-  "ko": ""
+  "ko": "없애 주세요!"
  },
  {
   "map": 15,
@@ -1122,7 +1122,7 @@
   "off": 305,
   "len": 27,
   "text": "I want a Ra-Seru like you, ",
-  "ko": ""
+  "ko": "나도 라세루가 갖고 싶어,"
  },
  {
   "map": 15,
@@ -1131,7 +1131,7 @@
   "off": 104,
   "len": 11,
   "text": "I'm scared!",
-  "ko": ""
+  "ko": "무서워!"
  },
  {
   "map": 15,
@@ -1140,7 +1140,7 @@
   "off": 120,
   "len": 21,
   "text": "I will pray with you,",
-  "ko": ""
+  "ko": "너와 함께 기도할게,"
  },
  {
   "map": 15,
@@ -1149,7 +1149,7 @@
   "off": 151,
   "len": 29,
   "text": "Even though the Wall has been",
-  "ko": ""
+  "ko": "장벽이 무너졌어도"
  },
  {
   "map": 15,
@@ -1158,7 +1158,7 @@
   "off": 182,
   "len": 33,
   "text": "destroyed, we don't have to worry",
-  "ko": ""
+  "ko": "이제 안개는 걱정 안 해도"
  },
  {
   "map": 15,
@@ -1167,7 +1167,7 @@
   "off": 217,
   "len": 23,
   "text": "about the Mist anymore.",
-  "ko": ""
+  "ko": "될 거야."
  },
  {
   "map": 15,
@@ -1176,7 +1176,7 @@
   "off": 106,
   "len": 19,
   "text": "{NAME}, do you remember",
-  "ko": ""
+  "ko": "{NAME}, 그 제토"
  },
  {
   "map": 15,
@@ -1185,7 +1185,7 @@
   "off": 127,
   "len": 10,
   "text": "that Zeto?",
-  "ko": ""
+  "ko": "기억나?"
  },
  {
   "map": 15,
@@ -1194,7 +1194,7 @@
   "off": 140,
   "len": 27,
   "text": "It looked like he was after",
-  "ko": ""
+  "ko": "우리 마을 창세수를"
  },
  {
   "map": 15,
@@ -1203,7 +1203,7 @@
   "off": 169,
   "len": 27,
   "text": "our village's Genesis Tree.",
-  "ko": ""
+  "ko": "노리는 것 같았어."
  },
  {
   "map": 15,
@@ -1212,7 +1212,7 @@
   "off": 39,
   "len": 31,
   "text": "I speak but there is no answer.",
-  "ko": ""
+  "ko": "말을 걸어도 대답이 없어."
  },
  {
   "map": 15,
@@ -1221,7 +1221,7 @@
   "off": 72,
   "len": 32,
   "text": "It looks like he's already dead.",
-  "ko": ""
+  "ko": "벌써 죽은 것 같아."
  },
  {
   "map": 15,
@@ -1230,7 +1230,7 @@
   "off": 106,
   "len": 17,
   "text": "Oh, it's you, {NAME}.",
-  "ko": ""
+  "ko": "아, {NAME}이구나."
  },
  {
   "map": 15,
@@ -1239,7 +1239,7 @@
   "off": 125,
   "len": 33,
   "text": "If you're looking for the adults,",
-  "ko": ""
+  "ko": "어른들을 찾는 거면,"
  },
  {
   "map": 15,
@@ -1248,7 +1248,7 @@
   "off": 160,
   "len": 29,
   "text": "they've already gone hunting.",
-  "ko": ""
+  "ko": "벌써 사냥 나가셨어."
  },
  {
   "map": 15,
@@ -1257,7 +1257,7 @@
   "off": 192,
   "len": 23,
   "text": "The Genesis Tree pushed",
-  "ko": ""
+  "ko": "창세수가 안개를"
  },
  {
   "map": 15,
@@ -1266,7 +1266,7 @@
   "off": 217,
   "len": 27,
   "text": "back the Mist so it will be",
-  "ko": ""
+  "ko": "밀어내서 이제 사냥이"
  },
  {
   "map": 15,
@@ -1275,7 +1275,7 @@
   "off": 246,
   "len": 23,
   "text": "much safer to hunt now.",
-  "ko": ""
+  "ko": "훨씬 안전해졌어."
  },
  {
   "map": 15,
@@ -1284,7 +1284,7 @@
   "off": 110,
   "len": 10,
   "text": "Hurry, {NAME}!",
-  "ko": ""
+  "ko": "어서, {NAME}!"
  },
  {
   "map": 15,
@@ -1293,7 +1293,7 @@
   "off": 122,
   "len": 28,
   "text": "There are more and more Seru",
-  "ko": ""
+  "ko": "안개 속에 세루 괴물이"
  },
  {
   "map": 15,
@@ -1302,7 +1302,7 @@
   "off": 152,
   "len": 25,
   "text": "monsters inside the Mist!",
-  "ko": ""
+  "ko": "점점 늘고 있어!"
  },
  {
   "map": 15,
@@ -1311,7 +1311,7 @@
   "off": 48,
   "len": 9,
   "text": "Graawwrr!",
-  "ko": ""
+  "ko": "그르릉!"
  },
  {
   "map": 15,
@@ -1320,7 +1320,7 @@
   "off": 34,
   "len": 9,
   "text": "Caw, caw.",
-  "ko": ""
+  "ko": "까악까악"
  },
  {
   "map": 15,
@@ -1329,7 +1329,7 @@
   "off": 34,
   "len": 9,
   "text": "Caw, caw.",
-  "ko": ""
+  "ko": "까악까악"
  },
  {
   "map": 15,
@@ -1338,7 +1338,7 @@
   "off": 34,
   "len": 9,
   "text": "Caw, caw.",
-  "ko": ""
+  "ko": "까악까악"
  },
  {
   "map": 15,
@@ -1347,7 +1347,7 @@
   "off": 92,
   "len": 13,
   "text": "I am a dummy.",
-  "ko": ""
+  "ko": "난 허수아비다"
  },
  {
   "map": 15,
@@ -1356,7 +1356,7 @@
   "off": 92,
   "len": 13,
   "text": "I am a dummy.",
-  "ko": ""
+  "ko": "난 허수아비다"
  },
  {
   "map": 15,
@@ -1365,7 +1365,7 @@
   "off": 108,
   "len": 27,
   "text": "Nene: Look! In that tree...",
-  "ko": ""
+  "ko": "네네: 봐! 저 나무에..."
  },
  {
   "map": 15,
@@ -1374,7 +1374,7 @@
   "off": 137,
   "len": 5,
   "text": "Bees!",
-  "ko": ""
+  "ko": "벌떼!"
  },
  {
   "map": 15,
@@ -1383,7 +1383,7 @@
   "off": 106,
   "len": 30,
   "text": "Val: So, the Wall is destroyed",
-  "ko": ""
+  "ko": "발: 장벽이 무너지고"
  },
  {
   "map": 15,
@@ -1392,7 +1392,7 @@
   "off": 138,
   "len": 25,
   "text": "and the Mist has come in.",
-  "ko": ""
+  "ko": "안개가 밀려들었구나."
  },
  {
   "map": 15,
@@ -1401,7 +1401,7 @@
   "off": 166,
   "len": 32,
   "text": "Val: Mist itself is not harmful.",
-  "ko": ""
+  "ko": "발: 안개 자체는 해롭지 않다."
  },
  {
   "map": 15,
@@ -1410,7 +1410,7 @@
   "off": 200,
   "len": 27,
   "text": "You can even breathe in it.",
-  "ko": ""
+  "ko": "숨도 쉴 수 있지."
  },
  {
   "map": 15,
@@ -1419,7 +1419,7 @@
   "off": 229,
   "len": 29,
   "text": "It is the Seru you must fear.",
-  "ko": ""
+  "ko": "두려운 건 세루다."
  },
  {
   "map": 15,
@@ -1428,7 +1428,7 @@
   "off": 261,
   "len": 32,
   "text": "Val: Come morning, the wind from",
-  "ko": ""
+  "ko": "발: 아침이 오면 바닷바람이"
  },
  {
   "map": 15,
@@ -1437,7 +1437,7 @@
   "off": 295,
   "len": 31,
   "text": "the sea will blow the Mist away",
-  "ko": ""
+  "ko": "안개를 걷어내고"
  },
  {
   "map": 15,
@@ -1446,7 +1446,7 @@
   "off": 328,
   "len": 20,
   "text": "and we will be safe.",
-  "ko": ""
+  "ko": "우리는 안전해진다."
  },
  {
   "map": 15,
@@ -1455,7 +1455,7 @@
   "off": 351,
   "len": 32,
   "text": "Val: But the question is whether",
-  "ko": ""
+  "ko": "발: 허나 이 문이 아침까지"
  },
  {
   "map": 15,
@@ -1464,7 +1464,7 @@
   "off": 385,
   "len": 34,
   "text": "this door will hold until morning.",
-  "ko": ""
+  "ko": "버텨줄지가 문제구나."
  },
  {
   "map": 15,
@@ -1473,7 +1473,7 @@
   "off": 426,
   "len": 33,
   "text": "Val: If only there were someplace",
-  "ko": ""
+  "ko": "발: 어딘가 안전한 곳이"
  },
  {
   "map": 15,
@@ -1482,7 +1482,7 @@
   "off": 461,
   "len": 14,
   "text": "safe for us...",
-  "ko": ""
+  "ko": "있다면..."
  },
  {
   "map": 15,
@@ -1491,7 +1491,7 @@
   "off": 489,
   "len": 22,
   "text": "Val: {NAME}, what is that?",
-  "ko": ""
+  "ko": "발: {NAME}, 그게 뭐냐?"
  },
  {
   "map": 15,
@@ -1500,7 +1500,7 @@
   "off": 513,
   "len": 7,
   "text": "That...",
-  "ko": ""
+  "ko": "저건..."
  },
  {
   "map": 15,
@@ -1509,7 +1509,7 @@
   "off": 522,
   "len": 14,
   "text": "That's a Seru!",
-  "ko": ""
+  "ko": "세루잖아!"
  },
  {
   "map": 15,
@@ -1518,7 +1518,7 @@
   "off": 542,
   "len": 14,
   "text": "Val: (Silence)",
-  "ko": ""
+  "ko": "발: (침묵)"
  },
  {
   "map": 15,
@@ -1527,7 +1527,7 @@
   "off": 559,
   "len": 22,
   "text": "Val: Now I understand,",
-  "ko": ""
+  "ko": "발: 이제 알겠구나,"
  },
  {
   "map": 15,
@@ -1536,7 +1536,7 @@
   "off": 583,
   "len": 20,
   "text": "although this is all",
-  "ko": ""
+  "ko": "모든 게 아직"
  },
  {
   "map": 15,
@@ -1545,7 +1545,7 @@
   "off": 605,
   "len": 13,
   "text": "so confusing.",
-  "ko": ""
+  "ko": "혼란스럽지만."
  },
  {
   "map": 15,
@@ -1554,7 +1554,7 @@
   "off": 621,
   "len": 32,
   "text": "Val: The situation is desperate.",
-  "ko": ""
+  "ko": "발: 상황이 절박하다."
  },
  {
   "map": 15,
@@ -1563,7 +1563,7 @@
   "off": 655,
   "len": 30,
   "text": "Our only hope now is your Seru",
-  "ko": ""
+  "ko": "이제 희망은 네 세루와"
  },
  {
   "map": 15,
@@ -1572,7 +1572,7 @@
   "off": 687,
   "len": 21,
   "text": "and the Genesis Tree.",
-  "ko": ""
+  "ko": "창세수뿐이다."
  },
  {
   "map": 15,
@@ -1581,7 +1581,7 @@
   "off": 711,
   "len": 13,
   "text": "Val: Alright!",
-  "ko": ""
+  "ko": "발: 좋다!"
  },
  {
   "map": 15,
@@ -1590,7 +1590,7 @@
   "off": 726,
   "len": 23,
   "text": "Tell everyone to gather",
-  "ko": ""
+  "ko": "모두 창세수 앞에"
  },
  {
   "map": 15,
@@ -1599,7 +1599,7 @@
   "off": 751,
   "len": 20,
   "text": "at the Genesis Tree!",
-  "ko": ""
+  "ko": "모이라고 전해라!"
  },
  {
   "map": 15,
@@ -1608,7 +1608,7 @@
   "off": 797,
   "len": 26,
   "text": "Val: {NAME}, whatever happens,",
-  "ko": ""
+  "ko": "발: {NAME}, 무슨 일이 있어도"
  },
  {
   "map": 15,
@@ -1617,7 +1617,7 @@
   "off": 825,
   "len": 22,
   "text": "you must do your best!",
-  "ko": ""
+  "ko": "최선을 다해야 한다!"
  },
  {
   "map": 15,
@@ -1626,7 +1626,7 @@
   "off": 858,
   "len": 31,
   "text": "Val: I still don't believe what",
-  "ko": ""
+  "ko": "발: 어제 일이 아직도"
  },
  {
   "map": 15,
@@ -1635,7 +1635,7 @@
   "off": 891,
   "len": 32,
   "text": "happened yesterday. I never knew",
-  "ko": ""
+  "ko": "믿기지 않는구나. 창세수에"
  },
  {
   "map": 15,
@@ -1644,7 +1644,7 @@
   "off": 925,
   "len": 33,
   "text": "the Genesis Tree had such powers.",
-  "ko": ""
+  "ko": "그런 힘이 있을 줄이야."
  },
  {
   "map": 15,
@@ -1653,7 +1653,7 @@
   "off": 961,
   "len": 34,
   "text": "Val: I know not what hidden powers",
-  "ko": ""
+  "ko": "발: 네 오른팔의 세루에"
  },
  {
   "map": 15,
@@ -1662,7 +1662,7 @@
   "off": 997,
   "len": 32,
   "text": "that Seru on your right arm has.",
-  "ko": ""
+  "ko": "어떤 힘이 있는지 모른다."
  },
  {
   "map": 15,
@@ -1671,7 +1671,7 @@
   "off": 1032,
   "len": 34,
   "text": "Val: All this is too confusing for",
-  "ko": ""
+  "ko": "발: 나 같은 늙은이에겐"
  },
  {
   "map": 15,
@@ -1680,7 +1680,7 @@
   "off": 1068,
   "len": 30,
   "text": "an old man like me. But I have",
-  "ko": ""
+  "ko": "너무 어려운 일이야. 허나"
  },
  {
   "map": 15,
@@ -1689,7 +1689,7 @@
   "off": 1100,
   "len": 13,
   "text": "faith in you!",
-  "ko": ""
+  "ko": "널 믿는다!"
  },
  {
   "map": 15,
@@ -1698,7 +1698,7 @@
   "off": 1116,
   "len": 29,
   "text": "Val: You have brought hope to",
-  "ko": ""
+  "ko": "발: 넌 가장 어두운 때"
  },
  {
   "map": 15,
@@ -1707,7 +1707,7 @@
   "off": 1147,
   "len": 29,
   "text": "Rim Elm in its darkest hours.",
-  "ko": ""
+  "ko": "림 엘름에 희망을 줬다."
  },
  {
   "map": 15,
@@ -1716,7 +1716,7 @@
   "off": 1179,
   "len": 30,
   "text": "Val: As your father, I am very",
-  "ko": ""
+  "ko": "발: 아버지로서, 이토록"
  },
  {
   "map": 15,
@@ -1725,7 +1725,7 @@
   "off": 1211,
   "len": 31,
   "text": "proud of the brave man you have",
-  "ko": ""
+  "ko": "용감해진 네가 무척"
  },
  {
   "map": 15,
@@ -1734,7 +1734,7 @@
   "off": 1244,
   "len": 7,
   "text": "become.",
-  "ko": ""
+  "ko": "좋다."
  },
  {
   "map": 15,
@@ -1743,7 +1743,7 @@
   "off": 1254,
   "len": 30,
   "text": "Val: Whatever you decide to do",
-  "ko": ""
+  "ko": "발: 앞으로 무엇을"
  },
  {
   "map": 15,
@@ -1752,7 +1752,7 @@
   "off": 1286,
   "len": 14,
   "text": "from now on...",
-  "ko": ""
+  "ko": "하든..."
  },
  {
   "map": 15,
@@ -1761,7 +1761,7 @@
   "off": 1303,
   "len": 33,
   "text": "Val: ... this will always be your",
-  "ko": ""
+  "ko": "발: 이곳은 언제나 네"
  },
  {
   "map": 15,
@@ -1770,7 +1770,7 @@
   "off": 1338,
   "len": 31,
   "text": "home, and you will always be my",
-  "ko": ""
+  "ko": "집이고, 넌 언제까지나 내"
  },
  {
   "map": 15,
@@ -1779,7 +1779,7 @@
   "off": 1371,
   "len": 23,
   "text": "son. Never forget that!",
-  "ko": ""
+  "ko": "아들이다. 잊지 마라!"
  },
  {
   "map": 15,
@@ -1788,7 +1788,7 @@
   "off": 310,
   "len": 22,
   "text": "Nene: Are you alright?",
-  "ko": ""
+  "ko": "네네: 괜찮아?"
  },
  {
   "map": 15,
@@ -1797,7 +1797,7 @@
   "off": 334,
   "len": 19,
   "text": "Would you like some",
-  "ko": ""
+  "ko": "약 좀"
  },
  {
   "map": 15,
@@ -1806,7 +1806,7 @@
   "off": 355,
   "len": 9,
   "text": "medicine?",
-  "ko": ""
+  "ko": "줄까?"
  },
  {
   "map": 15,
@@ -1815,7 +1815,7 @@
   "off": 489,
   "len": 19,
   "text": "Nene: There you go!",
-  "ko": ""
+  "ko": "네네: 자, 됐다!"
  },
  {
   "map": 15,
@@ -1824,7 +1824,7 @@
   "off": 510,
   "len": 22,
   "text": "Now you'll be alright.",
-  "ko": ""
+  "ko": "이제 괜찮을 거야."
  },
  {
   "map": 15,
@@ -1833,7 +1833,7 @@
   "off": 554,
   "len": 34,
   "text": "HP and MP are completely restored!",
-  "ko": ""
+  "ko": "HP와 MP가 완전히 회복됐다!"
  },
  {
   "map": 15,
@@ -1842,7 +1842,7 @@
   "off": 594,
   "len": 35,
   "text": "Nene: Don't push yourself too hard.",
-  "ko": ""
+  "ko": "네네: 너무 무리하지 마."
  },
  {
   "map": 15,
@@ -1851,7 +1851,7 @@
   "off": 634,
   "len": 14,
   "text": "Nene: Alright?",
-  "ko": ""
+  "ko": "네네: 알겠지?"
  },
  {
   "map": 15,
@@ -1860,7 +1860,7 @@
   "off": 650,
   "len": 29,
   "text": "Don't push yourself too hard.",
-  "ko": ""
+  "ko": "너무 무리하지 마."
  },
  {
   "map": 15,
@@ -1869,7 +1869,7 @@
   "off": 690,
   "len": 22,
   "text": "Nene: Are you alright?",
-  "ko": ""
+  "ko": "네네: 괜찮아?"
  },
  {
   "map": 15,
@@ -1878,7 +1878,7 @@
   "off": 714,
   "len": 27,
   "text": "If you're tired, I can give",
-  "ko": ""
+  "ko": "피곤하면 약을"
  },
  {
   "map": 15,
@@ -1887,7 +1887,7 @@
   "off": 743,
   "len": 24,
   "text": "you some medicine... Oh!",
-  "ko": ""
+  "ko": "줄게... 어!"
  },
  {
   "map": 15,
@@ -1896,7 +1896,7 @@
   "off": 770,
   "len": 15,
   "text": "Nene: Your arm!",
-  "ko": ""
+  "ko": "네네: 네 팔!"
  },
  {
   "map": 15,
@@ -1905,7 +1905,7 @@
   "off": 790,
   "len": 13,
   "text": "Nene: (Gasp!)",
-  "ko": ""
+  "ko": "네네: (헉!)"
  },
  {
   "map": 15,
@@ -1914,7 +1914,7 @@
   "off": 808,
   "len": 16,
   "text": "Nene: Brother...",
-  "ko": ""
+  "ko": "네네: 오빠..."
  },
  {
   "map": 15,
@@ -1923,7 +1923,7 @@
   "off": 850,
   "len": 33,
   "text": "Nene: Thanks to the Genesis Tree,",
-  "ko": ""
+  "ko": "네네: 창세수 덕분에,"
  },
  {
   "map": 15,
@@ -1932,7 +1932,7 @@
   "off": 885,
   "len": 32,
   "text": "no one will have to die anymore,",
-  "ko": ""
+  "ko": "이제 아무도 안 죽어도"
  },
  {
   "map": 15,
@@ -1941,7 +1941,7 @@
   "off": 919,
   "len": 6,
   "text": "right?",
-  "ko": ""
+  "ko": "되지?"
  },
  {
   "map": 15,
@@ -1950,7 +1950,7 @@
   "off": 928,
   "len": 30,
   "text": "Nene: No one will be killed by",
-  "ko": ""
+  "ko": "네네: 이제 아무도 세루한테"
  },
  {
   "map": 15,
@@ -1959,7 +1959,7 @@
   "off": 960,
   "len": 24,
   "text": "the Seru anymore, right?",
-  "ko": ""
+  "ko": "안 죽는 거지?"
  },
  {
   "map": 15,
@@ -1968,7 +1968,7 @@
   "off": 1024,
   "len": 24,
   "text": "Nene: What's the matter,",
-  "ko": ""
+  "ko": "네네: 왜 그래,"
  },
  {
   "map": 15,
@@ -1977,7 +1977,7 @@
   "off": 1050,
   "len": 25,
   "text": "Do you want to take a nap",
-  "ko": ""
+  "ko": "가기 전에 잠깐"
  },
  {
   "map": 15,
@@ -1986,7 +1986,7 @@
   "off": 1077,
   "len": 14,
   "text": "before you go?",
-  "ko": ""
+  "ko": "눈 붙일래?"
  },
  {
   "map": 15,
@@ -1995,7 +1995,7 @@
   "off": 1216,
   "len": 29,
   "text": "Nene: Good. The bed is ready,",
-  "ko": ""
+  "ko": "네네: 좋아. 잠자리는 됐으니,"
  },
  {
   "map": 15,
@@ -2004,7 +2004,7 @@
   "off": 1247,
   "len": 26,
   "text": "so have a nice, long rest.",
-  "ko": ""
+  "ko": "푹 쉬어."
  },
  {
   "map": 15,
@@ -2013,7 +2013,7 @@
   "off": 1282,
   "len": 33,
   "text": "Nene: Oh, alright. But just don't",
-  "ko": ""
+  "ko": "네네: 알았어. 그래도 너무"
  },
  {
   "map": 15,
@@ -2022,7 +2022,7 @@
   "off": 1317,
   "len": 23,
   "text": "push yourself too hard.",
-  "ko": ""
+  "ko": "무리하지 마."
  },
  {
   "map": 15,
@@ -2031,7 +2031,7 @@
   "off": 1415,
   "len": 19,
   "text": "Nene: Good morning!",
-  "ko": ""
+  "ko": "네네: 잘 잤어?"
  },
  {
   "map": 15,
@@ -2040,7 +2040,7 @@
   "off": 1459,
   "len": 32,
   "text": "Nene: Hmmf, that Mei always gets",
-  "ko": ""
+  "ko": "네네: 흥, 메이만 늘 관심을"
  },
  {
   "map": 15,
@@ -2049,7 +2049,7 @@
   "off": 1493,
   "len": 18,
   "text": "all the attention.",
-  "ko": ""
+  "ko": "독차지해."
  },
  {
   "map": 15,
@@ -2058,7 +2058,7 @@
   "off": 1513,
   "len": 22,
   "text": "I want attention, too!",
-  "ko": ""
+  "ko": "나도 관심받고 싶어!"
  },
  {
   "map": 15,
@@ -2067,7 +2067,7 @@
   "off": 1550,
   "len": 30,
   "text": "Nene: I smell something sweet.",
-  "ko": ""
+  "ko": "네네: 달콤한 냄새가 나."
  },
  {
   "map": 15,
@@ -2076,7 +2076,7 @@
   "off": 1583,
   "len": 21,
   "text": "Nene: Oh, you brought",
-  "ko": ""
+  "ko": "네네: 어, 나한테"
  },
  {
   "map": 15,
@@ -2085,7 +2085,7 @@
   "off": 1606,
   "len": 6,
   "text": "me {ITEM:65}!",
-  "ko": ""
+  "ko": "{ITEM:65}!"
  },
  {
   "map": 15,
@@ -2094,7 +2094,7 @@
   "off": 1615,
   "len": 14,
   "text": "{NAME} handed Nene",
-  "ko": ""
+  "ko": "{NAME} 네네에게"
  },
  {
   "map": 15,
@@ -2112,7 +2112,7 @@
   "off": 1641,
   "len": 16,
   "text": "Nene: Thank you!",
-  "ko": ""
+  "ko": "네네: 고마워!"
  },
  {
   "map": 15,
@@ -2121,7 +2121,7 @@
   "off": 1659,
   "len": 27,
   "text": "Now I can make an Elm Cake!",
-  "ko": ""
+  "ko": "엘름 케이크 만들 수 있어!"
  },
  {
   "map": 15,
@@ -2130,7 +2130,7 @@
   "off": 155,
   "len": 20,
   "text": "Mei: {NAME}, be careful.",
-  "ko": ""
+  "ko": "메이: {NAME}, 조심해."
  },
  {
   "map": 15,
@@ -2139,7 +2139,7 @@
   "off": 180,
   "len": 27,
   "text": "Mei: Oh, I see. Well, then,",
-  "ko": ""
+  "ko": "메이: 아, 그렇구나. 그럼,"
  },
  {
   "map": 15,
@@ -2148,7 +2148,7 @@
   "off": 209,
   "len": 30,
   "text": "I'll stay by my father's side.",
-  "ko": ""
+  "ko": "난 아버지 곁에 있을게."
  },
  {
   "map": 15,
@@ -2157,7 +2157,7 @@
   "off": 242,
   "len": 14,
   "text": "Mei: (Silence)",
-  "ko": ""
+  "ko": "메이: (침묵)"
  },
  {
   "map": 15,
@@ -2166,7 +2166,7 @@
   "off": 268,
   "len": 8,
   "text": "Mei: {NAME}!",
-  "ko": ""
+  "ko": "메이: {NAME}"
  },
  {
   "map": 15,
@@ -2175,7 +2175,7 @@
   "off": 284,
   "len": 30,
   "text": "What's that on your right arm?",
-  "ko": ""
+  "ko": "오른팔의 그건 뭐야?"
  },
  {
   "map": 15,
@@ -2184,7 +2184,7 @@
   "off": 316,
   "len": 18,
   "text": "Is that... a Seru?",
-  "ko": ""
+  "ko": "저건... 세루야?"
  },
  {
   "map": 15,
@@ -2193,7 +2193,7 @@
   "off": 341,
   "len": 13,
   "text": "That's right.",
-  "ko": ""
+  "ko": "맞아."
  },
  {
   "map": 15,
@@ -2202,7 +2202,7 @@
   "off": 356,
   "len": 19,
   "text": "No, it's a Ra-Seru!",
-  "ko": ""
+  "ko": "아니, 라세루야!"
  },
  {
   "map": 15,
@@ -2211,7 +2211,7 @@
   "off": 378,
   "len": 14,
   "text": "Mei: (Silence)",
-  "ko": ""
+  "ko": "메이: (침묵)"
  },
  {
   "map": 15,
@@ -2220,7 +2220,7 @@
   "off": 395,
   "len": 27,
   "text": "Mei: So, it's a Ra-Seru....",
-  "ko": ""
+  "ko": "메이: 그럼, 라세루구나..."
  },
  {
   "map": 15,
@@ -2229,7 +2229,7 @@
   "off": 424,
   "len": 32,
   "text": "Yes, I do sense something gentle",
-  "ko": ""
+  "ko": "응, 이 세루한테선 뭔가"
  },
  {
   "map": 15,
@@ -2238,7 +2238,7 @@
   "off": 458,
   "len": 16,
   "text": "about this Seru.",
-  "ko": ""
+  "ko": "다정함이 느껴져."
  },
  {
   "map": 15,
@@ -2247,7 +2247,7 @@
   "off": 477,
   "len": 28,
   "text": "Mei: Alright, tell everyone!",
-  "ko": ""
+  "ko": "메이: 좋아, 모두에게 알리자!"
  },
  {
   "map": 15,
@@ -2256,7 +2256,7 @@
   "off": 507,
   "len": 25,
   "text": "We're all going to revive",
-  "ko": ""
+  "ko": "다 함께 창세수를"
  },
  {
   "map": 15,
@@ -2265,7 +2265,7 @@
   "off": 534,
   "len": 17,
   "text": "the Genesis Tree!",
-  "ko": ""
+  "ko": "되살리는 거야!"
  },
  {
   "map": 15,
@@ -2274,7 +2274,7 @@
   "off": 577,
   "len": 12,
   "text": "Mei: Oh, no!",
-  "ko": ""
+  "ko": "메이: 안 돼!"
  },
  {
   "map": 15,
@@ -2283,7 +2283,7 @@
   "off": 591,
   "len": 22,
   "text": "{NAME}, you have to remove",
-  "ko": ""
+  "ko": "{NAME}, 그 세루를"
  },
  {
   "map": 15,
@@ -2292,7 +2292,7 @@
   "off": 615,
   "len": 16,
   "text": "the Seru. Hurry!",
-  "ko": ""
+  "ko": "떼어내! 어서!"
  },
  {
   "map": 15,
@@ -2301,7 +2301,7 @@
   "off": 694,
   "len": 15,
   "text": "Mei: Oh, I see.",
-  "ko": ""
+  "ko": "메이: 아, 그래."
  },
  {
   "map": 15,
@@ -2310,7 +2310,7 @@
   "off": 712,
   "len": 27,
   "text": "Mei: So, it's a Ra-Seru....",
-  "ko": ""
+  "ko": "메이: 그럼, 라세루구나..."
  },
  {
   "map": 15,
@@ -2319,7 +2319,7 @@
   "off": 741,
   "len": 32,
   "text": "Yes, I do sense something gentle",
-  "ko": ""
+  "ko": "응, 이 세루한테선 뭔가"
  },
  {
   "map": 15,
@@ -2328,7 +2328,7 @@
   "off": 775,
   "len": 16,
   "text": "about this Seru.",
-  "ko": ""
+  "ko": "다정함이 느껴져."
  },
  {
   "map": 15,
@@ -2337,7 +2337,7 @@
   "off": 794,
   "len": 28,
   "text": "Mei: Alright, tell everyone!",
-  "ko": ""
+  "ko": "메이: 좋아, 모두에게 알리자!"
  },
  {
   "map": 15,
@@ -2346,7 +2346,7 @@
   "off": 824,
   "len": 25,
   "text": "We're all going to revive",
-  "ko": ""
+  "ko": "다 함께 창세수를"
  },
  {
   "map": 15,
@@ -2355,7 +2355,7 @@
   "off": 851,
   "len": 17,
   "text": "the Genesis Tree!",
-  "ko": ""
+  "ko": "되살리는 거야!"
  },
  {
   "map": 15,
@@ -2364,7 +2364,7 @@
   "off": 894,
   "len": 20,
   "text": "Mei: {NAME}, your arm...",
-  "ko": ""
+  "ko": "메이: {NAME}, 네 팔..."
  },
  {
   "map": 15,
@@ -2373,7 +2373,7 @@
   "off": 916,
   "len": 24,
   "text": "That... that's a Seru...",
-  "ko": ""
+  "ko": "저건... 세루잖아..."
  },
  {
   "map": 15,
@@ -2382,7 +2382,7 @@
   "off": 945,
   "len": 8,
   "text": "Mei: {NAME},",
-  "ko": ""
+  "ko": "메이: {NAME}"
  },
  {
   "map": 15,
@@ -2391,7 +2391,7 @@
   "off": 955,
   "len": 12,
   "text": "I trust you!",
-  "ko": ""
+  "ko": "널 믿어!"
  },
  {
   "map": 15,
@@ -2400,7 +2400,7 @@
   "off": 990,
   "len": 25,
   "text": "Mei: {NAME}, you're so sweet.",
-  "ko": ""
+  "ko": "메이: {NAME}, 참 다정해."
  },
  {
   "map": 15,
@@ -2409,7 +2409,7 @@
   "off": 1017,
   "len": 30,
   "text": "You came to see me because you",
-  "ko": ""
+  "ko": "날 걱정해서"
  },
  {
   "map": 15,
@@ -2418,7 +2418,7 @@
   "off": 1049,
   "len": 29,
   "text": "were worried about me, right?",
-  "ko": ""
+  "ko": "보러 온 거지?"
  },
  {
   "map": 15,
@@ -2427,7 +2427,7 @@
   "off": 1203,
   "len": 24,
   "text": "Mei: You're so kind, {NAME}.",
-  "ko": ""
+  "ko": "메이: 참 착하다, {NAME}."
  },
  {
   "map": 15,
@@ -2436,7 +2436,7 @@
   "off": 1229,
   "len": 29,
   "text": "But don't worry, I'm alright.",
-  "ko": ""
+  "ko": "근데 걱정 마, 난 괜찮아."
  },
  {
   "map": 15,
@@ -2445,7 +2445,7 @@
   "off": 1261,
   "len": 34,
   "text": "Mei: Everyone in the village is so",
-  "ko": ""
+  "ko": "메이: 마을 사람들이 다들"
  },
  {
   "map": 15,
@@ -2454,7 +2454,7 @@
   "off": 1297,
   "len": 34,
   "text": "kind to me that I don't feel alone",
-  "ko": ""
+  "ko": "잘 대해줘서 이젠 외롭지"
  },
  {
   "map": 15,
@@ -2463,7 +2463,7 @@
   "off": 1333,
   "len": 8,
   "text": "anymore.",
-  "ko": ""
+  "ko": "않아."
  },
  {
   "map": 15,
@@ -2472,7 +2472,7 @@
   "off": 1344,
   "len": 28,
   "text": "Mei: And I don't feel lonely",
-  "ko": ""
+  "ko": "메이: 조금도 쓸쓸하지"
  },
  {
   "map": 15,
@@ -2481,7 +2481,7 @@
   "off": 1374,
   "len": 7,
   "text": "at all.",
-  "ko": ""
+  "ko": "않아."
  },
  {
   "map": 15,
@@ -2490,7 +2490,7 @@
   "off": 1386,
   "len": 28,
   "text": "Mei: Oh, so I was wrong. {NAME},",
-  "ko": ""
+  "ko": "메이: 아, 내가 틀렸네. {NAME},"
  },
  {
   "map": 15,
@@ -2499,7 +2499,7 @@
   "off": 1416,
   "len": 33,
   "text": "sometimes I just don't understand",
-  "ko": ""
+  "ko": "가끔은 널 정말 모르겠"
  },
  {
   "map": 15,
@@ -2508,7 +2508,7 @@
   "off": 1451,
   "len": 4,
   "text": "you.",
-  "ko": ""
+  "ko": "어."
  },
  {
   "map": 15,
@@ -2517,7 +2517,7 @@
   "off": 1462,
   "len": 15,
   "text": "Mei: Can I ask?",
-  "ko": ""
+  "ko": "메이: 있잖아?"
  },
  {
   "map": 15,
@@ -2526,7 +2526,7 @@
   "off": 1479,
   "len": 20,
   "text": "What happened to {ITEM:43},",
-  "ko": ""
+  "ko": "내가 만든 {ITEM:43},"
  },
  {
   "map": 15,
@@ -2535,7 +2535,7 @@
   "off": 1501,
   "len": 30,
   "text": "the hunting outfit I made you?",
-  "ko": ""
+  "ko": "그 사냥복은 어떻게 됐어?"
  },
  {
   "map": 15,
@@ -2544,7 +2544,7 @@
   "off": 1542,
   "len": 23,
   "text": "Well, actually I, um...",
-  "ko": ""
+  "ko": "음, 사실은 나..."
  },
  {
   "map": 15,
@@ -2553,7 +2553,7 @@
   "off": 1567,
   "len": 20,
   "text": "I sold it for money.",
-  "ko": ""
+  "ko": "돈이 없어서 팔았어."
  },
  {
   "map": 15,
@@ -2562,7 +2562,7 @@
   "off": 1589,
   "len": 30,
   "text": "I'm sorry. A monster stole it.",
-  "ko": ""
+  "ko": "미안. 괴물이 훔쳐갔어."
  },
  {
   "map": 15,
@@ -2571,7 +2571,7 @@
   "off": 1621,
   "len": 35,
   "text": "I didn't need it and threw it away.",
-  "ko": ""
+  "ko": "필요 없어서 버렸어."
  },
  {
   "map": 15,
@@ -2580,7 +2580,7 @@
   "off": 1659,
   "len": 6,
   "text": "Mei: ?",
-  "ko": ""
+  "ko": "메이:?"
  },
  {
   "map": 15,
@@ -2589,7 +2589,7 @@
   "off": 1668,
   "len": 14,
   "text": "Mei: (Silence)",
-  "ko": ""
+  "ko": "메이: (침묵)"
  },
  {
   "map": 15,
@@ -2598,7 +2598,7 @@
   "off": 1685,
   "len": 14,
   "text": "Mei: (Silence)",
-  "ko": ""
+  "ko": "메이: (침묵)"
  },
  {
   "map": 15,
@@ -2607,7 +2607,7 @@
   "off": 1702,
   "len": 30,
   "text": "Mei: Oh. The world outside the",
-  "ko": ""
+  "ko": "메이: 아. 마을 밖 세상은"
  },
  {
   "map": 15,
@@ -2616,7 +2616,7 @@
   "off": 1734,
   "len": 28,
   "text": "village must be so terrible.",
-  "ko": ""
+  "ko": "정말 무서운 곳인가 봐."
  },
  {
   "map": 15,
@@ -2625,7 +2625,7 @@
   "off": 42,
   "len": 20,
   "text": "Mei: {NAME}, be careful.",
-  "ko": ""
+  "ko": "메이: {NAME}, 조심해."
  },
  {
   "map": 15,
@@ -2634,7 +2634,7 @@
   "off": 111,
   "len": 33,
   "text": "The blood and dirt has been wiped",
-  "ko": ""
+  "ko": "주노의 몸에서 피와 흙이"
  },
  {
   "map": 15,
@@ -2643,7 +2643,7 @@
   "off": 146,
   "len": 17,
   "text": "from Juno's body.",
-  "ko": ""
+  "ko": "닦여 있다."
  },
  {
   "map": 15,
@@ -2652,7 +2652,7 @@
   "off": 166,
   "len": 18,
   "text": "Yet, a fierce look",
-  "ko": ""
+  "ko": "허나 그 얼굴엔"
  },
  {
   "map": 15,
@@ -2661,7 +2661,7 @@
   "off": 186,
   "len": 20,
   "text": "remains on his face.",
-  "ko": ""
+  "ko": "상처가 남아있다."
  },
  {
   "map": 15,
@@ -2670,7 +2670,7 @@
   "off": 108,
   "len": 29,
   "text": "They still haven't come back!",
-  "ko": ""
+  "ko": "아직 안 돌아왔어!"
  },
  {
   "map": 15,
@@ -2679,7 +2679,7 @@
   "off": 140,
   "len": 30,
   "text": "Those who went to check on the",
-  "ko": ""
+  "ko": "장벽을 보러 간 사람들이"
  },
  {
   "map": 15,
@@ -2688,7 +2688,7 @@
   "off": 172,
   "len": 29,
   "text": "Wall still haven't come home!",
-  "ko": ""
+  "ko": "아직도 안 돌아왔어!"
  },
  {
   "map": 15,
@@ -2697,7 +2697,7 @@
   "off": 206,
   "len": 17,
   "text": "{NAME}, what is that?",
-  "ko": ""
+  "ko": "{NAME}, 그건 뭐야?"
  },
  {
   "map": 15,
@@ -2706,7 +2706,7 @@
   "off": 225,
   "len": 7,
   "text": "That...",
-  "ko": ""
+  "ko": "저건..."
  },
  {
   "map": 15,
@@ -2715,7 +2715,7 @@
   "off": 234,
   "len": 14,
   "text": "That's a Seru!",
-  "ko": ""
+  "ko": "세루잖아!"
  },
  {
   "map": 15,
@@ -2724,7 +2724,7 @@
   "off": 253,
   "len": 24,
   "text": "To the north of Rim Elm,",
-  "ko": ""
+  "ko": "림 엘름 북쪽,"
  },
  {
   "map": 15,
@@ -2733,7 +2733,7 @@
   "off": 279,
   "len": 17,
   "text": "beyond the river,",
-  "ko": ""
+  "ko": "강 너머에"
  },
  {
   "map": 15,
@@ -2742,7 +2742,7 @@
   "off": 298,
   "len": 19,
   "text": "is Biron Monastery.",
-  "ko": ""
+  "ko": "비론 수도원이 있어."
  },
  {
   "map": 15,
@@ -2751,7 +2751,7 @@
   "off": 320,
   "len": 22,
   "text": "The teachings of Biron",
-  "ko": ""
+  "ko": "비론의 가르침은"
  },
  {
   "map": 15,
@@ -2760,7 +2760,7 @@
   "off": 344,
   "len": 17,
   "text": "disavow the Seru.",
-  "ko": ""
+  "ko": "세루를 배척하지."
  },
  {
   "map": 15,
@@ -2769,7 +2769,7 @@
   "off": 364,
   "len": 31,
   "text": "That is precisely why I believe",
-  "ko": ""
+  "ko": "그래서 난 수도원이"
  },
  {
   "map": 15,
@@ -2778,7 +2778,7 @@
   "off": 397,
   "len": 34,
   "text": "that the Monastery still survives.",
-  "ko": ""
+  "ko": "아직 남아 있다고 믿어."
  },
  {
   "map": 15,
@@ -2787,7 +2787,7 @@
   "off": 110,
   "len": 32,
   "text": "The monster that broke our Wall.",
-  "ko": ""
+  "ko": "우리 장벽을 부순 괴물."
  },
  {
   "map": 15,
@@ -2796,7 +2796,7 @@
   "off": 144,
   "len": 24,
   "text": "Was that a Seru monster?",
-  "ko": ""
+  "ko": "그게 세루 괴물이었나?"
  },
  {
   "map": 15,
@@ -2805,7 +2805,7 @@
   "off": 175,
   "len": 30,
   "text": "I think it was a Seru monster.",
-  "ko": ""
+  "ko": "세루 괴물이었던 것 같아."
  },
  {
   "map": 15,
@@ -2814,7 +2814,7 @@
   "off": 207,
   "len": 14,
   "text": "It was so big!",
-  "ko": ""
+  "ko": "정말 컸어!"
  },
  {
   "map": 15,
@@ -2823,7 +2823,7 @@
   "off": 224,
   "len": 15,
   "text": "Be careful, {NAME}!",
-  "ko": ""
+  "ko": "조심해, {NAME}!"
  },
  {
   "map": 15,
@@ -2832,7 +2832,7 @@
   "off": 241,
   "len": 29,
   "text": "It may be lurking in the Mist",
-  "ko": ""
+  "ko": "어딘가 안개 속에"
  },
  {
   "map": 15,
@@ -2841,7 +2841,7 @@
   "off": 272,
   "len": 10,
   "text": "somewhere.",
-  "ko": ""
+  "ko": "있을지도."
  },
  {
   "map": 15,
@@ -2850,7 +2850,7 @@
   "off": 287,
   "len": 7,
   "text": "Indeed!",
-  "ko": ""
+  "ko": "그래!"
  },
  {
   "map": 15,
@@ -2859,7 +2859,7 @@
   "off": 296,
   "len": 32,
   "text": "At any rate, keep your guard up!",
-  "ko": ""
+  "ko": "아무튼 경계를 늦추지 마!"
  },
  {
   "map": 15,
@@ -2868,7 +2868,7 @@
   "off": 98,
   "len": 18,
   "text": "Village Elder: {NAME},",
-  "ko": ""
+  "ko": "촌장: {NAME},"
  },
  {
   "map": 15,
@@ -2877,7 +2877,7 @@
   "off": 118,
   "len": 17,
   "text": "the Seru monsters",
-  "ko": ""
+  "ko": "세루 괴물이"
  },
  {
   "map": 15,
@@ -2886,7 +2886,7 @@
   "off": 137,
   "len": 17,
   "text": "lurk in the Mist.",
-  "ko": ""
+  "ko": "안개 속에 있어."
  },
  {
   "map": 15,
@@ -2895,7 +2895,7 @@
   "off": 157,
   "len": 30,
   "text": "Village Elder: In the morning,",
-  "ko": ""
+  "ko": "촌장: 아침이 되어"
  },
  {
   "map": 15,
@@ -2904,7 +2904,7 @@
   "off": 189,
   "len": 30,
   "text": "if the wind changes direction,",
-  "ko": ""
+  "ko": "바람 방향이 바뀌면,"
  },
  {
   "map": 15,
@@ -2913,7 +2913,7 @@
   "off": 221,
   "len": 27,
   "text": "it will blow back the Mist.",
-  "ko": ""
+  "ko": "안개를 걷어낼 게다."
  },
  {
   "map": 15,
@@ -2922,7 +2922,7 @@
   "off": 251,
   "len": 34,
   "text": "Village Elder: But will we survive",
-  "ko": ""
+  "ko": "촌장: 허나 그때까지"
  },
  {
   "map": 15,
@@ -2931,7 +2931,7 @@
   "off": 287,
   "len": 11,
   "text": "until then?",
-  "ko": ""
+  "ko": "버틸 까?"
  },
  {
   "map": 15,
@@ -2940,7 +2940,7 @@
   "off": 303,
   "len": 34,
   "text": "Village Elder: What are you doing,",
-  "ko": ""
+  "ko": "촌장: 뭘 하는 게냐,"
  },
  {
   "map": 15,
@@ -2949,7 +2949,7 @@
   "off": 339,
   "len": 18,
   "text": "{NAME}? That's a Seru!",
-  "ko": ""
+  "ko": "{NAME}? 세루잖아!"
  },
  {
   "map": 15,
@@ -2958,7 +2958,7 @@
   "off": 363,
   "len": 24,
   "text": "Village Elder: (Silence)",
-  "ko": ""
+  "ko": "촌장: (침묵)"
  },
  {
   "map": 15,
@@ -2967,7 +2967,7 @@
   "off": 393,
   "len": 23,
   "text": "Village Elder (Silence)",
-  "ko": ""
+  "ko": "촌장 (침묵)"
  },
  {
   "map": 15,
@@ -2976,7 +2976,7 @@
   "off": 422,
   "len": 26,
   "text": "Village Elder: Oh, so it's",
-  "ko": ""
+  "ko": "촌장: 오, 그게"
  },
  {
   "map": 15,
@@ -2985,7 +2985,7 @@
   "off": 450,
   "len": 17,
   "text": "a Ra-Seru, is it?",
-  "ko": ""
+  "ko": "라세루란 말이냐?"
  },
  {
   "map": 15,
@@ -2994,7 +2994,7 @@
   "off": 470,
   "len": 34,
   "text": "Village Elder: I don't understand,",
-  "ko": ""
+  "ko": "촌장: 이해는 못 하겠다만,"
  },
  {
   "map": 15,
@@ -3003,7 +3003,7 @@
   "off": 506,
   "len": 34,
   "text": "but I can tell that your words and",
-  "ko": ""
+  "ko": "네 말과 그 세루가"
  },
  {
   "map": 15,
@@ -3012,7 +3012,7 @@
   "off": 542,
   "len": 20,
   "text": "the Seru do not lie.",
-  "ko": ""
+  "ko": "진짜 임은 알겠다."
  },
  {
   "map": 15,
@@ -3021,7 +3021,7 @@
   "off": 565,
   "len": 29,
   "text": "Village Elder: Alright, then,",
-  "ko": ""
+  "ko": "촌장: 좋다, 그럼,"
  },
  {
   "map": 15,
@@ -3030,7 +3030,7 @@
   "off": 596,
   "len": 29,
   "text": "{NAME}! I'm trusting you with the",
-  "ko": ""
+  "ko": "{NAME}! 마을 모두의 목숨을"
  },
  {
   "map": 15,
@@ -3039,7 +3039,7 @@
   "off": 627,
   "len": 33,
   "text": "lives of everyone in the village!",
-  "ko": ""
+  "ko": "네게 맡기마!"
  },
  {
   "map": 15,
@@ -3048,7 +3048,7 @@
   "off": 686,
   "len": 18,
   "text": "Village Elder: {NAME},",
-  "ko": ""
+  "ko": "촌장: {NAME},"
  },
  {
   "map": 15,
@@ -3057,7 +3057,7 @@
   "off": 706,
   "len": 28,
   "text": "you are Rim Elm's last hope!",
-  "ko": ""
+  "ko": "넌 림 엘름의 희망이다!"
  },
  {
   "map": 15,
@@ -3066,7 +3066,7 @@
   "off": 739,
   "len": 18,
   "text": "Village Elder: {NAME},",
-  "ko": ""
+  "ko": "촌장: {NAME},"
  },
  {
   "map": 15,
@@ -3075,7 +3075,7 @@
   "off": 759,
   "len": 23,
   "text": "Biron Monastery is far.",
-  "ko": ""
+  "ko": "비론 수도원은 멀다."
  },
  {
   "map": 15,
@@ -3084,7 +3084,7 @@
   "off": 784,
   "len": 27,
   "text": "Be careful on your journey.",
-  "ko": ""
+  "ko": "가는 길 조심하거라."
  },
  {
   "map": 15,
@@ -3093,7 +3093,7 @@
   "off": 814,
   "len": 32,
   "text": "Village Elder: I hope that Biron",
-  "ko": ""
+  "ko": "촌장: 비론 수도원이"
  },
  {
   "map": 15,
@@ -3102,7 +3102,7 @@
   "off": 848,
   "len": 32,
   "text": "Monastery still stands, and that",
-  "ko": ""
+  "ko": "아직 남아 있고,"
  },
  {
   "map": 15,
@@ -3111,7 +3111,7 @@
   "off": 882,
   "len": 30,
   "text": "Mei's mother, Maya, is safe...",
-  "ko": ""
+  "ko": "메이 어머니 마야가 무사하길..."
  },
  {
   "map": 15,
@@ -3120,7 +3120,7 @@
   "off": 102,
   "len": 29,
   "text": "Ixis: I... I didn't run away.",
-  "ko": ""
+  "ko": "익시스: 난... 도망친 게 아냐."
  },
  {
   "map": 15,
@@ -3129,7 +3129,7 @@
   "off": 133,
   "len": 26,
   "text": "I didn't run away from the",
-  "ko": ""
+  "ko": "장벽 구멍에서"
  },
  {
   "map": 15,
@@ -3138,7 +3138,7 @@
   "off": 161,
   "len": 17,
   "text": "hole in the Wall!",
-  "ko": ""
+  "ko": "도망친 게 아냐!"
  },
  {
   "map": 15,
@@ -3147,7 +3147,7 @@
   "off": 181,
   "len": 35,
   "text": "Ixis: Only a fool would fight those",
-  "ko": ""
+  "ko": "익시스: 안개 속 세루랑 싸우는"
  },
  {
   "map": 15,
@@ -3156,7 +3156,7 @@
   "off": 218,
   "len": 26,
   "text": "Seru monsters in the Mist!",
-  "ko": ""
+  "ko": "건 바보나 하는 짓이야!"
  },
  {
   "map": 15,
@@ -3165,7 +3165,7 @@
   "off": 247,
   "len": 28,
   "text": "Ixis: I came back to protect",
-  "ko": ""
+  "ko": "익시스: 난 가족을 지키러"
  },
  {
   "map": 15,
@@ -3174,7 +3174,7 @@
   "off": 277,
   "len": 10,
   "text": "my family!",
-  "ko": ""
+  "ko": "온 거야!"
  },
  {
   "map": 15,
@@ -3183,7 +3183,7 @@
   "off": 292,
   "len": 7,
   "text": "Ixis: !",
-  "ko": ""
+  "ko": "익시스:!"
  },
  {
   "map": 15,
@@ -3192,7 +3192,7 @@
   "off": 302,
   "len": 20,
   "text": "Ixis: Hey, that's...",
-  "ko": ""
+  "ko": "익시스: 야, 그건..."
  },
  {
   "map": 15,
@@ -3201,7 +3201,7 @@
   "off": 324,
   "len": 14,
   "text": "That's a Seru!",
-  "ko": ""
+  "ko": "세루잖아!"
  },
  {
   "map": 15,
@@ -3210,7 +3210,7 @@
   "off": 341,
   "len": 16,
   "text": "Ixis: Stay away!",
-  "ko": ""
+  "ko": "익시스: 저리 가!"
  },
  {
   "map": 15,
@@ -3219,7 +3219,7 @@
   "off": 359,
   "len": 19,
   "text": "Don't come near me!",
-  "ko": ""
+  "ko": "가까이 오지 마!"
  },
  {
   "map": 15,
@@ -3228,7 +3228,7 @@
   "off": 383,
   "len": 28,
   "text": "Ixis: I don't care if it's a",
-  "ko": ""
+  "ko": "익시스: 라세루든 뭐든"
  },
  {
   "map": 15,
@@ -3237,7 +3237,7 @@
   "off": 413,
   "len": 32,
   "text": "Ra-Seru or whatever you call it!",
-  "ko": ""
+  "ko": "난 상관없어!"
  },
  {
   "map": 15,
@@ -3246,7 +3246,7 @@
   "off": 447,
   "len": 14,
   "text": "Just hurry up!",
-  "ko": ""
+  "ko": "그냥 빨리 해!"
  },
  {
   "map": 15,
@@ -3255,7 +3255,7 @@
   "off": 472,
   "len": 14,
   "text": "Ixis: Darn it!",
-  "ko": ""
+  "ko": "익시스: 젠장!"
  },
  {
   "map": 15,
@@ -3264,7 +3264,7 @@
   "off": 488,
   "len": 33,
   "text": "I should have gone to the Genesis",
-  "ko": ""
+  "ko": "장벽이 무너졌을 때"
  },
  {
   "map": 15,
@@ -3273,7 +3273,7 @@
   "off": 523,
   "len": 25,
   "text": "Tree when the Wall broke.",
-  "ko": ""
+  "ko": "창세수로 갈걸."
  },
  {
   "map": 15,
@@ -3282,7 +3282,7 @@
   "off": 551,
   "len": 33,
   "text": "Ixis: Then the Ra-Seru would have",
-  "ko": ""
+  "ko": "익시스: 그럼 라세루가 네가 아닌"
  },
  {
   "map": 15,
@@ -3291,7 +3291,7 @@
   "off": 586,
   "len": 19,
   "text": "chosen me, not you.",
-  "ko": ""
+  "ko": "날 골랐을 텐데."
  },
  {
   "map": 15,
@@ -3300,7 +3300,7 @@
   "off": 608,
   "len": 9,
   "text": "Ixis: {NAME},",
-  "ko": ""
+  "ko": "익시스: {NAME},"
  },
  {
   "map": 15,
@@ -3309,7 +3309,7 @@
   "off": 619,
   "len": 32,
   "text": "they say there are Genesis Trees",
-  "ko": ""
+  "ko": "세상 곳곳에 창세수가"
  },
  {
   "map": 15,
@@ -3318,7 +3318,7 @@
   "off": 653,
   "len": 26,
   "text": "all over the world, right?",
-  "ko": ""
+  "ko": "있다지?"
  },
  {
   "map": 15,
@@ -3327,7 +3327,7 @@
   "off": 682,
   "len": 33,
   "text": "Ixis: You should use that Ra-Seru",
-  "ko": ""
+  "ko": "익시스: 그 라세루로"
  },
  {
   "map": 15,
@@ -3336,7 +3336,7 @@
   "off": 717,
   "len": 31,
   "text": "to revive all the Genesis Trees",
-  "ko": ""
+  "ko": "온 세상 창세수를"
  },
  {
   "map": 15,
@@ -3345,7 +3345,7 @@
   "off": 750,
   "len": 11,
   "text": "everywhere!",
-  "ko": ""
+  "ko": "되살려!"
  },
  {
   "map": 15,
@@ -3354,7 +3354,7 @@
   "off": 764,
   "len": 30,
   "text": "Ixis: Use the Ra-Seru's powers",
-  "ko": ""
+  "ko": "익시스: 라세루의 힘으로"
  },
  {
   "map": 15,
@@ -3363,7 +3363,7 @@
   "off": 796,
   "len": 29,
   "text": "to rid the world of the Mist.",
-  "ko": ""
+  "ko": "세상에서 안개를 없애."
  },
  {
   "map": 15,
@@ -3372,7 +3372,7 @@
   "off": 827,
   "len": 29,
   "text": "Hey, that sounds pretty cool.",
-  "ko": ""
+  "ko": "야, 꽤 멋진데."
  },
  {
   "map": 15,
@@ -3381,7 +3381,7 @@
   "off": 859,
   "len": 9,
   "text": "Ixis: {NAME},",
-  "ko": ""
+  "ko": "익시스: {NAME},"
  },
  {
   "map": 15,
@@ -3390,7 +3390,7 @@
   "off": 870,
   "len": 22,
   "text": "you are one lucky guy.",
-  "ko": ""
+  "ko": "넌 운도 좋아."
  },
  {
   "map": 15,
@@ -3399,7 +3399,7 @@
   "off": 106,
   "len": 19,
   "text": "(Grumble, grumble.)",
-  "ko": ""
+  "ko": "(투덜투덜.)"
  },
  {
   "map": 15,
@@ -3408,7 +3408,7 @@
   "off": 136,
   "len": 28,
   "text": "If the Genesis Tree has such",
-  "ko": ""
+  "ko": "창세수한테 그런 힘이"
  },
  {
   "map": 15,
@@ -3417,7 +3417,7 @@
   "off": 166,
   "len": 32,
   "text": "powers, why didn't it get rid of",
-  "ko": ""
+  "ko": "있었다면, 왜 진작 안개를"
  },
  {
   "map": 15,
@@ -3426,7 +3426,7 @@
   "off": 200,
   "len": 16,
   "text": "the Mist sooner?",
-  "ko": ""
+  "ko": "안 없앴지?"
  },
  {
   "map": 15,
@@ -3435,7 +3435,7 @@
   "off": 236,
   "len": 17,
   "text": "{NAME}! I didn't know",
-  "ko": ""
+  "ko": "{NAME}! 거기 있는 줄"
  },
  {
   "map": 15,
@@ -3444,7 +3444,7 @@
   "off": 255,
   "len": 15,
   "text": "you were there!",
-  "ko": ""
+  "ko": "몰랐어!"
  },
  {
   "map": 15,
@@ -3453,7 +3453,7 @@
   "off": 273,
   "len": 29,
   "text": "I was just talking to myself,",
-  "ko": ""
+  "ko": "그냥 혼잣말이니까,"
  },
  {
   "map": 15,
@@ -3462,7 +3462,7 @@
   "off": 304,
   "len": 33,
   "text": "so don't tell anyone what I said.",
-  "ko": ""
+  "ko": "아무한테도 말하지 마."
  },
  {
   "map": 15,
@@ -3471,7 +3471,7 @@
   "off": 344,
   "len": 29,
   "text": "At any rate, the Mist is gone",
-  "ko": ""
+  "ko": "아무튼 안개도 걷혔고"
  },
  {
   "map": 15,
@@ -3480,7 +3480,7 @@
   "off": 375,
   "len": 23,
   "text": "and we're safe for now.",
-  "ko": ""
+  "ko": "당분간은 안전해."
  },
  {
   "map": 15,
@@ -3489,7 +3489,7 @@
   "off": 106,
   "len": 28,
   "text": "Ha, ha, ha. This is the end!",
-  "ko": ""
+  "ko": "하하하. 이제 끝이야!"
  },
  {
   "map": 15,
@@ -3498,7 +3498,7 @@
   "off": 136,
   "len": 14,
   "text": "It's all over.",
-  "ko": ""
+  "ko": "다 끝났어."
  },
  {
   "map": 15,
@@ -3507,7 +3507,7 @@
   "off": 152,
   "len": 25,
   "text": "Everybody's going to die!",
-  "ko": ""
+  "ko": "다들 죽을 거야!"
  },
  {
   "map": 15,
@@ -3516,7 +3516,7 @@
   "off": 182,
   "len": 31,
   "text": "How pathetic I am -- entrusting",
-  "ko": ""
+  "ko": "한심하지 -- 너 같은"
  },
  {
   "map": 15,
@@ -3525,7 +3525,7 @@
   "off": 215,
   "len": 28,
   "text": "a kid like you with my life.",
-  "ko": ""
+  "ko": "애한테 목숨을 맡기다니."
  },
  {
   "map": 15,
@@ -3534,7 +3534,7 @@
   "off": 248,
   "len": 18,
   "text": "Listen, everybody!",
-  "ko": ""
+  "ko": "다들 들어!"
  },
  {
   "map": 15,
@@ -3543,7 +3543,7 @@
   "off": 268,
   "len": 20,
   "text": "I saw a huge monster",
-  "ko": ""
+  "ko": "장벽이 무너질 때"
  },
  {
   "map": 15,
@@ -3552,7 +3552,7 @@
   "off": 290,
   "len": 20,
   "text": "when the Wall broke!",
-  "ko": ""
+  "ko": "거대한 괴물을 봤어!"
  },
  {
   "map": 15,
@@ -3561,7 +3561,7 @@
   "off": 104,
   "len": 8,
   "text": "Hey, {NAME}!",
-  "ko": ""
+  "ko": "야, {NAME}!"
  },
  {
   "map": 15,
@@ -3570,7 +3570,7 @@
   "off": 114,
   "len": 30,
   "text": "The Mist is here! Where do you",
-  "ko": ""
+  "ko": "안개가 왔어! 어딜"
  },
  {
   "map": 15,
@@ -3579,7 +3579,7 @@
   "off": 146,
   "len": 19,
   "text": "think you're going?",
-  "ko": ""
+  "ko": "가려는 거야?"
  },
  {
   "map": 15,
@@ -3588,7 +3588,7 @@
   "off": 172,
   "len": 15,
   "text": "I'm going home!",
-  "ko": ""
+  "ko": "집에 가!"
  },
  {
   "map": 15,
@@ -3597,7 +3597,7 @@
   "off": 189,
   "len": 25,
   "text": "I'm going someplace safe!",
-  "ko": ""
+  "ko": "안전한 곳으로 가!"
  },
  {
   "map": 15,
@@ -3606,7 +3606,7 @@
   "off": 219,
   "len": 29,
   "text": "Oh. You're worried about your",
-  "ko": ""
+  "ko": "아. 가족이 걱정되는"
  },
  {
   "map": 15,
@@ -3615,7 +3615,7 @@
   "off": 250,
   "len": 30,
   "text": "family. Well, then, take this.",
-  "ko": ""
+  "ko": "구나. 그럼, 이거 받아."
  },
  {
   "map": 15,
@@ -3624,7 +3624,7 @@
   "off": 299,
   "len": 16,
   "text": "{NAME} now has three",
-  "ko": ""
+  "ko": "{NAME}이(가) 회복초"
  },
  {
   "map": 15,
@@ -3633,7 +3633,7 @@
   "off": 317,
   "len": 15,
   "text": "Healing Leaves!",
-  "ko": ""
+  "ko": "3개를 얻었다!"
  },
  {
   "map": 15,
@@ -3642,7 +3642,7 @@
   "off": 338,
   "len": 15,
   "text": "Now be careful!",
-  "ko": ""
+  "ko": "조심하고!"
  },
  {
   "map": 15,
@@ -3651,7 +3651,7 @@
   "off": 360,
   "len": 33,
   "text": "Oh, so you're going to look for a",
-  "ko": ""
+  "ko": "아, 모두 안전할 곳을"
  },
  {
   "map": 15,
@@ -3660,7 +3660,7 @@
   "off": 395,
   "len": 30,
   "text": "place where we'll all be safe!",
-  "ko": ""
+  "ko": "찾으러 가는구나!"
  },
  {
   "map": 15,
@@ -3669,7 +3669,7 @@
   "off": 428,
   "len": 24,
   "text": "That is so brave of you.",
-  "ko": ""
+  "ko": "정말 용감하구나."
  },
  {
   "map": 15,
@@ -3678,7 +3678,7 @@
   "off": 454,
   "len": 25,
   "text": "Here, take this with you.",
-  "ko": ""
+  "ko": "이거 가져가."
  },
  {
   "map": 15,
@@ -3687,7 +3687,7 @@
   "off": 498,
   "len": 16,
   "text": "{NAME} now has three",
-  "ko": ""
+  "ko": "{NAME}이(가) 회복초"
  },
  {
   "map": 15,
@@ -3696,7 +3696,7 @@
   "off": 516,
   "len": 15,
   "text": "Healing Leaves!",
-  "ko": ""
+  "ko": "3개를 얻었다!"
  },
  {
   "map": 15,
@@ -3705,7 +3705,7 @@
   "off": 537,
   "len": 15,
   "text": "Now be careful!",
-  "ko": ""
+  "ko": "조심하고!"
  },
  {
   "map": 15,
@@ -3714,7 +3714,7 @@
   "off": 557,
   "len": 23,
   "text": "{NAME}, what are you doing?",
-  "ko": ""
+  "ko": "{NAME}, 뭐 하는 거야?"
  },
  {
   "map": 15,
@@ -3723,7 +3723,7 @@
   "off": 582,
   "len": 14,
   "text": "That's a Seru!",
-  "ko": ""
+  "ko": "세루잖아!"
  },
  {
   "map": 15,
@@ -3732,7 +3732,7 @@
   "off": 598,
   "len": 19,
   "text": "Take it off, hurry!",
-  "ko": ""
+  "ko": "어서 떼어내!"
  },
  {
   "map": 15,
@@ -3741,7 +3741,7 @@
   "off": 622,
   "len": 7,
   "text": "Oh, {NAME}.",
-  "ko": ""
+  "ko": "아, {NAME}."
  },
  {
   "map": 15,
@@ -3750,7 +3750,7 @@
   "off": 631,
   "len": 20,
   "text": "I'm glad to see you!",
-  "ko": ""
+  "ko": "만나서 반가워!"
  },
  {
   "map": 15,
@@ -3759,7 +3759,7 @@
   "off": 654,
   "len": 26,
   "text": "Now that the Mist is gone,",
-  "ko": ""
+  "ko": "안개도 걷혔으니,"
  },
  {
   "map": 15,
@@ -3768,7 +3768,7 @@
   "off": 682,
   "len": 35,
   "text": "I've decided to open my shop again.",
-  "ko": ""
+  "ko": "다시 가게를 열기로 했어."
  },
  {
   "map": 15,
@@ -3777,7 +3777,7 @@
   "off": 719,
   "len": 21,
   "text": "My son is helping me.",
-  "ko": ""
+  "ko": "아들이 돕고 있지."
  },
  {
   "map": 15,
@@ -3786,7 +3786,7 @@
   "off": 100,
   "len": 19,
   "text": "The Wall is broken.",
-  "ko": ""
+  "ko": "장벽이 무너졌어."
  },
  {
   "map": 15,
@@ -3795,7 +3795,7 @@
   "off": 121,
   "len": 22,
   "text": "This may be the end of",
-  "ko": ""
+  "ko": "인류가 끝날지도"
  },
  {
   "map": 15,
@@ -3804,7 +3804,7 @@
   "off": 145,
   "len": 14,
   "text": "all humankind.",
-  "ko": ""
+  "ko": "모르겠어."
  },
  {
   "map": 15,
@@ -3813,7 +3813,7 @@
   "off": 164,
   "len": 21,
   "text": "Oh, no! How horrible!",
-  "ko": ""
+  "ko": "이런! 끔찍해라!"
  },
  {
   "map": 15,
@@ -3822,7 +3822,7 @@
   "off": 187,
   "len": 27,
   "text": "Now {NAME} has been attacked by",
-  "ko": ""
+  "ko": "이젠 {NAME}까지 세루한테"
  },
  {
   "map": 15,
@@ -3831,7 +3831,7 @@
   "off": 216,
   "len": 9,
   "text": "the Seru!",
-  "ko": ""
+  "ko": "당했어!"
  },
  {
   "map": 15,
@@ -3840,7 +3840,7 @@
   "off": 230,
   "len": 26,
   "text": "{NAME}, the Mist may have left",
-  "ko": ""
+  "ko": "{NAME}, 안개는 마을을"
  },
  {
   "map": 15,
@@ -3849,7 +3849,7 @@
   "off": 258,
   "len": 32,
   "text": "the village, but beasts and Seru",
-  "ko": ""
+  "ko": "떠났지만, 장벽 너머엔"
  },
  {
   "map": 15,
@@ -3858,7 +3858,7 @@
   "off": 292,
   "len": 26,
   "text": "lurk just beyond the Wall.",
-  "ko": ""
+  "ko": "짐승과 세루가 있어."
  },
  {
   "map": 15,
@@ -3867,7 +3867,7 @@
   "off": 321,
   "len": 30,
   "text": "You'll need weapons and armor.",
-  "ko": ""
+  "ko": "무기와 방어구가 필요해."
  },
  {
   "map": 15,
@@ -3876,7 +3876,7 @@
   "off": 353,
   "len": 31,
   "text": "Shall I teach you about weapons",
-  "ko": ""
+  "ko": "무기와 방어구에 대해"
  },
  {
   "map": 15,
@@ -3885,7 +3885,7 @@
   "off": 386,
   "len": 10,
   "text": "and armor?",
-  "ko": ""
+  "ko": "알려줄까?"
  },
  {
   "map": 15,
@@ -3894,7 +3894,7 @@
   "off": 521,
   "len": 35,
   "text": "First of all, there are four places",
-  "ko": ""
+  "ko": "우선, 무기와 방어구는"
  },
  {
   "map": 15,
@@ -3903,7 +3903,7 @@
   "off": 558,
   "len": 33,
   "text": "to wear the weapons and armor you",
-  "ko": ""
+  "ko": "네 곳에 착용할 수"
  },
  {
   "map": 15,
@@ -3912,7 +3912,7 @@
   "off": 593,
   "len": 33,
   "text": "acquire: head, arms, chest, legs.",
-  "ko": ""
+  "ko": "있어: 머리, 팔, 몸통, 다리."
  },
  {
   "map": 15,
@@ -3921,7 +3921,7 @@
   "off": 629,
   "len": 33,
   "text": "Next, an opponent can strike high",
-  "ko": ""
+  "ko": "다음, 적은 위나 아래를"
  },
  {
   "map": 15,
@@ -3930,7 +3930,7 @@
   "off": 664,
   "len": 33,
   "text": "or low, so there are two types of",
-  "ko": ""
+  "ko": "공격하니 방어도 두"
  },
  {
   "map": 15,
@@ -3939,7 +3939,7 @@
   "off": 699,
   "len": 30,
   "text": "defense: upper and lower body.",
-  "ko": ""
+  "ko": "종류야: 상체와 하체."
  },
  {
   "map": 15,
@@ -3948,7 +3948,7 @@
   "off": 732,
   "len": 34,
   "text": "Upper-body defensive power depends",
-  "ko": ""
+  "ko": "상체 방어력은 머리와"
  },
  {
   "map": 15,
@@ -3957,7 +3957,7 @@
   "off": 768,
   "len": 29,
   "text": "on the armor on your head and",
-  "ko": ""
+  "ko": "몸통 방어구에 달렸어"
  },
  {
   "map": 15,
@@ -3966,7 +3966,7 @@
   "off": 799,
   "len": 6,
   "text": "torso.",
-  "ko": ""
+  "ko": "."
  },
  {
   "map": 15,
@@ -3975,7 +3975,7 @@
   "off": 808,
   "len": 34,
   "text": "Lower-body defensive power depends",
-  "ko": ""
+  "ko": "하체 방어력은 몸통과"
  },
  {
   "map": 15,
@@ -3984,7 +3984,7 @@
   "off": 844,
   "len": 30,
   "text": "on the armor on your torso and",
-  "ko": ""
+  "ko": "다리 방어구에 달렸지"
  },
  {
   "map": 15,
@@ -3993,7 +3993,7 @@
   "off": 876,
   "len": 5,
   "text": "legs.",
-  "ko": ""
+  "ko": "."
  },
  {
   "map": 15,
@@ -4002,7 +4002,7 @@
   "off": 884,
   "len": 30,
   "text": "Attacking power depends on the",
-  "ko": ""
+  "ko": "공격력은 팔과 다리"
  },
  {
   "map": 15,
@@ -4011,7 +4011,7 @@
   "off": 916,
   "len": 30,
   "text": "weapons on your arms and legs.",
-  "ko": ""
+  "ko": "무기에 달렸어."
  },
  {
   "map": 15,
@@ -4020,7 +4020,7 @@
   "off": 949,
   "len": 33,
   "text": "Of course, newly acquired weapons",
-  "ko": ""
+  "ko": "물론, 새 무기와"
  },
  {
   "map": 15,
@@ -4029,7 +4029,7 @@
   "off": 984,
   "len": 31,
   "text": "and armor won't do you any good",
-  "ko": ""
+  "ko": "방어구도 착용하지"
  },
  {
   "map": 15,
@@ -4038,7 +4038,7 @@
   "off": 1017,
   "len": 21,
   "text": "unless you wear them.",
-  "ko": ""
+  "ko": "않으면 소용없어."
  },
  {
   "map": 15,
@@ -4047,7 +4047,7 @@
   "off": 1043,
   "len": 26,
   "text": "Well, if you already know,",
-  "ko": ""
+  "ko": "뭐, 이미 안다면,"
  },
  {
   "map": 15,
@@ -4056,7 +4056,7 @@
   "off": 1071,
   "len": 31,
   "text": "there is nothing for me to say.",
-  "ko": ""
+  "ko": "더 할 말은 없지."
  },
  {
   "map": 15,
@@ -4065,7 +4065,7 @@
   "off": 113,
   "len": 14,
   "text": "what happened?",
-  "ko": ""
+  "ko": "무슨 일이야?"
  },
  {
   "map": 15,
@@ -4074,7 +4074,7 @@
   "off": 137,
   "len": 14,
   "text": "that's a Seru?",
-  "ko": ""
+  "ko": "그게 세루야?"
  },
  {
   "map": 15,
@@ -4083,7 +4083,7 @@
   "off": 153,
   "len": 9,
   "text": "How cool!",
-  "ko": ""
+  "ko": "멋지다!"
  },
  {
   "map": 15,
@@ -4092,7 +4092,7 @@
   "off": 167,
   "len": 17,
   "text": "Oh, Genesis Tree!",
-  "ko": ""
+  "ko": "오, 창세수여!"
  },
  {
   "map": 15,
@@ -4101,7 +4101,7 @@
   "off": 186,
   "len": 15,
   "text": "Please help us!",
-  "ko": ""
+  "ko": "우릴 도와줘요!"
  },
  {
   "map": 15,
@@ -4110,7 +4110,7 @@
   "off": 211,
   "len": 32,
   "text": "You don't know anything, do you?",
-  "ko": ""
+  "ko": "넌 아무것도 모르는구나?"
  },
  {
   "map": 15,
@@ -4119,7 +4119,7 @@
   "off": 246,
   "len": 34,
   "text": "This is a shop! If you're going to",
-  "ko": ""
+  "ko": "여긴 가게야! 살 게"
  },
  {
   "map": 15,
@@ -4128,7 +4128,7 @@
   "off": 282,
   "len": 30,
   "text": "buy something, talk to me from",
-  "ko": ""
+  "ko": "있으면 계산대에서"
  },
  {
   "map": 15,
@@ -4137,7 +4137,7 @@
   "off": 314,
   "len": 12,
   "text": "the counter!",
-  "ko": ""
+  "ko": "말을 걸어!"
  },
  {
   "map": 15,
@@ -4146,7 +4146,7 @@
   "off": 108,
   "len": 28,
   "text": "Grandpa and the other adults",
-  "ko": ""
+  "ko": "할아버지랑 어른들이"
  },
  {
   "map": 15,
@@ -4155,7 +4155,7 @@
   "off": 138,
   "len": 24,
   "text": "still haven't come back.",
-  "ko": ""
+  "ko": "아직 안 돌아왔어."
  },
  {
   "map": 15,
@@ -4164,7 +4164,7 @@
   "off": 165,
   "len": 27,
   "text": "I wonder if Mei is alright.",
-  "ko": ""
+  "ko": "메이는 괜찮을까."
  },
  {
   "map": 15,
@@ -4173,7 +4173,7 @@
   "off": 197,
   "len": 20,
   "text": "{NAME}, are you alright?",
-  "ko": ""
+  "ko": "{NAME}, 괜찮아?"
  },
  {
   "map": 15,
@@ -4182,7 +4182,7 @@
   "off": 219,
   "len": 24,
   "text": "That's a Seru, isn't it?",
-  "ko": ""
+  "ko": "그거 세루지?"
  },
  {
   "map": 15,
@@ -4191,7 +4191,7 @@
   "off": 248,
   "len": 19,
   "text": "Oh, Genesis Tree...",
-  "ko": ""
+  "ko": "오, 창세수여..."
  },
  {
   "map": 15,
@@ -4200,7 +4200,7 @@
   "off": 272,
   "len": 35,
   "text": "The power of this Genesis Tree will",
-  "ko": ""
+  "ko": "이 창세수의 힘이 안개에서"
  },
  {
   "map": 15,
@@ -4209,7 +4209,7 @@
   "off": 309,
   "len": 26,
   "text": "save us all from the Mist,",
-  "ko": ""
+  "ko": "우릴 다 구해주겠지,"
  },
  {
   "map": 15,
@@ -4218,7 +4218,7 @@
   "off": 337,
   "len": 20,
   "text": "won't it? It has to!",
-  "ko": ""
+  "ko": "그렇지? 그래야 해!"
  },
  {
   "map": 15,
@@ -4227,7 +4227,7 @@
   "off": 206,
   "len": 17,
   "text": "{NAME} gently touches",
-  "ko": ""
+  "ko": "{NAME}이(가) 창세수"
  },
  {
   "map": 15,
@@ -4236,7 +4236,7 @@
   "off": 225,
   "len": 30,
   "text": "the trunk of the Genesis Tree.",
-  "ko": ""
+  "ko": "줄기를 살며시 만진다."
  },
  {
   "map": 15,
@@ -4245,7 +4245,7 @@
   "off": 258,
   "len": 28,
   "text": "Something is speaking softly",
-  "ko": ""
+  "ko": "무언가가 조용히"
  },
  {
   "map": 15,
@@ -4254,7 +4254,7 @@
   "off": 288,
   "len": 13,
   "text": "to {NAME}'s mind.",
-  "ko": ""
+  "ko": "{NAME} 말을 건다."
  },
  {
   "map": 15,
@@ -4263,7 +4263,7 @@
   "off": 526,
   "len": 24,
   "text": "You are {NAME}, are you not?",
-  "ko": ""
+  "ko": "네가 {NAME}이지?"
  },
  {
   "map": 15,
@@ -4272,7 +4272,7 @@
   "off": 905,
   "len": 26,
   "text": "I have read your thoughts.",
-  "ko": ""
+  "ko": "네 마음을 읽었다."
  },
  {
   "map": 15,
@@ -4281,7 +4281,7 @@
   "off": 933,
   "len": 27,
   "text": "I am speaking to your mind.",
-  "ko": ""
+  "ko": "네 마음에 말하고 있지."
  },
  {
   "map": 15,
@@ -4290,7 +4290,7 @@
   "off": 963,
   "len": 21,
   "text": "I am Meta, a Ra-Seru.",
-  "ko": ""
+  "ko": "난 라세루, 메타다."
  },
  {
   "map": 15,
@@ -4299,7 +4299,7 @@
   "off": 986,
   "len": 31,
   "text": "I have been waiting inside this",
-  "ko": ""
+  "ko": "이 창세수 안에서"
  },
  {
   "map": 15,
@@ -4308,7 +4308,7 @@
   "off": 1019,
   "len": 34,
   "text": "Genesis Tree for someone like you.",
-  "ko": ""
+  "ko": "너 같은 이를 기다렸다."
  },
  {
   "map": 15,
@@ -4317,7 +4317,7 @@
   "off": 1080,
   "len": 31,
   "text": "Do you wish to save your people",
-  "ko": ""
+  "ko": "안개에서 네 사람들을"
  },
  {
   "map": 15,
@@ -4326,7 +4326,7 @@
   "off": 1113,
   "len": 14,
   "text": "from the Mist?",
-  "ko": ""
+  "ko": "구하고 싶으냐?"
  },
  {
   "map": 15,
@@ -4335,7 +4335,7 @@
   "off": 1267,
   "len": 32,
   "text": "By combining our powers, we will",
-  "ko": ""
+  "ko": "우리 힘을 합치면,"
  },
  {
   "map": 15,
@@ -4344,7 +4344,7 @@
   "off": 1301,
   "len": 32,
   "text": "rid the whole world of the Mist!",
-  "ko": ""
+  "ko": "온 세상 안개를 없앤다!"
  },
  {
   "map": 15,
@@ -4353,7 +4353,7 @@
   "off": 1336,
   "len": 30,
   "text": "{PAL:9}{M7}{PAL:7}: Let us pursue the same",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 인간과 라세루로서"
  },
  {
   "map": 15,
@@ -4362,7 +4362,7 @@
   "off": 1368,
   "len": 28,
   "text": "destiny as human and Ra-Seru",
-  "ko": ""
+  "ko": "같은 운명을 함께"
  },
  {
   "map": 15,
@@ -4371,7 +4371,7 @@
   "off": 1398,
   "len": 17,
   "text": "working together!",
-  "ko": ""
+  "ko": "걸어가자!"
  },
  {
   "map": 15,
@@ -4380,7 +4380,7 @@
   "off": 1540,
   "len": 26,
   "text": "{PAL:9}{M7}{PAL:7}: You regard me with",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 날 의심하는군."
  },
  {
   "map": 15,
@@ -4389,7 +4389,7 @@
   "off": 1568,
   "len": 34,
   "text": "suspicion. That is understandable.",
-  "ko": ""
+  "ko": "그럴 만하다."
  },
  {
   "map": 15,
@@ -4398,7 +4398,7 @@
   "off": 1605,
   "len": 30,
   "text": "{PAL:9}{M7}{PAL:7}: But through your mind,",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 허나 네 마음으로,"
  },
  {
   "map": 15,
@@ -4407,7 +4407,7 @@
   "off": 1637,
   "len": 27,
   "text": "I can see whatever you see.",
-  "ko": ""
+  "ko": "네가 보는 걸 나도 본다."
  },
  {
   "map": 15,
@@ -4416,7 +4416,7 @@
   "off": 1667,
   "len": 35,
   "text": "{PAL:9}{M7}{PAL:7}: I see your people trembling",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 안개를 두려워 떠는"
  },
  {
   "map": 15,
@@ -4425,7 +4425,7 @@
   "off": 1704,
   "len": 32,
   "text": "in fear of the Mist.  They stand",
-  "ko": ""
+  "ko": "네 사람들이 보인다. 그들은"
  },
  {
   "map": 15,
@@ -4434,7 +4434,7 @@
   "off": 1738,
   "len": 23,
   "text": "at an abyss of despair!",
-  "ko": ""
+  "ko": "절망의 끝에 서 있다!"
  },
  {
   "map": 15,
@@ -4443,7 +4443,7 @@
   "off": 1788,
   "len": 24,
   "text": "Such a kind boy you are.",
-  "ko": ""
+  "ko": "참 다정한 아이구나."
  },
  {
   "map": 15,
@@ -4452,7 +4452,7 @@
   "off": 1815,
   "len": 23,
   "text": "{PAL:9}{M7}{PAL:7}: Your hatred for",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 안개를 향한"
  },
  {
   "map": 15,
@@ -4461,7 +4461,7 @@
   "off": 1840,
   "len": 25,
   "text": "the Mist is stronger than",
-  "ko": ""
+  "ko": "네 증오는 누구보다"
  },
  {
   "map": 15,
@@ -4470,7 +4470,7 @@
   "off": 1867,
   "len": 14,
   "text": "anyone else's.",
-  "ko": ""
+  "ko": "강하다."
  },
  {
   "map": 15,
@@ -4479,7 +4479,7 @@
   "off": 1884,
   "len": 23,
   "text": "{PAL:9}{M7}{PAL:7}: I will give you",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 내 힘을"
  },
  {
   "map": 15,
@@ -4488,7 +4488,7 @@
   "off": 1909,
   "len": 10,
   "text": "my powers!",
-  "ko": ""
+  "ko": "주마!"
  },
  {
   "map": 15,
@@ -4497,7 +4497,7 @@
   "off": 1922,
   "len": 30,
   "text": "{PAL:9}{M7}{PAL:7}: Let us pursue the same",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 인간과 라세루로서"
  },
  {
   "map": 15,
@@ -4506,7 +4506,7 @@
   "off": 1954,
   "len": 28,
   "text": "destiny as human and Ra-Seru",
-  "ko": ""
+  "ko": "같은 운명을 함께"
  },
  {
   "map": 15,
@@ -4515,7 +4515,7 @@
   "off": 1984,
   "len": 17,
   "text": "working together!",
-  "ko": ""
+  "ko": "걸어가자!"
  },
  {
   "map": 15,
@@ -4524,7 +4524,7 @@
   "off": 2148,
   "len": 25,
   "text": "Your destiny is your own.",
-  "ko": ""
+  "ko": "네 운명은 네 것이다."
  },
  {
   "map": 15,
@@ -4533,7 +4533,7 @@
   "off": 2175,
   "len": 26,
   "text": "I can't will it to change.",
-  "ko": ""
+  "ko": "억지로 바꿀 순 없지."
  },
  {
   "map": 15,
@@ -4542,7 +4542,7 @@
   "off": 2204,
   "len": 26,
   "text": "{PAL:9}{M7}{PAL:7}: It is unfortunate,",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 안타깝구나,"
  },
  {
   "map": 15,
@@ -4551,7 +4551,7 @@
   "off": 2232,
   "len": 31,
   "text": "for this may be the only way to",
-  "ko": ""
+  "ko": "이것이 안개를 이길 유일한"
  },
  {
   "map": 15,
@@ -4560,7 +4560,7 @@
   "off": 2265,
   "len": 16,
   "text": "defeat the Mist.",
-  "ko": ""
+  "ko": "길일 텐데."
  },
  {
   "map": 15,
@@ -4569,7 +4569,7 @@
   "off": 2348,
   "len": 30,
   "text": "so you have changed your mind.",
-  "ko": ""
+  "ko": "마음을 바꿨구나."
  },
  {
   "map": 15,
@@ -4578,7 +4578,7 @@
   "off": 2401,
   "len": 31,
   "text": "let us pursue a single destiny!",
-  "ko": ""
+  "ko": "하나의 운명을 걷자!"
  },
  {
   "map": 15,
@@ -4587,7 +4587,7 @@
   "off": 2570,
   "len": 27,
   "text": "you are so very capricious.",
-  "ko": ""
+  "ko": "넌 참 변덕스럽구나."
  },
  {
   "map": 15,
@@ -4596,7 +4596,7 @@
   "off": 2600,
   "len": 33,
   "text": "{PAL:9}{M7}{PAL:7}: Do not make me lose faith",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 너와 모든 인간에 대한"
  },
  {
   "map": 15,
@@ -4605,7 +4605,7 @@
   "off": 2635,
   "len": 28,
   "text": "in you... and in all humans.",
-  "ko": ""
+  "ko": "믿음을 잃게 하지 마라."
  },
  {
   "map": 15,
@@ -4614,7 +4614,7 @@
   "off": 2814,
   "len": 17,
   "text": "open your mind...",
-  "ko": ""
+  "ko": "마음을 열어라..."
  },
  {
   "map": 15,
@@ -4623,7 +4623,7 @@
   "off": 2833,
   "len": 17,
   "text": "Feel my presence.",
-  "ko": ""
+  "ko": "내 존재를 느껴라."
  },
  {
   "map": 15,
@@ -4632,7 +4632,7 @@
   "off": 3168,
   "len": 28,
   "text": "{PAL:9}{M7}{PAL:7}: The approaching Mist",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 다가오는 안개가"
  },
  {
   "map": 15,
@@ -4641,7 +4641,7 @@
   "off": 3198,
   "len": 28,
   "text": "is killing the Genesis Tree.",
-  "ko": ""
+  "ko": "창세수를 죽이고 있다."
  },
  {
   "map": 15,
@@ -4650,7 +4650,7 @@
   "off": 3309,
   "len": 24,
   "text": "{PAL:9}{M7}{PAL:7}: I am too weak...",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 난 너무 약하다.."
  },
  {
   "map": 15,
@@ -4659,7 +4659,7 @@
   "off": 3335,
   "len": 28,
   "text": "I need the life force of the",
-  "ko": ""
+  "ko": "강해지려면 창세수의"
  },
  {
   "map": 15,
@@ -4668,7 +4668,7 @@
   "off": 3365,
   "len": 26,
   "text": "Genesis Tree to be strong.",
-  "ko": ""
+  "ko": "생명력이 필요하다."
  },
  {
   "map": 15,
@@ -4677,7 +4677,7 @@
   "off": 3394,
   "len": 35,
   "text": "{PAL:9}{M7}{PAL:7}: To revive the Genesis Tree,",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 창세수를 되살리려면,"
  },
  {
   "map": 15,
@@ -4686,7 +4686,7 @@
   "off": 3431,
   "len": 35,
   "text": "we need the power to change destiny",
-  "ko": ""
+  "ko": "운명을 바꿀 힘이"
  },
  {
   "map": 15,
@@ -4695,7 +4695,7 @@
   "off": 3468,
   "len": 33,
   "text": "-- the power of the human spirit!",
-  "ko": ""
+  "ko": "-- 인간 정신의 힘이 필요하다!"
  },
  {
   "map": 15,
@@ -4704,7 +4704,7 @@
   "off": 3559,
   "len": 33,
   "text": "Hurry and assemble everyone here!",
-  "ko": ""
+  "ko": "어서 모두를 여기 모아라!"
  },
  {
   "map": 15,
@@ -4713,7 +4713,7 @@
   "off": 3645,
   "len": 29,
   "text": "{PAL:9}{M7}{PAL:7}: Awaken, Genesis Tree.",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 깨어나라, 창세수여."
  },
  {
   "map": 15,
@@ -4722,7 +4722,7 @@
   "off": 3676,
   "len": 32,
   "text": "Remember the instant the heavens",
-  "ko": ""
+  "ko": "하늘과 땅이 태어난"
  },
  {
   "map": 15,
@@ -4731,7 +4731,7 @@
   "off": 3710,
   "len": 24,
   "text": "and the earth were born!",
-  "ko": ""
+  "ko": "그 순간을 기억하라!"
  },
  {
   "map": 15,
@@ -4740,7 +4740,7 @@
   "off": 3814,
   "len": 20,
   "text": "you, too, must pray!",
-  "ko": ""
+  "ko": "너도 기도하라!"
  },
  {
   "map": 15,
@@ -4749,7 +4749,7 @@
   "off": 3946,
   "len": 28,
   "text": "{PAL:9}{M7}{PAL:7}: Harder! Pray harder!",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 더! 더 기도하라!"
  },
  {
   "map": 15,
@@ -4758,7 +4758,7 @@
   "off": 4025,
   "len": 30,
   "text": "{PAL:9}{M7}{PAL:7}: To push away the Mist!",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 안개를 밀어내기 위해!"
  },
  {
   "map": 15,
@@ -4767,7 +4767,7 @@
   "off": 4082,
   "len": 35,
   "text": "{PAL:9}{M7}{PAL:7}: To revive the Genesis Tree!",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 창세수를 되살리기 위해!"
  },
  {
   "map": 15,
@@ -4776,7 +4776,7 @@
   "off": 4171,
   "len": 23,
   "text": "{PAL:9}{M7}{PAL:7}: Open your mind!",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 마음을 열어라!"
  },
  {
   "map": 15,
@@ -4785,7 +4785,7 @@
   "off": 42,
   "len": 8,
   "text": "Welcome!",
-  "ko": ""
+  "ko": "어서 와!"
  },
  {
   "map": 15,
@@ -4794,7 +4794,7 @@
   "off": 52,
   "len": 20,
   "text": "What would you like?",
-  "ko": ""
+  "ko": "뭘 드릴까?"
  },
  {
   "map": 15,
@@ -4803,7 +4803,7 @@
   "off": 103,
   "len": 10,
   "text": "Thank you!",
-  "ko": ""
+  "ko": "고마워!"
  },
  {
   "map": 15,
@@ -4812,7 +4812,7 @@
   "off": 192,
   "len": 8,
   "text": "Mei: {NAME}!",
-  "ko": ""
+  "ko": "메이: {NAME}"
  },
  {
   "map": 15,
@@ -4821,7 +4821,7 @@
   "off": 361,
   "len": 30,
   "text": "Mei: They all went to check on",
-  "ko": ""
+  "ko": "메이: 다들 장벽을 보러"
  },
  {
   "map": 15,
@@ -4830,7 +4830,7 @@
   "off": 393,
   "len": 27,
   "text": "the Wall, but still haven't",
-  "ko": ""
+  "ko": "갔는데, 아직 안"
  },
  {
   "map": 15,
@@ -4839,7 +4839,7 @@
   "off": 422,
   "len": 10,
   "text": "come back.",
-  "ko": ""
+  "ko": "돌아왔어."
  },
  {
   "map": 15,
@@ -4848,7 +4848,7 @@
   "off": 435,
   "len": 8,
   "text": "Mei: {NAME},",
-  "ko": ""
+  "ko": "메이: {NAME}"
  },
  {
   "map": 15,
@@ -4857,7 +4857,7 @@
   "off": 445,
   "len": 14,
   "text": "what happened?",
-  "ko": ""
+  "ko": "무슨 일이야?"
  },
  {
   "map": 15,
@@ -4866,7 +4866,7 @@
   "off": 466,
   "len": 17,
   "text": "The Mist is here!",
-  "ko": ""
+  "ko": "안개가 왔어!"
  },
  {
   "map": 15,
@@ -4875,7 +4875,7 @@
   "off": 485,
   "len": 23,
   "text": "Nothing to worry about.",
-  "ko": ""
+  "ko": "걱정할 것 없어."
  },
  {
   "map": 15,
@@ -4884,7 +4884,7 @@
   "off": 572,
   "len": 12,
   "text": "Mei: Oh, no!",
-  "ko": ""
+  "ko": "메이: 안 돼!"
  },
  {
   "map": 15,
@@ -4893,7 +4893,7 @@
   "off": 655,
   "len": 24,
   "text": "Mei: That means the Seru",
-  "ko": ""
+  "ko": "메이: 그럼 세루 괴물이"
  },
  {
   "map": 15,
@@ -4902,7 +4902,7 @@
   "off": 681,
   "len": 32,
   "text": "monsters will come into Rim Elm!",
-  "ko": ""
+  "ko": "림 엘름에 들어오겠네!"
  },
  {
   "map": 15,
@@ -4911,7 +4911,7 @@
   "off": 800,
   "len": 23,
   "text": "Mei: What should we do?",
-  "ko": ""
+  "ko": "메이: 어떡하지?"
  },
  {
   "map": 15,
@@ -4920,7 +4920,7 @@
   "off": 830,
   "len": 21,
   "text": "Let's go to my house!",
-  "ko": ""
+  "ko": "우리 집으로 가자!"
  },
  {
   "map": 15,
@@ -4929,7 +4929,7 @@
   "off": 853,
   "len": 32,
   "text": "Lock all your doors and windows!",
-  "ko": ""
+  "ko": "문이랑 창문 다 잠가!"
  },
  {
   "map": 15,
@@ -4938,7 +4938,7 @@
   "off": 912,
   "len": 14,
   "text": "Thank you, {NAME}!",
-  "ko": ""
+  "ko": "고마워, {NAME}!"
  },
  {
   "map": 15,
@@ -4947,7 +4947,7 @@
   "off": 928,
   "len": 27,
   "text": "Maybe that would be better.",
-  "ko": ""
+  "ko": "그게 낫겠어."
  },
  {
   "map": 15,
@@ -4956,7 +4956,7 @@
   "off": 978,
   "len": 16,
   "text": "Alright, take me",
-  "ko": ""
+  "ko": "좋아, 날 집으로"
  },
  {
   "map": 15,
@@ -4965,7 +4965,7 @@
   "off": 996,
   "len": 14,
   "text": "to your house!",
-  "ko": ""
+  "ko": "데려다줘!"
  },
  {
   "map": 15,
@@ -4974,7 +4974,7 @@
   "off": 1067,
   "len": 27,
   "text": "Mei: Oh, wait a minute, {NAME}!",
-  "ko": ""
+  "ko": "메이: 아, 잠깐만, {NAME}!"
  },
  {
   "map": 15,
@@ -4983,7 +4983,7 @@
   "off": 1157,
   "len": 14,
   "text": "Mei: Father...",
-  "ko": ""
+  "ko": "메이: 아버지.."
  },
  {
   "map": 15,
@@ -4992,7 +4992,7 @@
   "off": 1577,
   "len": 26,
   "text": "Val: You did a good thing,",
-  "ko": ""
+  "ko": "발: 잘한 일이다,"
  },
  {
   "map": 15,
@@ -5001,7 +5001,7 @@
   "off": 1605,
   "len": 22,
   "text": "{NAME}. Mei must have been",
-  "ko": ""
+  "ko": "{NAME}. 메이는 혼자"
  },
  {
   "map": 15,
@@ -5010,7 +5010,7 @@
   "off": 1629,
   "len": 22,
   "text": "uneasy all by herself.",
-  "ko": ""
+  "ko": "많이 불안했을 게다."
  },
  {
   "map": 15,
@@ -5019,7 +5019,7 @@
   "off": 1767,
   "len": 15,
   "text": "Val: Ah, but...",
-  "ko": ""
+  "ko": "발: 아, 허나..."
  },
  {
   "map": 15,
@@ -5028,7 +5028,7 @@
   "off": 1789,
   "len": 31,
   "text": "Val: If my cursed body were not",
-  "ko": ""
+  "ko": "발: 이 저주받은 몸이"
  },
  {
   "map": 15,
@@ -5037,7 +5037,7 @@
   "off": 1822,
   "len": 22,
   "text": "crippled like this....",
-  "ko": ""
+  "ko": "성했더라면..."
  },
  {
   "map": 15,
@@ -5046,7 +5046,7 @@
   "off": 1893,
   "len": 24,
   "text": "Val: The Wall is broken,",
-  "ko": ""
+  "ko": "발: 장벽은 무너지고,"
  },
  {
   "map": 15,
@@ -5055,7 +5055,7 @@
   "off": 1919,
   "len": 27,
   "text": "yet all we can do is huddle",
-  "ko": ""
+  "ko": "우린 그저 겁에 질려 모여"
  },
  {
   "map": 15,
@@ -5064,7 +5064,7 @@
   "off": 1948,
   "len": 17,
   "text": "together in fear.",
-  "ko": ""
+  "ko": "있을 뿐이구나."
  },
  {
   "map": 15,
@@ -5073,7 +5073,7 @@
   "off": 1972,
   "len": 33,
   "text": "Val: If only there were someplace",
-  "ko": ""
+  "ko": "발: 어딘가 안전한 곳이"
  },
  {
   "map": 15,
@@ -5082,7 +5082,7 @@
   "off": 2007,
   "len": 15,
   "text": "safe for us....",
-  "ko": ""
+  "ko": "있다면..."
  },
  {
   "map": 15,
@@ -5091,7 +5091,7 @@
   "off": 2111,
   "len": 27,
   "text": "Mei: Alright, I'll do that.",
-  "ko": ""
+  "ko": "메이: 알았어, 그럴게."
  },
  {
   "map": 15,
@@ -5100,7 +5100,7 @@
   "off": 2392,
   "len": 25,
   "text": "Mei: Oh, O.K. Well, then,",
-  "ko": ""
+  "ko": "메이: 아, 알았어. 그럼,"
  },
  {
   "map": 15,
@@ -5109,7 +5109,7 @@
   "off": 2419,
   "len": 30,
   "text": "I'll stay by my father's side.",
-  "ko": ""
+  "ko": "난 아버지 곁에 있을게."
  },
  {
   "map": 15,
@@ -5118,7 +5118,7 @@
   "off": 2529,
   "len": 14,
   "text": "Mei: (Silence)",
-  "ko": ""
+  "ko": "메이: (침묵)"
  },
  {
   "map": 15,
@@ -5127,7 +5127,7 @@
   "off": 759,
   "len": 29,
   "text": "Village Elder: {NAME}, Rim Elm is",
-  "ko": ""
+  "ko": "촌장: {NAME}, 림 엘름이"
  },
  {
   "map": 15,
@@ -5136,7 +5136,7 @@
   "off": 790,
   "len": 21,
   "text": "engulfed in the Mist.",
-  "ko": ""
+  "ko": "안개에 휩싸였다."
  },
  {
   "map": 15,
@@ -5145,7 +5145,7 @@
   "off": 814,
   "len": 26,
   "text": "Village Elder: You and the",
-  "ko": ""
+  "ko": "촌장: 너와 라세루가"
  },
  {
   "map": 15,
@@ -5154,7 +5154,7 @@
   "off": 842,
   "len": 26,
   "text": "Ra-Seru are our last hope!",
-  "ko": ""
+  "ko": "마지막 희망이다!"
  },
  {
   "map": 15,
@@ -5163,7 +5163,7 @@
   "off": 870,
   "len": 30,
   "text": "We entrust you with our lives.",
-  "ko": ""
+  "ko": "우리 목숨을 네게 맡기마."
  },
  {
   "map": 15,
@@ -5172,7 +5172,7 @@
   "off": 984,
   "len": 24,
   "text": "Village Elder: Everyone,",
-  "ko": ""
+  "ko": "촌장: 모두,"
  },
  {
   "map": 15,
@@ -5181,7 +5181,7 @@
   "off": 1010,
   "len": 22,
   "text": "we must pray together.",
-  "ko": ""
+  "ko": "다 함께 기도하자."
  },
  {
   "map": 15,
@@ -5190,7 +5190,7 @@
   "off": 1449,
   "len": 31,
   "text": "{PAL:9}{M7}{PAL:7}: The power of prayers is",
-  "ko": ""
+  "ko": "{PAL:9}{M7}{PAL:7}: 기도의 힘은 강하다!"
  },
  {
   "map": 15,
@@ -5199,7 +5199,7 @@
   "off": 1482,
   "len": 27,
   "text": "strong! Now's the time, {NAME}!",
-  "ko": ""
+  "ko": "지금이다, {NAME}!"
  },
  {
   "map": 15,
@@ -5208,7 +5208,7 @@
   "off": 1511,
   "len": 23,
   "text": "Go to the Genesis Tree!",
-  "ko": ""
+  "ko": "창세수로 가라!"
  },
  {
   "map": 15,
@@ -5217,7 +5217,7 @@
   "off": 310,
   "len": 24,
   "text": "Village Elder: (Silence)",
-  "ko": ""
+  "ko": "촌장: (침묵)"
  },
  {
   "map": 15,
@@ -5226,7 +5226,7 @@
   "off": 337,
   "len": 30,
   "text": "Village Elder: And our friend,",
-  "ko": ""
+  "ko": "촌장: 그리고 우리의 벗,"
  },
  {
   "map": 15,
@@ -5235,7 +5235,7 @@
   "off": 369,
   "len": 5,
   "text": "Juno.",
-  "ko": ""
+  "ko": "주노."
  },
  {
   "map": 15,
@@ -5244,7 +5244,7 @@
   "off": 377,
   "len": 32,
   "text": "Village Elder: The hateful fangs",
-  "ko": ""
+  "ko": "촌장: 세루의 증오스러운"
  },
  {
   "map": 15,
@@ -5253,7 +5253,7 @@
   "off": 411,
   "len": 28,
   "text": "of the Seru took their lives",
-  "ko": ""
+  "ko": "송곳니가 그들의 목숨을"
  },
  {
   "map": 15,
@@ -5262,7 +5262,7 @@
   "off": 441,
   "len": 10,
   "text": "from them.",
-  "ko": ""
+  "ko": "앗아갔다."
  },
  {
   "map": 15,
@@ -5271,7 +5271,7 @@
   "off": 559,
   "len": 31,
   "text": "Village Elder: To Ferti, god of",
-  "ko": ""
+  "ko": "촌장: 바다의 신 페르티께"
  },
  {
   "map": 15,
@@ -5280,7 +5280,7 @@
   "off": 592,
   "len": 33,
   "text": "the sea, we entrust their bodies.",
-  "ko": ""
+  "ko": "그들의 몸을 맡깁니다."
  },
  {
   "map": 15,
@@ -5289,7 +5289,7 @@
   "off": 632,
   "len": 27,
   "text": "Village Elder: But Rem, our",
-  "ko": ""
+  "ko": "촌장: 허나 렘이시여,"
  },
  {
   "map": 15,
@@ -5298,7 +5298,7 @@
   "off": 661,
   "len": 25,
   "text": "leader. Our great leader!",
-  "ko": ""
+  "ko": "우리의 위대한 인도자여!"
  },
  {
   "map": 15,
@@ -5307,7 +5307,7 @@
   "off": 693,
   "len": 29,
   "text": "Village Elder: On your sacred",
-  "ko": ""
+  "ko": "촌장: 당신의 성스러운"
  },
  {
   "map": 15,
@@ -5316,7 +5316,7 @@
   "off": 724,
   "len": 34,
   "text": "wings, take the noble souls of our",
-  "ko": ""
+  "ko": "날개로, 벗들의 고귀한 영혼을"
  },
  {
   "map": 15,
@@ -5325,7 +5325,7 @@
   "off": 760,
   "len": 31,
   "text": "friends to the Valley of Noaru!",
-  "ko": ""
+  "ko": "노아루 계곡으로 데려가소서!"
  },
  {
   "map": 15,
@@ -5334,7 +5334,7 @@
   "off": 798,
   "len": 35,
   "text": "Village Elder: May their souls find",
-  "ko": ""
+  "ko": "촌장: 그들의 영혼이 먼"
  },
  {
   "map": 15,
@@ -5343,7 +5343,7 @@
   "off": 835,
   "len": 34,
   "text": "peace and eternal happiness in the",
-  "ko": ""
+  "ko": "노아루 계곡에서 안식과"
  },
  {
   "map": 15,
@@ -5352,7 +5352,7 @@
   "off": 871,
   "len": 24,
   "text": "distant Valley of Noaru.",
-  "ko": ""
+  "ko": "영원한 행복을 얻기를."
  },
  {
   "map": 15,
@@ -5361,7 +5361,7 @@
   "off": 4603,
   "len": 14,
   "text": "Mei: (Silence)",
-  "ko": ""
+  "ko": "메이: (침묵)"
  },
  {
   "map": 15,
@@ -5370,7 +5370,7 @@
   "off": 4973,
   "len": 29,
   "text": "Mommy, where are Juno and the",
-  "ko": ""
+  "ko": "엄마, 주노랑 다들 어디"
  },
  {
   "map": 15,
@@ -5379,7 +5379,7 @@
   "off": 5004,
   "len": 13,
   "text": "others going?",
-  "ko": ""
+  "ko": "가는 거야?"
  },
  {
   "map": 15,
@@ -5388,7 +5388,7 @@
   "off": 5035,
   "len": 29,
   "text": "To the Valley of Noaru, dear.",
-  "ko": ""
+  "ko": "노아루 계곡으로 간단다."
  },
  {
   "map": 15,
@@ -5397,7 +5397,7 @@
   "off": 5066,
   "len": 32,
   "text": "Far, far away -- beyond the sea.",
-  "ko": ""
+  "ko": "바다 너머 아주 먼 곳이야."
  },
  {
   "map": 15,
@@ -5406,7 +5406,7 @@
   "off": 5144,
   "len": 27,
   "text": "Is Juno going to come back?",
-  "ko": ""
+  "ko": "주노는 돌아와?"
  },
  {
   "map": 15,
@@ -5415,7 +5415,7 @@
   "off": 5174,
   "len": 28,
   "text": "Will he bring us good things",
-  "ko": ""
+  "ko": "또 맛있는 걸"
  },
  {
   "map": 15,
@@ -5424,7 +5424,7 @@
   "off": 5204,
   "len": 13,
   "text": "to eat again?",
-  "ko": ""
+  "ko": "가져다줄까?"
  },
  {
   "map": 15,
@@ -5433,7 +5433,7 @@
   "off": 5229,
   "len": 25,
   "text": "The valley of Noaru is...",
-  "ko": ""
+  "ko": "노아루 계곡은..."
  },
  {
   "map": 15,
@@ -5442,7 +5442,7 @@
   "off": 5256,
   "len": 29,
   "text": "...very, very far away, dear.",
-  "ko": ""
+  "ko": "...아주 아주 먼 곳이란다."
  },
  {
   "map": 15,
@@ -5451,7 +5451,7 @@
   "off": 5287,
   "len": 32,
   "text": "I don't think he will come back.",
-  "ko": ""
+  "ko": "아마 돌아오지 못할 거야. 기다려,"
  },
  {
   "map": 15,
@@ -5460,7 +5460,7 @@
   "off": 150,
   "len": 14,
   "text": "Mei: Wait, {NAME}!",
-  "ko": ""
+  "ko": "메이: {NAME}!"
  },
  {
   "map": 15,
@@ -5469,7 +5469,7 @@
   "off": 293,
   "len": 10,
   "text": "Mei: Phew!",
-  "ko": ""
+  "ko": "메이: 휴!"
  },
  {
   "map": 15,
@@ -5478,7 +5478,7 @@
   "off": 362,
   "len": 28,
   "text": "Mei: Oh, I'm glad I made it.",
-  "ko": ""
+  "ko": "메이: 늦지 않아 다행이야."
  },
  {
   "map": 15,
@@ -5487,7 +5487,7 @@
   "off": 436,
   "len": 28,
   "text": "Mei: Here! I brought you the",
-  "ko": ""
+  "ko": "메이: 자! 약속한 사냥복"
  },
  {
   "map": 15,
@@ -5496,7 +5496,7 @@
   "off": 466,
   "len": 31,
   "text": "hunting clothes I promised you.",
-  "ko": ""
+  "ko": "가져왔어."
  },
  {
   "map": 15,
@@ -5514,7 +5514,7 @@
   "off": 646,
   "len": 32,
   "text": "Mei: And this is a gift for you,",
-  "ko": ""
+  "ko": "메이: 그리고 이건 선물이야,"
  },
  {
   "map": 15,
@@ -5523,7 +5523,7 @@
   "off": 680,
   "len": 27,
   "text": "to thank you for rushing to",
-  "ko": ""
+  "ko": "어제 날 보러 와준"
  },
  {
   "map": 15,
@@ -5532,7 +5532,7 @@
   "off": 709,
   "len": 25,
   "text": "check up on me yesterday.",
-  "ko": ""
+  "ko": "고마움의 표시야."
  },
  {
   "map": 15,
@@ -5550,7 +5550,7 @@
   "off": 1042,
   "len": 13,
   "text": "Mei: Hey, {NAME},",
-  "ko": ""
+  "ko": "메이: {NAME},"
  },
  {
   "map": 15,
@@ -5559,7 +5559,7 @@
   "off": 1057,
   "len": 18,
   "text": "what's the matter?",
-  "ko": ""
+  "ko": "무슨 일이야?"
  },
  {
   "map": 15,
@@ -5568,7 +5568,7 @@
   "off": 1082,
   "len": 20,
   "text": "Are you alright now?",
-  "ko": ""
+  "ko": "이제 괜찮아?"
  },
  {
   "map": 15,
@@ -5577,7 +5577,7 @@
   "off": 1104,
   "len": 23,
   "text": "Mind your own business.",
-  "ko": ""
+  "ko": "네 일이나 신경 써."
  },
  {
   "map": 15,
@@ -5586,7 +5586,7 @@
   "off": 1150,
   "len": 27,
   "text": "Mei: Yes. I had a good cry.",
-  "ko": ""
+  "ko": "메이: 응. 실컷 울었어."
  },
  {
   "map": 15,
@@ -5595,7 +5595,7 @@
   "off": 1228,
   "len": 28,
   "text": "Mei: And making your hunting",
-  "ko": ""
+  "ko": "메이: 네 사냥복을 만드니"
  },
  {
   "map": 15,
@@ -5604,7 +5604,7 @@
   "off": 1258,
   "len": 24,
   "text": "clothes took my mind off",
-  "ko": ""
+  "ko": "잡생각도"
  },
  {
   "map": 15,
@@ -5613,7 +5613,7 @@
   "off": 1284,
   "len": 11,
   "text": "everything.",
-  "ko": ""
+  "ko": "사라졌어."
  },
  {
   "map": 15,
@@ -5622,7 +5622,7 @@
   "off": 1370,
   "len": 14,
   "text": "Mei: Hee, hee!",
-  "ko": ""
+  "ko": "메이: 히히!"
  },
  {
   "map": 15,
@@ -5631,7 +5631,7 @@
   "off": 1386,
   "len": 27,
   "text": "You're so cute when you get",
-  "ko": ""
+  "ko": "그렇게 부끄러워하니까"
  },
  {
   "map": 15,
@@ -5640,7 +5640,7 @@
   "off": 1415,
   "len": 22,
   "text": "embarrassed like that!",
-  "ko": ""
+  "ko": "참 귀엽다!"
  },
  {
   "map": 15,
@@ -5649,7 +5649,7 @@
   "off": 1463,
   "len": 25,
   "text": "Mei: {NAME}, I heard from the",
-  "ko": ""
+  "ko": "메이: {NAME}, 촌장님한테"
  },
  {
   "map": 15,
@@ -5658,7 +5658,7 @@
   "off": 1490,
   "len": 31,
   "text": "Village Elder that you're going",
-  "ko": ""
+  "ko": "먼 길을 떠난다고"
  },
  {
   "map": 15,
@@ -5667,7 +5667,7 @@
   "off": 1523,
   "len": 15,
   "text": "on a long trip.",
-  "ko": ""
+  "ko": "들었어."
  },
  {
   "map": 15,
@@ -5676,7 +5676,7 @@
   "off": 1638,
   "len": 31,
   "text": "Mei: Well, take care. And don't",
-  "ko": ""
+  "ko": "메이: 그럼, 조심해. 내가 만든"
  },
  {
   "map": 15,
@@ -5685,7 +5685,7 @@
   "off": 1671,
   "len": 33,
   "text": "forget to wear the hunting outfit",
-  "ko": ""
+  "ko": "사냥복 꼭 입는 거"
  },
  {
   "map": 15,
@@ -5694,7 +5694,7 @@
   "off": 1706,
   "len": 11,
   "text": "I made you.",
-  "ko": ""
+  "ko": "잊지 마."
  },
  {
   "map": 15,
@@ -5703,7 +5703,7 @@
   "off": 1757,
   "len": 29,
   "text": "Mei: And be sure to come back",
-  "ko": ""
+  "ko": "메이: 그리고 할 일 끝나면"
  },
  {
   "map": 15,
@@ -5712,7 +5712,7 @@
   "off": 1788,
   "len": 30,
   "text": "when you finish whatever it is",
-  "ko": ""
+  "ko": "꼭"
  },
  {
   "map": 15,
@@ -5721,7 +5721,7 @@
   "off": 1820,
   "len": 15,
   "text": "you have to do.",
-  "ko": ""
+  "ko": "돌아와."
  },
  {
   "map": 15,
@@ -5730,7 +5730,7 @@
   "off": 1842,
   "len": 15,
   "text": "Mei: I mean it!",
-  "ko": ""
+  "ko": "메이: 정말이야!"
  },
  {
   "map": 15,
@@ -5739,7 +5739,7 @@
   "off": 1859,
   "len": 23,
   "text": "You'd better come back!",
-  "ko": ""
+  "ko": "꼭 돌아와야 해!"
  },
  {
   "map": 15,
@@ -5748,7 +5748,7 @@
   "off": 1924,
   "len": 25,
   "text": "Mei: I've never been good",
-  "ko": ""
+  "ko": "메이: 난 작별 인사는"
  },
  {
   "map": 15,
@@ -5757,7 +5757,7 @@
   "off": 1951,
   "len": 19,
   "text": "at saying goodbyes.",
-  "ko": ""
+  "ko": "잘 못 해."
  },
  {
   "map": 15,
@@ -5766,7 +5766,7 @@
   "off": 2022,
   "len": 30,
   "text": "Mei: So I have to go home now.",
-  "ko": ""
+  "ko": "메이: 그러니 이제 갈게."
  },
  {
   "map": 15,
@@ -5775,7 +5775,7 @@
   "off": 2054,
   "len": 12,
   "text": "I'm sorry...",
-  "ko": ""
+  "ko": "미안해..."
  },
  {
   "map": 15,
@@ -5784,7 +5784,7 @@
   "off": 2116,
   "len": 28,
   "text": "Mei: I'll be waiting for you",
-  "ko": ""
+  "ko": "메이: 돌아오길"
  },
  {
   "map": 15,
@@ -5793,7 +5793,7 @@
   "off": 2146,
   "len": 17,
   "text": "to come back, {NAME}!",
-  "ko": ""
+  "ko": "기다릴게, {NAME}!"
  },
  {
   "map": 15,
@@ -5811,7 +5811,7 @@
   "off": 386,
   "len": 27,
   "text": "{NAME}, more and more Seru keep",
-  "ko": ""
+  "ko": "{NAME}, 세루가 자꾸"
  },
  {
   "map": 15,
@@ -5820,7 +5820,7 @@
   "off": 415,
   "len": 22,
   "text": "coming! Not even Tetsu",
-  "ko": ""
+  "ko": "몰려와! 테츠도"
  },
  {
   "map": 15,
@@ -5829,7 +5829,7 @@
   "off": 439,
   "len": 30,
   "text": "can hold them at bay for long!",
-  "ko": ""
+  "ko": "오래 못 막아!"
  },
  {
   "map": 15,
@@ -5838,7 +5838,7 @@
   "off": 107,
   "len": 40,
   "text": "\\<F0><B8><D2>8<03><1F>Village Elder: A Genesis Tree and",
-  "ko": ""
+  "ko": "\\<F0><B8><D2>8<03><1F>촌장: 창세수와"
  },
  {
   "map": 15,
@@ -5847,7 +5847,7 @@
   "off": 149,
   "len": 31,
   "text": "a Ra-Seru... We had some pretty",
-  "ko": ""
+  "ko": "라세루라... 림 엘름에"
  },
  {
   "map": 15,
@@ -5856,7 +5856,7 @@
   "off": 182,
   "len": 33,
   "text": "important things here in Rim Elm!",
-  "ko": ""
+  "ko": "대단한 게 있었구나!"
  },
  {
   "map": 15,
@@ -5865,7 +5865,7 @@
   "off": 227,
   "len": 18,
   "text": "Village Elder: {NAME},",
-  "ko": ""
+  "ko": "촌장: {NAME},"
  },
  {
   "map": 15,
@@ -5874,7 +5874,7 @@
   "off": 247,
   "len": 16,
   "text": "Rim Elm is saved",
-  "ko": ""
+  "ko": "네 덕에"
  },
  {
   "map": 15,
@@ -5883,7 +5883,7 @@
   "off": 265,
   "len": 14,
   "text": "thanks to you!",
-  "ko": ""
+  "ko": "구원받았다!"
  },
  {
   "map": 15,
@@ -5892,7 +5892,7 @@
   "off": 282,
   "len": 29,
   "text": "Village Elder: You were truly",
-  "ko": ""
+  "ko": "촌장: 넌 정말"
  },
  {
   "map": 15,
@@ -5901,7 +5901,7 @@
   "off": 313,
   "len": 33,
   "text": "courageous and I thank you again.",
-  "ko": ""
+  "ko": "용감했다. 다시 한번 고맙구나."
  },
  {
   "map": 15,
@@ -5910,7 +5910,7 @@
   "off": 348,
   "len": 10,
   "text": "However...",
-  "ko": ""
+  "ko": "허나..."
  },
  {
   "map": 15,
@@ -5919,7 +5919,7 @@
   "off": 401,
   "len": 29,
   "text": "Village Elder: It's about our",
-  "ko": ""
+  "ko": "촌장: 우리 소중한 메이"
  },
  {
   "map": 15,
@@ -5928,7 +5928,7 @@
   "off": 432,
   "len": 34,
   "text": "precious Mei. Her mother may still",
-  "ko": ""
+  "ko": "얘기다. 그 어머니가 안개 속에"
  },
  {
   "map": 15,
@@ -5937,7 +5937,7 @@
   "off": 468,
   "len": 25,
   "text": "be alive inside the Mist!",
-  "ko": ""
+  "ko": "살아 있을지도 모른다!"
  },
  {
   "map": 15,
@@ -5946,7 +5946,7 @@
   "off": 496,
   "len": 31,
   "text": "Village Elder: If you have pity",
-  "ko": ""
+  "ko": "촌장: 메이가 가엾다면,"
  },
  {
   "map": 15,
@@ -5955,7 +5955,7 @@
   "off": 529,
   "len": 31,
   "text": "on Mei, then rescue her mother.",
-  "ko": ""
+  "ko": "그 어머니를 구해다오."
  },
  {
   "map": 15,
@@ -5964,7 +5964,7 @@
   "off": 563,
   "len": 35,
   "text": "Village Elder: If you say yes, I'll",
-  "ko": ""
+  "ko": "촌장: 하겠다면, 나머지"
  },
  {
   "map": 15,
@@ -5973,7 +5973,7 @@
   "off": 600,
   "len": 31,
   "text": "tell you the rest of the story.",
-  "ko": ""
+  "ko": "이야기를 들려주마."
  },
  {
   "map": 15,
@@ -5982,7 +5982,7 @@
   "off": 633,
   "len": 15,
   "text": "Will you do it?",
-  "ko": ""
+  "ko": "해 주겠느냐?"
  },
  {
   "map": 15,
@@ -5991,7 +5991,7 @@
   "off": 773,
   "len": 29,
   "text": "Village Elder: Oh, thank you!",
-  "ko": ""
+  "ko": "촌장: 오, 고맙구나!"
  },
  {
   "map": 15,
@@ -6000,7 +6000,7 @@
   "off": 804,
   "len": 32,
   "text": "Now, even Mei doesn't know this,",
-  "ko": ""
+  "ko": "메이조차 모르는 일이다만,"
  },
  {
   "map": 15,
@@ -6009,7 +6009,7 @@
   "off": 838,
   "len": 6,
   "text": "but...",
-  "ko": ""
+  "ko": "허나.."
  },
  {
   "map": 15,
@@ -6018,7 +6018,7 @@
   "off": 847,
   "len": 34,
   "text": "Village Elder: Mei's mother, Maya,",
-  "ko": ""
+  "ko": "촌장: 메이 어머니 마야는"
  },
  {
   "map": 15,
@@ -6027,7 +6027,7 @@
   "off": 883,
   "len": 32,
   "text": "used to work at Biron Monastery.",
-  "ko": ""
+  "ko": "비론 수도원에서 일했다."
  },
  {
   "map": 15,
@@ -6036,7 +6036,7 @@
   "off": 917,
   "len": 30,
   "text": "Ten years ago the Mist came...",
-  "ko": ""
+  "ko": "십 년 전 안개가 왔고..."
  },
  {
   "map": 15,
@@ -6045,7 +6045,7 @@
   "off": 950,
   "len": 34,
   "text": "Village Elder: ...and naturally we",
-  "ko": ""
+  "ko": "촌장: ...그 뒤로 소식이"
  },
  {
   "map": 15,
@@ -6054,7 +6054,7 @@
   "off": 986,
   "len": 26,
   "text": "lost all contact with her.",
-  "ko": ""
+  "ko": "완전히 끊겼다."
  },
  {
   "map": 15,
@@ -6063,7 +6063,7 @@
   "off": 1024,
   "len": 35,
   "text": "Village Elder: As for whether Biron",
-  "ko": ""
+  "ko": "촌장: 비론 수도원이"
  },
  {
   "map": 15,
@@ -6072,7 +6072,7 @@
   "off": 1061,
   "len": 34,
   "text": "Monastery itself still survives in",
-  "ko": ""
+  "ko": "안개 속에 아직"
  },
  {
   "map": 15,
@@ -6081,7 +6081,7 @@
   "off": 1097,
   "len": 11,
   "text": "the Mist...",
-  "ko": ""
+  "ko": "있는지는..."
  },
  {
   "map": 15,
@@ -6090,7 +6090,7 @@
   "off": 1111,
   "len": 35,
   "text": "Village Elder: Unfortunately no one",
-  "ko": ""
+  "ko": "촌장: 안타깝게도 아무도"
  },
  {
   "map": 15,
@@ -6099,7 +6099,7 @@
   "off": 1148,
   "len": 29,
   "text": "knows. But Maya is Mei's only",
-  "ko": ""
+  "ko": "모른다. 허나 마야는"
  },
  {
   "map": 15,
@@ -6108,7 +6108,7 @@
   "off": 1179,
   "len": 25,
   "text": "surviving blood relative!",
-  "ko": ""
+  "ko": "메이의 유일한 혈육이다!"
  },
  {
   "map": 15,
@@ -6117,7 +6117,7 @@
   "off": 1216,
   "len": 27,
   "text": "Village Elder: {NAME}, with the",
-  "ko": ""
+  "ko": "촌장: {NAME}, 라세루가"
  },
  {
   "map": 15,
@@ -6126,7 +6126,7 @@
   "off": 1245,
   "len": 30,
   "text": "Ra-Seru, I'm sure you can make",
-  "ko": ""
+  "ko": "있으면 비론 수도원까지"
  },
  {
   "map": 15,
@@ -6135,7 +6135,7 @@
   "off": 1277,
   "len": 22,
   "text": "it to Biron Monastery!",
-  "ko": ""
+  "ko": "갈 수 있을 게다!"
  },
  {
   "map": 15,
@@ -6144,7 +6144,7 @@
   "off": 1302,
   "len": 18,
   "text": "Village Elder: {NAME}!",
-  "ko": ""
+  "ko": "촌장: {NAME}!"
  },
  {
   "map": 15,
@@ -6153,7 +6153,7 @@
   "off": 1322,
   "len": 20,
   "text": "I'm counting on you.",
-  "ko": ""
+  "ko": "네게 기대마."
  },
  {
   "map": 15,
@@ -6162,7 +6162,7 @@
   "off": 1351,
   "len": 30,
   "text": "Village Elder: I'm sure you're",
-  "ko": ""
+  "ko": "촌장: 너도 메이가"
  },
  {
   "map": 15,
@@ -6171,7 +6171,7 @@
   "off": 1383,
   "len": 25,
   "text": "concerned about Mei, too.",
-  "ko": ""
+  "ko": "걱정될 게다."
  },
  {
   "map": 15,
@@ -6180,7 +6180,7 @@
   "off": 1410,
   "len": 15,
   "text": "Will you do it?",
-  "ko": ""
+  "ko": "해 주겠느냐?"
  },
  {
   "map": 15,
@@ -6189,7 +6189,7 @@
   "off": 1663,
   "len": 30,
   "text": "Village Elder: One more thing,",
-  "ko": ""
+  "ko": "촌장: 한 가지 더,"
  },
  {
   "map": 15,
@@ -6198,7 +6198,7 @@
   "off": 1695,
   "len": 22,
   "text": "{NAME}. Keep this a secret",
-  "ko": ""
+  "ko": "{NAME}. 이건 메이에게"
  },
  {
   "map": 15,
@@ -6207,7 +6207,7 @@
   "off": 1719,
   "len": 11,
   "text": "from Mei...",
-  "ko": ""
+  "ko": "비밀로..."
  },
  {
   "map": 15,
@@ -6216,7 +6216,7 @@
   "off": 1733,
   "len": 31,
   "text": "Village Elder: She will only be",
-  "ko": ""
+  "ko": "촌장: 비론 수도원이"
  },
  {
   "map": 15,
@@ -6225,7 +6225,7 @@
   "off": 1766,
   "len": 34,
   "text": "heartbroken if Biron Monastery has",
-  "ko": ""
+  "ko": "안개에 사라졌다면 메이만"
  },
  {
   "map": 15,
@@ -6234,7 +6234,7 @@
   "off": 1802,
   "len": 29,
   "text": "indeed been lost to the Mist.",
-  "ko": ""
+  "ko": "상심할 뿐이니까."
  },
  {
   "map": 15,
@@ -6243,7 +6243,7 @@
   "off": 165,
   "len": 10,
   "text": "Thank you.",
-  "ko": ""
+  "ko": "고마워."
  },
  {
   "map": 15,
@@ -6252,7 +6252,7 @@
   "off": 177,
   "len": 13,
   "text": "Thanks to {NAME},",
-  "ko": ""
+  "ko": "{NAME}과"
  },
  {
   "map": 15,
@@ -6261,7 +6261,7 @@
   "off": 192,
   "len": 26,
   "text": "and the people of Rim Elm,",
-  "ko": ""
+  "ko": "림 엘름 사람들 덕에,"
  },
  {
   "map": 15,
@@ -6270,7 +6270,7 @@
   "off": 220,
   "len": 34,
   "text": "the Genesis Tree has been revived.",
-  "ko": ""
+  "ko": "창세수가 되살아났다."
  },
  {
   "map": 15,
@@ -6279,7 +6279,7 @@
   "off": 256,
   "len": 30,
   "text": "The Genesis Tree has the power",
-  "ko": ""
+  "ko": "창세수는 안개를 몰아내고"
  },
  {
   "map": 15,
@@ -6288,7 +6288,7 @@
   "off": 288,
   "len": 29,
   "text": "to drive away the Mist and to",
-  "ko": ""
+  "ko": "나 같은 라세루를"
  },
  {
   "map": 15,
@@ -6297,7 +6297,7 @@
   "off": 319,
   "len": 32,
   "text": "make a Ra-Seru like me stronger.",
-  "ko": ""
+  "ko": "강하게 하는 힘이 있지."
  },
  {
   "map": 15,
@@ -6306,7 +6306,7 @@
   "off": 353,
   "len": 26,
   "text": "The Mist has left Rim Elm,",
-  "ko": ""
+  "ko": "안개는 림 엘름을 떠났지만,"
  },
  {
   "map": 15,
@@ -6315,7 +6315,7 @@
   "off": 381,
   "len": 19,
   "text": "but it still covers",
-  "ko": ""
+  "ko": "아직 온 세상을"
  },
  {
   "map": 15,
@@ -6324,7 +6324,7 @@
   "off": 402,
   "len": 22,
   "text": "the rest of the Earth.",
-  "ko": ""
+  "ko": "뒤덮고 있어."
  },
  {
   "map": 15,
@@ -6333,7 +6333,7 @@
   "off": 426,
   "len": 18,
   "text": "Many Genesis Trees",
-  "ko": ""
+  "ko": "수많은 창세수가"
  },
  {
   "map": 15,
@@ -6342,7 +6342,7 @@
   "off": 446,
   "len": 19,
   "text": "wait to be revived.",
-  "ko": ""
+  "ko": "부활을 기다린다."
  },
  {
   "map": 15,
@@ -6351,7 +6351,7 @@
   "off": 467,
   "len": 16,
   "text": "{NAME}, let us leave",
-  "ko": ""
+  "ko": "{NAME}, 그 창세수를"
  },
  {
   "map": 15,
@@ -6360,7 +6360,7 @@
   "off": 485,
   "len": 16,
   "text": "Rim Elm together",
-  "ko": ""
+  "ko": "찾으러 함께"
  },
  {
   "map": 15,
@@ -6369,7 +6369,7 @@
   "off": 503,
   "len": 32,
   "text": "to look for those Genesis Trees!",
-  "ko": ""
+  "ko": "림 엘름을 떠나자!"
  },
  {
   "map": 15,
@@ -6378,7 +6378,7 @@
   "off": 728,
   "len": 16,
   "text": "Nene: Brother...",
-  "ko": ""
+  "ko": "네네: 오빠..."
  },
  {
   "map": 15,
@@ -6387,7 +6387,7 @@
   "off": 747,
   "len": 27,
   "text": "Village Elder: Don't worry.",
-  "ko": ""
+  "ko": "촌장: 걱정 마라."
  },
  {
   "map": 15,
@@ -6396,7 +6396,7 @@
   "off": 776,
   "len": 26,
   "text": "He's just in a deep sleep.",
-  "ko": ""
+  "ko": "그저 깊이 잠든 것뿐이다."
  },
  {
   "map": 15,
@@ -6405,7 +6405,7 @@
   "off": 805,
   "len": 27,
   "text": "Val: How peaceful he looks.",
-  "ko": ""
+  "ko": "발: 참 평온해 보이는구나."
  },
  {
   "map": 15,
@@ -6414,7 +6414,7 @@
   "off": 834,
   "len": 25,
   "text": "He must be dreaming about",
-  "ko": ""
+  "ko": "좋은 꿈을 꾸고"
  },
  {
   "map": 15,
@@ -6423,7 +6423,7 @@
   "off": 861,
   "len": 15,
   "text": "something nice.",
-  "ko": ""
+  "ko": "있나 보다."
  },
  {
   "map": 15,
@@ -6432,7 +6432,7 @@
   "off": 879,
   "len": 10,
   "text": "Mei: {NAME}...",
-  "ko": ""
+  "ko": "메이: {NAME}.."
  },
  {
   "map": 15,
@@ -6441,7 +6441,7 @@
   "off": 401,
   "len": 16,
   "text": "The... the Mist!",
-  "ko": ""
+  "ko": "아... 안개다!"
  },
  {
   "map": 15,
@@ -6450,7 +6450,7 @@
   "off": 453,
   "len": 6,
   "text": "Oh no!",
-  "ko": ""
+  "ko": "안 돼!"
  },
  {
   "map": 15,
@@ -6459,7 +6459,7 @@
   "off": 461,
   "len": 29,
   "text": "The accursed Mist has entered",
-  "ko": ""
+  "ko": "저주받은 안개가 림 엘름에"
  },
  {
   "map": 15,
@@ -6468,7 +6468,7 @@
   "off": 492,
   "len": 8,
   "text": "Rim Elm!",
-  "ko": ""
+  "ko": "들어왔어"
  },
  {
   "map": 15,
@@ -6477,7 +6477,7 @@
   "off": 663,
   "len": 23,
   "text": "Zeto: It is time! Seru!",
-  "ko": ""
+  "ko": "제토: 때가 됐다! 세루!"
  },
  {
   "map": 15,
@@ -6486,7 +6486,7 @@
   "off": 688,
   "len": 22,
   "text": "Followers of the Mist!",
-  "ko": ""
+  "ko": "안개의 종들이여!"
  },
  {
   "map": 15,
@@ -6495,7 +6495,7 @@
   "off": 712,
   "len": 29,
   "text": "It is time for you to attack!",
-  "ko": ""
+  "ko": "이제 공격할 때다!"
  },
  {
   "map": 15,
@@ -6504,7 +6504,7 @@
   "off": 751,
   "len": 11,
   "text": "Zeto: Seru!",
-  "ko": ""
+  "ko": "제토: 세루!"
  },
  {
   "map": 15,
@@ -6513,7 +6513,7 @@
   "off": 764,
   "len": 35,
   "text": "Destroy that old eyesore of a tree!",
-  "ko": ""
+  "ko": "저 꼴사나운 나무를 부숴라!"
  },
  {
   "map": 15,
@@ -6522,7 +6522,7 @@
   "off": 1705,
   "len": 9,
   "text": "Aaarrggh!",
-  "ko": ""
+  "ko": "으아악!"
  },
  {
   "map": 15,
@@ -6531,7 +6531,7 @@
   "off": 1975,
   "len": 34,
   "text": "Zeto: Save yourselves by accepting",
-  "ko": ""
+  "ko": "제토: 저항 말고 안개의"
  },
  {
   "map": 15,
@@ -6540,7 +6540,7 @@
   "off": 2011,
   "len": 32,
   "text": "the serenity of the Mist without",
-  "ko": ""
+  "ko": "고요함을 받아들여 목숨을"
  },
  {
   "map": 15,
@@ -6549,7 +6549,7 @@
   "off": 2045,
   "len": 11,
   "text": "resistance.",
-  "ko": ""
+  "ko": "건져라."
  },
  {
   "map": 15,
@@ -6558,7 +6558,7 @@
   "off": 190,
   "len": 23,
   "text": "I'm so glad to see you!",
-  "ko": ""
+  "ko": "만나서 정말 반가워!"
  },
  {
   "map": 15,
@@ -6567,7 +6567,7 @@
   "off": 215,
   "len": 16,
   "text": "I was all alone!",
-  "ko": ""
+  "ko": "혼자 있었거든!"
  },
  {
   "map": 15,
@@ -6576,7 +6576,7 @@
   "off": 263,
   "len": 32,
   "text": "I came here to get away from the",
-  "ko": ""
+  "ko": "세루 괴물을 피해서"
  },
  {
   "map": 15,
@@ -6585,7 +6585,7 @@
   "off": 297,
   "len": 14,
   "text": "Seru monsters.",
-  "ko": ""
+  "ko": "여기로 왔어."
  },
  {
   "map": 15,
@@ -6594,7 +6594,7 @@
   "off": 314,
   "len": 26,
   "text": "Hey, have you noticed that",
-  "ko": ""
+  "ko": "저기, 여긴 안개가"
  },
  {
   "map": 15,
@@ -6603,7 +6603,7 @@
   "off": 342,
   "len": 30,
   "text": "the Mist doesn't come in here?",
-  "ko": ""
+  "ko": "안 들어오는 거 알아?"
  },
  {
   "map": 15,
@@ -6612,7 +6612,7 @@
   "off": 382,
   "len": 28,
   "text": "The Genesis Tree is glowing.",
-  "ko": ""
+  "ko": "창세수가 빛나고 있어."
  },
  {
   "map": 15,
@@ -6621,7 +6621,7 @@
   "off": 412,
   "len": 27,
   "text": "It's radiating some kind of",
-  "ko": ""
+  "ko": "뭔가 놀라운 힘을"
  },
  {
   "map": 15,
@@ -6630,7 +6630,7 @@
   "off": 441,
   "len": 14,
   "text": "amazing power.",
-  "ko": ""
+  "ko": "내뿜고 있어."
  },
  {
   "map": 15,
@@ -6639,7 +6639,7 @@
   "off": 494,
   "len": 30,
   "text": "The Genesis Tree is very warm.",
-  "ko": ""
+  "ko": "창세수는 아주 따뜻해."
  },
  {
   "map": 15,
@@ -6648,7 +6648,7 @@
   "off": 531,
   "len": 19,
   "text": "go ahead, touch it.",
-  "ko": ""
+  "ko": "만져 봐도 돼."
  },
  {
   "map": 15,
@@ -6657,7 +6657,7 @@
   "off": 202,
   "len": 22,
   "text": "Nene: Are you alright?",
-  "ko": ""
+  "ko": "네네: 괜찮아?"
  },
  {
   "map": 15,
@@ -6666,7 +6666,7 @@
   "off": 233,
   "len": 25,
   "text": "Nene: If you're so tough,",
-  "ko": ""
+  "ko": "네네: 그렇게 세면서,"
  },
  {
   "map": 15,
@@ -6675,7 +6675,7 @@
   "off": 260,
   "len": 17,
   "text": "how could you let",
-  "ko": ""
+  "ko": "어떻게 또 벌한테"
  },
  {
   "map": 15,
@@ -6684,7 +6684,7 @@
   "off": 279,
   "len": 26,
   "text": "those bees beat you again?",
-  "ko": ""
+  "ko": "지는 거야?"
  },
  {
   "map": 15,
@@ -6693,7 +6693,7 @@
   "off": 1068,
   "len": 30,
   "text": "The bees are gone, and a sweet",
-  "ko": ""
+  "ko": "벌이 사라지고, 나무 구멍에서"
  },
  {
   "map": 15,
@@ -6702,7 +6702,7 @@
   "off": 1100,
   "len": 33,
   "text": "smell emanates from a hole in the",
-  "ko": ""
+  "ko": "달콤한 냄새가"
  },
  {
   "map": 15,
@@ -6711,7 +6711,7 @@
   "off": 1135,
   "len": 25,
   "text": "tree. {NAME} put his hand in!",
-  "ko": ""
+  "ko": "난다. {NAME} 손을 넣었다!"
  },
  {
   "map": 15,
@@ -6729,7 +6729,7 @@
   "off": 1238,
   "len": 24,
   "text": "Nene: Wow, you're great!",
-  "ko": ""
+  "ko": "네네: 우와, 대단해!"
  },
  {
   "map": 15,
@@ -6738,7 +6738,7 @@
   "off": 1264,
   "len": 33,
   "text": "You chased off the bees! Everyone",
-  "ko": ""
+  "ko": "벌을 쫓아냈어! 마을 사람들"
  },
  {
   "map": 15,
@@ -6747,7 +6747,7 @@
   "off": 1299,
   "len": 32,
   "text": "in the village will be so happy!",
-  "ko": ""
+  "ko": "모두 기뻐할 거야!"
  },
  {
   "map": 15,
@@ -6756,7 +6756,7 @@
   "off": 1370,
   "len": 25,
   "text": "Nene: I'm going home now.",
-  "ko": ""
+  "ko": "네네: 난 이제 집에 갈게."
  },
  {
   "map": 15,
@@ -6765,6 +6765,6 @@
   "off": 1397,
   "len": 4,
   "text": "Bye!",
-  "ko": ""
+  "ko": "가!"
  }
 ]

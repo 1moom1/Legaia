@@ -6,7 +6,7 @@
   "off": 20,
   "len": 22,
   "text": "Clean water flows from",
-  "ko": ""
+  "ko": "샘에서 맑은 물이"
  },
  {
   "map": 33,
@@ -15,7 +15,7 @@
   "off": 44,
   "len": 11,
   "text": "the spring.",
-  "ko": ""
+  "ko": "흐른다."
  },
  {
   "map": 33,
@@ -24,7 +24,7 @@
   "off": 57,
   "len": 32,
   "text": "Do you wish to drink this water?",
-  "ko": ""
+  "ko": "이 물을 마실까요?"
  },
  {
   "map": 33,
@@ -33,7 +33,7 @@
   "off": 264,
   "len": 33,
   "text": "What delicious, refreshing water!",
-  "ko": ""
+  "ko": "정말 시원하고 맛있는 물!"
  },
  {
   "map": 33,
@@ -42,7 +42,7 @@
   "off": 299,
   "len": 34,
   "text": "HP and MP are completely restored.",
-  "ko": ""
+  "ko": "HP와 MP가 완전히 회복됐다."
  },
  {
   "map": 33,
@@ -51,7 +51,7 @@
   "off": 343,
   "len": 31,
   "text": "decided not to drink the water.",
-  "ko": ""
+  "ko": "물을 마시지 않기로 했다."
  },
  {
   "map": 33,
@@ -60,7 +60,7 @@
   "off": 51,
   "len": 25,
   "text": "Lezam: I am called Lezam.",
-  "ko": ""
+  "ko": "레잠: 레잠이라 합니다."
  },
  {
   "map": 33,
@@ -69,7 +69,7 @@
   "off": 78,
   "len": 28,
   "text": "I serve King Drake, ruler of",
-  "ko": ""
+  "ko": "드레이크 왕국의 왕,"
  },
  {
   "map": 33,
@@ -78,7 +78,7 @@
   "off": 108,
   "len": 14,
   "text": "Drake Kingdom.",
-  "ko": ""
+  "ko": "왕을 섬기지요."
  },
  {
   "map": 33,
@@ -87,7 +87,7 @@
   "off": 125,
   "len": 22,
   "text": "Lezam: So, you are {NAME}.",
-  "ko": ""
+  "ko": "레잠: 당신이 {NAME}이군요."
  },
  {
   "map": 33,
@@ -96,7 +96,7 @@
   "off": 149,
   "len": 33,
   "text": "The hunters have told me of you. ",
-  "ko": ""
+  "ko": "사냥꾼들에게 얘기 들었습니다."
  },
  {
   "map": 33,
@@ -105,7 +105,7 @@
   "off": 185,
   "len": 33,
   "text": "Lezam: You have done great deeds.",
-  "ko": ""
+  "ko": "레잠: 당신은 큰 일을 해냈어요."
  },
  {
   "map": 33,
@@ -114,7 +114,7 @@
   "off": 220,
   "len": 22,
   "text": "You have my gratitude.",
-  "ko": ""
+  "ko": "정말 감사합니다."
  },
  {
   "map": 33,
@@ -123,7 +123,7 @@
   "off": 249,
   "len": 29,
   "text": "Tell me why you are grateful.",
-  "ko": ""
+  "ko": "왜 감사한지 말해줘요."
  },
  {
   "map": 33,
@@ -132,7 +132,7 @@
   "off": 280,
   "len": 28,
   "text": "Thanks, but I must be going.",
-  "ko": ""
+  "ko": "고맙지만, 가봐야 해요."
  },
  {
   "map": 33,
@@ -141,7 +141,7 @@
   "off": 313,
   "len": 30,
   "text": "Lezam: You wish to resume your",
-  "ko": ""
+  "ko": "레잠: 여정을 다시"
  },
  {
   "map": 33,
@@ -150,7 +150,7 @@
   "off": 345,
   "len": 27,
   "text": "journey. I understand. Then",
-  "ko": ""
+  "ko": "떠나시는군요. 알겠습니다."
  },
  {
   "map": 33,
@@ -159,7 +159,7 @@
   "off": 374,
   "len": 30,
   "text": "I shall not take up your time.",
-  "ko": ""
+  "ko": "시간을 뺏지 않겠어요."
  },
  {
   "map": 33,
@@ -168,7 +168,7 @@
   "off": 407,
   "len": 30,
   "text": "Lezam: I had hoped to ask your",
-  "ko": ""
+  "ko": "레잠: 이 너머의 드레이크 성"
  },
  {
   "map": 33,
@@ -177,7 +177,7 @@
   "off": 439,
   "len": 29,
   "text": "help concerning Drake Castle,",
-  "ko": ""
+  "ko": "일로 도움을 청하려"
  },
  {
   "map": 33,
@@ -186,7 +186,7 @@
   "off": 470,
   "len": 23,
   "text": "which lies beyond here.",
-  "ko": ""
+  "ko": "했습니다만."
  },
  {
   "map": 33,
@@ -195,7 +195,7 @@
   "off": 498,
   "len": 21,
   "text": "Lezam: What is wrong?",
-  "ko": ""
+  "ko": "레잠: 무슨 일이죠?"
  },
  {
   "map": 33,
@@ -204,7 +204,7 @@
   "off": 521,
   "len": 29,
   "text": "Do you wish to hear my story?",
-  "ko": ""
+  "ko": "제 이야기를 들어보시겠어요?"
  },
  {
   "map": 33,
@@ -213,7 +213,7 @@
   "off": 675,
   "len": 29,
   "text": "Lezam: Then I shall tell you.",
-  "ko": ""
+  "ko": "레잠: 그럼 말씀드리죠."
  },
  {
   "map": 33,
@@ -231,7 +231,7 @@
   "off": 722,
   "len": 10,
   "text": "Good luck.",
-  "ko": ""
+  "ko": "행운 있길."
  },
  {
   "map": 33,
@@ -240,7 +240,7 @@
   "off": 737,
   "len": 25,
   "text": "Lezam: Yes, this is about",
-  "ko": ""
+  "ko": "레잠: 네, 안개가 이곳에"
  },
  {
   "map": 33,
@@ -249,7 +249,7 @@
   "off": 764,
   "len": 34,
   "text": "something that happened before the",
-  "ko": ""
+  "ko": "닿기 전에 있었던"
  },
  {
   "map": 33,
@@ -258,7 +258,7 @@
   "off": 800,
   "len": 18,
   "text": "Mist reached here.",
-  "ko": ""
+  "ko": "일입니다."
  },
  {
   "map": 33,
@@ -267,7 +267,7 @@
   "off": 821,
   "len": 31,
   "text": "Lezam: I was heading to Rim Elm",
-  "ko": ""
+  "ko": "레잠: 드레이크 왕의 명으로"
  },
  {
   "map": 33,
@@ -276,7 +276,7 @@
   "off": 854,
   "len": 33,
   "text": "under King Drake's orders to warn",
-  "ko": ""
+  "ko": "안개를 알리러 림 엘름으로"
  },
  {
   "map": 33,
@@ -285,7 +285,7 @@
   "off": 889,
   "len": 17,
   "text": "them of the Mist.",
-  "ko": ""
+  "ko": "가던 길이었죠."
  },
  {
   "map": 33,
@@ -294,7 +294,7 @@
   "off": 909,
   "len": 29,
   "text": "Lezam: But the Mist caught up",
-  "ko": ""
+  "ko": "레잠: 허나 안개가 절 덮쳐,"
  },
  {
   "map": 33,
@@ -303,7 +303,7 @@
   "off": 940,
   "len": 28,
   "text": "with me, and I became a Seru",
-  "ko": ""
+  "ko": "전 세루 괴물이 되고"
  },
  {
   "map": 33,
@@ -312,7 +312,7 @@
   "off": 970,
   "len": 8,
   "text": "monster!",
-  "ko": ""
+  "ko": "말았어요"
  },
  {
   "map": 33,
@@ -321,7 +321,7 @@
   "off": 981,
   "len": 31,
   "text": "Lezam: From what I hear, it is ",
-  "ko": ""
+  "ko": "레잠: 듣기로, 제가 다시"
  },
  {
   "map": 33,
@@ -330,7 +330,7 @@
   "off": 1014,
   "len": 29,
   "text": "your deeds that enabled me to",
-  "ko": ""
+  "ko": "인간이 된 건 당신의"
  },
  {
   "map": 33,
@@ -339,7 +339,7 @@
   "off": 1045,
   "len": 19,
   "text": "become human again.",
-  "ko": ""
+  "ko": "덕분이라더군요."
  },
  {
   "map": 33,
@@ -348,7 +348,7 @@
   "off": 1067,
   "len": 33,
   "text": "Lezam: That is why I am grateful.",
-  "ko": ""
+  "ko": "레잠: 그래서 감사한 겁니다."
  },
  {
   "map": 33,
@@ -357,7 +357,7 @@
   "off": 1102,
   "len": 18,
   "text": "Thank you so much!",
-  "ko": ""
+  "ko": "정말 고맙습니다!"
  },
  {
   "map": 33,
@@ -366,7 +366,7 @@
   "off": 1123,
   "len": 33,
   "text": "Lezam: Drake is surrounded by the",
-  "ko": ""
+  "ko": "레잠: 드레이크는 안개에"
  },
  {
   "map": 33,
@@ -375,7 +375,7 @@
   "off": 1158,
   "len": 30,
   "text": "Mist, and King Drake is surely",
-  "ko": ""
+  "ko": "둘러싸여, 드레이크 왕도 분명"
  },
  {
   "map": 33,
@@ -384,7 +384,7 @@
   "off": 1190,
   "len": 28,
   "text": "awaiting you... your powers!",
-  "ko": ""
+  "ko": "당신의 도움을 기다릴 겁니다!"
  },
  {
   "map": 33,
@@ -393,7 +393,7 @@
   "off": 1221,
   "len": 35,
   "text": "Lezam: With your powers, our Castle",
-  "ko": ""
+  "ko": "레잠: 당신의 힘이면 우리 성을"
  },
  {
   "map": 33,
@@ -402,7 +402,7 @@
   "off": 1258,
   "len": 33,
   "text": "could be saved. Will you help us?",
-  "ko": ""
+  "ko": "구할 수 있어요. 도와주시겠어요?"
  },
  {
   "map": 33,
@@ -411,7 +411,7 @@
   "off": 1416,
   "len": 21,
   "text": "Lezam: Oh, thank you!",
-  "ko": ""
+  "ko": "레잠: 오, 고맙습니다!"
  },
  {
   "map": 33,
@@ -420,7 +420,7 @@
   "off": 1439,
   "len": 26,
   "text": "Please do whatever you can",
-  "ko": ""
+  "ko": "부디 드레이크 성을"
  },
  {
   "map": 33,
@@ -429,7 +429,7 @@
   "off": 1467,
   "len": 21,
   "text": "to save Drake Castle!",
-  "ko": ""
+  "ko": "구해주세요!"
  },
  {
   "map": 33,
@@ -438,7 +438,7 @@
   "off": 1491,
   "len": 34,
   "text": "Lezam: Before I departed, the King",
-  "ko": ""
+  "ko": "레잠: 제가 떠나기 전, 왕께서"
  },
  {
   "map": 33,
@@ -447,7 +447,7 @@
   "off": 1527,
   "len": 32,
   "text": "had made a frightening decision.",
-  "ko": ""
+  "ko": "무서운 결정을 내리셨어요."
  },
  {
   "map": 33,
@@ -456,7 +456,7 @@
   "off": 1561,
   "len": 19,
   "text": "I hope he is safe. ",
-  "ko": ""
+  "ko": "무사하길 바랍니다."
  },
  {
   "map": 33,
@@ -465,7 +465,7 @@
   "off": 1589,
   "len": 18,
   "text": "Lezam: N...No? Oh.",
-  "ko": ""
+  "ko": "레잠: 아니라고요?"
  },
  {
   "map": 33,
@@ -474,7 +474,7 @@
   "off": 1610,
   "len": 14,
   "text": "Lezam: I see. ",
-  "ko": ""
+  "ko": "레잠: 그래요."
  },
  {
   "map": 33,
@@ -483,7 +483,7 @@
   "off": 1626,
   "len": 23,
   "text": "Perhaps I ask too much.",
-  "ko": ""
+  "ko": "많은 걸 바랐나 봐요."
  },
  {
   "map": 33,
@@ -492,7 +492,7 @@
   "off": 1652,
   "len": 30,
   "text": "Lezam: I am sure you have your",
-  "ko": ""
+  "ko": "레잠: 당신께도 이뤄야 할"
  },
  {
   "map": 33,
@@ -501,7 +501,7 @@
   "off": 1684,
   "len": 22,
   "text": "own quests to pursue. ",
-  "ko": ""
+  "ko": "여정이 있겠지요."
  },
  {
   "map": 33,
@@ -510,7 +510,7 @@
   "off": 1708,
   "len": 12,
   "text": "I apologize.",
-  "ko": ""
+  "ko": "죄송합니다."
  },
  {
   "map": 33,
@@ -519,7 +519,7 @@
   "off": 1731,
   "len": 25,
   "text": "Lezam: Before departing, ",
-  "ko": ""
+  "ko": "레잠: 떠나기 전,"
  },
  {
   "map": 33,
@@ -528,7 +528,7 @@
   "off": 1758,
   "len": 26,
   "text": "King Drake made a decision",
-  "ko": ""
+  "ko": "드레이크 왕께서 중대한"
  },
  {
   "map": 33,
@@ -537,7 +537,7 @@
   "off": 1786,
   "len": 21,
   "text": "of great consequence.",
-  "ko": ""
+  "ko": "결정을 내리셨어요."
  },
  {
   "map": 33,
@@ -546,7 +546,7 @@
   "off": 1810,
   "len": 28,
   "text": "Lezam: One that is difficult",
-  "ko": ""
+  "ko": "레잠: 입에 담기 어려운"
  },
  {
   "map": 33,
@@ -555,7 +555,7 @@
   "off": 1840,
   "len": 11,
   "text": "to discuss.",
-  "ko": ""
+  "ko": "결정이지요."
  },
  {
   "map": 33,
@@ -564,7 +564,7 @@
   "off": 1854,
   "len": 30,
   "text": "Lezam: If you wish to know the",
-  "ko": ""
+  "ko": "레잠: 그 결정의 결과를"
  },
  {
   "map": 33,
@@ -573,7 +573,7 @@
   "off": 1886,
   "len": 32,
   "text": "consequences of that decision...",
-  "ko": ""
+  "ko": "알고 싶으시다면..."
  },
  {
   "map": 33,
@@ -582,7 +582,7 @@
   "off": 1921,
   "len": 30,
   "text": "Lezam: Then go to Drake Castle",
-  "ko": ""
+  "ko": "레잠: 드레이크 성에 가서"
  },
  {
   "map": 33,
@@ -591,7 +591,7 @@
   "off": 1953,
   "len": 21,
   "text": "and see for yourself.",
-  "ko": ""
+  "ko": "직접 보세요."
  },
  {
   "map": 33,
@@ -600,7 +600,7 @@
   "off": 1996,
   "len": 17,
   "text": "Lezam: Thank you!",
-  "ko": ""
+  "ko": "레잠: 고맙습니다!"
  },
  {
   "map": 33,
@@ -609,7 +609,7 @@
   "off": 2015,
   "len": 27,
   "text": "You freed Drake Castle from",
-  "ko": ""
+  "ko": "당신이 드레이크 성을"
  },
  {
   "map": 33,
@@ -618,7 +618,7 @@
   "off": 2044,
   "len": 9,
   "text": "the Mist.",
-  "ko": ""
+  "ko": "구했어요."
  },
  {
   "map": 33,
@@ -627,7 +627,7 @@
   "off": 2056,
   "len": 14,
   "text": "Lezam: Oh, me?",
-  "ko": ""
+  "ko": "레잠: 저요?"
  },
  {
   "map": 33,
@@ -636,7 +636,7 @@
   "off": 2073,
   "len": 30,
   "text": "Lezam: I cannot go back to the",
-  "ko": ""
+  "ko": "레잠: 전 성으로 돌아갈 수"
  },
  {
   "map": 33,
@@ -645,7 +645,7 @@
   "off": 2105,
   "len": 35,
   "text": "castle. I am ashamed for failing to",
-  "ko": ""
+  "ko": "없어요. 왕께 맡은 소임을"
  },
  {
   "map": 33,
@@ -654,7 +654,7 @@
   "off": 2142,
   "len": 28,
   "text": "fulfill my duty to the King.",
-  "ko": ""
+  "ko": "다하지 못해 부끄럽습니다."
  },
  {
   "map": 33,
@@ -663,7 +663,7 @@
   "off": 2173,
   "len": 21,
   "text": "Lezam: That is why I ",
-  "ko": ""
+  "ko": "레잠: 그래서 여기"
  },
  {
   "map": 33,
@@ -672,7 +672,7 @@
   "off": 2196,
   "len": 19,
   "text": "opened a shop here.",
-  "ko": ""
+  "ko": "가게를 열었지요."
  },
  {
   "map": 33,
@@ -681,7 +681,7 @@
   "off": 2218,
   "len": 28,
   "text": "Lezam: I'm a shopkeeper now!",
-  "ko": ""
+  "ko": "레잠: 이제 저는 가게 주인!"
  },
  {
   "map": 33,
@@ -690,7 +690,7 @@
   "off": 2248,
   "len": 20,
   "text": "Welcome to my store!",
-  "ko": ""
+  "ko": "어서 오세요!"
  },
  {
   "map": 33,
@@ -699,7 +699,7 @@
   "off": 2303,
   "len": 17,
   "text": "Lezam: Thank you!",
-  "ko": ""
+  "ko": "레잠: 고맙습니다!"
  },
  {
   "map": 33,
@@ -708,7 +708,7 @@
   "off": 2322,
   "len": 27,
   "text": "You freed Drake Castle from",
-  "ko": ""
+  "ko": "당신이 드레이크 성을"
  },
  {
   "map": 33,
@@ -717,7 +717,7 @@
   "off": 2351,
   "len": 9,
   "text": "the Mist.",
-  "ko": ""
+  "ko": "구했어요."
  },
  {
   "map": 33,
@@ -726,7 +726,7 @@
   "off": 2363,
   "len": 14,
   "text": "Lezam: Oh, me?",
-  "ko": ""
+  "ko": "레잠: 저요?"
  },
  {
   "map": 33,
@@ -735,7 +735,7 @@
   "off": 2380,
   "len": 29,
   "text": "Lezam: I was sent by the King",
-  "ko": ""
+  "ko": "레잠: 왕의 명으로 림 엘름에"
  },
  {
   "map": 33,
@@ -744,7 +744,7 @@
   "off": 2411,
   "len": 26,
   "text": "to warn Rim Elm of danger.",
-  "ko": ""
+  "ko": "위험을 알리러 갔었죠."
  },
  {
   "map": 33,
@@ -753,7 +753,7 @@
   "off": 2440,
   "len": 32,
   "text": "Lezam: But the Mist prevented me",
-  "ko": ""
+  "ko": "레잠: 허나 안개 탓에 소임을"
  },
  {
   "map": 33,
@@ -762,7 +762,7 @@
   "off": 2474,
   "len": 35,
   "text": "from fulfilling that duty. I am too",
-  "ko": ""
+  "ko": "다하지 못했어요. 성으로"
  },
  {
   "map": 33,
@@ -771,7 +771,7 @@
   "off": 2511,
   "len": 32,
   "text": "ashamed to return to the castle.",
-  "ko": ""
+  "ko": "돌아가기엔 너무 부끄럽습니다."
  },
  {
   "map": 33,
@@ -780,7 +780,7 @@
   "off": 2546,
   "len": 21,
   "text": "Lezam: That is why I ",
-  "ko": ""
+  "ko": "레잠: 그래서 여기"
  },
  {
   "map": 33,
@@ -789,7 +789,7 @@
   "off": 2569,
   "len": 19,
   "text": "opened a shop here.",
-  "ko": ""
+  "ko": "가게를 열었지요."
  },
  {
   "map": 33,
@@ -798,7 +798,7 @@
   "off": 2594,
   "len": 21,
   "text": "Lezam: Do you wish to",
-  "ko": ""
+  "ko": "레잠: 뭔가"
  },
  {
   "map": 33,
@@ -807,7 +807,7 @@
   "off": 2617,
   "len": 14,
   "text": "buy something?",
-  "ko": ""
+  "ko": "사시겠어요?"
  },
  {
   "map": 33,
@@ -816,7 +816,7 @@
   "off": 64,
   "len": 25,
   "text": "It's been a while since I",
-  "ko": ""
+  "ko": "누군가를 마주친 게"
  },
  {
   "map": 33,
@@ -825,7 +825,7 @@
   "off": 91,
   "len": 26,
   "text": "ran across someone outside",
-  "ko": ""
+  "ko": "마을 밖에서 이렇게"
  },
  {
   "map": 33,
@@ -834,7 +834,7 @@
   "off": 119,
   "len": 12,
   "text": "the village.",
-  "ko": ""
+  "ko": "오랜만이야."
  },
  {
   "map": 33,
@@ -843,7 +843,7 @@
   "off": 136,
   "len": 17,
   "text": "{NAME}, where are you",
-  "ko": ""
+  "ko": "{NAME}, 이제 어디로"
  },
  {
   "map": 33,
@@ -852,7 +852,7 @@
   "off": 155,
   "len": 10,
   "text": "going now?",
-  "ko": ""
+  "ko": "가는 거야?"
  },
  {
   "map": 33,
@@ -861,7 +861,7 @@
   "off": 174,
   "len": 15,
   "text": "Biron Monastery",
-  "ko": ""
+  "ko": "비론 수도원"
  },
  {
   "map": 33,
@@ -870,7 +870,7 @@
   "off": 191,
   "len": 12,
   "text": "Drake Castle",
-  "ko": ""
+  "ko": "드레이크 성"
  },
  {
   "map": 33,
@@ -879,7 +879,7 @@
   "off": 205,
   "len": 16,
   "text": "I can't tell you",
-  "ko": ""
+  "ko": "말 못 해"
  },
  {
   "map": 33,
@@ -888,7 +888,7 @@
   "off": 224,
   "len": 22,
   "text": "What? Biron Monastery?",
-  "ko": ""
+  "ko": "뭐? 비론 수도원?"
  },
  {
   "map": 33,
@@ -897,7 +897,7 @@
   "off": 248,
   "len": 24,
   "text": "Well, you've got quite a",
-  "ko": ""
+  "ko": "그럼 갈 길이"
  },
  {
   "map": 33,
@@ -906,7 +906,7 @@
   "off": 274,
   "len": 21,
   "text": "journey ahead of you!",
-  "ko": ""
+  "ko": "멀겠는걸!"
  },
  {
   "map": 33,
@@ -915,7 +915,7 @@
   "off": 298,
   "len": 26,
   "text": "To get to Biron, you must ",
-  "ko": ""
+  "ko": "비론에 가려면,"
  },
  {
   "map": 33,
@@ -924,7 +924,7 @@
   "off": 326,
   "len": 27,
   "text": "cross the river to the east",
-  "ko": ""
+  "ko": "동쪽 강을 건너"
  },
  {
   "map": 33,
@@ -933,7 +933,7 @@
   "off": 355,
   "len": 26,
   "text": "and head northeast, but...",
-  "ko": ""
+  "ko": "북동쪽으로 가야 해,"
  },
  {
   "map": 33,
@@ -942,7 +942,7 @@
   "off": 386,
   "len": 25,
   "text": "Oh, so you're going there",
-  "ko": ""
+  "ko": "아, 레잠 때문에"
  },
  {
   "map": 33,
@@ -951,7 +951,7 @@
   "off": 413,
   "len": 15,
   "text": "for Lezam, huh?",
-  "ko": ""
+  "ko": "가는 거구나?"
  },
  {
   "map": 33,
@@ -960,7 +960,7 @@
   "off": 431,
   "len": 21,
   "text": "Drake Castle is north",
-  "ko": ""
+  "ko": "드레이크 성은 샘"
  },
  {
   "map": 33,
@@ -969,7 +969,7 @@
   "off": 454,
   "len": 14,
   "text": "of the spring.",
-  "ko": ""
+  "ko": "북쪽에 있어."
  },
  {
   "map": 33,
@@ -978,7 +978,7 @@
   "off": 473,
   "len": 21,
   "text": "Ah, a secret mission!",
-  "ko": ""
+  "ko": "아, 비밀 임무구나!"
  },
  {
   "map": 33,
@@ -987,7 +987,7 @@
   "off": 496,
   "len": 28,
   "text": "What is it, a secret mission",
-  "ko": ""
+  "ko": "그거, 라세루를 위한"
  },
  {
   "map": 33,
@@ -996,7 +996,7 @@
   "off": 526,
   "len": 16,
   "text": "for the Ra-Seru?",
-  "ko": ""
+  "ko": "비밀 임무야?"
  },
  {
   "map": 33,
@@ -1005,7 +1005,7 @@
   "off": 545,
   "len": 13,
   "text": "That's great!",
-  "ko": ""
+  "ko": "대단한걸!"
  },
  {
   "map": 33,
@@ -1014,7 +1014,7 @@
   "off": 560,
   "len": 19,
   "text": "{NAME}, you're a mighty",
-  "ko": ""
+  "ko": "{NAME}, 이제 넌 훌륭한"
  },
  {
   "map": 33,
@@ -1023,7 +1023,7 @@
   "off": 581,
   "len": 12,
   "text": "warrior now!",
-  "ko": ""
+  "ko": "전사구나!"
  },
  {
   "map": 33,
@@ -1032,7 +1032,7 @@
   "off": 598,
   "len": 25,
   "text": "{NAME}, don't forget to visit",
-  "ko": ""
+  "ko": "{NAME}, 가끔 림 엘름에도"
  },
  {
   "map": 33,
@@ -1041,7 +1041,7 @@
   "off": 625,
   "len": 18,
   "text": "Rim Elm sometimes.",
-  "ko": ""
+  "ko": "들르는 거 잊지 마."
  },
  {
   "map": 33,
@@ -1050,7 +1050,7 @@
   "off": 645,
   "len": 17,
   "text": "Tetsu misses you!",
-  "ko": ""
+  "ko": "테츠가 그리워해!"
  },
  {
   "map": 33,
@@ -1059,7 +1059,7 @@
   "off": 667,
   "len": 8,
   "text": "Hey, {NAME}!",
-  "ko": ""
+  "ko": "야, {NAME}!"
  },
  {
   "map": 33,
@@ -1068,7 +1068,7 @@
   "off": 677,
   "len": 30,
   "text": "You have a lot of friends now.",
-  "ko": ""
+  "ko": "이제 친구가 많아졌구나."
  },
  {
   "map": 33,
@@ -1077,7 +1077,7 @@
   "off": 709,
   "len": 13,
   "text": "That's great!",
-  "ko": ""
+  "ko": "대단해!"
  },
  {
   "map": 33,
@@ -1086,7 +1086,7 @@
   "off": 727,
   "len": 28,
   "text": "The monster laying siege to ",
-  "ko": ""
+  "ko": "림 엘름을 포위한"
  },
  {
   "map": 33,
@@ -1095,7 +1095,7 @@
   "off": 757,
   "len": 29,
   "text": "Rim Elm is getting bigger and",
-  "ko": ""
+  "ko": "괴물이 점점 더"
  },
  {
   "map": 33,
@@ -1104,7 +1104,7 @@
   "off": 788,
   "len": 15,
   "text": "bigger, I hear.",
-  "ko": ""
+  "ko": "커진다더군."
  },
  {
   "map": 33,
@@ -1113,7 +1113,7 @@
   "off": 806,
   "len": 24,
   "text": "Some day it might engulf",
-  "ko": ""
+  "ko": "언젠가 온 세상을"
  },
  {
   "map": 33,
@@ -1122,7 +1122,7 @@
   "off": 832,
   "len": 16,
   "text": "the whole world.",
-  "ko": ""
+  "ko": "삼킬지도 몰라."
  },
  {
   "map": 33,
@@ -1131,7 +1131,7 @@
   "off": 50,
   "len": 24,
   "text": "{NAME}, listen to what Lezam",
-  "ko": ""
+  "ko": "{NAME}, 레잠 얘기를"
  },
  {
   "map": 33,
@@ -1140,7 +1140,7 @@
   "off": 76,
   "len": 11,
   "text": "has to say!",
-  "ko": ""
+  "ko": "들어봐!"
  },
  {
   "map": 33,
@@ -1149,7 +1149,7 @@
   "off": 92,
   "len": 16,
   "text": "The Genesis Tree",
-  "ko": ""
+  "ko": "창세수가"
  },
  {
   "map": 33,
@@ -1158,7 +1158,7 @@
   "off": 110,
   "len": 29,
   "text": "has driven all the Mist away.",
-  "ko": ""
+  "ko": "안개를 다 몰아냈어."
  },
  {
   "map": 33,
@@ -1167,7 +1167,7 @@
   "off": 142,
   "len": 30,
   "text": "Now, if only the waters of the",
-  "ko": ""
+  "ko": "이제 동쪽 강물만"
  },
  {
   "map": 33,
@@ -1176,7 +1176,7 @@
   "off": 174,
   "len": 35,
   "text": "river to the east would subside, we",
-  "ko": ""
+  "ko": "빠지면, 더 멀리까지"
  },
  {
   "map": 33,
@@ -1185,7 +1185,7 @@
   "off": 211,
   "len": 31,
   "text": "could go even farther to hunt. ",
-  "ko": ""
+  "ko": "사냥하러 갈 수 있을 텐데."
  },
  {
   "map": 33,
@@ -1194,7 +1194,7 @@
   "off": 247,
   "len": 26,
   "text": "Now that the Mist is gone,",
-  "ko": ""
+  "ko": "안개가 걷혀서,"
  },
  {
   "map": 33,
@@ -1203,7 +1203,7 @@
   "off": 275,
   "len": 26,
   "text": "hunting is so much easier!",
-  "ko": ""
+  "ko": "사냥이 훨씬 수월해!"
  },
  {
   "map": 33,
@@ -1212,7 +1212,7 @@
   "off": 52,
   "len": 32,
   "text": "When we came to the spring as we",
-  "ko": ""
+  "ko": "늘 하던 대로 샘에"
  },
  {
   "map": 33,
@@ -1221,7 +1221,7 @@
   "off": 86,
   "len": 27,
   "text": "always do, Lezam was here. ",
-  "ko": ""
+  "ko": "왔더니 레잠이 있더군."
  },
  {
   "map": 33,
@@ -1230,7 +1230,7 @@
   "off": 118,
   "len": 24,
   "text": "So Lezam was an envoy of",
-  "ko": ""
+  "ko": "레잠이 드레이크 왕의"
  },
  {
   "map": 33,
@@ -1239,7 +1239,7 @@
   "off": 144,
   "len": 28,
   "text": "King Drake. Speaking of King",
-  "ko": ""
+  "ko": "사자였다니. 드레이크 왕"
  },
  {
   "map": 33,
@@ -1248,7 +1248,7 @@
   "off": 174,
   "len": 8,
   "text": "Drake...",
-  "ko": ""
+  "ko": "말인데.."
  },
  {
   "map": 33,
@@ -1257,7 +1257,7 @@
   "off": 185,
   "len": 33,
   "text": "He is the one who used to control",
-  "ko": ""
+  "ko": "상류의 수문을 다스리던"
  },
  {
   "map": 33,
@@ -1266,7 +1266,7 @@
   "off": 220,
   "len": 24,
   "text": "the water gate upstream.",
-  "ko": ""
+  "ko": "게 바로 그분이지."
  },
  {
   "map": 33,
@@ -1275,7 +1275,7 @@
   "off": 33,
   "len": 32,
   "text": "If you want to know about Lezam,",
-  "ko": ""
+  "ko": "레잠에 대해 알고 싶으면,"
  },
  {
   "map": 33,
@@ -1284,7 +1284,7 @@
   "off": 67,
   "len": 18,
   "text": "ask Lezam himself.",
-  "ko": ""
+  "ko": "레잠한테 물어봐."
  },
  {
   "map": 33,
@@ -1293,7 +1293,7 @@
   "off": 90,
   "len": 22,
   "text": "{NAME}, I have some advice",
-  "ko": ""
+  "ko": "{NAME}, 너한테 해줄 조언이"
  },
  {
   "map": 33,
@@ -1302,7 +1302,7 @@
   "off": 114,
   "len": 9,
   "text": "for you. ",
-  "ko": ""
+  "ko": "있어."
  },
  {
   "map": 33,
@@ -1311,7 +1311,7 @@
   "off": 125,
   "len": 26,
   "text": "Will you lend me your ear?",
-  "ko": ""
+  "ko": "들어볼래?"
  },
  {
   "map": 33,
@@ -1320,7 +1320,7 @@
   "off": 276,
   "len": 29,
   "text": "Now, you may have powers that",
-  "ko": ""
+  "ko": "그 라세루 덕에 우리에겐"
  },
  {
   "map": 33,
@@ -1329,7 +1329,7 @@
   "off": 307,
   "len": 32,
   "text": "we don't because of that Ra-Seru",
-  "ko": ""
+  "ko": "없는 힘이 너한테"
  },
  {
   "map": 33,
@@ -1338,7 +1338,7 @@
   "off": 341,
   "len": 15,
   "text": "and all, but...",
-  "ko": ""
+  "ko": "있겠지만..."
  },
  {
   "map": 33,
@@ -1347,7 +1347,7 @@
   "off": 359,
   "len": 24,
   "text": "Drake Castle up ahead is",
-  "ko": ""
+  "ko": "저 앞 드레이크 성은"
  },
  {
   "map": 33,
@@ -1356,7 +1356,7 @@
   "off": 385,
   "len": 27,
   "text": "just crawling with the most",
-  "ko": ""
+  "ko": "가장 끔찍한 세루 괴물로"
  },
  {
   "map": 33,
@@ -1365,7 +1365,7 @@
   "off": 414,
   "len": 23,
   "text": "horrible Seru monsters!",
-  "ko": ""
+  "ko": "우글거려!"
  },
  {
   "map": 33,
@@ -1374,7 +1374,7 @@
   "off": 440,
   "len": 30,
   "text": "Listen! These are the hunters'",
-  "ko": ""
+  "ko": "잘 들어! 이게 사냥꾼의"
  },
  {
   "map": 33,
@@ -1383,7 +1383,7 @@
   "off": 472,
   "len": 30,
   "text": "rules. Rule 1: Always have the",
-  "ko": ""
+  "ko": "규칙이야. 1: 늘 제대로 된"
  },
  {
   "map": 33,
@@ -1392,7 +1392,7 @@
   "off": 504,
   "len": 17,
   "text": "proper equipment.",
-  "ko": ""
+  "ko": "장비를 갖춰라."
  },
  {
   "map": 33,
@@ -1401,7 +1401,7 @@
   "off": 524,
   "len": 27,
   "text": "If you think you don't have",
-  "ko": ""
+  "ko": "무기나 방어구가"
  },
  {
   "map": 33,
@@ -1410,7 +1410,7 @@
   "off": 553,
   "len": 32,
   "text": "the right weapons or armor, then",
-  "ko": ""
+  "ko": "부족하다 싶으면,"
  },
  {
   "map": 33,
@@ -1419,7 +1419,7 @@
   "off": 587,
   "len": 27,
   "text": "head right back to Rim Elm!",
-  "ko": ""
+  "ko": "곧장 림 엘름으로 돌아가!"
  },
  {
   "map": 33,
@@ -1428,7 +1428,7 @@
   "off": 617,
   "len": 34,
   "text": "You can still buy whatever type of",
-  "ko": ""
+  "ko": "필요한 장비는 거기"
  },
  {
   "map": 33,
@@ -1437,7 +1437,7 @@
   "off": 653,
   "len": 25,
   "text": "equipment you need at the",
-  "ko": ""
+  "ko": "가게에서 얼마든지"
  },
  {
   "map": 33,
@@ -1446,7 +1446,7 @@
   "off": 680,
   "len": 12,
   "text": "shops there.",
-  "ko": ""
+  "ko": "살 수 있어."
  },
  {
   "map": 33,
@@ -1455,7 +1455,7 @@
   "off": 695,
   "len": 30,
   "text": "Hunters' Rule Number 2: A trip",
-  "ko": ""
+  "ko": "사냥꾼 규칙 2: 회복약 없는"
  },
  {
   "map": 33,
@@ -1464,7 +1464,7 @@
   "off": 727,
   "len": 34,
   "text": "without healing medicine is a trip",
-  "ko": ""
+  "ko": "여행은 저승길이나"
  },
  {
   "map": 33,
@@ -1473,7 +1473,7 @@
   "off": 763,
   "len": 18,
   "text": "to the next world!",
-  "ko": ""
+  "ko": "마찬가지야!"
  },
  {
   "map": 33,
@@ -1482,7 +1482,7 @@
   "off": 784,
   "len": 31,
   "text": "When going to a strange place, ",
-  "ko": ""
+  "ko": "낯선 곳에 갈 땐,"
  },
  {
   "map": 33,
@@ -1491,7 +1491,7 @@
   "off": 817,
   "len": 27,
   "text": "always take at least 5 or 6",
-  "ko": ""
+  "ko": "회복초를 적어도 대여섯"
  },
  {
   "map": 33,
@@ -1500,7 +1500,7 @@
   "off": 846,
   "len": 15,
   "text": "healing leaves.",
-  "ko": ""
+  "ko": "개는 챙겨."
  },
  {
   "map": 33,
@@ -1509,7 +1509,7 @@
   "off": 866,
   "len": 32,
   "text": "You don't want my advice? Hmmph.",
-  "ko": ""
+  "ko": "조언 필요 없다고? 흥."
  },
  {
   "map": 33,
@@ -1518,7 +1518,7 @@
   "off": 900,
   "len": 28,
   "text": "I was just going to tell you",
-  "ko": ""
+  "ko": "다 너 잘되라고"
  },
  {
   "map": 33,
@@ -1527,7 +1527,7 @@
   "off": 930,
   "len": 28,
   "text": "something for your own good.",
-  "ko": ""
+  "ko": "해주려던 건데."
  },
  {
   "map": 33,
@@ -1536,7 +1536,7 @@
   "off": 33,
   "len": 22,
   "text": "{NAME}, you should talk to",
-  "ko": ""
+  "ko": "{NAME}, 레잠한테"
  },
  {
   "map": 33,
@@ -1545,7 +1545,7 @@
   "off": 57,
   "len": 6,
   "text": "Lezam.",
-  "ko": ""
+  "ko": "물어봐"
  },
  {
   "map": 33,
@@ -1554,7 +1554,7 @@
   "off": 68,
   "len": 25,
   "text": "{NAME}, before going outside,",
-  "ko": ""
+  "ko": "{NAME}, 밖에 나가기 전에,"
  },
  {
   "map": 33,
@@ -1563,7 +1563,7 @@
   "off": 95,
   "len": 31,
   "text": "drink the water at the drinking",
-  "ko": ""
+  "ko": "샘 옆 식수대에서"
  },
  {
   "map": 33,
@@ -1572,7 +1572,7 @@
   "off": 128,
   "len": 23,
   "text": "fountain by the spring.",
-  "ko": ""
+  "ko": "물을 마셔."
  },
  {
   "map": 33,
@@ -1581,7 +1581,7 @@
   "off": 154,
   "len": 23,
   "text": "Your whole body will be",
-  "ko": ""
+  "ko": "온몸에 기운이"
  },
  {
   "map": 33,
@@ -1590,7 +1590,7 @@
   "off": 179,
   "len": 13,
   "text": "re-energized!",
-  "ko": ""
+  "ko": "돌 거야!"
  },
  {
   "map": 33,
@@ -1599,7 +1599,7 @@
   "off": 54,
   "len": 33,
   "text": "I'm thinking of opening a trading",
-  "ko": ""
+  "ko": "안개가 걷히면 드레이크 성과"
  },
  {
   "map": 33,
@@ -1608,7 +1608,7 @@
   "off": 89,
   "len": 33,
   "text": "business between Drake Castle and",
-  "ko": ""
+  "ko": "림 엘름 사이에 교역을"
  },
  {
   "map": 33,
@@ -1617,7 +1617,7 @@
   "off": 124,
   "len": 29,
   "text": "Rim Elm once the Mist clears.",
-  "ko": ""
+  "ko": "시작할 생각이야."
  },
  {
   "map": 33,
@@ -1626,7 +1626,7 @@
   "off": 158,
   "len": 33,
   "text": "The Mist stole our youth from us,",
-  "ko": ""
+  "ko": "안개가 우리 젊음을 앗아갔지만,"
  },
  {
   "map": 33,
@@ -1635,7 +1635,7 @@
   "off": 193,
   "len": 29,
   "text": "but I'm going to get it back.",
-  "ko": ""
+  "ko": "난 되찾을 거야."
  },
  {
   "map": 33,
@@ -1644,7 +1644,7 @@
   "off": 227,
   "len": 27,
   "text": "I don't want to see Rim Elm",
-  "ko": ""
+  "ko": "림 엘름이 그런 꼴이"
  },
  {
   "map": 33,
@@ -1653,7 +1653,7 @@
   "off": 256,
   "len": 31,
   "text": "like that. That's why I keep my",
-  "ko": ""
+  "ko": "되는 건 보기 싫어. 그래서 등을"
  },
  {
   "map": 33,
@@ -1662,7 +1662,7 @@
   "off": 289,
   "len": 12,
   "text": "back turned.",
-  "ko": ""
+  "ko": "돌리고 있지."
  },
  {
   "map": 33,
@@ -1671,7 +1671,7 @@
   "off": 58,
   "len": 34,
   "text": "Have you been to the Water Gate by",
-  "ko": ""
+  "ko": "드레이크 성 옆 수문에"
  },
  {
   "map": 33,
@@ -1680,7 +1680,7 @@
   "off": 94,
   "len": 31,
   "text": "Drake Castle? You can close the",
-  "ko": ""
+  "ko": "가봤어? 수문 열쇠로"
  },
  {
   "map": 33,
@@ -1689,7 +1689,7 @@
   "off": 127,
   "len": 29,
   "text": "gate with the Water Gate Key.",
-  "ko": ""
+  "ko": "수문을 닫을 수 있어."
  },
  {
   "map": 33,
@@ -1698,7 +1698,7 @@
   "off": 161,
   "len": 31,
   "text": "Did you know that the river has",
-  "ko": ""
+  "ko": "강이 말라버린 거"
  },
  {
   "map": 33,
@@ -1707,7 +1707,7 @@
   "off": 194,
   "len": 28,
   "text": "run dry? Somebody must have ",
-  "ko": ""
+  "ko": "알아? 누군가 수문을"
  },
  {
   "map": 33,
@@ -1716,7 +1716,7 @@
   "off": 224,
   "len": 22,
   "text": "closed the Water Gate.",
-  "ko": ""
+  "ko": "닫은 게 분명해."
  },
  {
   "map": 33,
@@ -1725,7 +1725,7 @@
   "off": 251,
   "len": 34,
   "text": "The world's a big place. There are",
-  "ko": ""
+  "ko": "세상은 넓어. 값진 기술을"
  },
  {
   "map": 33,
@@ -1734,7 +1734,7 @@
   "off": 287,
   "len": 33,
   "text": "all sorts of people who can teach",
-  "ko": ""
+  "ko": "가르쳐 줄 사람이"
  },
  {
   "map": 33,
@@ -1743,7 +1743,7 @@
   "off": 322,
   "len": 20,
   "text": "you valuable skills.",
-  "ko": ""
+  "ko": "여기저기 많지."
  },
  {
   "map": 33,
@@ -1752,7 +1752,7 @@
   "off": 347,
   "len": 28,
   "text": "{NAME}, Rim Elm, our home, is in",
-  "ko": ""
+  "ko": "{NAME}, 우리 고향 림 엘름이"
  },
  {
   "map": 33,
@@ -1761,7 +1761,7 @@
   "off": 377,
   "len": 8,
   "text": "trouble!",
-  "ko": ""
+  "ko": "위험해!"
  },
  {
   "map": 33,
@@ -1770,7 +1770,7 @@
   "off": 388,
   "len": 33,
   "text": "Use your Ra-Seru and do something",
-  "ko": ""
+  "ko": "네 라세루로 우릴 위해 뭔가"
  },
  {
   "map": 33,
@@ -1779,7 +1779,7 @@
   "off": 423,
   "len": 7,
   "text": "for us!",
-  "ko": ""
+  "ko": "해줘!"
  },
  {
   "map": 33,
@@ -1788,7 +1788,7 @@
   "off": 37,
   "len": 30,
   "text": "I haven't enjoyed traveling in",
-  "ko": ""
+  "ko": "십 년 만에 처음으로"
  },
  {
   "map": 33,
@@ -1797,7 +1797,7 @@
   "off": 69,
   "len": 34,
   "text": "ten years! Things are so nice now!",
-  "ko": ""
+  "ko": "즐기는 여행! 좋구나!"
  },
  {
   "map": 33,
@@ -1806,7 +1806,7 @@
   "off": 108,
   "len": 31,
   "text": "During our trip, if we had been",
-  "ko": ""
+  "ko": "여행 중에 만약 우리가 릴 엘름에"
  },
  {
   "map": 33,
@@ -1815,7 +1815,7 @@
   "off": 141,
   "len": 21,
   "text": "in Rim Elm... Oh, my!",
-  "ko": ""
+  "ko": "있었다면... 어머!"
  },
  {
   "map": 33,
@@ -1824,7 +1824,7 @@
   "off": 165,
   "len": 33,
   "text": "I know this sounds self-centered,",
-  "ko": ""
+  "ko": "이기적으로 들리겠지만,"
  },
  {
   "map": 33,
@@ -1833,7 +1833,7 @@
   "off": 200,
   "len": 30,
   "text": "but I'm a little relieved that",
-  "ko": ""
+  "ko": "그러지 않아서 조금"
  },
  {
   "map": 33,
@@ -1842,7 +1842,7 @@
   "off": 232,
   "len": 11,
   "text": "we weren't.",
-  "ko": ""
+  "ko": "안심이야."
  },
  {
   "map": 33,
@@ -1851,7 +1851,7 @@
   "off": 48,
   "len": 26,
   "text": "{NAME}, I was able to find my ",
-  "ko": ""
+  "ko": "{NAME}, 안개가 걷힌 덕에"
  },
  {
   "map": 33,
@@ -1860,7 +1860,7 @@
   "off": 76,
   "len": 29,
   "text": "younger brother, Lezam, since",
-  "ko": ""
+  "ko": "남동생 레잠을"
  },
  {
   "map": 33,
@@ -1869,7 +1869,7 @@
   "off": 107,
   "len": 17,
   "text": "the Mist cleared!",
-  "ko": ""
+  "ko": "찾을 수 있었어!"
  },
  {
   "map": 33,
@@ -1878,7 +1878,7 @@
   "off": 127,
   "len": 23,
   "text": "I never thought that he",
-  "ko": ""
+  "ko": "그 애가 장사를"
  },
  {
   "map": 33,
@@ -1887,7 +1887,7 @@
   "off": 152,
   "len": 30,
   "text": "would have gone into business.",
-  "ko": ""
+  "ko": "할 줄은 몰랐네."
  },
  {
   "map": 33,
@@ -1896,7 +1896,7 @@
   "off": 185,
   "len": 30,
   "text": "But anyway, I'm helping out at",
-  "ko": ""
+  "ko": "아무튼 지금은 그 애 가게를"
  },
  {
   "map": 33,
@@ -1905,7 +1905,7 @@
   "off": 217,
   "len": 13,
   "text": "his shop now.",
-  "ko": ""
+  "ko": "돕고 있어."
  },
  {
   "map": 33,
@@ -1914,7 +1914,7 @@
   "off": 233,
   "len": 25,
   "text": "So, welcome to our shop! ",
-  "ko": ""
+  "ko": "그럼, 어서 와!"
  },
  {
   "map": 33,
@@ -1923,7 +1923,7 @@
   "off": 260,
   "len": 23,
   "text": "What can I get for you?",
-  "ko": ""
+  "ko": "뭘 드릴까?"
  },
  {
   "map": 33,
@@ -1932,7 +1932,7 @@
   "off": 311,
   "len": 35,
   "text": "The only way we can help is through",
-  "ko": ""
+  "ko": "우리가 도울 방법은"
  },
  {
   "map": 33,
@@ -1941,7 +1941,7 @@
   "off": 348,
   "len": 16,
   "text": "our businesses. ",
-  "ko": ""
+  "ko": "장사뿐이야."
  },
  {
   "map": 33,
@@ -1950,7 +1950,7 @@
   "off": 366,
   "len": 21,
   "text": "Please buy something!",
-  "ko": ""
+  "ko": "뭐라도 사줘!"
  },
  {
   "map": 33,
@@ -1959,7 +1959,7 @@
   "off": 18,
   "len": 4,
   "text": "Flag",
-  "ko": ""
+  "ko": "깃발"
  },
  {
   "map": 33,
@@ -1968,7 +1968,7 @@
   "off": 33,
   "len": 19,
   "text": "Liberation of Drake",
-  "ko": ""
+  "ko": "드레이크 해방"
  },
  {
   "map": 33,
@@ -1977,7 +1977,7 @@
   "off": 54,
   "len": 13,
   "text": "Drake Kingdom",
-  "ko": ""
+  "ko": "드레이크 왕국"
  },
  {
   "map": 33,
@@ -1986,7 +1986,7 @@
   "off": 69,
   "len": 5,
   "text": "Clear",
-  "ko": ""
+  "ko": "완료"
  },
  {
   "map": 33,
@@ -1995,7 +1995,7 @@
   "off": 76,
   "len": 5,
   "text": "Clear",
-  "ko": ""
+  "ko": "완료"
  },
  {
   "map": 33,
@@ -2004,7 +2004,7 @@
   "off": 21,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2013,7 +2013,7 @@
   "off": 40,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2022,7 +2022,7 @@
   "off": 75,
   "len": 30,
   "text": "it reads, \"{PAL:9}Arts{PAL:7}: Secrets.\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -2031,7 +2031,7 @@
   "off": 117,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2040,7 +2040,7 @@
   "off": 154,
   "len": 21,
   "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2049,7 +2049,7 @@
   "off": 177,
   "len": 24,
   "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2058,7 +2058,7 @@
   "off": 203,
   "len": 19,
   "text": "Read \"About {PAL:4}AP{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:4}AP{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2067,7 +2067,7 @@
   "off": 234,
   "len": 26,
   "text": "{PAL:9}Arts{PAL:7} -- For inflicting",
-  "ko": ""
+  "ko": "{PAL:9}아츠{PAL:7} 적에게 큰 피해를"
  },
  {
   "map": 33,
@@ -2076,7 +2076,7 @@
   "off": 262,
   "len": 31,
   "text": "severe damage on your opponent,",
-  "ko": ""
+  "ko": "입히려면,"
  },
  {
   "map": 33,
@@ -2085,7 +2085,7 @@
   "off": 295,
   "len": 22,
   "text": "two things are needed:",
-  "ko": ""
+  "ko": "두 가지가 필요하다:"
  },
  {
   "map": 33,
@@ -2094,7 +2094,7 @@
   "off": 319,
   "len": 13,
   "text": "Arts and AP! ",
-  "ko": ""
+  "ko": "아츠와 AP!"
  },
  {
   "map": 33,
@@ -2103,7 +2103,7 @@
   "off": 334,
   "len": 15,
   "text": "Execute Arts by",
-  "ko": ""
+  "ko": "아츠는 전투명령"
  },
  {
   "map": 33,
@@ -2112,7 +2112,7 @@
   "off": 351,
   "len": 28,
   "text": "combining \"Right (Ra-Seru)\",",
-  "ko": ""
+  "ko": "\"오른손(라세루)\","
  },
  {
   "map": 33,
@@ -2121,7 +2121,7 @@
   "off": 381,
   "len": 22,
   "text": "\"Left (Arms)\", \"High\",",
-  "ko": ""
+  "ko": "\"왼손(무기)\", \"상단\","
  },
  {
   "map": 33,
@@ -2130,7 +2130,7 @@
   "off": 405,
   "len": 25,
   "text": "and \"Low\" battle commands",
-  "ko": ""
+  "ko": "\"하단\"을 특정 순서로"
  },
  {
   "map": 33,
@@ -2139,7 +2139,7 @@
   "off": 432,
   "len": 23,
   "text": "in a specific sequence.",
-  "ko": ""
+  "ko": "조합해 쓴다."
  },
  {
   "map": 33,
@@ -2148,7 +2148,7 @@
   "off": 457,
   "len": 30,
   "text": "You also need sufficient AP to",
-  "ko": ""
+  "ko": "또 충분한 AP가 있어야"
  },
  {
   "map": 33,
@@ -2157,7 +2157,7 @@
   "off": 489,
   "len": 25,
   "text": "execute an {PAL:9}Arts{PAL:7} move.",
-  "ko": ""
+  "ko": "{PAL:9}아츠{PAL:7}를 쓸 수 있다."
  },
  {
   "map": 33,
@@ -2166,7 +2166,7 @@
   "off": 540,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2175,7 +2175,7 @@
   "off": 559,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2184,7 +2184,7 @@
   "off": 594,
   "len": 29,
   "text": "it reads \"{PAL:9}Arts{PAL:7}: Secrets.\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 비밀\"이라 적혀 있다"
  },
  {
   "map": 33,
@@ -2193,7 +2193,7 @@
   "off": 635,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2202,7 +2202,7 @@
   "off": 672,
   "len": 21,
   "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2211,7 +2211,7 @@
   "off": 695,
   "len": 24,
   "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2220,7 +2220,7 @@
   "off": 721,
   "len": 19,
   "text": "Read \"About {PAL:4}AP{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:4}AP{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2229,7 +2229,7 @@
   "off": 752,
   "len": 29,
   "text": "Try different combinations of",
-  "ko": ""
+  "ko": "싸울 때 여러 명령"
  },
  {
   "map": 33,
@@ -2238,7 +2238,7 @@
   "off": 783,
   "len": 32,
   "text": "commands when fighting -- that's",
-  "ko": ""
+  "ko": "조합을 시도해 봐라"
  },
  {
   "map": 33,
@@ -2247,7 +2247,7 @@
   "off": 817,
   "len": 29,
   "text": "the secret to discovering new",
-  "ko": ""
+  "ko": "그게 새 아츠를 찾는 비결이다."
  },
  {
   "map": 33,
@@ -2256,7 +2256,7 @@
   "off": 859,
   "len": 31,
   "text": "A kind person may teach you new",
-  "ko": ""
+  "ko": "친절한 이가 새"
  },
  {
   "map": 33,
@@ -2265,7 +2265,7 @@
   "off": 892,
   "len": 27,
   "text": "{PAL:9}Arts{PAL:7}. If you are lucky,",
-  "ko": ""
+  "ko": "{PAL:9}아츠{PAL:7}를 알려주기도."
  },
  {
   "map": 33,
@@ -2274,7 +2274,7 @@
   "off": 921,
   "len": 25,
   "text": "you can also discover new",
-  "ko": ""
+  "ko": "오토 배틀 모드로도"
  },
  {
   "map": 33,
@@ -2283,7 +2283,7 @@
   "off": 948,
   "len": 32,
   "text": "{PAL:9}Arts{PAL:7} using Auto battle mode.",
-  "ko": ""
+  "ko": "새 {PAL:9}아츠{PAL:7}를 찾을 수 있다."
  },
  {
   "map": 33,
@@ -2292,7 +2292,7 @@
   "off": 982,
   "len": 30,
   "text": "There are also {PAL:9}Hyper Arts{PAL:7}!",
-  "ko": ""
+  "ko": "{PAL:9}하이퍼 아츠{PAL:7}도 있다!"
  },
  {
   "map": 33,
@@ -2301,7 +2301,7 @@
   "off": 1014,
   "len": 33,
   "text": "The only way to learn these is to",
-  "ko": ""
+  "ko": "이건 숨겨진 비전서를"
  },
  {
   "map": 33,
@@ -2310,7 +2310,7 @@
   "off": 1049,
   "len": 29,
   "text": "read the hidden Secret Books.",
-  "ko": ""
+  "ko": "읽어야만 익힐 수 있다."
  },
  {
   "map": 33,
@@ -2319,7 +2319,7 @@
   "off": 1104,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2328,7 +2328,7 @@
   "off": 1123,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2337,7 +2337,7 @@
   "off": 1158,
   "len": 29,
   "text": "it reads \"{PAL:9}Arts{PAL:7}: Secrets.\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 비밀\"이라 적혀 있다"
  },
  {
   "map": 33,
@@ -2346,7 +2346,7 @@
   "off": 1199,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2355,7 +2355,7 @@
   "off": 1236,
   "len": 21,
   "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2364,7 +2364,7 @@
   "off": 1259,
   "len": 24,
   "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2373,7 +2373,7 @@
   "off": 1285,
   "len": 19,
   "text": "Read \"About {PAL:4}AP{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:4}AP{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2382,7 +2382,7 @@
   "off": 1316,
   "len": 31,
   "text": "{PAL:4}AP{PAL:7} stands for \"Art Points,\"",
-  "ko": ""
+  "ko": "{PAL:4}AP{PAL:7}는 \"아트 포인트\"의 약자,"
  },
  {
   "map": 33,
@@ -2391,7 +2391,7 @@
   "off": 1349,
   "len": 37,
   "text": "which are needed to execute {PAL:9}Arts{PAL:7}.",
-  "ko": ""
+  "ko": "{PAL:9}아츠{PAL:7}를 쓰는 데 필요하다."
  },
  {
   "map": 33,
@@ -2400,7 +2400,7 @@
   "off": 1388,
   "len": 34,
   "text": "When fighting a powerful opponent,",
-  "ko": ""
+  "ko": "강한 적과 싸울 땐,"
  },
  {
   "map": 33,
@@ -2409,7 +2409,7 @@
   "off": 1424,
   "len": 25,
   "text": "check your remaining APs!",
-  "ko": ""
+  "ko": "남은 AP를 확인해라!"
  },
  {
   "map": 33,
@@ -2418,7 +2418,7 @@
   "off": 1451,
   "len": 24,
   "text": "APs range from 0 to 100.",
-  "ko": ""
+  "ko": "AP는 0에서 100까지다."
  },
  {
   "map": 33,
@@ -2427,7 +2427,7 @@
   "off": 1477,
   "len": 34,
   "text": "There are three ways to obtain AP:",
-  "ko": ""
+  "ko": "AP를 얻는 방법은 세 가지:"
  },
  {
   "map": 33,
@@ -2436,7 +2436,7 @@
   "off": 1513,
   "len": 34,
   "text": "1. Automatically during each turn.",
-  "ko": ""
+  "ko": "1. 매 턴 자동으로."
  },
  {
   "map": 33,
@@ -2445,7 +2445,7 @@
   "off": 1549,
   "len": 28,
   "text": "2. Using the Spirit command.",
-  "ko": ""
+  "ko": "2. 스피릿 명령으로."
  },
  {
   "map": 33,
@@ -2454,7 +2454,7 @@
   "off": 1579,
   "len": 28,
   "text": "3. Sustaining damage from an",
-  "ko": ""
+  "ko": "3. 적의 공격에"
  },
  {
   "map": 33,
@@ -2463,7 +2463,7 @@
   "off": 1609,
   "len": 18,
   "text": "opponent's attack.",
-  "ko": ""
+  "ko": "피해를 입어서."
  },
  {
   "map": 33,
@@ -2472,7 +2472,7 @@
   "off": 1653,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2481,7 +2481,7 @@
   "off": 1672,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2490,7 +2490,7 @@
   "off": 1707,
   "len": 29,
   "text": "it reads \"{PAL:9}Arts{PAL:7}: Secrets.\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 비밀\"이라 적혀 있다"
  },
  {
   "map": 33,
@@ -2499,7 +2499,7 @@
   "off": 1748,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2508,7 +2508,7 @@
   "off": 1785,
   "len": 21,
   "text": "Read \"About {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2517,7 +2517,7 @@
   "off": 1808,
   "len": 24,
   "text": "Read \"Learning {PAL:9}Arts{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:9}아츠{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2526,7 +2526,7 @@
   "off": 1834,
   "len": 19,
   "text": "Read \"About {PAL:4}AP{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:4}AP{PAL:7}란\" 읽기"
  },
  {
   "map": 33,
@@ -2535,7 +2535,7 @@
   "off": 21,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2544,7 +2544,7 @@
   "off": 40,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2553,7 +2553,7 @@
   "off": 75,
   "len": 33,
   "text": "it reads, \"Secrets of {PAL:5}Magic{PAL:7}.\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -2562,7 +2562,7 @@
   "off": 120,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2571,7 +2571,7 @@
   "off": 157,
   "len": 22,
   "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}이란\" 읽기"
  },
  {
   "map": 33,
@@ -2580,7 +2580,7 @@
   "off": 181,
   "len": 25,
   "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2589,7 +2589,7 @@
   "off": 208,
   "len": 33,
   "text": "Read \"Identifying Seru Opponents\"",
-  "ko": ""
+  "ko": "\"세루 적 식별\" 읽기"
  },
  {
   "map": 33,
@@ -2598,7 +2598,7 @@
   "off": 253,
   "len": 30,
   "text": "{PAL:5}Magic{PAL:7} is the most powerful",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7}은 라세루의 가장"
  },
  {
   "map": 33,
@@ -2607,7 +2607,7 @@
   "off": 285,
   "len": 32,
   "text": "advantage of Ra-Seru.  To learn ",
-  "ko": ""
+  "ko": "강력한 강점이다. 마법을"
  },
  {
   "map": 33,
@@ -2616,7 +2616,7 @@
   "off": 319,
   "len": 33,
   "text": "magic, defeat a Seru in combat.  ",
-  "ko": ""
+  "ko": "익히려면, 전투에서 세루를 이겨라."
  },
  {
   "map": 33,
@@ -2625,7 +2625,7 @@
   "off": 354,
   "len": 28,
   "text": "{PAL:5}Magic{PAL:7} requires MP, which",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7}에는 MP가 필요한데,"
  },
  {
   "map": 33,
@@ -2634,7 +2634,7 @@
   "off": 384,
   "len": 24,
   "text": "stands for Magic Points.",
-  "ko": ""
+  "ko": "매직 포인트의 약자다."
  },
  {
   "map": 33,
@@ -2643,7 +2643,7 @@
   "off": 410,
   "len": 27,
   "text": "Each spell has a different ",
-  "ko": ""
+  "ko": "주문마다 1에서 9까지"
  },
  {
   "map": 33,
@@ -2652,7 +2652,7 @@
   "off": 439,
   "len": 30,
   "text": "{PAL:5}Magic Level{PAL:7} from 1 to 9.  ",
-  "ko": ""
+  "ko": "{PAL:5}마법 레벨{PAL:7}이 다르다."
  },
  {
   "map": 33,
@@ -2661,7 +2661,7 @@
   "off": 471,
   "len": 31,
   "text": "When {PAL:5}Magic{PAL:7} is successfully ",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7}을 거듭"
  },
  {
   "map": 33,
@@ -2670,7 +2670,7 @@
   "off": 504,
   "len": 35,
   "text": "used repeatedly, the level rises.  ",
-  "ko": ""
+  "ko": "성공시키면 레벨이 오른다."
  },
  {
   "map": 33,
@@ -2679,7 +2679,7 @@
   "off": 541,
   "len": 31,
   "text": "The power of {PAL:5}Magic{PAL:7} depends ",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7}의 위력은 시전자,"
  },
  {
   "map": 33,
@@ -2688,7 +2688,7 @@
   "off": 574,
   "len": 31,
   "text": "on the user, the opponent, and ",
-  "ko": ""
+  "ko": "상대, 그리고 각자의"
  },
  {
   "map": 33,
@@ -2697,7 +2697,7 @@
   "off": 607,
   "len": 23,
   "text": "the attributes of each.",
-  "ko": ""
+  "ko": "속성에 달렸다."
  },
  {
   "map": 33,
@@ -2706,7 +2706,7 @@
   "off": 659,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2715,7 +2715,7 @@
   "off": 678,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2724,7 +2724,7 @@
   "off": 713,
   "len": 32,
   "text": "it reads \"Secrets of {PAL:5}Magic{PAL:7}.\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -2733,7 +2733,7 @@
   "off": 757,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2742,7 +2742,7 @@
   "off": 794,
   "len": 22,
   "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}이란\" 읽기"
  },
  {
   "map": 33,
@@ -2751,7 +2751,7 @@
   "off": 818,
   "len": 25,
   "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2760,7 +2760,7 @@
   "off": 845,
   "len": 33,
   "text": "Read \"Identifying Seru Opponents\"",
-  "ko": ""
+  "ko": "\"세루 적 식별\" 읽기"
  },
  {
   "map": 33,
@@ -2769,7 +2769,7 @@
   "off": 890,
   "len": 39,
   "text": "First, remember that {PAL:5}Magic{PAL:7} can only",
-  "ko": ""
+  "ko": "먼저, {PAL:5}마법{PAL:7}은 인간이 아닌"
  },
  {
   "map": 33,
@@ -2778,7 +2778,7 @@
   "off": 931,
   "len": 35,
   "text": "be acquired by Ra-Seru, not humans!",
-  "ko": ""
+  "ko": "라세루만 얻을 수 있음을 기억하라!"
  },
  {
   "map": 33,
@@ -2787,7 +2787,7 @@
   "off": 968,
   "len": 31,
   "text": "When humans with Ra-Seru defeat",
-  "ko": ""
+  "ko": "라세루를 지닌 인간이 세루를"
  },
  {
   "map": 33,
@@ -2796,7 +2796,7 @@
   "off": 1001,
   "len": 36,
   "text": "Seru, new {PAL:5}Magic{PAL:7} may be acquired,",
-  "ko": ""
+  "ko": "이기면 새 {PAL:5}마법{PAL:7}을 얻기도 하는데,"
  },
  {
   "map": 33,
@@ -2805,7 +2805,7 @@
   "off": 1039,
   "len": 28,
   "text": "unless the Seru opponent was",
-  "ko": ""
+  "ko": "단, 그 세루를"
  },
  {
   "map": 33,
@@ -2814,7 +2814,7 @@
   "off": 1069,
   "len": 24,
   "text": "defeated with {PAL:5}Magic{PAL:7}.",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7} 이기면 안 된다."
  },
  {
   "map": 33,
@@ -2823,7 +2823,7 @@
   "off": 1095,
   "len": 35,
   "text": "Also, {PAL:5}Magic{PAL:7} is acquired only by",
-  "ko": ""
+  "ko": "또, {PAL:5}마법{PAL:7}은 승리한"
  },
  {
   "map": 33,
@@ -2832,7 +2832,7 @@
   "off": 1132,
   "len": 26,
   "text": "the victorious character. ",
-  "ko": ""
+  "ko": "캐릭터만 얻는다."
  },
  {
   "map": 33,
@@ -2841,7 +2841,7 @@
   "off": 1160,
   "len": 34,
   "text": "For a certain character to acquire",
-  "ko": ""
+  "ko": "특정 캐릭터가 마법을 얻으려면,"
  },
  {
   "map": 33,
@@ -2850,7 +2850,7 @@
   "off": 1196,
   "len": 38,
   "text": "{PAL:5}Magic{PAL:7}, that character must deliver",
-  "ko": ""
+  "ko": "그 {PAL:5}마법{PAL:7}, 그 캐릭터가 마지막"
  },
  {
   "map": 33,
@@ -2859,7 +2859,7 @@
   "off": 1236,
   "len": 25,
   "text": "the final blow in combat!",
-  "ko": ""
+  "ko": "일격을 가해야 한다!"
  },
  {
   "map": 33,
@@ -2868,7 +2868,7 @@
   "off": 1290,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -2877,7 +2877,7 @@
   "off": 1309,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -2886,7 +2886,7 @@
   "off": 1344,
   "len": 33,
   "text": "it reads, \"Secrets of {PAL:5}Magic{PAL:7}.\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -2895,7 +2895,7 @@
   "off": 1389,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -2904,7 +2904,7 @@
   "off": 1426,
   "len": 22,
   "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}이란\" 읽기"
  },
  {
   "map": 33,
@@ -2913,7 +2913,7 @@
   "off": 1450,
   "len": 25,
   "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -2922,7 +2922,7 @@
   "off": 1477,
   "len": 33,
   "text": "Read \"Identifying Seru Opponents\"",
-  "ko": ""
+  "ko": "\"세루 적 식별\" 읽기"
  },
  {
   "map": 33,
@@ -2931,7 +2931,7 @@
   "off": 1522,
   "len": 36,
   "text": "To acquire {PAL:5}Magic{PAL:7}, you must fight",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7}을 얻으려면, 세루 적과"
  },
  {
   "map": 33,
@@ -2940,7 +2940,7 @@
   "off": 1560,
   "len": 29,
   "text": "a Seru opponent. Seru can be ",
-  "ko": ""
+  "ko": "싸워야 한다. 세루는"
  },
  {
   "map": 33,
@@ -2949,7 +2949,7 @@
   "off": 1591,
   "len": 26,
   "text": "identified by their name, ",
-  "ko": ""
+  "ko": "이름으로 구별할 수 있는데,"
  },
  {
   "map": 33,
@@ -2958,7 +2958,7 @@
   "off": 1619,
   "len": 20,
   "text": "such as Fire Gimard.",
-  "ko": ""
+  "ko": "예로 파이어 기마드."
  },
  {
   "map": 33,
@@ -2967,7 +2967,7 @@
   "off": 1641,
   "len": 27,
   "text": "The name also tells you the",
-  "ko": ""
+  "ko": "이름은 속성도 알려준다."
  },
  {
   "map": 33,
@@ -2976,7 +2976,7 @@
   "off": 1670,
   "len": 26,
   "text": "element. Fire Seru possess",
-  "ko": ""
+  "ko": "불 세루는 불 속성을"
  },
  {
   "map": 33,
@@ -2985,7 +2985,7 @@
   "off": 1698,
   "len": 28,
   "text": "the Fire element, and so on.",
-  "ko": ""
+  "ko": "지닌다, 그런 식이다."
  },
  {
   "map": 33,
@@ -2994,7 +2994,7 @@
   "off": 1728,
   "len": 33,
   "text": "Seru opponents appear only in the",
-  "ko": ""
+  "ko": "세루 적은 안개 속에서만"
  },
  {
   "map": 33,
@@ -3003,7 +3003,7 @@
   "off": 1763,
   "len": 26,
   "text": "Mist and never in a field.",
-  "ko": ""
+  "ko": "나오고 들판엔 없다."
  },
  {
   "map": 33,
@@ -3012,7 +3012,7 @@
   "off": 1791,
   "len": 31,
   "text": "If you fight a Seru but fail to",
-  "ko": ""
+  "ko": "세루와 싸웠는데"
  },
  {
   "map": 33,
@@ -3021,7 +3021,7 @@
   "off": 1824,
   "len": 31,
   "text": "get its {PAL:5}Magic{PAL:7}, try fighting",
-  "ko": ""
+  "ko": "{PAL:5}마법{PAL:7}을 못 얻었다면,"
  },
  {
   "map": 33,
@@ -3030,7 +3030,7 @@
   "off": 1857,
   "len": 31,
   "text": "that Seru in another Mist area.",
-  "ko": ""
+  "ko": "다른 안개 지역에서 다시 싸워라."
  },
  {
   "map": 33,
@@ -3039,7 +3039,7 @@
   "off": 1917,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3048,7 +3048,7 @@
   "off": 1936,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3057,7 +3057,7 @@
   "off": 1971,
   "len": 33,
   "text": "it reads, \"Secrets of {PAL:5}Magic{PAL:7}.\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3066,7 +3066,7 @@
   "off": 2016,
   "len": 35,
   "text": "I don't need to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3075,7 +3075,7 @@
   "off": 2053,
   "len": 22,
   "text": "Read \"About {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7}이란\" 읽기"
  },
  {
   "map": 33,
@@ -3084,7 +3084,7 @@
   "off": 2077,
   "len": 25,
   "text": "Read \"Learning {PAL:5}Magic{PAL:7}\"",
-  "ko": ""
+  "ko": "\"{PAL:5}마법{PAL:7} 익히기\" 읽기"
  },
  {
   "map": 33,
@@ -3093,7 +3093,7 @@
   "off": 2104,
   "len": 33,
   "text": "Read \"Identifying Seru Opponents\"",
-  "ko": ""
+  "ko": "\"세루 적 식별\" 읽기"
  },
  {
   "map": 33,
@@ -3102,7 +3102,7 @@
   "off": 21,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3111,7 +3111,7 @@
   "off": 40,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3120,7 +3120,7 @@
   "off": 75,
   "len": 35,
   "text": "it reads, \"Secrets of Accessories.\"",
-  "ko": ""
+  "ko": "\"액세서리의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3129,7 +3129,7 @@
   "off": 120,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3138,7 +3138,7 @@
   "off": 157,
   "len": 24,
   "text": "Read \"About Accessories\"",
-  "ko": ""
+  "ko": "\"액세서리란\" 읽기"
  },
  {
   "map": 33,
@@ -3147,7 +3147,7 @@
   "off": 183,
   "len": 22,
   "text": "Read \"Where to Obtain\"",
-  "ko": ""
+  "ko": "\"입수처\" 읽기"
  },
  {
   "map": 33,
@@ -3156,7 +3156,7 @@
   "off": 217,
   "len": 34,
   "text": "In addition to weapons and armor, ",
-  "ko": ""
+  "ko": "무기와 방어구 외에,"
  },
  {
   "map": 33,
@@ -3165,7 +3165,7 @@
   "off": 253,
   "len": 31,
   "text": "each character can wear up to 3",
-  "ko": ""
+  "ko": "각 캐릭터는 액세서리를"
  },
  {
   "map": 33,
@@ -3174,7 +3174,7 @@
   "off": 286,
   "len": 32,
   "text": "accessories. Accessories provide",
-  "ko": ""
+  "ko": "3개까지 낄 수 있다. 액세서리는"
  },
  {
   "map": 33,
@@ -3183,7 +3183,7 @@
   "off": 320,
   "len": 29,
   "text": "skills useful in fighting and",
-  "ko": ""
+  "ko": "전투와 여행에 유용한"
  },
  {
   "map": 33,
@@ -3192,7 +3192,7 @@
   "off": 351,
   "len": 32,
   "text": "traveling.  There are two kinds ",
-  "ko": ""
+  "ko": "스킬을 준다. 스킬엔 두"
  },
  {
   "map": 33,
@@ -3201,7 +3201,7 @@
   "off": 385,
   "len": 30,
   "text": "of skills: Individual Skills, ",
-  "ko": ""
+  "ko": "종류가 있는데: 개인 스킬은,"
  },
  {
   "map": 33,
@@ -3210,7 +3210,7 @@
   "off": 417,
   "len": 33,
   "text": "effective only for the character ",
-  "ko": ""
+  "ko": "지닌 캐릭터에게만"
  },
  {
   "map": 33,
@@ -3219,7 +3219,7 @@
   "off": 452,
   "len": 28,
   "text": "possessing them, and Shared ",
-  "ko": ""
+  "ko": "효과가 있고, 공유"
  },
  {
   "map": 33,
@@ -3228,7 +3228,7 @@
   "off": 482,
   "len": 31,
   "text": "Skills, effective for everyone!",
-  "ko": ""
+  "ko": "스킬은 모두에게 효과가 있다!"
  },
  {
   "map": 33,
@@ -3237,7 +3237,7 @@
   "off": 515,
   "len": 34,
   "text": "Each are listed in the Item menu, ",
-  "ko": ""
+  "ko": "각각 아이템 메뉴에,"
  },
  {
   "map": 33,
@@ -3246,7 +3246,7 @@
   "off": 551,
   "len": 28,
   "text": "under \"I\" for Individual and",
-  "ko": ""
+  "ko": "개인은 \"I\", 전체는"
  },
  {
   "map": 33,
@@ -3255,7 +3255,7 @@
   "off": 581,
   "len": 13,
   "text": "\"A\" for All. ",
-  "ko": ""
+  "ko": "\"A\" 표시된다."
  },
  {
   "map": 33,
@@ -3264,7 +3264,7 @@
   "off": 623,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3273,7 +3273,7 @@
   "off": 642,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3282,7 +3282,7 @@
   "off": 677,
   "len": 35,
   "text": "it reads, \"Secrets of Accessories.\"",
-  "ko": ""
+  "ko": "\"액세서리의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3291,7 +3291,7 @@
   "off": 722,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3300,7 +3300,7 @@
   "off": 759,
   "len": 24,
   "text": "Read \"About Accessories\"",
-  "ko": ""
+  "ko": "\"액세서리란\" 읽기"
  },
  {
   "map": 33,
@@ -3309,7 +3309,7 @@
   "off": 785,
   "len": 22,
   "text": "Read \"Where to Obtain\"",
-  "ko": ""
+  "ko": "\"입수처\" 읽기"
  },
  {
   "map": 33,
@@ -3318,7 +3318,7 @@
   "off": 819,
   "len": 35,
   "text": "Many accessories are sold at shops,",
-  "ko": ""
+  "ko": "액세서리는 대개 가게에서 팔지만,"
  },
  {
   "map": 33,
@@ -3327,7 +3327,7 @@
   "off": 856,
   "len": 31,
   "text": "but some can be very expensive,",
-  "ko": ""
+  "ko": "아주 비싼 것도 있으니,"
  },
  {
   "map": 33,
@@ -3336,7 +3336,7 @@
   "off": 889,
   "len": 17,
   "text": "so choose wisely.",
-  "ko": ""
+  "ko": "잘 골라라."
  },
  {
   "map": 33,
@@ -3345,7 +3345,7 @@
   "off": 908,
   "len": 35,
   "text": "There are also accessories that are",
-  "ko": ""
+  "ko": "어느 가게에서도 팔지 않는"
  },
  {
   "map": 33,
@@ -3354,7 +3354,7 @@
   "off": 945,
   "len": 35,
   "text": "not sold in any shops. These hidden",
-  "ko": ""
+  "ko": "액세서리도 있다. 이 숨겨진"
  },
  {
   "map": 33,
@@ -3363,7 +3363,7 @@
   "off": 982,
   "len": 26,
   "text": "accessories grant powerful",
-  "ko": ""
+  "ko": "액세서리는 강력한 스킬을"
  },
  {
   "map": 33,
@@ -3372,7 +3372,7 @@
   "off": 1010,
   "len": 30,
   "text": "skills and can be found in the",
-  "ko": ""
+  "ko": "주며, 뜻밖의 적의 손에"
  },
  {
   "map": 33,
@@ -3381,7 +3381,7 @@
   "off": 1042,
   "len": 30,
   "text": "hands of unlikely opponents or",
-  "ko": ""
+  "ko": "있거나"
  },
  {
   "map": 33,
@@ -3390,7 +3390,7 @@
   "off": 1074,
   "len": 30,
   "text": "in treasure chests deep inside",
-  "ko": ""
+  "ko": "던전 깊숙한 보물 상자"
  },
  {
   "map": 33,
@@ -3399,7 +3399,7 @@
   "off": 1106,
   "len": 27,
   "text": "a dungeon. It's your job to",
-  "ko": ""
+  "ko": "안에 있다. 그것을 찾는 건"
  },
  {
   "map": 33,
@@ -3408,7 +3408,7 @@
   "off": 1135,
   "len": 17,
   "text": "search them out! ",
-  "ko": ""
+  "ko": "네 몫이다!"
  },
  {
   "map": 33,
@@ -3417,7 +3417,7 @@
   "off": 1181,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3426,7 +3426,7 @@
   "off": 1200,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3435,7 +3435,7 @@
   "off": 1235,
   "len": 35,
   "text": "it reads, \"Secrets of Accessories.\"",
-  "ko": ""
+  "ko": "\"액세서리의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3444,7 +3444,7 @@
   "off": 1280,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3453,7 +3453,7 @@
   "off": 1317,
   "len": 24,
   "text": "Read \"About Accessories\"",
-  "ko": ""
+  "ko": "\"액세서리란\" 읽기"
  },
  {
   "map": 33,
@@ -3462,7 +3462,7 @@
   "off": 1343,
   "len": 22,
   "text": "Read \"Where to Obtain\"",
-  "ko": ""
+  "ko": "\"입수처\" 읽기"
  },
  {
   "map": 33,
@@ -3471,7 +3471,7 @@
   "off": 21,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3480,7 +3480,7 @@
   "off": 40,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3489,7 +3489,7 @@
   "off": 75,
   "len": 32,
   "text": "it reads, \"Secrets of Fighting.\"",
-  "ko": ""
+  "ko": "\"전투의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3498,7 +3498,7 @@
   "off": 119,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3507,7 +3507,7 @@
   "off": 156,
   "len": 31,
   "text": "Read \"Attack Power & Equipment\"",
-  "ko": ""
+  "ko": "\"공격력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -3516,7 +3516,7 @@
   "off": 189,
   "len": 32,
   "text": "Read \"Defense Power & Equipment\"",
-  "ko": ""
+  "ko": "\"방어력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -3525,7 +3525,7 @@
   "off": 223,
   "len": 22,
   "text": "Read \"Abnormal Status\"",
-  "ko": ""
+  "ko": "\"상태 이상\" 읽기"
  },
  {
   "map": 33,
@@ -3534,7 +3534,7 @@
   "off": 257,
   "len": 28,
   "text": "Attack Power [ATK] increases",
-  "ko": ""
+  "ko": "공격력[ATK]은 무기와"
  },
  {
   "map": 33,
@@ -3543,7 +3543,7 @@
   "off": 287,
   "len": 36,
   "text": "according to your weapons and armor.",
-  "ko": ""
+  "ko": "방어구에 따라 오른다."
  },
  {
   "map": 33,
@@ -3552,7 +3552,7 @@
   "off": 325,
   "len": 31,
   "text": "Attack Power is displayed under",
-  "ko": ""
+  "ko": "공격력은 상태 화면에"
  },
  {
   "map": 33,
@@ -3561,7 +3561,7 @@
   "off": 358,
   "len": 25,
   "text": "Status and determines the",
-  "ko": ""
+  "ko": "표시되며,"
  },
  {
   "map": 33,
@@ -3570,7 +3570,7 @@
   "off": 385,
   "len": 26,
   "text": "effectiveness of {PAL:9}Arts{PAL:7}.",
-  "ko": ""
+  "ko": "{PAL:9}아츠{PAL:7} 위력을 좌우한다."
  },
  {
   "map": 33,
@@ -3579,7 +3579,7 @@
   "off": 413,
   "len": 27,
   "text": "Attack Power is the sum of:",
-  "ko": ""
+  "ko": "공격력은 다음의 합이다:"
  },
  {
   "map": 33,
@@ -3588,7 +3588,7 @@
   "off": 442,
   "len": 32,
   "text": "character attack power, Ra-Seru ",
-  "ko": ""
+  "ko": "캐릭터 공격력, 라세루"
  },
  {
   "map": 33,
@@ -3597,7 +3597,7 @@
   "off": 476,
   "len": 30,
   "text": "attack power, total equipment ",
-  "ko": ""
+  "ko": "공격력, 전체 장비"
  },
  {
   "map": 33,
@@ -3606,7 +3606,7 @@
   "off": 508,
   "len": 35,
   "text": "attack power, and accessory attack ",
-  "ko": ""
+  "ko": "공격력, 액세서리 공격력."
  },
  {
   "map": 33,
@@ -3615,7 +3615,7 @@
   "off": 545,
   "len": 29,
   "text": "power.  Ra-Seru attack power ",
-  "ko": ""
+  "ko": "라세루 공격력은"
  },
  {
   "map": 33,
@@ -3624,7 +3624,7 @@
   "off": 576,
   "len": 33,
   "text": "increases when a Genesis Tree is ",
-  "ko": ""
+  "ko": "창세수가 부활하면"
  },
  {
   "map": 33,
@@ -3633,7 +3633,7 @@
   "off": 611,
   "len": 8,
   "text": "revived.",
-  "ko": ""
+  "ko": "오른다."
  },
  {
   "map": 33,
@@ -3642,7 +3642,7 @@
   "off": 648,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3651,7 +3651,7 @@
   "off": 667,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3660,7 +3660,7 @@
   "off": 702,
   "len": 32,
   "text": "it reads, \"Secrets of Fighting.\"",
-  "ko": ""
+  "ko": "\"전투의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3669,7 +3669,7 @@
   "off": 746,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3678,7 +3678,7 @@
   "off": 783,
   "len": 31,
   "text": "Read \"Attack Power & Equipment\"",
-  "ko": ""
+  "ko": "\"공격력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -3687,7 +3687,7 @@
   "off": 816,
   "len": 32,
   "text": "Read \"Defense Power & Equipment\"",
-  "ko": ""
+  "ko": "\"방어력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -3696,7 +3696,7 @@
   "off": 850,
   "len": 22,
   "text": "Read \"Abnormal Status\"",
-  "ko": ""
+  "ko": "\"상태 이상\" 읽기"
  },
  {
   "map": 33,
@@ -3705,7 +3705,7 @@
   "off": 884,
   "len": 32,
   "text": "There are two types of defense: ",
-  "ko": ""
+  "ko": "방어에는 두 종류가 있다:"
  },
  {
   "map": 33,
@@ -3714,7 +3714,7 @@
   "off": 918,
   "len": 28,
   "text": "Upper-body defense [UDF] and",
-  "ko": ""
+  "ko": "상체 방어[UDF]와"
  },
  {
   "map": 33,
@@ -3723,7 +3723,7 @@
   "off": 948,
   "len": 27,
   "text": "Lower-body defense [LDF].  ",
-  "ko": ""
+  "ko": "하체 방어[LDF]."
  },
  {
   "map": 33,
@@ -3732,7 +3732,7 @@
   "off": 977,
   "len": 29,
   "text": "Upper-body defense is the sum",
-  "ko": ""
+  "ko": "상체 방어는 캐릭터의"
  },
  {
   "map": 33,
@@ -3741,7 +3741,7 @@
   "off": 1008,
   "len": 27,
   "text": "of a character's defensive ",
-  "ko": ""
+  "ko": "방어력과"
  },
  {
   "map": 33,
@@ -3750,7 +3750,7 @@
   "off": 1037,
   "len": 30,
   "text": "power and the defensive power ",
-  "ko": ""
+  "ko": "머리와 몸통 장비의"
  },
  {
   "map": 33,
@@ -3759,7 +3759,7 @@
   "off": 1069,
   "len": 35,
   "text": "of head and body gear.  Lower-body ",
-  "ko": ""
+  "ko": "방어력의 합이다. 하체"
  },
  {
   "map": 33,
@@ -3768,7 +3768,7 @@
   "off": 1106,
   "len": 24,
   "text": "defense is the sum of a ",
-  "ko": ""
+  "ko": "방어는 캐릭터의"
  },
  {
   "map": 33,
@@ -3777,7 +3777,7 @@
   "off": 1132,
   "len": 36,
   "text": "character's defensive power and the ",
-  "ko": ""
+  "ko": "방어력과 몸통, 다리"
  },
  {
   "map": 33,
@@ -3786,7 +3786,7 @@
   "off": 1170,
   "len": 32,
   "text": "defensive power of body and leg ",
-  "ko": ""
+  "ko": "장비의 방어력의"
  },
  {
   "map": 33,
@@ -3795,7 +3795,7 @@
   "off": 1204,
   "len": 5,
   "text": "gear.",
-  "ko": ""
+  "ko": "합."
  },
  {
   "map": 33,
@@ -3804,7 +3804,7 @@
   "off": 1238,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3813,7 +3813,7 @@
   "off": 1257,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3822,7 +3822,7 @@
   "off": 1292,
   "len": 32,
   "text": "it reads, \"Secrets of Fighting.\"",
-  "ko": ""
+  "ko": "\"전투의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3831,7 +3831,7 @@
   "off": 1336,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -3840,7 +3840,7 @@
   "off": 1373,
   "len": 31,
   "text": "Read \"Attack Power & Equipment\"",
-  "ko": ""
+  "ko": "\"공격력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -3849,7 +3849,7 @@
   "off": 1406,
   "len": 32,
   "text": "Read \"Defense Power & Equipment\"",
-  "ko": ""
+  "ko": "\"방어력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -3858,7 +3858,7 @@
   "off": 1440,
   "len": 22,
   "text": "Read \"Abnormal Status\"",
-  "ko": ""
+  "ko": "\"상태 이상\" 읽기"
  },
  {
   "map": 33,
@@ -3867,7 +3867,7 @@
   "off": 1474,
   "len": 33,
   "text": "Venom: Attack and defense powers ",
-  "ko": ""
+  "ko": "중독: HP가 서서히 줄며"
  },
  {
   "map": 33,
@@ -3876,7 +3876,7 @@
   "off": 1509,
   "len": 31,
   "text": "decline as HP gradually falls. ",
-  "ko": ""
+  "ko": "공격력과 방어력이 준다."
  },
  {
   "map": 33,
@@ -3885,7 +3885,7 @@
   "off": 1542,
   "len": 33,
   "text": "Toxic: More dangerous than Venom.",
-  "ko": ""
+  "ko": "맹독: 중독보다 위험하다."
  },
  {
   "map": 33,
@@ -3894,7 +3894,7 @@
   "off": 1577,
   "len": 28,
   "text": "Numb: Temporarily unable to ",
-  "ko": ""
+  "ko": "마비: 일시적으로 움직일 수"
  },
  {
   "map": 33,
@@ -3903,7 +3903,7 @@
   "off": 1607,
   "len": 5,
   "text": "move.",
-  "ko": ""
+  "ko": "없다."
  },
  {
   "map": 33,
@@ -3912,7 +3912,7 @@
   "off": 1614,
   "len": 25,
   "text": "Rot: Affected body parts ",
-  "ko": ""
+  "ko": "부식: 해당 부위를"
  },
  {
   "map": 33,
@@ -3921,7 +3921,7 @@
   "off": 1641,
   "len": 24,
   "text": "can't be used in battle.",
-  "ko": ""
+  "ko": "전투에서 못 쓴다."
  },
  {
   "map": 33,
@@ -3930,7 +3930,7 @@
   "off": 1667,
   "len": 30,
   "text": "Curse: Disables {PAL:5}Magic{PAL:7} and ",
-  "ko": ""
+  "ko": "저주: {PAL:5}마법{PAL:7}을 막고"
  },
  {
   "map": 33,
@@ -3939,7 +3939,7 @@
   "off": 1699,
   "len": 27,
   "text": "are vulnerable to attacks. ",
-  "ko": ""
+  "ko": "공격에 취약해진다."
  },
  {
   "map": 33,
@@ -3948,7 +3948,7 @@
   "off": 1728,
   "len": 33,
   "text": "Stone: Unable to move.  Must use ",
-  "ko": ""
+  "ko": "석화: 움직일 수 없다. 회복엔"
  },
  {
   "map": 33,
@@ -3957,7 +3957,7 @@
   "off": 1763,
   "len": 20,
   "text": "Medicine to recover.",
-  "ko": ""
+  "ko": "약이 필요하다."
  },
  {
   "map": 33,
@@ -3966,7 +3966,7 @@
   "off": 1812,
   "len": 17,
   "text": "Mysterious Statue",
-  "ko": ""
+  "ko": "신비한 석상"
  },
  {
   "map": 33,
@@ -3975,7 +3975,7 @@
   "off": 1831,
   "len": 33,
   "text": "In strange script on the pedestal",
-  "ko": ""
+  "ko": "받침대에 낯선 문자로"
  },
  {
   "map": 33,
@@ -3984,7 +3984,7 @@
   "off": 1866,
   "len": 32,
   "text": "it reads, \"Secrets of Fighting.\"",
-  "ko": ""
+  "ko": "\"전투의 비밀\"이라 적혀 있다."
  },
  {
   "map": 33,
@@ -3993,7 +3993,7 @@
   "off": 1910,
   "len": 35,
   "text": "I don't want to read any part of it",
-  "ko": ""
+  "ko": "읽지 않겠다"
  },
  {
   "map": 33,
@@ -4002,7 +4002,7 @@
   "off": 1947,
   "len": 31,
   "text": "Read \"Attack Power & Equipment\"",
-  "ko": ""
+  "ko": "\"공격력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -4011,7 +4011,7 @@
   "off": 1980,
   "len": 32,
   "text": "Read \"Defense Power & Equipment\"",
-  "ko": ""
+  "ko": "\"방어력과 장비\" 읽기"
  },
  {
   "map": 33,
@@ -4020,7 +4020,7 @@
   "off": 2014,
   "len": 22,
   "text": "Read \"Abnormal Status\"",
-  "ko": ""
+  "ko": "\"상태 이상\" 읽기"
  },
  {
   "map": 33,
@@ -4038,7 +4038,7 @@
   "off": 65,
   "len": 23,
   "text": "in the treasure chest! ",
-  "ko": ""
+  "ko": "상자에 들어 있다!"
  },
  {
   "map": 33,
@@ -4074,7 +4074,7 @@
   "off": 232,
   "len": 7,
   "text": "Oh, {NAME}!",
-  "ko": ""
+  "ko": "어, {NAME}!"
  },
  {
   "map": 33,
@@ -4083,7 +4083,7 @@
   "off": 241,
   "len": 18,
   "text": "I'm glad you came.",
-  "ko": ""
+  "ko": "와줘서 반가워."
  },
  {
   "map": 33,
@@ -4092,7 +4092,7 @@
   "off": 359,
   "len": 23,
   "text": "I'm impressed! You made",
-  "ko": ""
+  "ko": "대단한걸! 혼자서"
  },
  {
   "map": 33,
@@ -4101,7 +4101,7 @@
   "off": 384,
   "len": 24,
   "text": "it here all by yourself?",
-  "ko": ""
+  "ko": "여기까지 온 거야?"
  },
  {
   "map": 33,
@@ -4110,7 +4110,7 @@
   "off": 533,
   "len": 11,
   "text": "Ha, ha, ha!",
-  "ko": ""
+  "ko": "하하하!"
  },
  {
   "map": 33,
@@ -4119,7 +4119,7 @@
   "off": 546,
   "len": 20,
   "text": "You're so confident!",
-  "ko": ""
+  "ko": "자신만만하구나!"
  },
  {
   "map": 33,
@@ -4128,7 +4128,7 @@
   "off": 569,
   "len": 21,
   "text": "You are a lot hardier",
-  "ko": ""
+  "ko": "우리 사냥꾼보다"
  },
  {
   "map": 33,
@@ -4137,7 +4137,7 @@
   "off": 592,
   "len": 16,
   "text": "than us hunters.",
-  "ko": ""
+  "ko": "훨씬 강인해."
  },
  {
   "map": 33,
@@ -4146,7 +4146,7 @@
   "off": 614,
   "len": 23,
   "text": "Oh, so the Ra-Seru Meta",
-  "ko": ""
+  "ko": "오, 라세루 메타가"
  },
  {
   "map": 33,
@@ -4155,7 +4155,7 @@
   "off": 639,
   "len": 16,
   "text": "is with you, eh?",
-  "ko": ""
+  "ko": "너랑 함께구나?"
  },
  {
   "map": 33,
@@ -4164,7 +4164,7 @@
   "off": 658,
   "len": 19,
   "text": "{NAME}, you've grown up",
-  "ko": ""
+  "ko": "{NAME}, 넌 참 훌륭한"
  },
  {
   "map": 33,
@@ -4173,7 +4173,7 @@
   "off": 679,
   "len": 18,
   "text": "into a fine adult!",
-  "ko": ""
+  "ko": "어른이 됐어!"
  },
  {
   "map": 33,
@@ -4182,7 +4182,7 @@
   "off": 712,
   "len": 15,
   "text": "By the way, {NAME},",
-  "ko": ""
+  "ko": "그런데, {NAME},"
  },
  {
   "map": 33,
@@ -4191,7 +4191,7 @@
   "off": 729,
   "len": 12,
   "text": "see that guy",
-  "ko": ""
+  "ko": "저기 저 사람"
  },
  {
   "map": 33,
@@ -4200,7 +4200,7 @@
   "off": 743,
   "len": 11,
   "text": "over there?",
-  "ko": ""
+  "ko": "보이지?"
  },
  {
   "map": 33,
@@ -4209,7 +4209,7 @@
   "off": 836,
   "len": 29,
   "text": "Don't know him? Well, we come",
-  "ko": ""
+  "ko": "몰라? 우린 여기 자주"
  },
  {
   "map": 33,
@@ -4218,7 +4218,7 @@
   "off": 867,
   "len": 33,
   "text": "here often, but this is the first",
-  "ko": ""
+  "ko": "오는데, 여기서 남을"
  },
  {
   "map": 33,
@@ -4227,7 +4227,7 @@
   "off": 902,
   "len": 33,
   "text": "time we've met someone else here!",
-  "ko": ""
+  "ko": "만난 건 처음이야!"
  },
  {
   "map": 33,
@@ -4236,7 +4236,7 @@
   "off": 950,
   "len": 32,
   "text": "He says his name's Lezam, and he",
-  "ko": ""
+  "ko": "레잠이라는데, 정말"
  },
  {
   "map": 33,
@@ -4245,7 +4245,7 @@
   "off": 984,
   "len": 31,
   "text": "was telling us the most amazing",
-  "ko": ""
+  "ko": "놀라운 얘기를"
  },
  {
   "map": 33,
@@ -4254,7 +4254,7 @@
   "off": 1017,
   "len": 6,
   "text": "story.",
-  "ko": ""
+  "ko": "해줬어"
  },
  {
   "map": 33,
@@ -4263,7 +4263,7 @@
   "off": 1212,
   "len": 22,
   "text": "{NAME}, you should talk to",
-  "ko": ""
+  "ko": "{NAME}, 레잠한테도"
  },
  {
   "map": 33,
@@ -4272,6 +4272,6 @@
   "off": 1236,
   "len": 11,
   "text": "Lezam, too.",
-  "ko": ""
+  "ko": "말 걸어봐."
  }
 ]

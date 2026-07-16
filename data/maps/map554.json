@@ -60,7 +60,7 @@
   "off": 156,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 554,
@@ -78,7 +78,7 @@
   "off": 207,
   "len": 26,
   "text": "Do you wish to set a flag?",
-  "ko": ""
+  "ko": "깃발을 설정할까요?"
  },
  {
   "map": 554,
@@ -87,7 +87,7 @@
   "off": 244,
   "len": 6,
   "text": "=Exit=",
-  "ko": ""
+  "ko": "=끝="
  },
  {
   "map": 554,
@@ -123,7 +123,7 @@
   "off": 362,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 554,
@@ -1437,7 +1437,7 @@
   "off": 66,
   "len": 13,
   "text": "There is a {ITEM:80}",
-  "ko": ""
+  "ko": "{ITEM:80}이(가)"
  },
  {
   "map": 554,
@@ -1446,7 +1446,7 @@
   "off": 81,
   "len": 22,
   "text": "in the treasure chest!",
-  "ko": ""
+  "ko": "상자에 들어 있었다!"
  },
  {
   "map": 554,
@@ -1455,7 +1455,7 @@
   "off": 111,
   "len": 10,
   "text": "{NAME:63} now has",
-  "ko": ""
+  "ko": "{NAME:63}이(가)"
  },
  {
   "map": 554,
@@ -1464,7 +1464,7 @@
   "off": 123,
   "len": 7,
   "text": "the {ITEM:80}!",
-  "ko": ""
+  "ko": "{ITEM:80}!"
  },
  {
   "map": 554,
@@ -1473,7 +1473,7 @@
   "off": 145,
   "len": 28,
   "text": "The treasure chest is empty!",
-  "ko": ""
+  "ko": "상자는 비어 있다!"
  },
  {
   "map": 554,
@@ -2409,7 +2409,7 @@
   "off": 624,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 554,
@@ -2427,7 +2427,7 @@
   "off": 649,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 554,

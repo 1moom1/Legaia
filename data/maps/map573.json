@@ -1383,7 +1383,7 @@
   "off": 797,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 573,
@@ -1392,7 +1392,7 @@
   "off": 809,
   "len": 7,
   "text": "the {ITEM:E5}!",
-  "ko": ""
+  "ko": "{ITEM:E5}!"
  },
  {
   "map": 573,

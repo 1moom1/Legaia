@@ -492,7 +492,7 @@
   "off": 379,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 564,
@@ -501,7 +501,7 @@
   "off": 391,
   "len": 7,
   "text": "the {ITEM:D1}!",
-  "ko": ""
+  "ko": "{ITEM:D1}!"
  },
  {
   "map": 564,
@@ -978,7 +978,7 @@
   "off": 325,
   "len": 9,
   "text": "(Silence)",
-  "ko": ""
+  "ko": "(침묵)"
  },
  {
   "map": 564,
@@ -2400,7 +2400,7 @@
   "off": 81,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 564,
@@ -2418,7 +2418,7 @@
   "off": 145,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 564,
@@ -2436,7 +2436,7 @@
   "off": 202,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 564,
@@ -2454,7 +2454,7 @@
   "off": 267,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 564,
@@ -2472,7 +2472,7 @@
   "off": 327,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 564,

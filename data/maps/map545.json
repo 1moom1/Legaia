@@ -2913,7 +2913,7 @@
   "off": 68,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 545,
@@ -2931,7 +2931,7 @@
   "off": 132,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 545,
@@ -2949,7 +2949,7 @@
   "off": 196,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 545,
@@ -2967,7 +2967,7 @@
   "off": 253,
   "len": 16,
   "text": "End flag setting",
-  "ko": ""
+  "ko": "깃발 설정 끝"
  },
  {
   "map": 545,
@@ -3327,7 +3327,7 @@
   "off": 1162,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 545,
@@ -3336,7 +3336,7 @@
   "off": 1174,
   "len": 7,
   "text": "the {ITEM:CD}!",
-  "ko": ""
+  "ko": "{ITEM:CD}!"
  },
  {
   "map": 545,
@@ -3561,7 +3561,7 @@
   "off": 526,
   "len": 10,
   "text": "{NAME} now has",
-  "ko": ""
+  "ko": "{NAME}이(가)"
  },
  {
   "map": 545,
@@ -3570,7 +3570,7 @@
   "off": 538,
   "len": 7,
   "text": "the {ITEM:F7}.",
-  "ko": ""
+  "ko": "{ITEM:F7}."
  },
  {
   "map": 545,
