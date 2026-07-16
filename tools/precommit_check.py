@@ -197,6 +197,61 @@ def check_protected_intact(c):
         c.bad("protected.py 또는 assert_protected 가 없다")
 
 
+def check_gui_length_calc(c):
+    """GUI 의 길이 계산이 실제 encode 길이와 맞나.
+
+    GUI 의 char_bytes 가 페이지 전환(0xCF 0xF0|page, 2B)을 빠뜨리면,
+    번역가가 'OK' 로 본 대사가 실제 빌드에서 슬롯을 넘어 영어로 남는다.
+    매핑이 주어졌을 때는 실제 encode 와 100% 일치해야 한다.
+    """
+    print("[7] GUI 길이 계산 ↔ 실제 encode 일치")
+    tdir = os.path.join(REPO, "tools")
+    gui = os.path.join(tdir, "translator_gui.py")
+    if not os.path.exists(gui):
+        c.warning("translator_gui.py 없음 — 건너뜀")
+        return
+    sys.path.insert(0, tdir)
+    try:
+        import translate as T
+        # GUI 의 char_bytes 만 추출해 실행
+        src = _read(gui)
+        m = re.search(r"def char_bytes.*?\n    return n\n", src, re.S)
+        if not m:
+            c.warning("char_bytes 함수를 못 찾음")
+            return
+        ns = {"T": T}
+        exec(m.group(0), ns)
+        cb = ns["char_bytes"]
+        dump = os.path.join(REPO, "..", "legaia", "build", "text_dump.json")
+        if not os.path.exists(dump):
+            dump = os.path.join(REPO, "data", "text_dump.json")
+        if not os.path.exists(dump):
+            c.warning("text_dump.json 없음 — 정합성 검사 건너뜀")
+            return
+        import json
+        d = json.load(open(dump, encoding="utf-8"))
+        trans = [e for e in d if e.get("ko")]
+        if not trans:
+            c.warning("번역 데이터 없음 — 건너뜀")
+            return
+        freq = T.collect_syllables(trans)
+        mapping, _ = T.assign_pages(freq, trans)
+        mism = 0
+        for e in trans:
+            try:
+                enc, _ = T.encode(e["ko"], mapping)
+            except KeyError:
+                continue
+            if cb(e["ko"], mapping) != len(enc):
+                mism += 1
+        if mism == 0:
+            c.ok(f"매핑 기반 길이 계산 정확 ({len(trans):,}런 전수 일치)")
+        else:
+            c.bad(f"GUI 길이 계산 불일치 {mism}건 — 페이지 전환 2B 누락 의심")
+    except Exception as e:
+        c.warning(f"GUI 길이 검사 실패: {e}")
+
+
 def main():
     strict = "--strict" in sys.argv
     print("=" * 60)
@@ -209,6 +264,7 @@ def main():
     check_findings_matches_hook(c, hook7)
     check_no_stale_pending(c)
     check_protected_intact(c)
+    check_gui_length_calc(c)
     print("=" * 60)
     if c.fail:
         print(f"  {RED}🔴 실패 {c.fail}개, 경고 {c.warn}개 — 커밋 전에 고치세요{RESET}")

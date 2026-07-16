@@ -64,6 +64,14 @@ CF_WRITE = 0x80036958     # 'j LOOP' — 딜레이슬롯이 sw PAL_VAR=n. 여기
 PAGE_FLAG = 0xF0          # 페이지 전환 표시 비트
 PAGE_VAR = 0x8007AF3C     # 페이지 저장 변수 (훅 영역 끝 4B, 게임이 안 쓰는 자리)
 
+# 🔴 대사 시작 시 PAGE_VAR = 1 (p1) 로 초기화한다 (INIT_HOOK).
+#   렌더러 진입부의 's4 = 0'(글자 카운터 리셋, 대사당 1회) 자리를 가로챈다.
+#   encode 가 첫 음절 p1 이면 전환 코드를 생략하므로(대사 84%가 p1 시작),
+#   렌더러도 시작 페이지를 1 로 맞춰야 첫 글자가 올바른 페이지로 그려진다.
+#   이 초기화가 없으면 이전 대사의 마지막 페이지가 남아 첫 글자가 깨진다.
+INIT_SITE = 0x800368F4    # 'move s4, zero' (대사 렌더러 진입, 대사당 1회)
+INIT_NEXT = 0x800368FC    # 훅에서 돌아올 지점 (딜레이슬롯 0x800368F8 다음)
+
 # ★ 0xCE <n> 의 n 은 1바이트. n = HANGUL_MIN + idx 이므로
 #    페이지당 최대 칸수 = 256 - HANGUL_MIN.
 #    원래 0xCE 인자는 {02,03,0B,0E,21,80} 뿐이라 0x81 이상은 안전.
@@ -321,6 +329,18 @@ def build(tbl_addr):
     a.j(LOOP)
     a.ins(NOP())
 
+    # === INIT_HOOK: 대사 시작 시 PAGE_VAR = 1 초기화 ===
+    #   가로챈 원래 명령은 'move s4, zero' (글자 카운터 리셋).
+    #   여기에 PAGE_VAR = 1 세팅을 더해 대사 시작 페이지를 p1 으로 맞춘다.
+    #   딜레이슬롯(0x800368F8 move s2,fp)은 진입점에서 이미 실행된 뒤 온다.
+    a.label("INIT_HOOK")
+    a.ins(MOVE("s4", "zero"))                 # 원래 명령 재현
+    a.ins(LUI("t3", hi16(PAGE_VAR)))
+    a.ins(ADDIU("t2", "zero", 1))
+    a.ins(SH("t2", lo16(PAGE_VAR), "t3"))     # PAGE_VAR = 1 (p1)
+    a.j(INIT_NEXT)
+    a.ins(NOP())
+
     return a
 
 
@@ -366,8 +386,14 @@ def patch_exe(exe_bytes, index_bytes):
     cf_hook = a._resolve_positions()["CF_HOOK"]
     exe[r2f(CF_WRITE):r2f(CF_WRITE) + 4] = J(cf_hook)
 
-    # PAGE_VAR 초기값 0 (첫 글자가 페이지 전환 없이 오면 page 0 = 안전)
-    exe[r2f(PAGE_VAR):r2f(PAGE_VAR) + 4] = b"\x00\x00\x00\x00"
+    # 🔴 대사 시작 시 PAGE_VAR=1 초기화를 위해 INIT_SITE 를 INIT_HOOK 으로.
+    #   원본 0x800368F4 'move s4,zero' → 'j INIT_HOOK'.
+    #   딜레이슬롯(0x800368F8 move s2,fp)은 그대로 실행된 뒤 진입.
+    init_hook = a._resolve_positions()["INIT_HOOK"]
+    exe[r2f(INIT_SITE):r2f(INIT_SITE) + 4] = J(init_hook)
+
+    # PAGE_VAR 초기값 1 (p1). 첫 대사 렌더 전에도 안전하게 p1 을 가리킨다.
+    exe[r2f(PAGE_VAR):r2f(PAGE_VAR) + 4] = b"\x01\x00\x00\x00"
 
     for c in index_bytes:
         exe[WIDTH_TBL + c] = WIDTH

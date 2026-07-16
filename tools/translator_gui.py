@@ -31,8 +31,40 @@ import project_store as PS     # noqa: E402
 CAP = sum(hook7.capacity().values())
 
 
-def char_bytes(ko):
-    return sum(2 if k == "h" else 1 for k, _ in T.tokenize(ko))
+def char_bytes(ko, mapping=None):
+    """번역문의 실제 게임 바이트 길이.
+
+    🔴 페이지 전환 코드(0xCF 0xF0|page, 2B)를 반드시 포함해야 한다.
+       빠뜨리면 GUI 에선 '길이 OK' 인데 실제 빌드에서 슬롯을 넘어
+       그 대사가 통째로 영어로 남는다 (실제로 겪음).
+
+    mapping 이 있으면 실제 encode 로 정확히 잰다.
+    없으면(편집 중 등) 보수적으로 추정한다:
+      - 음절 2B + 나머지 1B 에 더해,
+      - 한글이 하나라도 있으면 페이지 전환 2B 를 최소 1회 더한다.
+      (음절이 여러 페이지에 흩어지면 전환이 더 늘 수 있으므로 이는 하한.)
+    """
+    if mapping is not None:
+        try:
+            enc, _ = T.encode(ko, mapping)
+            return len(enc)
+        except KeyError:
+            pass  # 아직 폰트에 없는 음절 — 추정으로 폴백
+    toks = list(T.tokenize(ko))
+    n = sum(2 if k == "h" else 1 for k, _ in toks)
+    # 페이지 전환(0xCF 0xF0|page, 2B) 추정.
+    #   음절이 서로 다른 페이지에 흩어질수록 전환이 는다. 매핑 없이는
+    #   정확히 알 수 없으므로, '한글 블록'이 나올 때마다 전환 1회로 잡는다
+    #   (비한글로 끊긴 뒤 다시 한글이 오면 페이지가 바뀔 수 있으므로).
+    #   이는 하한 근사이지만, 매핑 경로가 있을 땐 그쪽이 정확하다.
+    blocks = 0
+    prev_h = False
+    for k, _ in toks:
+        if k == "h" and not prev_h:
+            blocks += 1
+        prev_h = (k == "h")
+    n += 2 * blocks
+    return n
 
 
 def macro_pattern(text):
@@ -70,6 +102,7 @@ class App(tk.Tk):
         self.title("레가이아 한글 번역 툴")
         self.geometry("1300x860")
         self.maps = {}            # map_id -> [runs]  (로드된 것만)
+        self.mapping = None       # 음절→(페이지,칸) 매핑 — 정확한 길이 계산용
         self.cur_map = None
         self.cur_run = None
         self.rows_data = []       # 현재 표시 중인 런 리스트
@@ -205,6 +238,10 @@ class App(tk.Tk):
         m = int(sel[0])
         self.cur_map = m
         runs = self._get_map(m)
+        # 🔴 행을 그리기 전에 매핑을 만들어야 길이가 정확하다.
+        #   매핑이 없으면 char_bytes 가 추정값(과대평가)을 써서, 실제로는
+        #   여유 있는 대사가 빨갛게(초과처럼) 보인다.
+        self._update_syl()
         self._show_rows(runs, f"맵 {m} — {len(runs)}런")
 
     def _show_rows(self, runs, title):
@@ -217,7 +254,7 @@ class App(tk.Tk):
 
     def _vals(self, e):
         ko = e.get("ko", "")
-        n = char_bytes(ko) if ko else 0
+        n = char_bytes(ko, getattr(self, "mapping", None)) if ko else 0
         # 빈출 뷰에서는 반복 횟수를 보여준다 (몇 곳에 적용되는지)
         f = getattr(self, "freq", None)
         if f and f.get(e["text"], 1) > 1:
@@ -232,7 +269,7 @@ class App(tk.Tk):
             return ()
         if not macro_ok(e["text"], ko):
             return ("badmac",)
-        if char_bytes(ko) > e["len"]:
+        if char_bytes(ko, getattr(self, "mapping", None)) > e["len"]:
             return ("over",)
         return ("done",)
 
@@ -382,7 +419,7 @@ class App(tk.Tk):
             return
         ko = self.ent.get("1.0", "end-1c")
         lim = self.cur_run["len"]
-        n = char_bytes(ko)
+        n = char_bytes(ko, getattr(self, "mapping", None))
         if n == 0:
             self.lbl_len.config(text=f"—/{lim}", foreground="#666")
         elif n > lim:
@@ -445,7 +482,7 @@ class App(tk.Tk):
                     # 매크로/길이가 맞을 때만
                     if T.macro_counts(e["text"]) != T.macro_counts(new_ko):
                         continue
-                    if char_bytes(new_ko) > e["len"]:
+                    if char_bytes(new_ko, getattr(self, "mapping", None)) > e["len"]:
                         continue
                     e["ko"] = new_ko
                     n_prop += 1
@@ -481,10 +518,35 @@ class App(tk.Tk):
                 self.rows.selection_set(nxt)
                 self.rows.see(nxt)
 
+    def _mapping_source(self, freq, trans):
+        """길이 매핑의 근거 데이터를 고른다.
+
+        실제 빌드와 같은 페이지 배치를 얻으려면 전체 번역이 필요하다.
+        build/text_dump.json 이 있으면 그 전체를 쓰고, 없으면(분할 편집만
+        하는 경우) 로드된 맵으로 폴백한다. 한 번 읽어 캐시한다.
+        """
+        cache = getattr(self, "_full_trans", None)
+        if cache is None:
+            cache = []
+            for cand in (os.path.join(HERE, "..", "build", "text_dump.json"),
+                         os.path.join(HERE, "..", "data", "text_dump.json")):
+                if os.path.exists(cand):
+                    try:
+                        alld = json.load(open(cand, encoding="utf-8"))
+                        cache = [e for e in alld if e.get("ko")]
+                    except Exception:
+                        cache = []
+                    break
+            self._full_trans = cache
+        if cache:
+            f = T.collect_syllables(cache)
+            return f, cache
+        return freq, trans
+
     def _update_syl(self):
         """음절 사용량 표시. 폰트 칸을 넘으면 '잘릴 음절'을 알려준다.
 
-        폰트는 400칸뿐이라, 넘치는 음절은 게임에 못 들어가고
+        폰트는 1,100칸이라, 넘치는 음절은 게임에 못 들어가고
         그 음절을 쓰는 대사는 **영어로 남는다**. 미리 알려줘야
         번역을 다듬어 피할 수 있다.
         """
@@ -498,6 +560,14 @@ class App(tk.Tk):
             return
         freq = T.collect_syllables(trans)
         n = len(freq)
+        # 🔴 정확한 길이 계산용 매핑을 만든다 (_vals/_tag 가 쓴다).
+        #   실제 빌드는 '전체 번역'으로 페이지를 배치한다. 로드된 맵만으로
+        #   매핑을 만들면 페이지 배치가 빌드와 달라져 길이가 어긋난다.
+        #   그래서 build/text_dump.json 전체가 있으면 그걸로 매핑을 만든다.
+        try:
+            self.mapping, _ = T.assign_pages(*self._mapping_source(freq, trans))
+        except Exception:
+            self.mapping = None
         if n > CAP:
             # 빈도가 낮은 것부터 잘린다
             order = sorted(freq.items(), key=lambda x: (-x[1], x[0]))

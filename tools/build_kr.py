@@ -69,15 +69,36 @@ def main():
         print("[2] PROT 재배치...")
         offs, sizes, total, spare = PR.plan(prot, need)
         if total > PR.PROT_SIZE:
-            print(f"    ★ 재배치해도 {total-PR.PROT_SIZE:,}B 부족합니다.")
-            print("       번역을 조금 줄이거나, 긴 번역을 짧게 다듬어야 합니다.")
-            sys.exit(1)
-        prot_new, _, _, spare = PR.rebuild(prot, need)
-        PR.verify(prot, prot_new)          # 모든 파일 내용 보존 검증
-        print(f"    ✓ 재배치 완료 (여유 {spare:,}B, 파일 1235개 내용 보존)")
-        tmp = os.path.join(HERE, "..", "build", "PROT_REALLOC.DAT")
-        open(tmp, "wb").write(prot_new)
-        prot_for_build = tmp
+            # 재배치해도 PROT 를 넘는다. 넘치는 만큼은 각 맵의 슬롯에
+            # 맞게 3패스(build_patch)가 '긴 번역부터' 자동으로 되돌린다.
+            # 그러니 여기서 멈추지 않고, need 를 슬롯 이하로 낮춰 재배치를
+            # 최대한 활용한 뒤 나머지는 3패스에 맡긴다.
+            over_b = total - PR.PROT_SIZE
+            print(f"    ⚠ 재배치해도 {over_b:,}B 부족 — 넘치는 맵은 슬롯에 맞게")
+            print(f"       번역을 자동으로 되돌립니다 (긴 것부터).")
+            # 슬롯을 넘는 need 를 슬롯 크기로 제한 → 재배치가 성공하도록
+            capped = {}
+            for m, sz in need.items():
+                slot = files[m][1] - files[m][0]
+                capped[m] = min(sz, slot)
+            offs, sizes, total, spare = PR.plan(prot, capped)
+            if total > PR.PROT_SIZE:
+                print("    ★ 슬롯 제한 후에도 부족 — 원본 배치로 진행")
+                prot_for_build = prot_in
+            else:
+                prot_new, _, _, spare = PR.rebuild(prot, capped)
+                PR.verify(prot, prot_new)
+                print(f"    ✓ 재배치 완료 (여유 {spare:,}B, 파일 1235개 내용 보존)")
+                tmp = os.path.join(HERE, "..", "build", "PROT_REALLOC.DAT")
+                open(tmp, "wb").write(prot_new)
+                prot_for_build = tmp
+        else:
+            prot_new, _, _, spare = PR.rebuild(prot, need)
+            PR.verify(prot, prot_new)          # 모든 파일 내용 보존 검증
+            print(f"    ✓ 재배치 완료 (여유 {spare:,}B, 파일 1235개 내용 보존)")
+            tmp = os.path.join(HERE, "..", "build", "PROT_REALLOC.DAT")
+            open(tmp, "wb").write(prot_new)
+            prot_for_build = tmp
     else:
         print("[2] 재배치 불필요 (슬롯 여유 충분)")
         prot_for_build = prot_in

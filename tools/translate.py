@@ -223,7 +223,7 @@ def decode(data, mapping):
     rev = {(p, i): ch for ch, (p, i) in mapping.items()}
     names = {v: k for k, v in MACRO_BYTE.items()}
     out = []
-    page = None
+    page = 1              # encode 와 동일: 렌더러가 대사 시작 시 PAGE_VAR=1 초기화
     i = 0
     while i < len(data):
         b = data[i]
@@ -231,14 +231,21 @@ def decode(data, mapping):
             n = data[i + 1]
             if n >= 0xF0:            # 우리 페이지 전환 (0xF0|page)
                 page = n & 0x0F
-            # n < 0xF0 은 원본 색 코드 — 페이지 매핑과 무관
+            else:                    # 원본 색 코드 = {PAL:n}
+                out.append(f"{{PAL:{n}}}")
             i += 2
         elif b == 0xCE and i + 1 < len(data):
-            idx = data[i + 1] - HANGUL_MIN
-            if (page, idx) not in rev:
-                out.append(f"<?{page}:{idx}>")
+            nxt = data[i + 1]
+            # 0xCE 는 음절(idx = nxt - HANGUL_MIN) 이거나 {CE:n} 매크로다.
+            # 음절 인덱스는 HANGUL_MIN(0x90) 이상 → 그보다 작으면 {CE:n} 매크로.
+            if nxt < HANGUL_MIN:
+                out.append(f"{{CE:{nxt}}}")
             else:
-                out.append(rev[(page, idx)])
+                idx = nxt - HANGUL_MIN
+                if (page, idx) not in rev:
+                    out.append(f"<?{page}:{idx}>")
+                else:
+                    out.append(rev[(page, idx)])
             i += 2
         elif b in names and i + 1 < len(data):
             prm = data[i + 1]
@@ -294,8 +301,16 @@ def check_roundtrip(entries, mapping):
     return True
 
 
-def encode(text, mapping, cur_page=None):
-    """번역문 -> 게임 바이트열. (bytes, 마지막 페이지)"""
+def encode(text, mapping, cur_page=1):
+    """번역문 -> 게임 바이트열. (bytes, 마지막 페이지)
+
+    🔴 page 초기값 = 1.
+       렌더러가 대사 시작 시 PAGE_VAR 을 1(p1)로 초기화하므로(INIT_HOOK),
+       첫 음절이 p1 이면 전환 코드(0xCF 0xF1, 2B)를 생략할 수 있다.
+       대사의 84%가 p1 로 시작하므로 이 생략이 6.8KB 를 아끼고
+       325런을 추가로 슬롯에 들어가게 한다.
+       (렌더러 초기화와 반드시 짝을 이뤄야 한다 — hook7 INIT_HOOK)
+    """
     out = bytearray()
     page = cur_page
     for kind, val in tokenize(text):
